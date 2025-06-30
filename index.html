@@ -4,24 +4,330 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🤖 AI情報ダッシュボード</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: white;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            animation: fadeInDown 1s ease-out;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            text-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            margin-bottom: 2rem;
+        }
+
+        .main-button {
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            border: none;
+            padding: 1rem 2.5rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: white;
+            border-radius: 50px;
+            cursor: pointer;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+            transition: all 0.3s ease;
+            transform: translateY(0);
+        }
+
+        .main-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0,0,0,0.3);
+            background: linear-gradient(45deg, #ff5252, #ff9800);
+        }
+
+        .cards-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.6s ease;
+        }
+
+        .cards-container.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .article-card {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .article-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3);
+            background-size: 300% 100%;
+            animation: gradient 3s ease infinite;
+        }
+
+        .article-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .article-tag {
+            display: inline-block;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .article-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            line-height: 1.4;
+        }
+
+        .article-summary {
+            opacity: 0.9;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .article-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin-bottom: 1rem;
+        }
+
+        .read-more {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-block;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        .read-more:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+            background: linear-gradient(45deg, #764ba2, #667eea);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin: 3rem 0;
+            animation: fadeInUp 1s ease-out 0.3s both;
+        }
+
+        .stat-item {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem 2rem;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .stat-number {
+            display: block;
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .stats {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .cards-container {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>🤖 AI情報ダッシュボード</h1>
-    <p>最新のAI情報をお届けします！</p>
-    
-    <button onclick="showAINews()">今日のAI記事を表示</button>
-    
-    <div id="news-area" style="margin-top: 20px; border: 1px solid #ccc; padding: 10px; display: none;">
-        <h3>📰 今日のおすすめAI記事</h3>
-        <p><strong>ChatGPTの新機能が発表</strong></p>
-        <p>OpenAIが新しい機能を発表しました。これにより...</p>
-        <a href="#">記事を読む</a>
+    <div class="container">
+        <div class="header">
+            <h1>AI情報ダッシュボード</h1>
+            <p>最新のAI技術とトレンドをわかりやすくお届けします</p>
+            <button class="main-button" onclick="showAINews()">
+                ✨ 今日のAI記事を表示 ✨
+            </button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-number" id="totalArticles">50+</span>
+                <span class="stat-label">記事数</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="todayArticles">5</span>
+                <span class="stat-label">今日の記事</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number">24h</span>
+                <span class="stat-label">更新頻度</span>
+            </div>
+        </div>
+
+        <div id="news-container" class="cards-container">
+            <!-- 記事がここに表示される -->
+        </div>
     </div>
 
     <script>
+        // サンプル記事データ
+        const sampleArticles = [
+            {
+                tag: "🚀 GPT-4",
+                title: "ChatGPT-4の革新的な新機能が発表",
+                summary: "OpenAIが発表した最新アップデートにより、ChatGPT-4はマルチモーダル機能を大幅に向上させ、画像認識と文章生成の精度が劇的に改善されました。",
+                date: "2024年6月30日",
+                source: "OpenAI Blog",
+                url: "https://openai.com"
+            },
+            {
+                tag: "🔬 研究",
+                title: "Googleの新しいAIモデルが医療診断で95%の精度を達成",
+                summary: "Google DeepMindが開発した新しいAIシステムが、医療画像診断において人間の専門医を上回る精度を記録し、医療分野でのAI活用が大きく前進しました。",
+                date: "2024年6月29日",
+                source: "Nature Medicine",
+                url: "https://www.nature.com"
+            },
+            {
+                tag: "💼 ビジネス",
+                title: "Microsoft、AI Copilotを全製品に統合へ",
+                summary: "Microsoftが発表した新戦略により、Office、Windows、Azure全体にAI Copilot機能が統合され、生産性向上の新時代が始まろうとしています。",
+                date: "2024年6月28日",
+                source: "Microsoft News",
+                url: "https://news.microsoft.com"
+            }
+        ];
+
         function showAINews() {
-            document.getElementById('news-area').style.display = 'block';
+            const container = document.getElementById('news-container');
+            
+            // 記事カードを生成
+            container.innerHTML = sampleArticles.map(article => `
+                <div class="article-card">
+                    <div class="article-tag">${article.tag}</div>
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-meta">
+                        <span>📅 ${article.date}</span>
+                        <span>📰 ${article.source}</span>
+                    </div>
+                    <div class="article-summary">${article.summary}</div>
+                    <a href="${article.url}" target="_blank" class="read-more">
+                        記事を読む →
+                    </a>
+                </div>
+            `).join('');
+            
+            // アニメーション表示
+            setTimeout(() => {
+                container.classList.add('show');
+            }, 100);
         }
+
+        // ページ読み込み時のアニメーション
+        window.addEventListener('load', function() {
+            document.body.style.opacity = '1';
+        });
     </script>
 </body>
 </html>
