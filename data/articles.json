@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-30T10:09:50.622478",
+  "last_updated": "2025-06-30T10:23:21.340689",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 19 Jun 2025 18:00:03 +0000",
-      "collected_at": "2025-06-30T10:09:49.621108"
+      "collected_at": "2025-06-30T10:23:20.339078"
     },
     {
       "title": "Making the Most of 1:1 Meetings With Your Boss",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 19 Jun 2025 19:45:10 +0000",
-      "collected_at": "2025-06-30T10:09:49.620988"
+      "collected_at": "2025-06-30T10:23:20.338964"
     },
     {
       "title": "Video Friday: Jet-Powered Humanoid Robot Lifts Off",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 20 Jun 2025 16:30:03 +0000",
-      "collected_at": "2025-06-30T10:09:49.620869"
+      "collected_at": "2025-06-30T10:23:20.338849"
     },
     {
       "title": "How the Rubin Observatory Will Reinvent Astronomy",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Jun 2025 04:01:02 +0000",
-      "collected_at": "2025-06-30T10:09:49.620654"
+      "collected_at": "2025-06-30T10:23:20.338643"
     },
     {
       "title": "Transforming Physical Substation Security",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Jun 2025 12:22:12 +0000",
-      "collected_at": "2025-06-30T10:09:49.619868"
+      "collected_at": "2025-06-30T10:23:20.337843"
     },
     {
       "title": "Another Plan to Test Satellite Deorbiting Takes Shape",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Jun 2025 16:38:43 +0000",
-      "collected_at": "2025-06-30T10:09:49.619654"
+      "collected_at": "2025-06-30T10:23:20.337631"
     },
     {
       "title": "Toward Trustworthy AI: A Zero-Trust Framework for Foundational Models",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Jun 2025 17:52:19 +0000",
-      "collected_at": "2025-06-30T10:09:49.619560"
+      "collected_at": "2025-06-30T10:23:20.337540"
     },
     {
       "title": "IEEE Presidents’ Scholarship Changes Students’ Lives",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Jun 2025 18:00:04 +0000",
-      "collected_at": "2025-06-30T10:09:49.619514"
+      "collected_at": "2025-06-30T10:23:20.337494"
     },
     {
       "title": "Estonia Debuts AI Chatbots for High School Classrooms",
@@ -91,7 +91,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Jun 2025 12:33:36 +0000",
-      "collected_at": "2025-06-30T10:09:49.619192"
+      "collected_at": "2025-06-30T10:23:20.337179"
     },
     {
       "title": "Superconducting Motor Could Propel Electric Aircraft",
@@ -101,7 +101,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 12:00:03 +0000",
-      "collected_at": "2025-06-30T10:09:49.619075"
+      "collected_at": "2025-06-30T10:23:20.337063"
     },
     {
       "title": "AI Improves at Improving Itself Using an Evolutionary Trick",
@@ -111,7 +111,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 13:00:03 +0000",
-      "collected_at": "2025-06-30T10:09:49.618935"
+      "collected_at": "2025-06-30T10:23:20.336923"
     },
     {
       "title": "The Violinist Who Fell in Love With Machine Learning",
@@ -121,7 +121,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 14:00:04 +0000",
-      "collected_at": "2025-06-30T10:09:49.618787"
+      "collected_at": "2025-06-30T10:23:20.336779"
     }
   ]
 }
