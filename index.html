@@ -13,9 +13,9 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
-            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
-            color: #1e293b;
+            color: white;
             line-height: 1.6;
         }
 
@@ -27,107 +27,139 @@
 
         .header {
             text-align: center;
-            margin-bottom: 4rem;
+            margin-bottom: 3rem;
             animation: fadeInDown 0.8s ease-out;
         }
 
         .header h1 {
-            font-size: 2.5rem;
-            font-weight: 300;
+            font-size: 2.8rem;
+            font-weight: 700;
             margin-bottom: 1rem;
-            color: #0f172a;
-            letter-spacing: -0.02em;
+            text-shadow: 0 4px 20px rgba(0,0,0,0.3);
         }
 
         .header p {
             font-size: 1.1rem;
-            color: #64748b;
-            margin-bottom: 3rem;
-            font-weight: 300;
+            opacity: 0.9;
+            margin-bottom: 2.5rem;
         }
 
         .action-button {
-            background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
             border: none;
             padding: 1rem 2.5rem;
-            font-size: 1rem;
-            font-weight: 500;
+            font-size: 1.1rem;
+            font-weight: 600;
             color: white;
-            border-radius: 8px;
+            border-radius: 50px;
             cursor: pointer;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
             transition: all 0.3s ease;
-            box-shadow: 0 4px 20px rgba(30, 41, 59, 0.3);
-            letter-spacing: 0.5px;
         }
 
         .action-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 30px rgba(30, 41, 59, 0.4);
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0,0,0,0.3);
         }
 
         .stats {
             display: flex;
             justify-content: center;
             gap: 3rem;
-            margin: 4rem 0;
+            margin: 3rem 0;
             animation: fadeInUp 0.8s ease-out 0.2s both;
         }
 
         .stat-item {
             text-align: center;
-            background: rgba(255, 255, 255, 0.9);
+            background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(10px);
-            padding: 2rem 2.5rem;
-            border-radius: 12px;
-            border: 1px solid rgba(226, 232, 240, 0.8);
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            padding: 1.5rem 2rem;
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
             transition: transform 0.3s ease;
         }
 
         .stat-item:hover {
-            transform: translateY(-4px);
+            transform: translateY(-3px);
         }
 
         .stat-number {
             display: block;
-            font-size: 2.2rem;
-            font-weight: 600;
+            font-size: 2.5rem;
+            font-weight: 700;
             margin-bottom: 0.5rem;
-            color: #1e293b;
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .stat-label {
-            font-size: 0.9rem;
-            color: #64748b;
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        .tabs-container {
+            margin: 3rem 0 2rem 0;
+            text-align: center;
+        }
+
+        .tabs {
+            display: inline-flex;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 25px;
+            padding: 0.3rem;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .tab {
+            padding: 0.8rem 1.5rem;
+            border: none;
+            background: transparent;
+            color: white;
+            cursor: pointer;
+            border-radius: 20px;
+            transition: all 0.3s ease;
             font-weight: 500;
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            font-size: 0.9rem;
+        }
+
+        .tab.active {
+            background: linear-gradient(45deg, #ff6b6b, #feca57);
+            color: white;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        .tab:hover:not(.active) {
+            background: rgba(255, 255, 255, 0.1);
         }
 
         .articles-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 2rem;
-            margin-top: 3rem;
+            margin-top: 2rem;
             opacity: 0;
             transition: all 0.6s ease;
         }
 
         .articles-grid.show {
             opacity: 1;
+            transform: translateY(0);
         }
 
         .article-card {
-            background: rgba(255, 255, 255, 0.95);
+            background: rgba(255, 255, 255, 0.15);
             backdrop-filter: blur(15px);
-            border: 1px solid rgba(226, 232, 240, 0.6);
-            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
             padding: 2rem;
             transition: all 0.4s ease;
             position: relative;
             overflow: hidden;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+            cursor: pointer;
         }
 
         .article-card::before {
@@ -136,118 +168,105 @@
             top: 0;
             left: 0;
             right: 0;
-            height: 3px;
-            background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .article-card:hover::before {
-            opacity: 1;
+            height: 4px;
+            background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3);
+            background-size: 300% 100%;
+            animation: gradient 3s ease infinite;
         }
 
         .article-card:hover {
             transform: translateY(-8px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
-            border-color: rgba(59, 130, 246, 0.3);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            background: rgba(255, 255, 255, 0.25);
         }
 
         .category-badge {
             display: inline-block;
-            padding: 0.4rem 1rem;
-            border-radius: 20px;
-            font-size: 0.8rem;
-            font-weight: 600;
-            margin-bottom: 1.5rem;
-            text-transform: uppercase;
-            letter-spacing: 0.8px;
-        }
-
-        .category-jp { background: #dbeafe; color: #1d4ed8; }
-        .category-tech { background: #f0f9ff; color: #0369a1; }
-        .category-startup { background: #fef3c7; color: #d97706; }
-        .category-business { background: #dcfce7; color: #16a34a; }
-        .category-research { background: #fce7f3; color: #be185d; }
-        .category-other { background: #f1f5f9; color: #475569; }
-
-        .article-title {
-            font-size: 1.2rem;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            font-size: 0.85rem;
             font-weight: 600;
             margin-bottom: 1rem;
-            line-height: 1.4;
-            color: #0f172a;
-            cursor: pointer;
-            position: relative;
-            transition: color 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
-        .article-title:hover {
-            color: #3b82f6;
+        .article-title {
+            font-size: 1.3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            line-height: 1.4;
         }
 
         .article-meta {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 0.85rem;
-            color: #64748b;
+            font-size: 0.9rem;
+            opacity: 0.8;
             margin-bottom: 1.5rem;
-            font-weight: 500;
         }
 
         .read-link {
-            background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+            background: linear-gradient(45deg, #667eea, #764ba2);
             color: white;
-            padding: 0.7rem 1.5rem;
-            border-radius: 8px;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
             text-decoration: none;
-            font-weight: 500;
-            font-size: 0.9rem;
+            font-weight: 600;
             transition: all 0.3s ease;
             display: inline-block;
-            letter-spacing: 0.3px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
 
         .read-link:hover {
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(30, 41, 59, 0.3);
-            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        }
+
+        .summary-popup {
+            position: absolute;
+            background: rgba(15, 23, 42, 0.95);
+            backdrop-filter: blur(15px);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 15px;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            max-width: 350px;
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s ease;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .summary-popup.show {
+            opacity: 1;
+            transform: translateY(-5px);
         }
 
         .loading-container {
             text-align: center;
             padding: 4rem 2rem;
-            color: #64748b;
+            color: rgba(255, 255, 255, 0.8);
         }
 
         .loading-spinner {
             width: 48px;
             height: 48px;
-            border: 3px solid #e2e8f0;
-            border-top: 3px solid #3b82f6;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-top: 3px solid #ff6b6b;
             border-radius: 50%;
             animation: spin 1s linear infinite;
             margin: 2rem auto;
         }
 
-        .tooltip {
-            position: absolute;
-            background: #0f172a;
-            color: white;
-            padding: 1rem;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            line-height: 1.5;
-            max-width: 320px;
-            z-index: 1000;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.3s ease;
-            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
-        }
-
-        .tooltip.show {
-            opacity: 1;
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
         }
 
         @keyframes fadeInDown {
@@ -268,8 +287,8 @@
             .container { padding: 1rem; }
             .header h1 { font-size: 2rem; }
             .stats { flex-direction: column; gap: 1.5rem; align-items: center; }
+            .tabs { flex-wrap: wrap; }
             .articles-grid { grid-template-columns: 1fr; gap: 1.5rem; }
-            .article-card { padding: 1.5rem; }
         }
     </style>
 </head>
@@ -277,24 +296,35 @@
     <div class="container">
         <div class="header">
             <h1>AI ニュースまとめ</h1>
-            <p>Latest artificial intelligence insights from leading sources</p>
-            <button class="action-button" onclick="loadAINews()">
-                Load Latest Intelligence
+            <p>主要な情報源から最新の人工知能の洞察</p>
+            <button class="action-button" onclick="loadAllNews()">
+                最新の情報を読み込む
             </button>
         </div>
 
         <div class="stats">
             <div class="stat-item">
                 <span class="stat-number" id="totalArticles">—</span>
-                <span class="stat-label">Articles</span>
+                <span class="stat-label">記事</span>
             </div>
             <div class="stat-item">
                 <span class="stat-number" id="todayArticles">—</span>
-                <span class="stat-label">Today</span>
+                <span class="stat-label">今日</span>
             </div>
             <div class="stat-item">
                 <span class="stat-number" id="sourcesCount">8</span>
-                <span class="stat-label">Sources</span>
+                <span class="stat-label">出典</span>
+            </div>
+        </div>
+
+        <div class="tabs-container">
+            <div class="tabs">
+                <button class="tab active" data-source="all">すべて</button>
+                <button class="tab" data-source="日本AI">日本AI</button>
+                <button class="tab" data-source="テクノロジー">テクノロジー</button>
+                <button class="tab" data-source="スタートアップ">スタートアップ</button>
+                <button class="tab" data-source="ビジネス">ビジネス</button>
+                <button class="tab" data-source="研究">研究</button>
             </div>
         </div>
 
@@ -303,46 +333,93 @@
         </div>
     </div>
 
-    <div id="tooltip" class="tooltip"></div>
+    <div id="summary-popup" class="summary-popup"></div>
 
     <script>
-        let articles = [];
-
-        function getCategoryClass(category) {
-            if (category.includes('日本')) return 'category-jp';
-            if (category.includes('テクノロジー') || category.includes('技術')) return 'category-tech';
-            if (category.includes('スタートアップ')) return 'category-startup';
-            if (category.includes('ビジネス')) return 'category-business';
-            if (category.includes('研究') || category.includes('学術')) return 'category-research';
-            return 'category-other';
-        }
+        let allArticles = [];
+        let currentFilter = 'all';
 
         function formatCategory(category) {
             return category.replace(/[🇯🇵🔬🚀📱⚙️💼🎓]/g, '').trim();
         }
 
-        function showTooltip(event, summary) {
-            const tooltip = document.getElementById('tooltip');
-            tooltip.textContent = summary;
-            tooltip.style.left = event.pageX + 15 + 'px';
-            tooltip.style.top = event.pageY - 10 + 'px';
-            tooltip.classList.add('show');
+        function showSummary(event, summary, title) {
+            const popup = document.getElementById('summary-popup');
+            popup.innerHTML = `<strong>${title}</strong><br><br>${summary}`;
+            
+            const rect = event.currentTarget.getBoundingClientRect();
+            popup.style.left = (event.pageX + 20) + 'px';
+            popup.style.top = (event.pageY - 50) + 'px';
+            popup.classList.add('show');
         }
 
-        function hideTooltip() {
-            document.getElementById('tooltip').classList.remove('show');
+        function hideSummary() {
+            document.getElementById('summary-popup').classList.remove('show');
         }
 
-        async function loadAINews() {
+        function filterArticles(source) {
+            currentFilter = source;
+            
+            // Update active tab
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.source === source) {
+                    tab.classList.add('active');
+                }
+            });
+            
+            displayArticles();
+        }
+
+        function displayArticles() {
+            const container = document.getElementById('articles-container');
+            
+            let filtered = allArticles;
+            if (currentFilter !== 'all') {
+                filtered = allArticles.filter(article => 
+                    formatCategory(article.category).includes(currentFilter)
+                );
+            }
+            
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="loading-container">
+                        <h3>この分野の記事がありません</h3>
+                        <p>他のタブをお試しください</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            container.innerHTML = filtered.map((article, index) => `
+                <div class="article-card" 
+                     style="animation-delay: ${index * 0.1}s;"
+                     onmouseenter="showSummary(event, '${article.summary.replace(/'/g, "\\'")}', '${article.title.replace(/'/g, "\\'")}')"
+                     onmouseleave="hideSummary()">
+                    <div class="category-badge">${formatCategory(article.category)}</div>
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-meta">
+                        <span>${article.date}</span>
+                        <span>${article.source}</span>
+                    </div>
+                    <a href="${article.url}" target="_blank" class="read-link" onclick="event.stopPropagation();">
+                        全文を読む
+                    </a>
+                </div>
+            `).join('');
+            
+            container.classList.add('show');
+        }
+
+        async function loadAllNews() {
             const container = document.getElementById('articles-container');
             container.classList.remove('show');
             
-            // Loading state
             container.innerHTML = `
                 <div class="loading-container">
                     <div class="loading-spinner"></div>
-                    <h3 style="color: #334155; margin-bottom: 0.5rem;">Processing Intelligence</h3>
-                    <p style="color: #64748b;">Aggregating from 8 premium sources</p>
+                    <h3>AI情報を収集中...</h3>
+                    <p>8つの主要情報源から記事を取得しています</p>
                 </div>
             `;
             
@@ -351,65 +428,53 @@
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 
                 const data = await response.json();
-                articles = data.articles || [];
+                allArticles = data.articles || [];
                 
-                if (articles.length === 0) {
+                if (allArticles.length === 0) {
                     container.innerHTML = `
                         <div class="loading-container">
-                            <h3 style="color: #334155;">No Intelligence Available</h3>
-                            <p style="color: #64748b;">Data collection in progress</p>
-                            <button onclick="loadAINews()" class="action-button" style="margin-top: 2rem;">
-                                Retry
+                            <h3>記事データが見つかりません</h3>
+                            <p>GitHub Actions による記事収集をお待ちください</p>
+                            <button onclick="loadAllNews()" class="action-button" style="margin-top: 2rem;">
+                                再試行
                             </button>
                         </div>
                     `;
                     return;
                 }
                 
-                // Update stats with actual numbers
-                document.getElementById('totalArticles').textContent = articles.length;
-                document.getElementById('todayArticles').textContent = articles.filter(article => 
+                // 統計更新
+                document.getElementById('totalArticles').textContent = allArticles.length;
+                document.getElementById('todayArticles').textContent = allArticles.filter(article => 
                     article.date && (article.date.includes('時間前') || article.date.includes('分前'))
                 ).length;
                 
-                // Render articles
-                container.innerHTML = articles.map((article, index) => `
-                    <div class="article-card" style="animation-delay: ${index * 0.1}s;">
-                        <div class="category-badge ${getCategoryClass(article.category)}">${formatCategory(article.category)}</div>
-                        <div class="article-title" 
-                             onmouseenter="showTooltip(event, '${article.summary.replace(/'/g, "\\'")}')"
-                             onmouseleave="hideTooltip()">
-                            ${article.title}
-                        </div>
-                        <div class="article-meta">
-                            <span>${article.date}</span>
-                            <span>${article.source}</span>
-                        </div>
-                        <a href="${article.url}" target="_blank" class="read-link">
-                            Read Full Article
-                        </a>
-                    </div>
-                `).join('');
-                
-                // Show with animation
-                setTimeout(() => container.classList.add('show'), 100);
-                console.log(`Intelligence loaded: ${articles.length} articles`);
+                displayArticles();
+                console.log(`${allArticles.length}件の記事を読み込みました`);
                 
             } catch (error) {
-                console.error('Loading error:', error);
+                console.error('読み込みエラー:', error);
                 container.innerHTML = `
                     <div class="loading-container">
-                        <h3 style="color: #334155;">Connection Error</h3>
-                        <p style="color: #64748b;">Unable to access intelligence data</p>
-                        <button onclick="loadAINews()" class="action-button" style="margin-top: 2rem;">
-                            Retry Connection
+                        <h3>接続エラー</h3>
+                        <p>記事データにアクセスできません</p>
+                        <button onclick="loadAllNews()" class="action-button" style="margin-top: 2rem;">
+                            再試行
                         </button>
                     </div>
                 `;
             }
         }
 
-        // Initialize
+        // タブクリックイベント
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.addEventListener('click', function() {
+                    filterArticles(this.dataset.source);
+                });
+            });
+        });
+
         window.addEventListener('load', function() {
             document.body.style.opacity = '1';
         });
