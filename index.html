@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🤖 AI情報ダッシュボード</title>
+</head>
+<body>
+    <h1>🤖 AI情報ダッシュボード</h1>
+    <p>最新のAI情報をお届けします！</p>
+    
+    <button onclick="showAINews()">今日のAI記事を表示</button>
+    
+    <div id="news-area" style="margin-top: 20px; border: 1px solid #ccc; padding: 10px; display: none;">
+        <h3>📰 今日のおすすめAI記事</h3>
+        <p><strong>ChatGPTの新機能が発表</strong></p>
+        <p>OpenAIが新しい機能を発表しました。これにより...</p>
+        <a href="#">記事を読む</a>
+    </div>
+
+    <script>
+        function showAINews() {
+            document.getElementById('news-area').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
