@@ -14,18 +14,30 @@ class AINewsCollector:
     def __init__(self):
         self.articles = []
         self.sources = [
+            # 日本のAI情報サイト
             {
-                'name': 'TechCrunch AI',
-                'rss': 'https://techcrunch.com/category/artificial-intelligence/feed/',
+                'name': 'ITmedia AI+',
+                'rss': 'https://rss.itmedia.co.jp/rss/2.0/aitplus.xml',
+                'category': '🇯🇵 日本AI'
+            },
+            {
+                'name': 'AINOW',
+                'rss': 'https://ainow.ai/feed/',
+                'category': '🇯🇵 日本AI'
+            },
+            # 海外テックサイト
+            {
+                'name': 'Wired',
+                'rss': 'https://www.wired.com/feed/rss',
+                'category': '🔬 テクノロジー'
+            },
+            {
+                'name': 'TechCrunch',
+                'rss': 'https://feeds.feedburner.com/TechCrunch/',
                 'category': '🚀 スタートアップ'
             },
             {
-                'name': 'MIT Technology Review',
-                'rss': 'https://www.technologyreview.com/feed/',
-                'category': '🎓 研究'
-            },
-            {
-                'name': 'The Verge AI',
+                'name': 'The Verge',
                 'rss': 'https://www.theverge.com/rss/index.xml',
                 'category': '📱 テック'
             },
@@ -35,9 +47,14 @@ class AINewsCollector:
                 'category': '⚙️ 技術'
             },
             {
-                'name': 'Wired',
-                'rss': 'https://www.wired.com/feed/rss',
-                'category': '🔬 テクノロジー'
+                'name': 'VentureBeat',
+                'rss': 'https://venturebeat.com/feed/',
+                'category': '💼 ビジネス'
+            },
+            {
+                'name': 'IEEE Spectrum',
+                'rss': 'https://spectrum.ieee.org/rss/fulltext',
+                'category': '🎓 学術'
             }
         ]
         
