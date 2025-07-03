@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-07-02T00:54:33.021686",
+  "last_updated": "2025-07-03T00:54:14.554556",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Another Plan to Test Satellite Deorbiting Takes Shape",
-      "summary": "More and more satellites are being added to low Earth orbit (LEO) every month. As that number continues to increase, so do the risks of that critical area surrounding Earth becoming impassable, trapping us on the planet for the foreseeable future. Ideas from different labs have presented potential s...",
-      "url": "https://spectrum.ieee.org/electrodynamic-tether-deborbit-satellite",
-      "date": "06月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 23 Jun 2025 16:38:43 +0000",
-      "collected_at": "2025-07-02T00:54:32.020096"
-    },
-    {
-      "title": "Toward Trustworthy AI: A Zero-Trust Framework for Foundational Models",
-      "summary": "As foundational AI models grow in power and reach, they also expose new attack surfaces, vulnerabilities, and ethical risks. This white paper by the Secure Systems Research Center (SSRC) at the Technology Innovation Institute (TII) outlines a comprehensive framework to ensure security, resilience, a...",
-      "url": "https://content.knowledgehub.wiley.com/toward-trustworthy-ai-a-zero-trust-framework-for-foundational-models/",
-      "date": "06月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 24 Jun 2025 17:52:19 +0000",
-      "collected_at": "2025-07-02T00:54:32.019994"
-    },
-    {
-      "title": "IEEE Presidents’ Scholarship Changes Students’ Lives",
-      "summary": "Last year marked the 25th anniversary of the IEEE Presidents’ Scholarship. Since its inception, the prestigious US $10,000 award has been given annually to one exceptional high school student participating in the Regeneron (formerly Intel) International Science and Engineering Fair. The ISEF is the ...",
-      "url": "https://spectrum.ieee.org/ieee-presidents-scholarship",
-      "date": "06月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 24 Jun 2025 18:00:04 +0000",
-      "collected_at": "2025-07-02T00:54:32.019941"
-    },
-    {
-      "title": "Estonia Debuts AI Chatbots for High School Classrooms",
-      "summary": "Estonia has a reputation as one of the most digitally advanced nations in the world, thanks to its efficient digital platforms for government services and its startup-friendly culture. Its citizens’ digital prowess is largely due to the government’s decades-long campaign to bring technology into sch...",
-      "url": "https://spectrum.ieee.org/estonia-ai-leap",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Jun 2025 12:33:36 +0000",
-      "collected_at": "2025-07-02T00:54:32.019601"
-    },
-    {
       "title": "Superconducting Motor Could Propel Electric Aircraft",
       "summary": "Of the countless technologies invented over the past half century, high-temperature superconductors are among the most promising and yet also the most frustrating. Decades of research has yielded an assortment of materials that superconduct at temperatures as high as -140 °C (133 kelvins) at ambient...",
       "url": "https://spectrum.ieee.org/electric-aircraft-motor-hinetics",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 12:00:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.019483"
+      "collected_at": "2025-07-03T00:54:13.553026"
     },
     {
       "title": "AI Improves at Improving Itself Using an Evolutionary Trick",
       "summary": "In April, Microsoft’s CEO said that artificial intelligence now wrote close to a third of the company’s code. Last October, Google’s CEO put their number at around a quarter. Other tech companies can’t be far off. Meanwhile, these firms create AI that will presumably be used to help programmers furt...",
       "url": "https://spectrum.ieee.org/evolutionary-ai-coding-agents",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 13:00:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.019342"
+      "collected_at": "2025-07-03T00:54:13.552881"
     },
     {
       "title": "The Violinist Who Fell in Love With Machine Learning",
       "summary": "Music and engineering might seem like career paths that are almost diametrically opposed. But for Javier Orman the transition from professional violinist to a machine learning engineer at LinkedIn was a surprisingly natural one.Growing up in Montevideo, Uruguay, Orman excelled at both music and math...",
       "url": "https://spectrum.ieee.org/violinist-to-software-engineer",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 14:00:04 +0000",
-      "collected_at": "2025-07-02T00:54:32.019193"
+      "collected_at": "2025-07-03T00:54:13.552717"
     },
     {
       "title": "Advancing Quantum Science: Hausi Müller’s Journey",
       "summary": "When Hausi A. Müller began conducting research on quantum computing a decade ago, he was excited about the technology’s possibilities for engineering and computer science applications. Quantum computing leverages the principles of quantum mechanics to tackle problems that are beyond the capabilities...",
       "url": "https://spectrum.ieee.org/ieee-quantum-computing-hausi-muller",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Jun 2025 18:00:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.019062"
+      "collected_at": "2025-07-03T00:54:13.552589"
     },
     {
       "title": "Reviving a 1970s Analog HP X-Y Recorder",
       "summary": "Solid construction, elegant design, and high-precision output. Once upon a time, Hewlett-Packard made test-and-measurement equipment that was beloved by working engineers. Sure, drop one of those babies on your foot and you were looking at a broken toe. But that’s a small price to pay for reliabilit...",
       "url": "https://spectrum.ieee.org/reviving-vintage-x-y-recorder",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Jun 2025 14:00:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.018817"
+      "collected_at": "2025-07-03T00:54:13.552363"
     },
     {
       "title": "Video Friday: This Quadruped Throws With Its Whole Body",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IAS 2025: 30 June–4 July 2025, GENOA, ITALYICRES 2025: 3...",
       "url": "https://spectrum.ieee.org/robot-arm-thrower",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Jun 2025 16:30:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.018656"
+      "collected_at": "2025-07-03T00:54:13.552202"
     },
     {
       "title": "Transform Complexity into Opportunity with Digital Engineering",
       "summary": "In a literal sense, digital engineering is as old as the first back-of-the-napkin sketch that was shoved in a pocket before being modeled in a computer-aided design program. Those pencil marks became data points, and they were soon joined by millions more as product complexity exploded. We’re now aw...",
       "url": "https://www.ansys.com/resource-center/white-paper/strategic-digital-engineering?&plid=7i4e4h&cid=1n2r9f&utm_campaign=product&utm_medium=paid-trade&utm_source=ieee&utm_content=digital_digital-mission-engineering_e-book_download_sponsored-content_NULL_a_en_global&campaignid=701Pf00000T0AzfIAFTopics:%20Digital%20Engineering,%20MBSE,%20SPDM,%20Software,%20Security%20&%20Safety,%20AI-Based%20Optimization",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 12:00:03 +0000",
-      "collected_at": "2025-07-02T00:54:32.018491"
+      "collected_at": "2025-07-03T00:54:13.552039"
     },
     {
       "title": "Next-Gen Brain Implants Offer New Hope for Depression",
       "summary": "Her relapse into depression felt like defeat—but it offered vital clues to achieving lasting psychiatric relief.The 67-year-old woman from Alabama had already endured four major depressive episodes in her decades-long battle with mental illness. After exhausting numerous medications and other therap...",
       "url": "https://spectrum.ieee.org/deep-brain-stimulation-depression",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 13:00:02 +0000",
-      "collected_at": "2025-07-02T00:54:32.018439"
+      "collected_at": "2025-07-03T00:54:13.551986"
+    },
+    {
+      "title": "A CarFax for Used PCs",
+      "summary": "The United Nations’ Global E-waste Monitor estimates that the world generates over 60 million tonnes of e-waste annually. Furthermore, this number is rising five times as fast as e-waste recycling. Much of this waste comes from prematurely discarded electronic devices.Many enterprises follow a stand...",
+      "url": "https://spectrum.ieee.org/carmax-used-pcs",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 30 Jun 2025 16:02:07 +0000",
+      "collected_at": "2025-07-03T00:54:13.551645"
+    },
+    {
+      "title": "Digital Signal Processing Pioneer Jim Boddie Remembered",
+      "summary": "James R. “Jim” Boddie, a pioneer of the programmable, single-chip digital signal processor, died on 2 December at his home in Canton, Ga., following a long illness. The IEEE senior member was 74.While working as an architect and designer at AT&T Bell Laboratories in Holmdel, N.J., Boddie applied his...",
+      "url": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 30 Jun 2025 18:00:03 +0000",
+      "collected_at": "2025-07-03T00:54:13.551513"
+    },
+    {
+      "title": "Cuba’s Power Grid Nears Total Failure",
+      "summary": "For many Cubans, the sudden stop of a fan is more than just an annoyance on a tropical island; it’s a daily reminder of a critical, nationwide problem. On an average day, the Cuban government can meet only 50 to 70 percent of its country’s electricity needs. On top of that, Cuba’s entire grid has co...",
+      "url": "https://spectrum.ieee.org/cuba-energy-crisis",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
+      "collected_at": "2025-07-03T00:54:13.551364"
+    },
+    {
+      "title": "Large Language Models Are Improving Exponentially",
+      "summary": "Benchmarking large language models presents some unusual challenges. For one, the main purpose of many LLMs is to provide compelling text that’s indistinguishable from human writing. And success in that task may not correlate with metrics traditionally used to judge processor performance, such as in...",
+      "url": "https://spectrum.ieee.org/large-language-model-performance",
+      "date": "10時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
+      "collected_at": "2025-07-03T00:54:13.551195"
     }
   ]
 }
