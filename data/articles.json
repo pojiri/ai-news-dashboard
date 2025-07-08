@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-07T00:58:26.066627",
+  "last_updated": "2025-07-08T00:54:32.719767",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,117 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Jun 2025 16:30:03 +0000",
-      "collected_at": "2025-07-07T00:58:25.065082"
+      "collected_at": "2025-07-08T00:54:31.718072"
     },
     {
       "title": "Transform Complexity into Opportunity with Digital Engineering",
       "summary": "In a literal sense, digital engineering is as old as the first back-of-the-napkin sketch that was shoved in a pocket before being modeled in a computer-aided design program. Those pencil marks became data points, and they were soon joined by millions more as product complexity exploded. We’re now aw...",
       "url": "https://www.ansys.com/resource-center/white-paper/strategic-digital-engineering?&plid=7i4e4h&cid=1n2r9f&utm_campaign=product&utm_medium=paid-trade&utm_source=ieee&utm_content=digital_digital-mission-engineering_e-book_download_sponsored-content_NULL_a_en_global&campaignid=701Pf00000T0AzfIAFTopics:%20Digital%20Engineering,%20MBSE,%20SPDM,%20Software,%20Security%20&%20Safety,%20AI-Based%20Optimization",
-      "date": "6日前",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 12:00:03 +0000",
-      "collected_at": "2025-07-07T00:58:25.064921"
+      "collected_at": "2025-07-08T00:54:31.717913"
     },
     {
       "title": "Next-Gen Brain Implants Offer New Hope for Depression",
       "summary": "Her relapse into depression felt like defeat—but it offered vital clues to achieving lasting psychiatric relief.The 67-year-old woman from Alabama had already endured four major depressive episodes in her decades-long battle with mental illness. After exhausting numerous medications and other therap...",
       "url": "https://spectrum.ieee.org/deep-brain-stimulation-depression",
-      "date": "6日前",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 13:00:02 +0000",
-      "collected_at": "2025-07-07T00:58:25.064872"
+      "collected_at": "2025-07-08T00:54:31.717856"
     },
     {
       "title": "A CarFax for Used PCs",
       "summary": "The United Nations’ Global E-waste Monitor estimates that the world generates over 60 million tonnes of e-waste annually. Furthermore, this number is rising five times as fast as e-waste recycling. Much of this waste comes from prematurely discarded electronic devices.Many enterprises follow a stand...",
-      "url": "https://spectrum.ieee.org/carmax-used-pcs",
-      "date": "6日前",
+      "url": "https://spectrum.ieee.org/carfax-used-pcs",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 16:02:07 +0000",
-      "collected_at": "2025-07-07T00:58:25.064559"
+      "collected_at": "2025-07-08T00:54:31.717533"
     },
     {
       "title": "Digital Signal Processing Pioneer Jim Boddie Remembered",
       "summary": "James R. “Jim” Boddie, a pioneer of the programmable, single-chip digital signal processor, died on 2 December at his home in Canton, Ga., following a long illness. The IEEE senior member was 74.While working as an architect and designer at AT&T Bell Laboratories in Holmdel, N.J., Boddie applied his...",
       "url": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie",
-      "date": "6日前",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 18:00:03 +0000",
-      "collected_at": "2025-07-07T00:58:25.064431"
+      "collected_at": "2025-07-08T00:54:31.717389"
     },
     {
       "title": "Cuba’s Power Grid Nears Total Failure",
       "summary": "For many Cubans, the sudden stop of a fan is more than just an annoyance on a tropical island; it’s a daily reminder of a critical, nationwide problem. On an average day, the Cuban government can meet only 50 to 70 percent of its country’s electricity needs. On top of that, Cuba’s entire grid has co...",
       "url": "https://spectrum.ieee.org/cuba-energy-crisis",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
-      "collected_at": "2025-07-07T00:58:25.064290"
+      "collected_at": "2025-07-08T00:54:31.717222"
     },
     {
       "title": "Large Language Models Are Improving Exponentially",
       "summary": "Benchmarking large language models presents some unusual challenges. For one, the main purpose of many LLMs is to provide compelling text that’s indistinguishable from human writing. And success in that task may not correlate with metrics traditionally used to judge processor performance, such as in...",
       "url": "https://spectrum.ieee.org/large-language-model-performance",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-07T00:58:25.064128"
+      "collected_at": "2025-07-08T00:54:31.717060"
     },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
       "summary": "The main purpose of many large language models (LLMs) is providing compelling text that’s as close as possible to being indistinguishable from human writing. And therein lies a major reason why it’s so hard to gauge the relative performance of LLMs using traditional benchmarks: Quality of writing do...",
       "url": "https://spectrum.ieee.org/llm-benchmarking-metr",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-07T00:58:25.064021"
+      "collected_at": "2025-07-08T00:54:31.716969"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
       "summary": "The Vera C. Rubin Observatory, in Chile, saw its first photon a few months ago, a monumental event 25 years in the making. Senior Editor Evan Ackerman’s journey to Chile, to see the observatory and talk with the team about the multiple and massive engineering challenges they overcame, itself took mo...",
       "url": "https://spectrum.ieee.org/vera-rubin-engineering",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-07T00:58:25.063851"
+      "collected_at": "2025-07-08T00:54:31.716798"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!There are countless technologies, tools, and frameworks...",
       "url": "https://spectrum.ieee.org/be-a-polarizing-job-seeker",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-07T00:58:25.063765"
+      "collected_at": "2025-07-08T00:54:31.716710"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
       "summary": "As I try to write this article, my friend and I have six different screens attached to three types of devices. We’re working in the same room but on our own projects—separate yet together, a comfortable companionship.I had never really thought of the proliferation of screens as a peacekeeping tool u...",
       "url": "https://spectrum.ieee.org/dumont-duoscopic-tv-set",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-07T00:58:25.063653"
+      "collected_at": "2025-07-08T00:54:31.716595"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
       "summary": "Computer science plays a significant role in advancing and transforming communication, entertainment, finance, health care, and other fields. Yet only about 58 percent of U.S. high schools offer dedicated courses in the subject, according to the 2024 State of Computer Science Education report.The li...",
       "url": "https://spectrum.ieee.org/computer-science-education-gap",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-07T00:58:25.063419"
+      "collected_at": "2025-07-08T00:54:31.716340"
     }
   ]
 }
