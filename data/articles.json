@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-07-09T00:55:32.424359",
+  "last_updated": "2025-07-10T00:55:03.991723",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Transform Complexity into Opportunity with Digital Engineering",
-      "summary": "In a literal sense, digital engineering is as old as the first back-of-the-napkin sketch that was shoved in a pocket before being modeled in a computer-aided design program. Those pencil marks became data points, and they were soon joined by millions more as product complexity exploded. We’re now aw...",
-      "url": "https://www.ansys.com/resource-center/white-paper/strategic-digital-engineering?&plid=7i4e4h&cid=1n2r9f&utm_campaign=product&utm_medium=paid-trade&utm_source=ieee&utm_content=digital_digital-mission-engineering_e-book_download_sponsored-content_NULL_a_en_global&campaignid=701Pf00000T0AzfIAFTopics:%20Digital%20Engineering,%20MBSE,%20SPDM,%20Software,%20Security%20&%20Safety,%20AI-Based%20Optimization",
-      "date": "06月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 30 Jun 2025 12:00:03 +0000",
-      "collected_at": "2025-07-09T00:55:31.422781"
-    },
-    {
-      "title": "Next-Gen Brain Implants Offer New Hope for Depression",
-      "summary": "Her relapse into depression felt like defeat—but it offered vital clues to achieving lasting psychiatric relief.The 67-year-old woman from Alabama had already endured four major depressive episodes in her decades-long battle with mental illness. After exhausting numerous medications and other therap...",
-      "url": "https://spectrum.ieee.org/deep-brain-stimulation-depression",
-      "date": "06月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 30 Jun 2025 13:00:02 +0000",
-      "collected_at": "2025-07-09T00:55:31.422723"
-    },
     {
       "title": "A CarFax for Used PCs",
       "summary": "The United Nations’ Global E-waste Monitor estimates that the world generates over 60 million tonnes of e-waste annually. Furthermore, this number is rising five times as fast as e-waste recycling. Much of this waste comes from prematurely discarded electronic devices.Many enterprises follow a stand...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 16:02:07 +0000",
-      "collected_at": "2025-07-09T00:55:31.422402"
+      "collected_at": "2025-07-10T00:55:02.990218"
     },
     {
       "title": "Digital Signal Processing Pioneer Jim Boddie Remembered",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Jun 2025 18:00:03 +0000",
-      "collected_at": "2025-07-09T00:55:31.422265"
+      "collected_at": "2025-07-10T00:55:02.990083"
     },
     {
       "title": "Cuba’s Power Grid Nears Total Failure",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
-      "collected_at": "2025-07-09T00:55:31.422113"
+      "collected_at": "2025-07-10T00:55:02.989935"
     },
     {
       "title": "Large Language Models Are Improving Exponentially",
       "summary": "Benchmarking large language models presents some unusual challenges. For one, the main purpose of many LLMs is to provide compelling text that’s indistinguishable from human writing. And success in that task may not correlate with metrics traditionally used to judge processor performance, such as in...",
       "url": "https://spectrum.ieee.org/large-language-model-performance",
-      "date": "6日前",
+      "date": "07月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-09T00:55:31.421939"
+      "collected_at": "2025-07-10T00:55:02.989767"
     },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
       "summary": "The main purpose of many large language models (LLMs) is providing compelling text that’s as close as possible to being indistinguishable from human writing. And therein lies a major reason why it’s so hard to gauge the relative performance of LLMs using traditional benchmarks: Quality of writing do...",
       "url": "https://spectrum.ieee.org/llm-benchmarking-metr",
-      "date": "6日前",
+      "date": "07月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-09T00:55:31.421828"
+      "collected_at": "2025-07-10T00:55:02.989669"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
       "summary": "The Vera C. Rubin Observatory, in Chile, saw its first photon a few months ago, a monumental event 25 years in the making. Senior Editor Evan Ackerman’s journey to Chile, to see the observatory and talk with the team about the multiple and massive engineering challenges they overcame, itself took mo...",
       "url": "https://spectrum.ieee.org/vera-rubin-engineering",
-      "date": "6日前",
+      "date": "07月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-09T00:55:31.421657"
+      "collected_at": "2025-07-10T00:55:02.989491"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!There are countless technologies, tools, and frameworks...",
       "url": "https://spectrum.ieee.org/be-a-polarizing-job-seeker",
-      "date": "6日前",
+      "date": "07月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-09T00:55:31.421570"
+      "collected_at": "2025-07-10T00:55:02.989392"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
       "summary": "As I try to write this article, my friend and I have six different screens attached to three types of devices. We’re working in the same room but on our own projects—separate yet together, a comfortable companionship.I had never really thought of the proliferation of screens as a peacekeeping tool u...",
       "url": "https://spectrum.ieee.org/dumont-duoscopic-tv-set",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-09T00:55:31.421458"
+      "collected_at": "2025-07-10T00:55:02.989250"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
       "summary": "Computer science plays a significant role in advancing and transforming communication, entertainment, finance, health care, and other fields. Yet only about 58 percent of U.S. high schools offer dedicated courses in the subject, according to the 2024 State of Computer Science Education report.The li...",
       "url": "https://spectrum.ieee.org/computer-science-education-gap",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-09T00:55:31.421222"
+      "collected_at": "2025-07-10T00:55:02.989017"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
       "summary": "In cities across the United States, an ambitious goal is gaining traction: Vision Zero, the strategy to eliminate all traffic fatalities and severe injuries. First implemented in Sweden in the 1990s, Vision Zero has already cut road deaths there by 50 percent from 2010 levels. Now, technology compan...",
       "url": "https://spectrum.ieee.org/ai-intersection-monitoring",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-09T00:55:31.421086"
+      "collected_at": "2025-07-10T00:55:02.988882"
+    },
+    {
+      "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IEEE World Haptics: 8–11 July 2025, SUWON, SOUTH KOREAIF...",
+      "url": "https://spectrum.ieee.org/video-friday-cyborg-beetles",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
+      "collected_at": "2025-07-10T00:55:02.988753"
+    },
+    {
+      "title": "Citizen Scientists Help Confirm Distant Exoplanet",
+      "summary": "Distant exoplanets can be dodgy to spot even in the best of observations. Despite the challenges, a team of astronomers just reported the discovery of a gas giant exoplanet that lies about 400 light-years from Earth. It’s called TOI-4465 b and it takes 12 hours to transit across the face of its star...",
+      "url": "https://spectrum.ieee.org/exoplanet-citizen-science",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
+      "collected_at": "2025-07-10T00:55:02.988601"
     }
   ]
 }
