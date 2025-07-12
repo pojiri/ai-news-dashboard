@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-07-11T00:55:42.529928",
+  "last_updated": "2025-07-12T00:56:56.621492",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Digital Signal Processing Pioneer Jim Boddie Remembered",
-      "summary": "James R. “Jim” Boddie, a pioneer of the programmable, single-chip digital signal processor, died on 2 December at his home in Canton, Ga., following a long illness. The IEEE senior member was 74.While working as an architect and designer at AT&T Bell Laboratories in Holmdel, N.J., Boddie applied his...",
-      "url": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie",
-      "date": "06月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 30 Jun 2025 18:00:03 +0000",
-      "collected_at": "2025-07-11T00:55:41.528275"
-    },
     {
       "title": "Cuba’s Power Grid Nears Total Failure",
       "summary": "For many Cubans, the sudden stop of a fan is more than just an annoyance on a tropical island; it’s a daily reminder of a critical, nationwide problem. On an average day, the Cuban government can meet only 50 to 70 percent of its country’s electricity needs. On top of that, Cuba’s entire grid has co...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
-      "collected_at": "2025-07-11T00:55:41.528129"
+      "collected_at": "2025-07-12T00:56:55.619913"
     },
     {
       "title": "Large Language Models Are Improving Exponentially",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-11T00:55:41.527964"
+      "collected_at": "2025-07-12T00:56:55.619749"
     },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-11T00:55:41.527868"
+      "collected_at": "2025-07-12T00:56:55.619653"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-11T00:55:41.527688"
+      "collected_at": "2025-07-12T00:56:55.619477"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-11T00:55:41.527576"
+      "collected_at": "2025-07-12T00:56:55.619385"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-11T00:55:41.527458"
+      "collected_at": "2025-07-12T00:56:55.619250"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-11T00:55:41.527217"
+      "collected_at": "2025-07-12T00:56:55.619008"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
       "summary": "In cities across the United States, an ambitious goal is gaining traction: Vision Zero, the strategy to eliminate all traffic fatalities and severe injuries. First implemented in Sweden in the 1990s, Vision Zero has already cut road deaths there by 50 percent from 2010 levels. Now, technology compan...",
       "url": "https://spectrum.ieee.org/ai-intersection-monitoring",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-11T00:55:41.527071"
+      "collected_at": "2025-07-12T00:56:55.618866"
     },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IEEE World Haptics: 8–11 July 2025, SUWON, SOUTH KOREAIF...",
       "url": "https://spectrum.ieee.org/video-friday-cyborg-beetles",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-11T00:55:41.526942"
+      "collected_at": "2025-07-12T00:56:55.618738"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
       "summary": "Distant exoplanets can be dodgy to spot even in the best of observations. Despite the challenges, a team of astronomers just reported the discovery of a gas giant exoplanet that lies about 400 light-years from Earth. It’s called TOI-4465 b and it takes 12 hours to transit across the face of its star...",
       "url": "https://spectrum.ieee.org/exoplanet-citizen-science",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-11T00:55:41.526792"
+      "collected_at": "2025-07-12T00:56:55.618589"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
       "summary": "Olivine is a rather unassuming rock. Olive brown to yellow green in color, this hard yet brittle mineral is thought to be the most abundant in Earth’s upper mantle. Chemically, olivine is magnesium iron silicate, though it contains other elements too. Economically, it’s close to worthless. Its limit...",
       "url": "https://spectrum.ieee.org/nmc-battery-aspiring-materials",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-11T00:55:41.526669"
+      "collected_at": "2025-07-12T00:56:55.618469"
+    },
+    {
+      "title": "The Internet of Things Gets a 5G Update",
+      "summary": "A new chip component designed by MIT researchers promises to expand the reach of the Internet of Things into 5G. The discovery represents a broader push for 5G-based IoT tech—using the telecom standard’s low latency, energy efficiency, and capacity for massive device connectivity. The new research a...",
+      "url": "https://spectrum.ieee.org/internet-of-things-5g-mit",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
+      "collected_at": "2025-07-12T00:56:55.618317"
     }
   ]
 }
