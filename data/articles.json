@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13T01:01:16.013108",
+  "last_updated": "2025-07-14T00:58:50.859040",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
-      "collected_at": "2025-07-13T01:01:15.011759"
+      "collected_at": "2025-07-14T00:58:49.857558"
     },
     {
       "title": "Large Language Models Are Improving Exponentially",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-13T01:01:15.011591"
+      "collected_at": "2025-07-14T00:58:49.857394"
     },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-13T01:01:15.011495"
+      "collected_at": "2025-07-14T00:58:49.857299"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-13T01:01:15.011320"
+      "collected_at": "2025-07-14T00:58:49.857125"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-13T01:01:15.011227"
+      "collected_at": "2025-07-14T00:58:49.857033"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-13T01:01:15.011110"
+      "collected_at": "2025-07-14T00:58:49.856916"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-13T01:01:15.010870"
+      "collected_at": "2025-07-14T00:58:49.856660"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-13T01:01:15.010709"
+      "collected_at": "2025-07-14T00:58:49.856522"
     },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-13T01:01:15.010571"
+      "collected_at": "2025-07-14T00:58:49.856389"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
       "summary": "Distant exoplanets can be dodgy to spot even in the best of observations. Despite the challenges, a team of astronomers just reported the discovery of a gas giant exoplanet that lies about 400 light-years from Earth. It’s called TOI-4465 b and it takes 12 hours to transit across the face of its star...",
       "url": "https://spectrum.ieee.org/exoplanet-citizen-science",
-      "date": "6日前",
+      "date": "07月06日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-13T01:01:15.010411"
+      "collected_at": "2025-07-14T00:58:49.856236"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
       "summary": "Olivine is a rather unassuming rock. Olive brown to yellow green in color, this hard yet brittle mineral is thought to be the most abundant in Earth’s upper mantle. Chemically, olivine is magnesium iron silicate, though it contains other elements too. Economically, it’s close to worthless. Its limit...",
       "url": "https://spectrum.ieee.org/nmc-battery-aspiring-materials",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-13T01:01:15.010291"
+      "collected_at": "2025-07-14T00:58:49.856105"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
       "summary": "A new chip component designed by MIT researchers promises to expand the reach of the Internet of Things into 5G. The discovery represents a broader push for 5G-based IoT tech—using the telecom standard’s low latency, energy efficiency, and capacity for massive device connectivity. The new research a...",
       "url": "https://spectrum.ieee.org/internet-of-things-5g-mit",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-13T01:01:15.010157"
+      "collected_at": "2025-07-14T00:58:49.855972"
     }
   ]
 }
