@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-07-14T00:58:50.859040",
+  "last_updated": "2025-07-15T00:57:35.716484",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Cuba’s Power Grid Nears Total Failure",
-      "summary": "For many Cubans, the sudden stop of a fan is more than just an annoyance on a tropical island; it’s a daily reminder of a critical, nationwide problem. On an average day, the Cuban government can meet only 50 to 70 percent of its country’s electricity needs. On top of that, Cuba’s entire grid has co...",
-      "url": "https://spectrum.ieee.org/cuba-energy-crisis",
-      "date": "07月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 01 Jul 2025 12:00:05 +0000",
-      "collected_at": "2025-07-14T00:58:49.857558"
-    },
     {
       "title": "Large Language Models Are Improving Exponentially",
       "summary": "Benchmarking large language models presents some unusual challenges. For one, the main purpose of many LLMs is to provide compelling text that’s indistinguishable from human writing. And success in that task may not correlate with metrics traditionally used to judge processor performance, such as in...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-14T00:58:49.857394"
+      "collected_at": "2025-07-15T00:57:34.714953"
     },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-14T00:58:49.857299"
+      "collected_at": "2025-07-15T00:57:34.714854"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-14T00:58:49.857125"
+      "collected_at": "2025-07-15T00:57:34.714679"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-14T00:58:49.857033"
+      "collected_at": "2025-07-15T00:57:34.714586"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-14T00:58:49.856916"
+      "collected_at": "2025-07-15T00:57:34.714472"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-14T00:58:49.856660"
+      "collected_at": "2025-07-15T00:57:34.714238"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-14T00:58:49.856522"
+      "collected_at": "2025-07-15T00:57:34.714099"
     },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
@@ -91,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-14T00:58:49.856389"
+      "collected_at": "2025-07-15T00:57:34.713947"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
@@ -101,27 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-14T00:58:49.856236"
+      "collected_at": "2025-07-15T00:57:34.713795"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
       "summary": "Olivine is a rather unassuming rock. Olive brown to yellow green in color, this hard yet brittle mineral is thought to be the most abundant in Earth’s upper mantle. Chemically, olivine is magnesium iron silicate, though it contains other elements too. Economically, it’s close to worthless. Its limit...",
       "url": "https://spectrum.ieee.org/nmc-battery-aspiring-materials",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-14T00:58:49.856105"
+      "collected_at": "2025-07-15T00:57:34.713667"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
       "summary": "A new chip component designed by MIT researchers promises to expand the reach of the Internet of Things into 5G. The discovery represents a broader push for 5G-based IoT tech—using the telecom standard’s low latency, energy efficiency, and capacity for massive device connectivity. The new research a...",
       "url": "https://spectrum.ieee.org/internet-of-things-5g-mit",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-14T00:58:49.855972"
+      "collected_at": "2025-07-15T00:57:34.713535"
+    },
+    {
+      "title": "Ensuring Technology Is Tailored for An Aging Population",
+      "summary": "The global population is getting older. By 2030 there will be nearly 1.5 billion people who will be at least 60, according to the World Health Organization.Studies have found that most older adults want to stay in their own homes. To help them, an assortment of technologies known as age tech is bein...",
+      "url": "https://spectrum.ieee.org/ieee-agetech-standards",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 09 Jul 2025 18:00:02 +0000",
+      "collected_at": "2025-07-15T00:57:34.713382"
     }
   ]
 }
