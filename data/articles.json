@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-07-15T00:57:35.716484",
+  "last_updated": "2025-07-16T00:56:41.859002",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Large Language Models Are Improving Exponentially",
-      "summary": "Benchmarking large language models presents some unusual challenges. For one, the main purpose of many LLMs is to provide compelling text that’s indistinguishable from human writing. And success in that task may not correlate with metrics traditionally used to judge processor performance, such as in...",
-      "url": "https://spectrum.ieee.org/large-language-model-performance",
-      "date": "07月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-15T00:57:34.714953"
-    },
     {
       "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
       "summary": "The main purpose of many large language models (LLMs) is providing compelling text that’s as close as possible to being indistinguishable from human writing. And therein lies a major reason why it’s so hard to gauge the relative performance of LLMs using traditional benchmarks: Quality of writing do...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-15T00:57:34.714854"
+      "collected_at": "2025-07-16T00:56:40.857411"
     },
     {
       "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-15T00:57:34.714679"
+      "collected_at": "2025-07-16T00:56:40.857217"
     },
     {
       "title": "Be Polarizing as a Job Seeker",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-15T00:57:34.714586"
+      "collected_at": "2025-07-16T00:56:40.857127"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-15T00:57:34.714472"
+      "collected_at": "2025-07-16T00:56:40.857011"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-15T00:57:34.714238"
+      "collected_at": "2025-07-16T00:56:40.856772"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-15T00:57:34.714099"
+      "collected_at": "2025-07-16T00:56:40.856631"
     },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-15T00:57:34.713947"
+      "collected_at": "2025-07-16T00:56:40.856494"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
@@ -91,37 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-15T00:57:34.713795"
+      "collected_at": "2025-07-16T00:56:40.856320"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
       "summary": "Olivine is a rather unassuming rock. Olive brown to yellow green in color, this hard yet brittle mineral is thought to be the most abundant in Earth’s upper mantle. Chemically, olivine is magnesium iron silicate, though it contains other elements too. Economically, it’s close to worthless. Its limit...",
       "url": "https://spectrum.ieee.org/nmc-battery-aspiring-materials",
-      "date": "6日前",
+      "date": "07月08日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-15T00:57:34.713667"
+      "collected_at": "2025-07-16T00:56:40.856191"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
       "summary": "A new chip component designed by MIT researchers promises to expand the reach of the Internet of Things into 5G. The discovery represents a broader push for 5G-based IoT tech—using the telecom standard’s low latency, energy efficiency, and capacity for massive device connectivity. The new research a...",
       "url": "https://spectrum.ieee.org/internet-of-things-5g-mit",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-15T00:57:34.713535"
+      "collected_at": "2025-07-16T00:56:40.856047"
     },
     {
       "title": "Ensuring Technology Is Tailored for An Aging Population",
       "summary": "The global population is getting older. By 2030 there will be nearly 1.5 billion people who will be at least 60, according to the World Health Organization.Studies have found that most older adults want to stay in their own homes. To help them, an assortment of technologies known as age tech is bein...",
       "url": "https://spectrum.ieee.org/ieee-agetech-standards",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-07-15T00:57:34.713382"
+      "collected_at": "2025-07-16T00:56:40.855892"
+    },
+    {
+      "title": "Pixar’s Art Challenge Highlights IEEE’s Electrical Science Roots",
+      "summary": "IEEE and Pixar Animation Studios’ collaboration on the RenderMan SciTech Art Challenge last year broke entry records for the annual competition, tripling the usual number of submissions. Nearly 200 artists, engineers, and enthusiasts competed to demonstrate shading, lighting, rendering, and composit...",
+      "url": "https://spectrum.ieee.org/ieee-renderman-tech-milestone",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 10 Jul 2025 18:00:03 +0000",
+      "collected_at": "2025-07-16T00:56:40.855701"
     }
   ]
 }
