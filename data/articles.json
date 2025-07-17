@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-07-16T00:56:41.859002",
+  "last_updated": "2025-07-17T00:57:12.813449",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "LLM Benchmarking Shows Capabilities Doubling Every 7 Months",
-      "summary": "The main purpose of many large language models (LLMs) is providing compelling text that’s as close as possible to being indistinguishable from human writing. And therein lies a major reason why it’s so hard to gauge the relative performance of LLMs using traditional benchmarks: Quality of writing do...",
-      "url": "https://spectrum.ieee.org/llm-benchmarking-metr",
-      "date": "07月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Jul 2025 15:37:04 +0000",
-      "collected_at": "2025-07-16T00:56:40.857411"
-    },
-    {
-      "title": "Vera Rubin: This Is How Far Engineers Go to Explore the Universe",
-      "summary": "The Vera C. Rubin Observatory, in Chile, saw its first photon a few months ago, a monumental event 25 years in the making. Senior Editor Evan Ackerman’s journey to Chile, to see the observatory and talk with the team about the multiple and massive engineering challenges they overcame, itself took mo...",
-      "url": "https://spectrum.ieee.org/vera-rubin-engineering",
-      "date": "07月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Jul 2025 20:26:42 +0000",
-      "collected_at": "2025-07-16T00:56:40.857217"
-    },
     {
       "title": "Be Polarizing as a Job Seeker",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!There are countless technologies, tools, and frameworks...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-16T00:56:40.857127"
+      "collected_at": "2025-07-17T00:57:11.811988"
     },
     {
       "title": "This 1945 TV Console Showed Two Programs at Once",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-16T00:56:40.857011"
+      "collected_at": "2025-07-17T00:57:11.811859"
     },
     {
       "title": "Ways to Bridge the U.S. Computer Science Education Gap",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-16T00:56:40.856772"
+      "collected_at": "2025-07-17T00:57:11.811614"
     },
     {
       "title": "AI Cameras  Change Driver Behavior at Intersections",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-16T00:56:40.856631"
+      "collected_at": "2025-07-17T00:57:11.811475"
     },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-16T00:56:40.856494"
+      "collected_at": "2025-07-17T00:57:11.811333"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-16T00:56:40.856320"
+      "collected_at": "2025-07-17T00:57:11.811174"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
@@ -91,37 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-16T00:56:40.856191"
+      "collected_at": "2025-07-17T00:57:11.811049"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
       "summary": "A new chip component designed by MIT researchers promises to expand the reach of the Internet of Things into 5G. The discovery represents a broader push for 5G-based IoT tech—using the telecom standard’s low latency, energy efficiency, and capacity for massive device connectivity. The new research a...",
       "url": "https://spectrum.ieee.org/internet-of-things-5g-mit",
-      "date": "6日前",
+      "date": "07月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-16T00:56:40.856047"
+      "collected_at": "2025-07-17T00:57:11.810895"
     },
     {
       "title": "Ensuring Technology Is Tailored for An Aging Population",
       "summary": "The global population is getting older. By 2030 there will be nearly 1.5 billion people who will be at least 60, according to the World Health Organization.Studies have found that most older adults want to stay in their own homes. To help them, an assortment of technologies known as age tech is bein...",
       "url": "https://spectrum.ieee.org/ieee-agetech-standards",
-      "date": "6日前",
+      "date": "07月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-07-16T00:56:40.855892"
+      "collected_at": "2025-07-17T00:57:11.810736"
     },
     {
       "title": "Pixar’s Art Challenge Highlights IEEE’s Electrical Science Roots",
       "summary": "IEEE and Pixar Animation Studios’ collaboration on the RenderMan SciTech Art Challenge last year broke entry records for the annual competition, tripling the usual number of submissions. Nearly 200 artists, engineers, and enthusiasts competed to demonstrate shading, lighting, rendering, and composit...",
       "url": "https://spectrum.ieee.org/ieee-renderman-tech-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-16T00:56:40.855701"
+      "collected_at": "2025-07-17T00:57:11.810540"
+    },
+    {
+      "title": "Video Friday: Reachy Mini Brings the Cute",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IFAC Symposium on Robotics: 15–18 July 2025, PARISRoboCu...",
+      "url": "https://spectrum.ieee.org/video-friday-reachy-mini",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 11 Jul 2025 16:00:03 +0000",
+      "collected_at": "2025-07-17T00:57:11.810405"
+    },
+    {
+      "title": "International STEM Students Are Turning Away From the U.S.",
+      "summary": "For decades, the United States has held a commanding lead as a destination for international students interested in STEM fields. Then U.S. President Donald Trump’s administration began revoking student visas, temporarily froze student visa interviews, promised extra scrutiny for Chinese students, an...",
+      "url": "https://spectrum.ieee.org/trump-international-students",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 14 Jul 2025 11:00:02 +0000",
+      "collected_at": "2025-07-17T00:57:11.810226"
     }
   ]
 }
