@@ -1,48 +1,8 @@
 {
-  "last_updated": "2025-07-17T00:57:12.813449",
+  "last_updated": "2025-07-18T00:56:18.195832",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Be Polarizing as a Job Seeker",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!There are countless technologies, tools, and frameworks...",
-      "url": "https://spectrum.ieee.org/be-a-polarizing-job-seeker",
-      "date": "07月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Jul 2025 21:05:35 +0000",
-      "collected_at": "2025-07-17T00:57:11.811988"
-    },
-    {
-      "title": "This 1945 TV Console Showed Two Programs at Once",
-      "summary": "As I try to write this article, my friend and I have six different screens attached to three types of devices. We’re working in the same room but on our own projects—separate yet together, a comfortable companionship.I had never really thought of the proliferation of screens as a peacekeeping tool u...",
-      "url": "https://spectrum.ieee.org/dumont-duoscopic-tv-set",
-      "date": "07月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 03 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-17T00:57:11.811859"
-    },
-    {
-      "title": "Ways to Bridge the U.S. Computer Science Education Gap",
-      "summary": "Computer science plays a significant role in advancing and transforming communication, entertainment, finance, health care, and other fields. Yet only about 58 percent of U.S. high schools offer dedicated courses in the subject, according to the 2024 State of Computer Science Education report.The li...",
-      "url": "https://spectrum.ieee.org/computer-science-education-gap",
-      "date": "07月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 03 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-17T00:57:11.811614"
-    },
-    {
-      "title": "AI Cameras  Change Driver Behavior at Intersections",
-      "summary": "In cities across the United States, an ambitious goal is gaining traction: Vision Zero, the strategy to eliminate all traffic fatalities and severe injuries. First implemented in Sweden in the 1990s, Vision Zero has already cut road deaths there by 50 percent from 2010 levels. Now, technology compan...",
-      "url": "https://spectrum.ieee.org/ai-intersection-monitoring",
-      "date": "07月05日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 05 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-17T00:57:11.811475"
-    },
     {
       "title": "Video Friday: Cyborg Beetles May Speed Disaster Response One Day",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IEEE World Haptics: 8–11 July 2025, SUWON, SOUTH KOREAIF...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 05 Jul 2025 15:04:05 +0000",
-      "collected_at": "2025-07-17T00:57:11.811333"
+      "collected_at": "2025-07-18T00:56:17.194272"
     },
     {
       "title": "Citizen Scientists Help Confirm Distant Exoplanet",
@@ -61,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-17T00:57:11.811174"
+      "collected_at": "2025-07-18T00:56:17.194120"
     },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
@@ -71,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-17T00:57:11.811049"
+      "collected_at": "2025-07-18T00:56:17.193997"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
@@ -81,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-17T00:57:11.810895"
+      "collected_at": "2025-07-18T00:56:17.193861"
     },
     {
       "title": "Ensuring Technology Is Tailored for An Aging Population",
@@ -91,37 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-07-17T00:57:11.810736"
+      "collected_at": "2025-07-18T00:56:17.193699"
     },
     {
       "title": "Pixar’s Art Challenge Highlights IEEE’s Electrical Science Roots",
       "summary": "IEEE and Pixar Animation Studios’ collaboration on the RenderMan SciTech Art Challenge last year broke entry records for the annual competition, tripling the usual number of submissions. Nearly 200 artists, engineers, and enthusiasts competed to demonstrate shading, lighting, rendering, and composit...",
       "url": "https://spectrum.ieee.org/ieee-renderman-tech-milestone",
-      "date": "6日前",
+      "date": "07月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-17T00:57:11.810540"
+      "collected_at": "2025-07-18T00:56:17.193491"
     },
     {
       "title": "Video Friday: Reachy Mini Brings the Cute",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IFAC Symposium on Robotics: 15–18 July 2025, PARISRoboCu...",
       "url": "https://spectrum.ieee.org/video-friday-reachy-mini",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-17T00:57:11.810405"
+      "collected_at": "2025-07-18T00:56:17.193348"
     },
     {
       "title": "International STEM Students Are Turning Away From the U.S.",
       "summary": "For decades, the United States has held a commanding lead as a destination for international students interested in STEM fields. Then U.S. President Donald Trump’s administration began revoking student visas, temporarily froze student visa interviews, promised extra scrutiny for Chinese students, an...",
       "url": "https://spectrum.ieee.org/trump-international-students",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Jul 2025 11:00:02 +0000",
-      "collected_at": "2025-07-17T00:57:11.810226"
+      "collected_at": "2025-07-18T00:56:17.193174"
+    },
+    {
+      "title": "Chinese Robotaxis Are Gunning for Global Domination",
+      "summary": "This post originally appeared on Recode China AI. When Tesla rolled out its much-anticipated pilot robotaxi service in Austin, Texas, last month—a fleet of 10 to 20 Model Y SUVs with “robotaxi” stickers and minor modifications—the tech and automotive worlds paused in awe. But thousands of miles away...",
+      "url": "https://spectrum.ieee.org/tesla-robotaxi-chinese-competitors",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 15 Jul 2025 15:00:03 +0000",
+      "collected_at": "2025-07-18T00:56:17.193025"
+    },
+    {
+      "title": "IEEE’s New Climate Tech Magazine Seeks an  Editor in Chief",
+      "summary": "IEEE is launching a new publication, IEEE Climate, which aims to further the organization’s mission and vision of advancing technology for the benefit of humanity. The publication is expected to focus on how technology can play a vital role in mitigating and adapting to climate change.Researchers, e...",
+      "url": "https://spectrum.ieee.org/climate-tech-magazine-seeks-eic",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 16 Jul 2025 18:00:05 +0000",
+      "collected_at": "2025-07-18T00:56:17.192812"
+    },
+    {
+      "title": "GPU Secrets for Scalable AI Performance",
+      "summary": "AI is transforming industries – but only if your infrastructure can deliver the speed, efficiency, and scalability your use cases demand. How do you ensure your systems meet the unique challenges of AI workloads?In this essential ebook, you’ll discover how to:Right-size infrastructure for chatbots, ...",
+      "url": "https://content.knowledgehub.wiley.com/unlock-the-full-potential-of-ai-with-optimized-inference-infrastructure/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 16 Jul 2025 18:45:55 +0000",
+      "collected_at": "2025-07-18T00:56:17.192705"
+    },
+    {
+      "title": "VERVE Probe Would Investigate Venus for Signs of Life",
+      "summary": "Venus has always seemed like the last place you’d expect to find life. With surface temperatures hot enough to melt lead and crushing atmospheric pressure, our neighboring planet appears utterly hostile. But high in its clouds, where conditions are surprisingly Earth-like, scientists have discovered...",
+      "url": "https://spectrum.ieee.org/life-on-venus-verve-mission",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 17 Jul 2025 12:00:03 +0000",
+      "collected_at": "2025-07-18T00:56:17.192623"
     }
   ]
 }
