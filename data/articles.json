@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-07-20T01:02:28.200213",
+  "last_updated": "2025-07-21T01:00:27.480261",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Citizen Scientists Help Confirm Distant Exoplanet",
-      "summary": "Distant exoplanets can be dodgy to spot even in the best of observations. Despite the challenges, a team of astronomers just reported the discovery of a gas giant exoplanet that lies about 400 light-years from Earth. It’s called TOI-4465 b and it takes 12 hours to transit across the face of its star...",
-      "url": "https://spectrum.ieee.org/exoplanet-citizen-science",
-      "date": "07月06日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 06 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-20T01:02:27.198715"
-    },
     {
       "title": "Chemical Process Produces Critical Battery Metals With No Waste",
       "summary": "Olivine is a rather unassuming rock. Olive brown to yellow green in color, this hard yet brittle mineral is thought to be the most abundant in Earth’s upper mantle. Chemically, olivine is magnesium iron silicate, though it contains other elements too. Economically, it’s close to worthless. Its limit...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Jul 2025 15:05:01 +0000",
-      "collected_at": "2025-07-20T01:02:27.198572"
+      "collected_at": "2025-07-21T01:00:26.478693"
     },
     {
       "title": "The Internet of Things Gets a 5G Update",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 14:48:50 +0000",
-      "collected_at": "2025-07-20T01:02:27.198435"
+      "collected_at": "2025-07-21T01:00:26.478556"
     },
     {
       "title": "Ensuring Technology Is Tailored for An Aging Population",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-07-20T01:02:27.198278"
+      "collected_at": "2025-07-21T01:00:26.478398"
     },
     {
       "title": "Pixar’s Art Challenge Highlights IEEE’s Electrical Science Roots",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-20T01:02:27.198089"
+      "collected_at": "2025-07-21T01:00:26.478203"
     },
     {
       "title": "Video Friday: Reachy Mini Brings the Cute",
@@ -61,67 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-20T01:02:27.197951"
+      "collected_at": "2025-07-21T01:00:26.478044"
     },
     {
       "title": "International STEM Students Are Turning Away From the U.S.",
       "summary": "For decades, the United States has held a commanding lead as a destination for international students interested in STEM fields. Then U.S. President Donald Trump’s administration began revoking student visas, temporarily froze student visa interviews, promised extra scrutiny for Chinese students, an...",
       "url": "https://spectrum.ieee.org/trump-international-students",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Jul 2025 11:00:02 +0000",
-      "collected_at": "2025-07-20T01:02:27.197766"
+      "collected_at": "2025-07-21T01:00:26.477855"
     },
     {
       "title": "Chinese Robotaxis Are Gunning for Global Domination",
       "summary": "This post originally appeared on Recode China AI. When Tesla rolled out its much-anticipated pilot robotaxi service in Austin, Texas, last month—a fleet of 10 to 20 Model Y SUVs with “robotaxi” stickers and minor modifications—the tech and automotive worlds paused in awe. But thousands of miles away...",
       "url": "https://spectrum.ieee.org/tesla-robotaxi-chinese-competitors",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Jul 2025 15:00:03 +0000",
-      "collected_at": "2025-07-20T01:02:27.197599"
+      "collected_at": "2025-07-21T01:00:26.477704"
     },
     {
       "title": "IEEE’s New Climate Tech Magazine Seeks an  Editor in Chief",
       "summary": "IEEE is launching a new publication, IEEE Climate, which aims to further the organization’s mission and vision of advancing technology for the benefit of humanity. The publication is expected to focus on how technology can play a vital role in mitigating and adapting to climate change.Researchers, e...",
       "url": "https://spectrum.ieee.org/climate-tech-magazine-seeks-eic",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Jul 2025 18:00:05 +0000",
-      "collected_at": "2025-07-20T01:02:27.197385"
+      "collected_at": "2025-07-21T01:00:26.477490"
     },
     {
       "title": "GPU Secrets for Scalable AI Performance",
       "summary": "AI is transforming industries – but only if your infrastructure can deliver the speed, efficiency, and scalability your use cases demand. How do you ensure your systems meet the unique challenges of AI workloads?In this essential ebook, you’ll discover how to:Right-size infrastructure for chatbots, ...",
       "url": "https://content.knowledgehub.wiley.com/unlock-the-full-potential-of-ai-with-optimized-inference-infrastructure/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Jul 2025 18:45:55 +0000",
-      "collected_at": "2025-07-20T01:02:27.197292"
+      "collected_at": "2025-07-21T01:00:26.477399"
     },
     {
       "title": "VERVE Probe Would Investigate Venus for Signs of Life",
       "summary": "Venus has always seemed like the last place you’d expect to find life. With surface temperatures hot enough to melt lead and crushing atmospheric pressure, our neighboring planet appears utterly hostile. But high in its clouds, where conditions are surprisingly Earth-like, scientists have discovered...",
       "url": "https://spectrum.ieee.org/life-on-venus-verve-mission",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 12:00:03 +0000",
-      "collected_at": "2025-07-20T01:02:27.197243"
+      "collected_at": "2025-07-21T01:00:26.477349"
     },
     {
       "title": "2D Transistors Could Come Sooner Than Expected",
       "summary": "Chipmaking giants like Intel, Samsung, and TSMC see a future where key parts of silicon transistors are replaced with semiconductors that are only a few atoms thick. Although they’ve reported progress toward that goal, that future is generally thought to be more than a decade away. Now, a startup sp...",
       "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 13:00:04 +0000",
-      "collected_at": "2025-07-20T01:02:27.197148"
+      "collected_at": "2025-07-21T01:00:26.477255"
+    },
+    {
+      "title": "3 Ways Control System Principles Can Help With Decision Making",
+      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Much of engineering is decision-making. Engineers make decisions about product design, program management, technology road maps, research directions, leadership of te...",
+      "url": "https://spectrum.ieee.org/control-system-principles-decision-making",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 17 Jul 2025 18:00:03 +0000",
+      "collected_at": "2025-07-21T01:00:26.477137"
     }
   ]
 }
