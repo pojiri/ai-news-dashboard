@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-07-22T00:56:54.870172",
+  "last_updated": "2025-07-23T00:57:43.820110",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Pixar’s Art Challenge Highlights IEEE’s Electrical Science Roots",
-      "summary": "IEEE and Pixar Animation Studios’ collaboration on the RenderMan SciTech Art Challenge last year broke entry records for the annual competition, tripling the usual number of submissions. Nearly 200 artists, engineers, and enthusiasts competed to demonstrate shading, lighting, rendering, and composit...",
-      "url": "https://spectrum.ieee.org/ieee-renderman-tech-milestone",
-      "date": "07月10日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 10 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.868656"
-    },
-    {
-      "title": "Video Friday: Reachy Mini Brings the Cute",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IFAC Symposium on Robotics: 15–18 July 2025, PARISRoboCu...",
-      "url": "https://spectrum.ieee.org/video-friday-reachy-mini",
-      "date": "07月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 11 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.868516"
-    },
     {
       "title": "International STEM Students Are Turning Away From the U.S.",
       "summary": "For decades, the United States has held a commanding lead as a destination for international students interested in STEM fields. Then U.S. President Donald Trump’s administration began revoking student visas, temporarily froze student visa interviews, promised extra scrutiny for Chinese students, an...",
@@ -31,97 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Jul 2025 11:00:02 +0000",
-      "collected_at": "2025-07-22T00:56:53.868333"
+      "collected_at": "2025-07-23T00:57:42.818376"
     },
     {
       "title": "Chinese Robotaxis Are Gunning for Global Domination",
       "summary": "This post originally appeared on Recode China AI. When Tesla rolled out its much-anticipated pilot robotaxi service in Austin, Texas, last month—a fleet of 10 to 20 Model Y SUVs with “robotaxi” stickers and minor modifications—the tech and automotive worlds paused in awe. But thousands of miles away...",
       "url": "https://spectrum.ieee.org/tesla-robotaxi-chinese-competitors",
-      "date": "6日前",
+      "date": "07月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Jul 2025 15:00:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.868175"
+      "collected_at": "2025-07-23T00:57:42.818217"
     },
     {
       "title": "IEEE’s New Climate Tech Magazine Seeks an  Editor in Chief",
       "summary": "IEEE is launching a new publication, IEEE Climate, which aims to further the organization’s mission and vision of advancing technology for the benefit of humanity. The publication is expected to focus on how technology can play a vital role in mitigating and adapting to climate change.Researchers, e...",
       "url": "https://spectrum.ieee.org/climate-tech-magazine-seeks-eic",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Jul 2025 18:00:05 +0000",
-      "collected_at": "2025-07-22T00:56:53.867952"
+      "collected_at": "2025-07-23T00:57:42.817967"
     },
     {
       "title": "GPU Secrets for Scalable AI Performance",
       "summary": "AI is transforming industries – but only if your infrastructure can deliver the speed, efficiency, and scalability your use cases demand. How do you ensure your systems meet the unique challenges of AI workloads?In this essential ebook, you’ll discover how to:Right-size infrastructure for chatbots, ...",
       "url": "https://content.knowledgehub.wiley.com/unlock-the-full-potential-of-ai-with-optimized-inference-infrastructure/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Jul 2025 18:45:55 +0000",
-      "collected_at": "2025-07-22T00:56:53.867863"
+      "collected_at": "2025-07-23T00:57:42.817877"
     },
     {
       "title": "VERVE Probe Would Investigate Venus for Signs of Life",
       "summary": "Venus has always seemed like the last place you’d expect to find life. With surface temperatures hot enough to melt lead and crushing atmospheric pressure, our neighboring planet appears utterly hostile. But high in its clouds, where conditions are surprisingly Earth-like, scientists have discovered...",
       "url": "https://spectrum.ieee.org/life-on-venus-verve-mission",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 12:00:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.867814"
+      "collected_at": "2025-07-23T00:57:42.817828"
     },
     {
       "title": "2D Transistors Could Come Sooner Than Expected",
       "summary": "Chipmaking giants like Intel, Samsung, and TSMC see a future where key parts of silicon transistors are replaced with semiconductors that are only a few atoms thick. Although they’ve reported progress toward that goal, that future is generally thought to be more than a decade away. Now, a startup sp...",
       "url": "https://spectrum.ieee.org/cdimensions-2d-semiconductors",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 13:00:04 +0000",
-      "collected_at": "2025-07-22T00:56:53.867722"
+      "collected_at": "2025-07-23T00:57:42.817734"
     },
     {
       "title": "3 Ways Control System Principles Can Help With Decision Making",
       "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Much of engineering is decision-making. Engineers make decisions about product design, program management, technology road maps, research directions, leadership of te...",
       "url": "https://spectrum.ieee.org/control-system-principles-decision-making",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.867611"
+      "collected_at": "2025-07-23T00:57:42.817620"
     },
     {
       "title": "Why Aren’t You a 10x Engineer?",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!We’ve all heard about the mythical 10x engineer: the en...",
       "url": "https://spectrum.ieee.org/becoming-a-10x-engineer",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 17 Jul 2025 19:15:44 +0000",
-      "collected_at": "2025-07-22T00:56:53.867478"
+      "collected_at": "2025-07-23T00:57:42.817483"
     },
     {
       "title": "Video Friday: Robot Metabolism",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, THE NETHERLAN...",
       "url": "https://spectrum.ieee.org/video-friday-robot-metabolism",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 18 Jul 2025 15:30:03 +0000",
-      "collected_at": "2025-07-22T00:56:53.867369"
+      "collected_at": "2025-07-23T00:57:42.817373"
     },
     {
       "title": "Why the Latest AI Model Isn’t Always Best for Edge AI",
       "summary": "As you prepare for an evening of relaxation at home, you might ask your smartphone to play your favorite song or tell your home assistant to dim the lights. These tasks feel simple because they’re powered by the artificial intelligence that’s now integrated into our daily routines. At the heart of t...",
       "url": "https://spectrum.ieee.org/edge-ai",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 20 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-22T00:56:53.867195"
+      "collected_at": "2025-07-23T00:57:42.817196"
+    },
+    {
+      "title": "STEM Immigration’s Impact on U.S. Workforce Diversity",
+      "summary": "For decades, the United States has attracted students and employees from across the globe aiming to pursue careers in engineering and other STEM disciplines. Foreign-born individuals are a significant part of the U.S. workforce. In recent years, many policymakers and researchers have also sought to ...",
+      "url": "https://spectrum.ieee.org/stem-immigration-diversity-gaps",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 21 Jul 2025 14:00:02 +0000",
+      "collected_at": "2025-07-23T00:57:42.817082"
+    },
+    {
+      "title": "DeepMind’s Quest for Self-Improving Table Tennis Agents",
+      "summary": "Hardly a day goes by without impressive new robotic platforms emerging from academic labs and commercial startups worldwide. Humanoid robots in particular look increasingly capable of assisting us in factories and eventually in homes and hospitals. Yet, for these machines to be truly useful, they ne...",
+      "url": "https://spectrum.ieee.org/deepmind-table-tennis-robots",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 21 Jul 2025 15:00:03 +0000",
+      "collected_at": "2025-07-23T00:57:42.816889"
     }
   ]
 }
