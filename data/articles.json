@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-26T00:55:22.411215",
+  "last_updated": "2025-07-27T01:02:29.047911",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,117 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 18 Jul 2025 15:30:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.409784"
+      "collected_at": "2025-07-27T01:02:28.046476"
     },
     {
       "title": "Why the Latest AI Model Isn’t Always Best for Edge AI",
       "summary": "As you prepare for an evening of relaxation at home, you might ask your smartphone to play your favorite song or tell your home assistant to dim the lights. These tasks feel simple because they’re powered by the artificial intelligence that’s now integrated into our daily routines. At the heart of t...",
       "url": "https://spectrum.ieee.org/edge-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 20 Jul 2025 13:00:02 +0000",
-      "collected_at": "2025-07-26T00:55:21.409587"
+      "collected_at": "2025-07-27T01:02:28.046272"
     },
     {
       "title": "STEM Immigration’s Impact on U.S. Workforce Diversity",
       "summary": "For decades, the United States has attracted students and employees from across the globe aiming to pursue careers in engineering and other STEM disciplines. Foreign-born individuals are a significant part of the U.S. workforce. In recent years, many policymakers and researchers have also sought to ...",
       "url": "https://spectrum.ieee.org/stem-immigration-diversity-gaps",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 21 Jul 2025 14:00:02 +0000",
-      "collected_at": "2025-07-26T00:55:21.409483"
+      "collected_at": "2025-07-27T01:02:28.046168"
     },
     {
       "title": "DeepMind’s Quest for Self-Improving Table Tennis Agents",
       "summary": "Hardly a day goes by without impressive new robotic platforms emerging from academic labs and commercial startups worldwide. Humanoid robots in particular look increasingly capable of assisting us in factories and eventually in homes and hospitals. Yet, for these machines to be truly useful, they ne...",
       "url": "https://spectrum.ieee.org/deepmind-table-tennis-robots",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 21 Jul 2025 15:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.409323"
+      "collected_at": "2025-07-27T01:02:28.046005"
     },
     {
       "title": "Faster, Safer Cars Come Into Focus With New Optical Network Tech",
       "summary": "Madrid-based fabless semiconductor company KD and Fremont, Calif.–based embedded camera maker Leopard Imaging have launched a significant upgrade to cameras for vehicle vision systems. It’s the first system for automotive applications with an Ethernet networking backbone to break the 10-gigabit-per-...",
       "url": "https://spectrum.ieee.org/car-cameras-kd-automotive-vision",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 21 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.409176"
+      "collected_at": "2025-07-27T01:02:28.045858"
     },
     {
       "title": "Geothermal Energy Survives Trump’s Tax Law",
       "summary": "This article was originally published by Canary Media.Geothermal energy was spared in U.S. president Donald Trump’s sweeping tax and spending law, which made deep cuts to incentives for other forms of clean energy. But developers of the resurgent energy source may still face difficulties due to comp...",
       "url": "https://spectrum.ieee.org/geothermal-energy-big-beautiful-bill",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 22 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.409052"
+      "collected_at": "2025-07-27T01:02:28.045732"
     },
     {
       "title": "IEEE Makes Strides to Improve Online Safety for Kids",
       "summary": "Kids are using the Internet at a younger age and spending more time online, according to UNICEF. One in three Internet users worldwide is younger than 18, it reports. An increasing amount of harmful online practices and content is impacting children mentally, emotionally, and physically, as well as ...",
       "url": "https://spectrum.ieee.org/online-safety-kids-ieee-standard",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 22 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.408861"
+      "collected_at": "2025-07-27T01:02:28.045536"
     },
     {
       "title": "The Engineer Who Secured Nigeria’s Democracy",
       "summary": "In October 2000, when electrical engineer Steve A. Adeshina joined Nigeria’s Independent National Electoral Commission (INEC) as director of information and communication technology, the country had just held its first successful democratic general elections in 17 years. The 1999 elections were gene...",
       "url": "https://spectrum.ieee.org/modernizing-nigerian-voting-system",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 23 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-26T00:55:21.408708"
+      "collected_at": "2025-07-27T01:02:28.045379"
     },
     {
       "title": "Startup Claims up to 100x Better Embedded Computing Efficiency",
       "summary": "There’s a growing need for CPUs that can live life on the edge. That is, computing for a long time embedded in hard-to-get-to places and surviving on battery power or energy they can scrounge from the environment. Frustrated with inherent inefficiencies in the architecture of ultralow-power micropro...",
       "url": "https://spectrum.ieee.org/efficient-computer-dataflow-architecture",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 13:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.408550"
+      "collected_at": "2025-07-27T01:02:28.045217"
     },
     {
       "title": "Here Comes the World Wide Web of Everything",
       "summary": "When it was invented in 1991, the World Wide Web connected an Internet that was overrun with many thousands of individual, fragmented digital documents. HTML, Hypertext Markup Language, represented a daring leap. It combined the age-old idea of hypertext with the Internet’s global reach. Tim Berners...",
       "url": "https://spectrum.ieee.org/spatial-web-standard",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 14:00:02 +0000",
-      "collected_at": "2025-07-26T00:55:21.408444"
+      "collected_at": "2025-07-27T01:02:28.045107"
     },
     {
       "title": "Mobile BESS Powers Remote Heavy Equipment",
       "summary": "In June, a fuel delivery to a Johns Hopkins Hospital campus went terribly awry, spilling 2,000 gallons of diesel into Baltimore’s harbor. As the Maryland capital raced to contain the mess, responders discovered a problem: They didn’t have access to reliable power at the waterfront site. Usually in t...",
       "url": "https://spectrum.ieee.org/mobile-bess",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.408242"
+      "collected_at": "2025-07-27T01:02:28.044892"
     },
     {
       "title": "Get to Know the IEEE Board of Directors",
       "summary": "The IEEE Board of Directors shapes the future direction of IEEE and is committed to ensuring IEEE remains a strong and vibrant organization—serving the needs of its members and the engineering and technology community worldwide while fulfilling the IEEE mission of advancing technology for the benefi...",
       "url": "https://spectrum.ieee.org/ieee-bod-july-2026",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-26T00:55:21.408125"
+      "collected_at": "2025-07-27T01:02:28.044772"
     }
   ]
 }
