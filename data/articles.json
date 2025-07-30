@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-07-29T01:02:53.905475",
+  "last_updated": "2025-07-30T00:58:03.815118",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "DeepMind’s Quest for Self-Improving Table Tennis Agents",
-      "summary": "Hardly a day goes by without impressive new robotic platforms emerging from academic labs and commercial startups worldwide. Humanoid robots in particular look increasingly capable of assisting us in factories and eventually in homes and hospitals. Yet, for these machines to be truly useful, they ne...",
-      "url": "https://spectrum.ieee.org/deepmind-table-tennis-robots",
-      "date": "07月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 21 Jul 2025 15:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.903939"
-    },
-    {
-      "title": "Faster, Safer Cars Come Into Focus With New Optical Network Tech",
-      "summary": "Madrid-based fabless semiconductor company KD and Fremont, Calif.–based embedded camera maker Leopard Imaging have launched a significant upgrade to cameras for vehicle vision systems. It’s the first system for automotive applications with an Ethernet networking backbone to break the 10-gigabit-per-...",
-      "url": "https://spectrum.ieee.org/car-cameras-kd-automotive-vision",
-      "date": "07月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 21 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.903780"
-    },
-    {
       "title": "Geothermal Energy Survives Trump’s Tax Law",
       "summary": "This article was originally published by Canary Media.Geothermal energy was spared in U.S. president Donald Trump’s sweeping tax and spending law, which made deep cuts to incentives for other forms of clean energy. But developers of the resurgent energy source may still face difficulties due to comp...",
       "url": "https://spectrum.ieee.org/geothermal-energy-big-beautiful-bill",
-      "date": "6日前",
+      "date": "07月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 22 Jul 2025 14:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.903642"
+      "collected_at": "2025-07-30T00:58:02.813513"
     },
     {
       "title": "IEEE Makes Strides to Improve Online Safety for Kids",
       "summary": "Kids are using the Internet at a younger age and spending more time online, according to UNICEF. One in three Internet users worldwide is younger than 18, it reports. An increasing amount of harmful online practices and content is impacting children mentally, emotionally, and physically, as well as ...",
       "url": "https://spectrum.ieee.org/online-safety-kids-ieee-standard",
-      "date": "6日前",
+      "date": "07月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 22 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.903446"
+      "collected_at": "2025-07-30T00:58:02.813309"
     },
     {
       "title": "The Engineer Who Secured Nigeria’s Democracy",
       "summary": "In October 2000, when electrical engineer Steve A. Adeshina joined Nigeria’s Independent National Electoral Commission (INEC) as director of information and communication technology, the country had just held its first successful democratic general elections in 17 years. The 1999 elections were gene...",
       "url": "https://spectrum.ieee.org/modernizing-nigerian-voting-system",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 23 Jul 2025 14:00:04 +0000",
-      "collected_at": "2025-07-29T01:02:52.903290"
+      "collected_at": "2025-07-30T00:58:02.813144"
     },
     {
       "title": "Startup Claims up to 100x Better Embedded Computing Efficiency",
       "summary": "There’s a growing need for CPUs that can live life on the edge. That is, computing for a long time embedded in hard-to-get-to places and surviving on battery power or energy they can scrounge from the environment. Frustrated with inherent inefficiencies in the architecture of ultralow-power micropro...",
       "url": "https://spectrum.ieee.org/efficient-computer-dataflow-architecture",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 13:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.903129"
+      "collected_at": "2025-07-30T00:58:02.813000"
     },
     {
       "title": "Here Comes the World Wide Web of Everything",
       "summary": "When it was invented in 1991, the World Wide Web connected an Internet that was overrun with many thousands of individual, fragmented digital documents. HTML, Hypertext Markup Language, represented a daring leap. It combined the age-old idea of hypertext with the Internet’s global reach. Tim Berners...",
       "url": "https://spectrum.ieee.org/spatial-web-standard",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 14:00:02 +0000",
-      "collected_at": "2025-07-29T01:02:52.903023"
+      "collected_at": "2025-07-30T00:58:02.812893"
     },
     {
       "title": "Mobile BESS Powers Remote Heavy Equipment",
       "summary": "In June, a fuel delivery to a Johns Hopkins Hospital campus went terribly awry, spilling 2,000 gallons of diesel into Baltimore’s harbor. As the Maryland capital raced to contain the mess, responders discovered a problem: They didn’t have access to reliable power at the waterfront site. Usually in t...",
       "url": "https://spectrum.ieee.org/mobile-bess",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.902819"
+      "collected_at": "2025-07-30T00:58:02.812671"
     },
     {
       "title": "Get to Know the IEEE Board of Directors",
       "summary": "The IEEE Board of Directors shapes the future direction of IEEE and is committed to ensuring IEEE remains a strong and vibrant organization—serving the needs of its members and the engineering and technology community worldwide while fulfilling the IEEE mission of advancing technology for the benefi...",
       "url": "https://spectrum.ieee.org/ieee-bod-july-2026",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.902703"
+      "collected_at": "2025-07-30T00:58:02.812557"
     },
     {
       "title": "Video Friday: Skyfall Takes on Mars With Swarm Helicopter Concept",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, NETHERLANDSCL...",
       "url": "https://spectrum.ieee.org/video-friday-skyfall-mars-helicopter",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.902447"
+      "collected_at": "2025-07-30T00:58:02.812305"
     },
     {
       "title": "The Telecommunications Pioneer Who Helped Connect the World",
       "summary": "Without Seizo Onoe, cellular phone networks would not be the source of global connectivity we know today. The IEEE life member was instrumental in driving the standardization for 3G and 4G mobile networks.The first-generation networks that launched in the late 1970s and early 1980s were largely coun...",
       "url": "https://spectrum.ieee.org/telecommunication-pioneer-seizo-onoe",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-07-29T01:02:52.902243"
+      "collected_at": "2025-07-30T00:58:02.812112"
     },
     {
       "title": "Ferroelectric Helps Break Transistor Limits",
       "summary": "Integrating an electronic material that exhibits a strange property called negative capacitance can help high-power gallium nitride transistors break through a performance barrier, say scientists in California. Research published in Science suggests that negative capacitance helps sidestep a physica...",
       "url": "https://spectrum.ieee.org/negative-capacitance-schottky-limit",
-      "date": "13時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Jul 2025 12:00:03 +0000",
-      "collected_at": "2025-07-29T01:02:52.901996"
+      "collected_at": "2025-07-30T00:58:02.811905"
+    },
+    {
+      "title": "What the CHIPS Act Looks Like Now",
+      "summary": "The U.S. CHIPS and Science Act of 2022 aimed to reestablish advanced manufacturing for logic and memory in the United States, as well as boost or establish other chipmaking activities. The job is far from complete, but a look at where the money is expected to go points to a potentially broad geograp...",
+      "url": "https://spectrum.ieee.org/chips-act-map",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 28 Jul 2025 13:00:03 +0000",
+      "collected_at": "2025-07-30T00:58:02.811788"
+    },
+    {
+      "title": "IEEE President-Elect Candidates On Their No. 1 Strategic Goal",
+      "summary": "The annual IEEE election process begins in August, so be sure to check your mailbox for your ballot. To help you choose the 2026 IEEE president-elect, The Institute is publishing the candidates’ official biographies as well as a statement describing which IEEE Strategic Goal resonates with them the ...",
+      "url": "https://spectrum.ieee.org/2026-president-elect-candidates",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 28 Jul 2025 18:00:03 +0000",
+      "collected_at": "2025-07-30T00:58:02.811669"
     }
   ]
 }
