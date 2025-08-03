@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-02T00:55:23.368684",
+  "last_updated": "2025-08-03T01:03:34.398920",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.366969"
+      "collected_at": "2025-08-03T01:03:33.397593"
     },
     {
       "title": "The Telecommunications Pioneer Who Helped Connect the World",
@@ -21,107 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Jul 2025 18:00:02 +0000",
-      "collected_at": "2025-08-02T00:55:22.366767"
+      "collected_at": "2025-08-03T01:03:33.397396"
     },
     {
       "title": "Ferroelectric Helps Break Transistor Limits",
       "summary": "Integrating an electronic material that exhibits a strange property called negative capacitance can help high-power gallium nitride transistors break through a performance barrier, say scientists in California. Research published in Science suggests that negative capacitance helps sidestep a physica...",
       "url": "https://spectrum.ieee.org/negative-capacitance-schottky-limit",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Jul 2025 12:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.366544"
+      "collected_at": "2025-08-03T01:03:33.397184"
     },
     {
       "title": "What the CHIPS Act Looks Like Now",
       "summary": "The U.S. CHIPS and Science Act of 2022 aimed to reestablish advanced manufacturing for logic and memory in the United States, as well as boost or establish other chipmaking activities. The job is far from complete, but a look at where the money is expected to go points to a potentially broad geograp...",
       "url": "https://spectrum.ieee.org/chips-act-map",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Jul 2025 13:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.366432"
+      "collected_at": "2025-08-03T01:03:33.397072"
     },
     {
       "title": "IEEE President-Elect Candidates On Their No. 1 Strategic Goal",
       "summary": "The annual IEEE election process begins in August, so be sure to check your mailbox for your ballot. To help you choose the 2026 IEEE president-elect, The Institute is publishing the candidates’ official biographies as well as a statement describing which IEEE Strategic Goal resonates with them the ...",
       "url": "https://spectrum.ieee.org/2026-president-elect-candidates",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.366366"
+      "collected_at": "2025-08-03T01:03:33.397007"
     },
     {
       "title": "Over-the-Air Lasers Aim to Solve the Internet’s “Middle Mile”",
       "summary": "Twenty years ago, Web-savvy folks were focused on solving the Internet’s “last-mile” problem. Today, by contrast, one of the biggest bottlenecks to expanding Internet access is rather around a “middle-mile” problem—crossing cities and tough terrain, not just driveways and country roads.  Taara, a sp...",
       "url": "https://spectrum.ieee.org/free-space-optical-communication-taara",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Jul 2025 12:00:02 +0000",
-      "collected_at": "2025-08-02T00:55:22.366235"
+      "collected_at": "2025-08-03T01:03:33.396878"
     },
     {
       "title": "Learning Analog System Design With the MOSbius",
       "summary": "When it comes to learning digital system design, hobbyists and students have a lot of options, whether it’s tinkering with field-programmable gate arrays or working up chip submission for a Tiny Tapeout run. But similar tools for analog design have been harder to come by. Certainly you can create an...",
       "url": "https://spectrum.ieee.org/mosbius-learning-analog-system-design",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Jul 2025 14:00:02 +0000",
-      "collected_at": "2025-08-02T00:55:22.365932"
+      "collected_at": "2025-08-03T01:03:33.396585"
     },
     {
       "title": "The Stratosphere Will Be Telecom’s Next Frontier",
       "summary": "With more than 8,000 Starlink satellites in the sky today, low Earth orbit may seem like the place to be to connect the next generation of Internet and cellphone customers. However, some players are placing their bets slightly closer to the ground.Starting next year, Tokyo’s SoftBank Corp. will be b...",
       "url": "https://spectrum.ieee.org/high-altitude-platform-station-softbank",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 31 Jul 2025 13:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.365782"
+      "collected_at": "2025-08-03T01:03:33.396439"
     },
     {
       "title": "Move Too Fast, Risk Systemic Blowback",
       "summary": "One of the most sobering insights from Contributing Editor Robert N. Charette’s feature story in this issue is that the 20-year rollout of electronic health records (EHRs) in the United States happened with an intentional disregard for interoperability. As a result, thousands of health care provider...",
       "url": "https://spectrum.ieee.org/ai-systemic-blowback",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 31 Jul 2025 16:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.365619"
+      "collected_at": "2025-08-03T01:03:33.396280"
     },
     {
       "title": "Growing Through IEEE: Leadership and Learning in Action",
       "summary": "It’s often said that a single moment can spark a lifelong journey. For me the moment happened in 2011, when I was a graduate student—not in a lab or a classroom but rather in a conference hall in Rome. I was presenting my graduate research on a helix antenna for wideband terrestrial and GPS L2 commu...",
       "url": "https://spectrum.ieee.org/ieee-leadership-and-learning",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 31 Jul 2025 18:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.365526"
+      "collected_at": "2025-08-03T01:03:33.396191"
     },
     {
       "title": "A Cold War Kit for Surviving a Nuclear Attack",
       "summary": "On 29 August 1949, the Soviet Union successfully tested its first nuclear weapon. Over the next year and a half, U.S. President Harry S. Truman resurrected the Office of Civilian Defense (which had been abolished at the end of World War II) and signed into law the Federal Civil Defense Act of 1950, ...",
       "url": "https://spectrum.ieee.org/civil-defense-cold-war",
-      "date": "9時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 01 Aug 2025 15:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.365328"
+      "collected_at": "2025-08-03T01:03:33.396001"
     },
     {
       "title": "Video Friday: Dance With CHILD",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, NETHERLANDSCL...",
       "url": "https://spectrum.ieee.org/video-friday-child-humanoid-robot",
-      "date": "7時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 01 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-02T00:55:22.365042"
+      "collected_at": "2025-08-03T01:03:33.395772"
     }
   ]
 }
