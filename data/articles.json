@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-08-11T00:59:27.408740",
+  "last_updated": "2025-08-12T00:53:33.586961",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "A Cold War Kit for Surviving a Nuclear Attack",
-      "summary": "On 29 August 1949, the Soviet Union successfully tested its first nuclear weapon. Over the next year and a half, U.S. President Harry S. Truman resurrected the Office of Civilian Defense (which had been abolished at the end of World War II) and signed into law the Federal Civil Defense Act of 1950, ...",
-      "url": "https://spectrum.ieee.org/civil-defense-cold-war",
-      "date": "08月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 01 Aug 2025 15:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.407219"
-    },
     {
       "title": "Video Friday: Dance With CHILD",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, NETHERLANDSCL...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 01 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.406993"
+      "collected_at": "2025-08-12T00:53:32.585598"
     },
     {
       "title": "Future-Proofing Your Coding Career in the Age of AI",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 01 Aug 2025 18:14:44 +0000",
-      "collected_at": "2025-08-11T00:59:26.406841"
+      "collected_at": "2025-08-12T00:53:32.585446"
     },
     {
       "title": "LG Launches Bid to Build an End-to-End AI Infrastructure",
@@ -41,87 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 03 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-11T00:59:26.406700"
+      "collected_at": "2025-08-12T00:53:32.585306"
     },
     {
       "title": "Scientists Shine a Laser Through a Human Head",
       "summary": "For the most part, anyone who wants to see what’s going on inside someone else’s brain has to make a trade-off when it comes to which tools to use. The electroencephalograph (EEG) is cheap and portable, but it can’t read much past the outer layers of the brain, while the alternative, functional magn...",
       "url": "https://spectrum.ieee.org/optical-brain-imaging",
-      "date": "6日前",
+      "date": "08月04日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-11T00:59:26.406577"
+      "collected_at": "2025-08-12T00:53:32.585190"
     },
     {
       "title": "Grid-Scale Battery Stabilizes Scottish Power Supply",
       "summary": "A grid-scale battery in the Scottish Highlands got a chance to prove its mettle in March when, 11 days after it started up, a massive wood-burning generator in Northern England shut down unexpectedly. Suddenly 1,877 megawatts of supply was missing, causing the 50-hertz frequency of the grid’s altern...",
       "url": "https://spectrum.ieee.org/grid-scale-battery-scotland",
-      "date": "6日前",
+      "date": "08月04日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.406440"
+      "collected_at": "2025-08-12T00:53:32.585047"
     },
     {
       "title": "DOE Has a Crazy-Short Deadline to Pick a Site for New Nuclear",
       "summary": "U.S. president Donald Trump issued a suite of directives in May  aimed at hastening the development of advanced nuclear reactors. The directives, delivered via a set of four executive orders, set ambitious goals, such as having 10 new large reactors under construction by 2030, and overhauling the U....",
       "url": "https://spectrum.ieee.org/doe-advanced-nuclear-site-permit",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.406261"
+      "collected_at": "2025-08-12T00:53:32.584877"
     },
     {
       "title": "Protecting Electronics Against Electrostatic Discharge",
       "summary": "Today’s semiconductor devices are built with nanometer-scale features and operate at increasingly lower voltages—which makes them more susceptible to even minor electrical overstress.Electrostatic discharge (ESD) is a persistent, costly challenge in the electronics industry. A discharge of just 100 ...",
       "url": "https://spectrum.ieee.org/electrostatic-discharge",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.406079"
+      "collected_at": "2025-08-12T00:53:32.584677"
     },
     {
       "title": "Walmart Will Test a Green-Hydrogen Fuel Cell Truck in Chile",
       "summary": "Latin America’s first green-hydrogen-powered fuel cell truck has hit the road in Chile, marking a milestone for the country’s decarbonization efforts. The semitrailer truck will begin a yearlong testing phase in September 2025, loading up at Walmart Chile’s Quilicura Distribution Center and carrying...",
       "url": "https://spectrum.ieee.org/hydrogen-fuel-cell-walmart-chile",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-08-11T00:59:26.405990"
+      "collected_at": "2025-08-12T00:53:32.584592"
     },
     {
       "title": "In Nigeria, Why Isn’t Broadband Everywhere?",
       "summary": "Under the shade of a cocoa tree outside the hamlet of Atan, near Ibadan, Nigeria, Bolaji Adeniyi holds court in a tie-dyed T-shirt. “In Nigeria we see farms as father’s work,” he says. Adeniyi’s father taught him to farm with a hoe and a machete, which he calls a cutlass. These days, he says, farmin...",
       "url": "https://spectrum.ieee.org/broadband-internet-in-nigeria",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-08-11T00:59:26.405836"
+      "collected_at": "2025-08-12T00:53:32.584444"
     },
     {
       "title": "Automakers Race to Add Voice AI to Connected Vehicles",
       "summary": "When rain begins to fall and a driver says, “Hey Mercedes, is adaptive cruise control on?”—the car doesn’t just reply. It reassures, adjusts, and nudges the driver to keep their hands on the wheel. Welcome to the age of conversational mobility, where natural dialogue with your car is becoming as rou...",
       "url": "https://spectrum.ieee.org/ai-enabled-vehicle-assistant",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 15:15:18 +0000",
-      "collected_at": "2025-08-11T00:59:26.405252"
+      "collected_at": "2025-08-12T00:53:32.583926"
     },
     {
       "title": "OpenAI Launches GPT-5, the Next Step in Its Quest for AGI",
       "summary": "The wait is finally over. Today, right now, OpenAI is releasing its latest and greatest large language model, GPT-5, and making it available through the ChatGPT interface. According to OpenAI’s leaders, the model brings unprecedented powers of reasoning, brings vibe coding to a new level, is better ...",
       "url": "https://spectrum.ieee.org/openai-gpt-5-agi",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-11T00:59:26.405012"
+      "collected_at": "2025-08-12T00:53:32.583653"
+    },
+    {
+      "title": "Video Friday: Unitree’s A2 Quadruped Goes Exploring",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Humanoid Robot Games: 15–17 August 2025, BEIJINGRO...",
+      "url": "https://spectrum.ieee.org/video-friday-exploration-robots",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 08 Aug 2025 15:30:04 +0000",
+      "collected_at": "2025-08-12T00:53:32.583494"
     }
   ]
 }
