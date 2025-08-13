@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-08-12T00:53:33.586961",
+  "last_updated": "2025-08-13T00:54:50.276027",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Video Friday: Dance With CHILD",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, NETHERLANDSCL...",
-      "url": "https://spectrum.ieee.org/video-friday-child-humanoid-robot",
-      "date": "08月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 01 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-12T00:53:32.585598"
-    },
-    {
-      "title": "Future-Proofing Your Coding Career in the Age of AI",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!I recently had a conversation with a Microsoft engineer...",
-      "url": "https://spectrum.ieee.org/future-proof-ai-coding",
-      "date": "08月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 01 Aug 2025 18:14:44 +0000",
-      "collected_at": "2025-08-12T00:53:32.585446"
-    },
     {
       "title": "LG Launches Bid to Build an End-to-End AI Infrastructure",
       "summary": "On 15 July, LG AI Research—the AI R&D arm of South Korea’s LG Group—unveiled Exaone 4.0, a hybrid reasoning AI model that combines general language processing with the advanced reasoning capabilities introduced through the company’s earlier Exaone Deep model.LG AI Research says its new model outperf...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 03 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-12T00:53:32.585306"
+      "collected_at": "2025-08-13T00:54:49.274426"
     },
     {
       "title": "Scientists Shine a Laser Through a Human Head",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-12T00:53:32.585190"
+      "collected_at": "2025-08-13T00:54:49.274291"
     },
     {
       "title": "Grid-Scale Battery Stabilizes Scottish Power Supply",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-12T00:53:32.585047"
+      "collected_at": "2025-08-13T00:54:49.274153"
     },
     {
       "title": "DOE Has a Crazy-Short Deadline to Pick a Site for New Nuclear",
       "summary": "U.S. president Donald Trump issued a suite of directives in May  aimed at hastening the development of advanced nuclear reactors. The directives, delivered via a set of four executive orders, set ambitious goals, such as having 10 new large reactors under construction by 2030, and overhauling the U....",
       "url": "https://spectrum.ieee.org/doe-advanced-nuclear-site-permit",
-      "date": "6日前",
+      "date": "08月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-12T00:53:32.584877"
+      "collected_at": "2025-08-13T00:54:49.273991"
     },
     {
       "title": "Protecting Electronics Against Electrostatic Discharge",
       "summary": "Today’s semiconductor devices are built with nanometer-scale features and operate at increasingly lower voltages—which makes them more susceptible to even minor electrical overstress.Electrostatic discharge (ESD) is a persistent, costly challenge in the electronics industry. A discharge of just 100 ...",
       "url": "https://spectrum.ieee.org/electrostatic-discharge",
-      "date": "6日前",
+      "date": "08月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-12T00:53:32.584677"
+      "collected_at": "2025-08-13T00:54:49.273802"
     },
     {
       "title": "Walmart Will Test a Green-Hydrogen Fuel Cell Truck in Chile",
       "summary": "Latin America’s first green-hydrogen-powered fuel cell truck has hit the road in Chile, marking a milestone for the country’s decarbonization efforts. The semitrailer truck will begin a yearlong testing phase in September 2025, loading up at Walmart Chile’s Quilicura Distribution Center and carrying...",
       "url": "https://spectrum.ieee.org/hydrogen-fuel-cell-walmart-chile",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-08-12T00:53:32.584592"
+      "collected_at": "2025-08-13T00:54:49.273703"
     },
     {
       "title": "In Nigeria, Why Isn’t Broadband Everywhere?",
       "summary": "Under the shade of a cocoa tree outside the hamlet of Atan, near Ibadan, Nigeria, Bolaji Adeniyi holds court in a tie-dyed T-shirt. “In Nigeria we see farms as father’s work,” he says. Adeniyi’s father taught him to farm with a hoe and a machete, which he calls a cutlass. These days, he says, farmin...",
       "url": "https://spectrum.ieee.org/broadband-internet-in-nigeria",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-08-12T00:53:32.584444"
+      "collected_at": "2025-08-13T00:54:49.273555"
     },
     {
       "title": "Automakers Race to Add Voice AI to Connected Vehicles",
       "summary": "When rain begins to fall and a driver says, “Hey Mercedes, is adaptive cruise control on?”—the car doesn’t just reply. It reassures, adjusts, and nudges the driver to keep their hands on the wheel. Welcome to the age of conversational mobility, where natural dialogue with your car is becoming as rou...",
       "url": "https://spectrum.ieee.org/ai-enabled-vehicle-assistant",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 15:15:18 +0000",
-      "collected_at": "2025-08-12T00:53:32.583926"
+      "collected_at": "2025-08-13T00:54:49.273043"
     },
     {
       "title": "OpenAI Launches GPT-5, the Next Step in Its Quest for AGI",
       "summary": "The wait is finally over. Today, right now, OpenAI is releasing its latest and greatest large language model, GPT-5, and making it available through the ChatGPT interface. According to OpenAI’s leaders, the model brings unprecedented powers of reasoning, brings vibe coding to a new level, is better ...",
       "url": "https://spectrum.ieee.org/openai-gpt-5-agi",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-12T00:53:32.583653"
+      "collected_at": "2025-08-13T00:54:49.272806"
     },
     {
       "title": "Video Friday: Unitree’s A2 Quadruped Goes Exploring",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Humanoid Robot Games: 15–17 August 2025, BEIJINGRO...",
       "url": "https://spectrum.ieee.org/video-friday-exploration-robots",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-12T00:53:32.583494"
+      "collected_at": "2025-08-13T00:54:49.272649"
+    },
+    {
+      "title": "Semiconductor Rivalry Rages on in High-Temperature Chips",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nTwo semiconductors—silicon carbide and gallium nitride—are the rivals in a (quite literally) heated competition to make circuits capable of performing at the highest temperatures. Silicon carbide chips h...",
+      "url": "https://spectrum.ieee.org/high-temperature-transistor",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 11 Aug 2025 14:00:02 +0000",
+      "collected_at": "2025-08-13T00:54:49.272513"
+    },
+    {
+      "title": "Richard Garwin, Designer of the First Hydrogen Bomb, Dies at 97",
+      "summary": "Richard L. GarwinDesigner of the first hydrogen bombLife Fellow, 97; died 13 MayGarwin played a critical role in developing the world’s first hydrogen bomb in the early 1950s.For 41 years he worked as an IBM researcher in Yorktown Heights, N.Y. During that time he also served as science advisor to s...",
+      "url": "https://spectrum.ieee.org/richard-garwin-hydrogen-bomb-obituary",
+      "date": "6時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 12 Aug 2025 18:00:04 +0000",
+      "collected_at": "2025-08-13T00:54:49.272276"
     }
   ]
 }
