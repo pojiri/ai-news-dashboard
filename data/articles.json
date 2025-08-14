@@ -1,38 +1,8 @@
 {
-  "last_updated": "2025-08-13T00:54:50.276027",
+  "last_updated": "2025-08-14T00:54:49.481120",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "LG Launches Bid to Build an End-to-End AI Infrastructure",
-      "summary": "On 15 July, LG AI Research—the AI R&D arm of South Korea’s LG Group—unveiled Exaone 4.0, a hybrid reasoning AI model that combines general language processing with the advanced reasoning capabilities introduced through the company’s earlier Exaone Deep model.LG AI Research says its new model outperf...",
-      "url": "https://spectrum.ieee.org/exaone-lg-ai-research",
-      "date": "08月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 03 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-13T00:54:49.274426"
-    },
-    {
-      "title": "Scientists Shine a Laser Through a Human Head",
-      "summary": "For the most part, anyone who wants to see what’s going on inside someone else’s brain has to make a trade-off when it comes to which tools to use. The electroencephalograph (EEG) is cheap and portable, but it can’t read much past the outer layers of the brain, while the alternative, functional magn...",
-      "url": "https://spectrum.ieee.org/optical-brain-imaging",
-      "date": "08月04日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 04 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-13T00:54:49.274291"
-    },
-    {
-      "title": "Grid-Scale Battery Stabilizes Scottish Power Supply",
-      "summary": "A grid-scale battery in the Scottish Highlands got a chance to prove its mettle in March when, 11 days after it started up, a massive wood-burning generator in Northern England shut down unexpectedly. Suddenly 1,877 megawatts of supply was missing, causing the 50-hertz frequency of the grid’s altern...",
-      "url": "https://spectrum.ieee.org/grid-scale-battery-scotland",
-      "date": "08月04日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 04 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-13T00:54:49.274153"
-    },
     {
       "title": "DOE Has a Crazy-Short Deadline to Pick a Site for New Nuclear",
       "summary": "U.S. president Donald Trump issued a suite of directives in May  aimed at hastening the development of advanced nuclear reactors. The directives, delivered via a set of four executive orders, set ambitious goals, such as having 10 new large reactors under construction by 2030, and overhauling the U....",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-13T00:54:49.273991"
+      "collected_at": "2025-08-14T00:54:48.479618"
     },
     {
       "title": "Protecting Electronics Against Electrostatic Discharge",
@@ -51,77 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-13T00:54:49.273802"
+      "collected_at": "2025-08-14T00:54:48.479413"
     },
     {
       "title": "Walmart Will Test a Green-Hydrogen Fuel Cell Truck in Chile",
       "summary": "Latin America’s first green-hydrogen-powered fuel cell truck has hit the road in Chile, marking a milestone for the country’s decarbonization efforts. The semitrailer truck will begin a yearlong testing phase in September 2025, loading up at Walmart Chile’s Quilicura Distribution Center and carrying...",
       "url": "https://spectrum.ieee.org/hydrogen-fuel-cell-walmart-chile",
-      "date": "6日前",
+      "date": "08月06日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-08-13T00:54:49.273703"
+      "collected_at": "2025-08-14T00:54:48.479323"
     },
     {
       "title": "In Nigeria, Why Isn’t Broadband Everywhere?",
       "summary": "Under the shade of a cocoa tree outside the hamlet of Atan, near Ibadan, Nigeria, Bolaji Adeniyi holds court in a tie-dyed T-shirt. “In Nigeria we see farms as father’s work,” he says. Adeniyi’s father taught him to farm with a hoe and a machete, which he calls a cutlass. These days, he says, farmin...",
       "url": "https://spectrum.ieee.org/broadband-internet-in-nigeria",
-      "date": "6日前",
+      "date": "08月06日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-08-13T00:54:49.273555"
+      "collected_at": "2025-08-14T00:54:48.479174"
     },
     {
       "title": "Automakers Race to Add Voice AI to Connected Vehicles",
       "summary": "When rain begins to fall and a driver says, “Hey Mercedes, is adaptive cruise control on?”—the car doesn’t just reply. It reassures, adjusts, and nudges the driver to keep their hands on the wheel. Welcome to the age of conversational mobility, where natural dialogue with your car is becoming as rou...",
       "url": "https://spectrum.ieee.org/ai-enabled-vehicle-assistant",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 15:15:18 +0000",
-      "collected_at": "2025-08-13T00:54:49.273043"
+      "collected_at": "2025-08-14T00:54:48.478670"
     },
     {
       "title": "OpenAI Launches GPT-5, the Next Step in Its Quest for AGI",
       "summary": "The wait is finally over. Today, right now, OpenAI is releasing its latest and greatest large language model, GPT-5, and making it available through the ChatGPT interface. According to OpenAI’s leaders, the model brings unprecedented powers of reasoning, brings vibe coding to a new level, is better ...",
       "url": "https://spectrum.ieee.org/openai-gpt-5-agi",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-13T00:54:49.272806"
+      "collected_at": "2025-08-14T00:54:48.478420"
+    },
+    {
+      "title": "Advancing Semiconductor Interconnects for Next-Gen Transistors",
+      "summary": "Kamal Rudra found the topic of semiconductors pretty boring when he encountered it in high school. But that all changed when he took a college course on semiconductor optoelectronics. The IEEE member credits the class’s professor with sparking his interest in the technology.“His teaching style was e...",
+      "url": "https://spectrum.ieee.org/kamal-rudra-transistors",
+      "date": "6日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 07 Aug 2025 18:00:03 +0000",
+      "collected_at": "2025-08-14T00:54:48.478258"
     },
     {
       "title": "Video Friday: Unitree’s A2 Quadruped Goes Exploring",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Humanoid Robot Games: 15–17 August 2025, BEIJINGRO...",
       "url": "https://spectrum.ieee.org/video-friday-exploration-robots",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-13T00:54:49.272649"
+      "collected_at": "2025-08-14T00:54:48.478088"
     },
     {
       "title": "Semiconductor Rivalry Rages on in High-Temperature Chips",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nTwo semiconductors—silicon carbide and gallium nitride—are the rivals in a (quite literally) heated competition to make circuits capable of performing at the highest temperatures. Silicon carbide chips h...",
       "url": "https://spectrum.ieee.org/high-temperature-transistor",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-13T00:54:49.272513"
+      "collected_at": "2025-08-14T00:54:48.477964"
     },
     {
       "title": "Richard Garwin, Designer of the First Hydrogen Bomb, Dies at 97",
       "summary": "Richard L. GarwinDesigner of the first hydrogen bombLife Fellow, 97; died 13 MayGarwin played a critical role in developing the world’s first hydrogen bomb in the early 1950s.For 41 years he worked as an IBM researcher in Yorktown Heights, N.Y. During that time he also served as science advisor to s...",
       "url": "https://spectrum.ieee.org/richard-garwin-hydrogen-bomb-obituary",
-      "date": "6時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-13T00:54:49.272276"
+      "collected_at": "2025-08-14T00:54:48.477785"
+    },
+    {
+      "title": "Power Grid Congestion Is a Problem. Here’s a Solution",
+      "summary": "On a cloudy day in mid-July, a crew of technicians carries a shiny metal orb, about the size and weight of a kid’s bowling ball, under a 110-kilovolt transmission line running near Hamburg. Their task: to attach the orb to the line where it will track real-time environmental conditions affecting the...",
+      "url": "https://spectrum.ieee.org/dynamic-line-rating-grid-congestion",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 13 Aug 2025 12:00:03 +0000",
+      "collected_at": "2025-08-14T00:54:48.477575"
+    },
+    {
+      "title": "How AI’s Sense of Time Will Differ From Ours",
+      "summary": "An understanding of the passage of time is fundamental to human consciousness. While we continue to debate whether artificial intelligence (AI) can possess consciousness, one thing is certain: AI will experience time differently. Its sense of time will be dictated not by biology, but by its computat...",
+      "url": "https://spectrum.ieee.org/ai-perception-of-time",
+      "date": "10時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 13 Aug 2025 14:00:02 +0000",
+      "collected_at": "2025-08-14T00:54:48.477371"
     }
   ]
 }
