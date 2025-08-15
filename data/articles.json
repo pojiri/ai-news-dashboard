@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T00:54:49.481120",
+  "last_updated": "2025-08-15T00:55:15.072043",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-14T00:54:48.479618"
+      "collected_at": "2025-08-15T00:55:14.070548"
     },
     {
       "title": "Protecting Electronics Against Electrostatic Discharge",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-14T00:54:48.479413"
+      "collected_at": "2025-08-15T00:55:14.070357"
     },
     {
       "title": "Walmart Will Test a Green-Hydrogen Fuel Cell Truck in Chile",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-08-14T00:54:48.479323"
+      "collected_at": "2025-08-15T00:55:14.070265"
     },
     {
       "title": "In Nigeria, Why Isn’t Broadband Everywhere?",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-08-14T00:54:48.479174"
+      "collected_at": "2025-08-15T00:55:14.070108"
     },
     {
       "title": "Automakers Race to Add Voice AI to Connected Vehicles",
       "summary": "When rain begins to fall and a driver says, “Hey Mercedes, is adaptive cruise control on?”—the car doesn’t just reply. It reassures, adjusts, and nudges the driver to keep their hands on the wheel. Welcome to the age of conversational mobility, where natural dialogue with your car is becoming as rou...",
       "url": "https://spectrum.ieee.org/ai-enabled-vehicle-assistant",
-      "date": "6日前",
+      "date": "08月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 15:15:18 +0000",
-      "collected_at": "2025-08-14T00:54:48.478670"
+      "collected_at": "2025-08-15T00:55:14.069576"
     },
     {
       "title": "OpenAI Launches GPT-5, the Next Step in Its Quest for AGI",
       "summary": "The wait is finally over. Today, right now, OpenAI is releasing its latest and greatest large language model, GPT-5, and making it available through the ChatGPT interface. According to OpenAI’s leaders, the model brings unprecedented powers of reasoning, brings vibe coding to a new level, is better ...",
       "url": "https://spectrum.ieee.org/openai-gpt-5-agi",
-      "date": "6日前",
+      "date": "08月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-14T00:54:48.478420"
+      "collected_at": "2025-08-15T00:55:14.069322"
     },
     {
       "title": "Advancing Semiconductor Interconnects for Next-Gen Transistors",
       "summary": "Kamal Rudra found the topic of semiconductors pretty boring when he encountered it in high school. But that all changed when he took a college course on semiconductor optoelectronics. The IEEE member credits the class’s professor with sparking his interest in the technology.“His teaching style was e...",
       "url": "https://spectrum.ieee.org/kamal-rudra-transistors",
-      "date": "6日前",
+      "date": "08月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-14T00:54:48.478258"
+      "collected_at": "2025-08-15T00:55:14.069156"
     },
     {
       "title": "Video Friday: Unitree’s A2 Quadruped Goes Exploring",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Humanoid Robot Games: 15–17 August 2025, BEIJINGRO...",
       "url": "https://spectrum.ieee.org/video-friday-exploration-robots",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-14T00:54:48.478088"
+      "collected_at": "2025-08-15T00:55:14.068962"
     },
     {
       "title": "Semiconductor Rivalry Rages on in High-Temperature Chips",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nTwo semiconductors—silicon carbide and gallium nitride—are the rivals in a (quite literally) heated competition to make circuits capable of performing at the highest temperatures. Silicon carbide chips h...",
       "url": "https://spectrum.ieee.org/high-temperature-transistor",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-14T00:54:48.477964"
+      "collected_at": "2025-08-15T00:55:14.068809"
     },
     {
       "title": "Richard Garwin, Designer of the First Hydrogen Bomb, Dies at 97",
       "summary": "Richard L. GarwinDesigner of the first hydrogen bombLife Fellow, 97; died 13 MayGarwin played a critical role in developing the world’s first hydrogen bomb in the early 1950s.For 41 years he worked as an IBM researcher in Yorktown Heights, N.Y. During that time he also served as science advisor to s...",
       "url": "https://spectrum.ieee.org/richard-garwin-hydrogen-bomb-obituary",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-14T00:54:48.477785"
+      "collected_at": "2025-08-15T00:55:14.068622"
     },
     {
       "title": "Power Grid Congestion Is a Problem. Here’s a Solution",
       "summary": "On a cloudy day in mid-July, a crew of technicians carries a shiny metal orb, about the size and weight of a kid’s bowling ball, under a 110-kilovolt transmission line running near Hamburg. Their task: to attach the orb to the line where it will track real-time environmental conditions affecting the...",
       "url": "https://spectrum.ieee.org/dynamic-line-rating-grid-congestion",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 13 Aug 2025 12:00:03 +0000",
-      "collected_at": "2025-08-14T00:54:48.477575"
+      "collected_at": "2025-08-15T00:55:14.068404"
     },
     {
       "title": "How AI’s Sense of Time Will Differ From Ours",
       "summary": "An understanding of the passage of time is fundamental to human consciousness. While we continue to debate whether artificial intelligence (AI) can possess consciousness, one thing is certain: AI will experience time differently. Its sense of time will be dictated not by biology, but by its computat...",
       "url": "https://spectrum.ieee.org/ai-perception-of-time",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 13 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-14T00:54:48.477371"
+      "collected_at": "2025-08-15T00:55:14.068215"
     }
   ]
 }
