@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-16T00:52:14.132726",
+  "last_updated": "2025-08-17T00:58:53.336951",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 15:15:18 +0000",
-      "collected_at": "2025-08-16T00:52:13.131149"
+      "collected_at": "2025-08-17T00:58:52.335449"
     },
     {
       "title": "OpenAI Launches GPT-5, the Next Step in Its Quest for AGI",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 17:00:03 +0000",
-      "collected_at": "2025-08-16T00:52:13.130915"
+      "collected_at": "2025-08-17T00:58:52.335204"
     },
     {
       "title": "Advancing Semiconductor Interconnects for Next-Gen Transistors",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-16T00:52:13.130760"
+      "collected_at": "2025-08-17T00:58:52.335027"
     },
     {
       "title": "Video Friday: Unitree’s A2 Quadruped Goes Exploring",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-16T00:52:13.130582"
+      "collected_at": "2025-08-17T00:58:52.334843"
     },
     {
       "title": "Semiconductor Rivalry Rages on in High-Temperature Chips",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nTwo semiconductors—silicon carbide and gallium nitride—are the rivals in a (quite literally) heated competition to make circuits capable of performing at the highest temperatures. Silicon carbide chips h...",
       "url": "https://spectrum.ieee.org/high-temperature-transistor",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-16T00:52:13.130443"
+      "collected_at": "2025-08-17T00:58:52.334707"
     },
     {
       "title": "Richard Garwin, Designer of the First Hydrogen Bomb, Dies at 97",
       "summary": "Richard L. GarwinDesigner of the first hydrogen bombLife Fellow, 97; died 13 MayGarwin played a critical role in developing the world’s first hydrogen bomb in the early 1950s.For 41 years he worked as an IBM researcher in Yorktown Heights, N.Y. During that time he also served as science advisor to s...",
       "url": "https://spectrum.ieee.org/richard-garwin-hydrogen-bomb-obituary",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-16T00:52:13.130255"
+      "collected_at": "2025-08-17T00:58:52.334526"
     },
     {
       "title": "Power Grid Congestion Is a Problem. Here’s a Solution",
       "summary": "On a cloudy day in mid-July, a crew of technicians carries a shiny metal orb, about the size and weight of a kid’s bowling ball, under a 110-kilovolt transmission line running near Hamburg. Their task: to attach the orb to the line where it will track real-time environmental conditions affecting the...",
       "url": "https://spectrum.ieee.org/dynamic-line-rating-grid-congestion",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 13 Aug 2025 12:00:03 +0000",
-      "collected_at": "2025-08-16T00:52:13.130056"
+      "collected_at": "2025-08-17T00:58:52.334320"
     },
     {
       "title": "How AI’s Sense of Time Will Differ From Ours",
       "summary": "An understanding of the passage of time is fundamental to human consciousness. While we continue to debate whether artificial intelligence (AI) can possess consciousness, one thing is certain: AI will experience time differently. Its sense of time will be dictated not by biology, but by its computat...",
       "url": "https://spectrum.ieee.org/ai-perception-of-time",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 13 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-16T00:52:13.129883"
+      "collected_at": "2025-08-17T00:58:52.334126"
     },
     {
       "title": "Is the World Adopting Post-Quantum Cryptography Fast Enough?",
       "summary": "A year ago today, the National Institute of Standard and Technology (NIST) published the first ever official standard for post-quantum cryptography (PQC) algorithms. The standard was a result of a 2022 memorandum from the Biden administration that requires federal agencies to transition to PQC-based...",
       "url": "https://spectrum.ieee.org/post-quantum-cryptography-standards-nist",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 13 Aug 2025 15:01:19 +0000",
-      "collected_at": "2025-08-16T00:52:13.129756"
+      "collected_at": "2025-08-17T00:58:52.333999"
     },
     {
       "title": "From Stage and Screen to High-Tech Service Sector",
       "summary": "When children dream of being entertainers, their backup career isn’t typically engineering. But that was Gokul Pandy’s plan if he didn’t make it in Kollywood, a segment of Indian cinema dedicated to producing motion pictures in the Tamil language. As a youngster growing up in Chennai, India, Pandy l...",
       "url": "https://spectrum.ieee.org/robotic-process-automation-gokul-pandy",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-16T00:52:13.129600"
+      "collected_at": "2025-08-17T00:58:52.333844"
     },
     {
       "title": "Designing for Functional Safety: A Developer's Introduction",
       "summary": "Welcome to your essential guide to functional safety, tailored specifically for product developers. In a world where technology is increasingly integrated into every aspect of our lives—from industrial robots to autonomous vehicles—the potential for harm from product malfunctions makes functional sa...",
       "url": "https://events.bizzabo.com/749990?utm_source=Wiley&utm_medium=Spectrum",
-      "date": "13時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 11:52:07 +0000",
-      "collected_at": "2025-08-16T00:52:13.129408"
+      "collected_at": "2025-08-17T00:58:52.333668"
     },
     {
       "title": "What It Will Really Take to Electrify All of Africa",
       "summary": "I dined recently with Joe, a Nigerian who manages a 400-hectare rice farm in the north of his country. Nigeria imports about 2.4 million metric tons of rice annually, according to the U.S. Department of Agriculture. Farmers like Joe are helping to move his country of 237 million people toward self-s...",
       "url": "https://spectrum.ieee.org/electricity-access-sub-saharan-africa",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 14:05:36 +0000",
-      "collected_at": "2025-08-16T00:52:13.129340"
+      "collected_at": "2025-08-17T00:58:52.333600"
     }
   ]
 }
