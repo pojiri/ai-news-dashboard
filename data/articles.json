@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-08-22T00:51:07.896898",
+  "last_updated": "2025-08-23T00:48:06.673963",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How AI’s Sense of Time Will Differ From Ours",
-      "summary": "An understanding of the passage of time is fundamental to human consciousness. While we continue to debate whether artificial intelligence (AI) can possess consciousness, one thing is certain: AI will experience time differently. Its sense of time will be dictated not by biology, but by its computat...",
-      "url": "https://spectrum.ieee.org/ai-perception-of-time",
-      "date": "08月13日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 13 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-08-22T00:51:06.895042"
-    },
-    {
-      "title": "Is the World Adopting Post-Quantum Cryptography Fast Enough?",
-      "summary": "A year ago today, the National Institute of Standard and Technology (NIST) published the first ever official standard for post-quantum cryptography (PQC) algorithms. The standard was a result of a 2022 memorandum from the Biden administration that requires federal agencies to transition to PQC-based...",
-      "url": "https://spectrum.ieee.org/post-quantum-cryptography-standards-nist",
-      "date": "08月13日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 13 Aug 2025 15:01:19 +0000",
-      "collected_at": "2025-08-22T00:51:06.894912"
-    },
     {
       "title": "From Stage and Screen to High-Tech Service Sector",
       "summary": "When children dream of being entertainers, their backup career isn’t typically engineering. But that was Gokul Pandy’s plan if he didn’t make it in Kollywood, a segment of Indian cinema dedicated to producing motion pictures in the Tamil language. As a youngster growing up in Chennai, India, Pandy l...",
@@ -31,97 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-22T00:51:06.894751"
+      "collected_at": "2025-08-23T00:48:05.672166"
     },
     {
       "title": "Designing for Functional Safety: A Developer's Introduction",
       "summary": "Welcome to your essential guide to functional safety, tailored specifically for product developers. In a world where technology is increasingly integrated into every aspect of our lives—from industrial robots to autonomous vehicles—the potential for harm from product malfunctions makes functional sa...",
       "url": "https://events.bizzabo.com/749990?utm_source=Wiley&utm_medium=Spectrum",
-      "date": "6日前",
+      "date": "08月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 11:52:07 +0000",
-      "collected_at": "2025-08-22T00:51:06.894554"
+      "collected_at": "2025-08-23T00:48:05.671989"
     },
     {
       "title": "What It Will Really Take to Electrify All of Africa",
       "summary": "I dined recently with Joe, a Nigerian who manages a 400-hectare rice farm in the north of his country. Nigeria imports about 2.4 million metric tons of rice annually, according to the U.S. Department of Agriculture. Farmers like Joe are helping to move his country of 237 million people toward self-s...",
       "url": "https://spectrum.ieee.org/electricity-access-sub-saharan-africa",
-      "date": "6日前",
+      "date": "08月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 14:05:36 +0000",
-      "collected_at": "2025-08-22T00:51:06.894490"
+      "collected_at": "2025-08-23T00:48:05.671918"
     },
     {
       "title": "Video Friday: SCUTTLE",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, THE NETHERLAN...",
       "url": "https://spectrum.ieee.org/video-friday-scuttle-robot",
-      "date": "6日前",
+      "date": "08月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 16:00:04 +0000",
-      "collected_at": "2025-08-22T00:51:06.894271"
+      "collected_at": "2025-08-23T00:48:05.671674"
     },
     {
       "title": "Satellite Collisions Could Be Prevented With a New AI System",
       "summary": "The numbers paint a stark picture of our orbital traffic problem: More than 11,000 active satellites currently circle Earth, with thousands more planned for launch in coming years. Even more concerning are the over 1.2 million pieces of space debris larger than one centimeter hurtling through space ...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-esa-cream-ai",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 17 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-22T00:51:06.894122"
+      "collected_at": "2025-08-23T00:48:05.671487"
     },
     {
       "title": "Wonky Graphene Could Sharpen Proton Therapy",
       "summary": "A new twist on pencil graphite might be a key ingredient to better cancer treatment, scientists in Singapore say. Graphite is composed of stacked layers of graphene, a single-atom-thick sheet of carbon atoms arranged in repeating hexagonal rings. Now add pentagons, heptagons, and octagons of carbon ...",
       "url": "https://spectrum.ieee.org/proton-therapy",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-22T00:51:06.894040"
+      "collected_at": "2025-08-23T00:48:05.671404"
     },
     {
       "title": "The AI Agents of Tomorrow Need Data Integrity",
       "summary": "Think of the Web as a digital territory with its own social contract. In 2014, Tim Berners-Lee called for a “Magna Carta for the Web” to restore the balance of power between individuals and institutions. This mirrors the original charter’s purpose: ensuring that those who occupy a territory have a m...",
       "url": "https://spectrum.ieee.org/data-integrity",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 13:00:05 +0000",
-      "collected_at": "2025-08-22T00:51:06.893948"
+      "collected_at": "2025-08-23T00:48:05.671310"
     },
     {
       "title": "Career Growth Requires Singular Focus",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!During the COVID pandemic, as remote work became the no...",
       "url": "https://spectrum.ieee.org/dont-be-overemployed",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 16:41:56 +0000",
-      "collected_at": "2025-08-22T00:51:06.893645"
+      "collected_at": "2025-08-23T00:48:05.671019"
     },
     {
       "title": "Smart Glasses Help Train General-Purpose Robots",
       "summary": "General-purpose robots are hard to train. The dream is to have a robot like the Jetson’s Rosie that can performing a range of household tasks, like tidying up or folding laundry. But for that to happen, the robot needs to learn from a large amount of data that match real-world conditions—that data c...",
       "url": "https://spectrum.ieee.org/smart-glasses-robot-training",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-22T00:51:06.893536"
+      "collected_at": "2025-08-23T00:48:05.670909"
     },
     {
       "title": "The Accidental Engineer Who Conjured Up Extended Reality",
       "summary": "In the 1980s, people weren’t wearing head-mounted cameras, displays, or computers. Except for high school student Steve Mann, who regularly wore his homemade electronic computer vision system (seeing aid).Back then, Mann attracted stares, questions, suspicion, and sometimes hostility. But it didn’t ...",
       "url": "https://spectrum.ieee.org/engineer-conjured-up-extended-reality",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-22T00:51:06.893431"
+      "collected_at": "2025-08-23T00:48:05.670799"
+    },
+    {
+      "title": "What I Learned From a Janky Drone",
+      "summary": "The package containing the ArduCopter 2.8 board finally arrived from China, bearing the weight of our anticipation. I remember picking it up, the cardboard box weathered slightly from its journey. As I tore through the layers of tape, it felt like unwrapping a long-awaited gift. But as I lifted the ...",
+      "url": "https://spectrum.ieee.org/stem-education-in-africa",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 20 Aug 2025 13:00:03 +0000",
+      "collected_at": "2025-08-23T00:48:05.670556"
+    },
+    {
+      "title": "Learning More With Less",
+      "summary": "My name is Engineer Bainomugisha. Yes, Engineer is my first name and also my career. My parents named me Engineer, and they recognized engineering traits in me from childhood, such as perseverance, resilience, and wanting to understand how things work.I grew up and spent my early years in a rural pa...",
+      "url": "https://spectrum.ieee.org/africa-engineering-hardware",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 20 Aug 2025 13:05:03 +0000",
+      "collected_at": "2025-08-23T00:48:05.670360"
     }
   ]
 }
