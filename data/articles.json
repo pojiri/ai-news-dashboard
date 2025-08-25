@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-24T00:56:46.380999",
+  "last_updated": "2025-08-25T00:53:15.860098",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-24T00:56:45.378728"
+      "collected_at": "2025-08-25T00:53:14.857403"
     },
     {
       "title": "Designing for Functional Safety: A Developer's Introduction",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 11:52:07 +0000",
-      "collected_at": "2025-08-24T00:56:45.378458"
+      "collected_at": "2025-08-25T00:53:14.857218"
     },
     {
       "title": "What It Will Really Take to Electrify All of Africa",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 14:05:36 +0000",
-      "collected_at": "2025-08-24T00:56:45.378386"
+      "collected_at": "2025-08-25T00:53:14.857145"
     },
     {
       "title": "Video Friday: SCUTTLE",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 Aug 2025 16:00:04 +0000",
-      "collected_at": "2025-08-24T00:56:45.378127"
+      "collected_at": "2025-08-25T00:53:14.856906"
     },
     {
       "title": "Satellite Collisions Could Be Prevented With a New AI System",
       "summary": "The numbers paint a stark picture of our orbital traffic problem: More than 11,000 active satellites currently circle Earth, with thousands more planned for launch in coming years. Even more concerning are the over 1.2 million pieces of space debris larger than one centimeter hurtling through space ...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-esa-cream-ai",
-      "date": "6日前",
+      "date": "08月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 17 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-24T00:56:45.377957"
+      "collected_at": "2025-08-25T00:53:14.856739"
     },
     {
       "title": "Wonky Graphene Could Sharpen Proton Therapy",
       "summary": "A new twist on pencil graphite might be a key ingredient to better cancer treatment, scientists in Singapore say. Graphite is composed of stacked layers of graphene, a single-atom-thick sheet of carbon atoms arranged in repeating hexagonal rings. Now add pentagons, heptagons, and octagons of carbon ...",
       "url": "https://spectrum.ieee.org/proton-therapy",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-24T00:56:45.377872"
+      "collected_at": "2025-08-25T00:53:14.856617"
     },
     {
       "title": "The AI Agents of Tomorrow Need Data Integrity",
       "summary": "Think of the Web as a digital territory with its own social contract. In 2014, Tim Berners-Lee called for a “Magna Carta for the Web” to restore the balance of power between individuals and institutions. This mirrors the original charter’s purpose: ensuring that those who occupy a territory have a m...",
       "url": "https://spectrum.ieee.org/data-integrity",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 13:00:05 +0000",
-      "collected_at": "2025-08-24T00:56:45.377777"
+      "collected_at": "2025-08-25T00:53:14.856522"
     },
     {
       "title": "Career Growth Requires Singular Focus",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!During the COVID pandemic, as remote work became the no...",
       "url": "https://spectrum.ieee.org/dont-be-overemployed",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 16:41:56 +0000",
-      "collected_at": "2025-08-24T00:56:45.377450"
+      "collected_at": "2025-08-25T00:53:14.856227"
     },
     {
       "title": "Smart Glasses Help Train General-Purpose Robots",
       "summary": "General-purpose robots are hard to train. The dream is to have a robot like the Jetson’s Rosie that can performing a range of household tasks, like tidying up or folding laundry. But for that to happen, the robot needs to learn from a large amount of data that match real-world conditions—that data c...",
       "url": "https://spectrum.ieee.org/smart-glasses-robot-training",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-24T00:56:45.377338"
+      "collected_at": "2025-08-25T00:53:14.856115"
     },
     {
       "title": "The Accidental Engineer Who Conjured Up Extended Reality",
       "summary": "In the 1980s, people weren’t wearing head-mounted cameras, displays, or computers. Except for high school student Steve Mann, who regularly wore his homemade electronic computer vision system (seeing aid).Back then, Mann attracted stares, questions, suspicion, and sometimes hostility. But it didn’t ...",
       "url": "https://spectrum.ieee.org/engineer-conjured-up-extended-reality",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-24T00:56:45.377208"
+      "collected_at": "2025-08-25T00:53:14.856005"
     },
     {
       "title": "What I Learned From a Janky Drone",
       "summary": "The package containing the ArduCopter 2.8 board finally arrived from China, bearing the weight of our anticipation. I remember picking it up, the cardboard box weathered slightly from its journey. As I tore through the layers of tape, it felt like unwrapping a long-awaited gift. But as I lifted the ...",
       "url": "https://spectrum.ieee.org/stem-education-in-africa",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-24T00:56:45.376887"
+      "collected_at": "2025-08-25T00:53:14.855770"
     },
     {
       "title": "Learning More With Less",
       "summary": "My name is Engineer Bainomugisha. Yes, Engineer is my first name and also my career. My parents named me Engineer, and they recognized engineering traits in me from childhood, such as perseverance, resilience, and wanting to understand how things work.I grew up and spent my early years in a rural pa...",
       "url": "https://spectrum.ieee.org/africa-engineering-hardware",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:05:03 +0000",
-      "collected_at": "2025-08-24T00:56:45.376673"
+      "collected_at": "2025-08-25T00:53:14.855553"
     }
   ]
 }
