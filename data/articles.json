@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-08-27T00:50:13.829216",
+  "last_updated": "2025-08-28T00:49:21.703303",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Satellite Collisions Could Be Prevented With a New AI System",
-      "summary": "The numbers paint a stark picture of our orbital traffic problem: More than 11,000 active satellites currently circle Earth, with thousands more planned for launch in coming years. Even more concerning are the over 1.2 million pieces of space debris larger than one centimeter hurtling through space ...",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-esa-cream-ai",
-      "date": "08月17日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 17 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-08-27T00:50:12.826668"
-    },
-    {
-      "title": "Wonky Graphene Could Sharpen Proton Therapy",
-      "summary": "A new twist on pencil graphite might be a key ingredient to better cancer treatment, scientists in Singapore say. Graphite is composed of stacked layers of graphene, a single-atom-thick sheet of carbon atoms arranged in repeating hexagonal rings. Now add pentagons, heptagons, and octagons of carbon ...",
-      "url": "https://spectrum.ieee.org/proton-therapy",
-      "date": "08月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 18 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-27T00:50:12.826580"
-    },
     {
       "title": "The AI Agents of Tomorrow Need Data Integrity",
       "summary": "Think of the Web as a digital territory with its own social contract. In 2014, Tim Berners-Lee called for a “Magna Carta for the Web” to restore the balance of power between individuals and institutions. This mirrors the original charter’s purpose: ensuring that those who occupy a territory have a m...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 13:00:05 +0000",
-      "collected_at": "2025-08-27T00:50:12.826477"
+      "collected_at": "2025-08-28T00:49:20.700770"
     },
     {
       "title": "Career Growth Requires Singular Focus",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 Aug 2025 16:41:56 +0000",
-      "collected_at": "2025-08-27T00:50:12.826183"
+      "collected_at": "2025-08-28T00:49:20.700466"
     },
     {
       "title": "Smart Glasses Help Train General-Purpose Robots",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-27T00:50:12.826066"
+      "collected_at": "2025-08-28T00:49:20.700355"
     },
     {
       "title": "The Accidental Engineer Who Conjured Up Extended Reality",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 19 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-27T00:50:12.825936"
+      "collected_at": "2025-08-28T00:49:20.700246"
     },
     {
       "title": "What I Learned From a Janky Drone",
       "summary": "The package containing the ArduCopter 2.8 board finally arrived from China, bearing the weight of our anticipation. I remember picking it up, the cardboard box weathered slightly from its journey. As I tore through the layers of tape, it felt like unwrapping a long-awaited gift. But as I lifted the ...",
       "url": "https://spectrum.ieee.org/stem-education-in-africa",
-      "date": "6日前",
+      "date": "08月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-27T00:50:12.825705"
+      "collected_at": "2025-08-28T00:49:20.700026"
     },
     {
       "title": "Learning More With Less",
       "summary": "My name is Engineer Bainomugisha. Yes, Engineer is my first name and also my career. My parents named me Engineer, and they recognized engineering traits in me from childhood, such as perseverance, resilience, and wanting to understand how things work.I grew up and spent my early years in a rural pa...",
       "url": "https://spectrum.ieee.org/africa-engineering-hardware",
-      "date": "6日前",
+      "date": "08月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:05:03 +0000",
-      "collected_at": "2025-08-27T00:50:12.825513"
+      "collected_at": "2025-08-28T00:49:20.699825"
     },
     {
       "title": "The 60-Year Old Algorithm Underlying Today’s Tech",
       "summary": "CT scanning, streaming videos, and sending images over the Internet wouldn’t be possible without the Fast Fourier transform. Commonly known as FFT, the computer algorithm designed by researchers at Princeton University and IBM is found in just about every electronic device, according to an entry in ...",
       "url": "https://spectrum.ieee.org/fft-algorithm-ieee-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-27T00:50:12.825338"
+      "collected_at": "2025-08-28T00:49:20.699638"
     },
     {
       "title": "China, Russia, and U.S. Race to Develop Lunar Nuclear Reactors",
       "summary": "China, Russia, and the United States are racing to put nuclear power plants on the moon. China and Russia in May agreed to work together to complete a lunar nuclear reactor by 2036. In response, NASA’s interim chief Sean Duffy announced in August that the United States would fast track its lunar nuc...",
       "url": "https://spectrum.ieee.org/lunar-nuclear-reactor-nasa-moon",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 22 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-27T00:50:12.825159"
+      "collected_at": "2025-08-28T00:49:20.699443"
     },
     {
       "title": "Video Friday: Inaugural World Humanoid Robot Games Held",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, THE NETHERLAN...",
       "url": "https://spectrum.ieee.org/world-humanoid-robot-games",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 22 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-27T00:50:12.824977"
+      "collected_at": "2025-08-28T00:49:20.699268"
     },
     {
       "title": "The Unlikely Revival of Nuclear Batteries",
       "summary": "In 1970, surgeons in Paris implanted the first nuclear-powered pacemaker, and over the next five years, at least 1,400 additional people received the devices, mostly in France and the United States. Encased in titanium, the batteries for these devices contained a radioactive isotope—typically about ...",
       "url": "https://spectrum.ieee.org/nuclear-battery-revival",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 13:00:00 +0000",
-      "collected_at": "2025-08-27T00:50:12.824790"
+      "collected_at": "2025-08-28T00:49:20.699022"
+    },
+    {
+      "title": "Does Computing Face a Lean Future?",
+      "summary": "In July, a University of Michigan computer engineering professor put out a new idea for measuring the efficiency of a processor design. Todd Austin’s LEAN metric received both praise and skepticism, but even the critics understood the rationale: A lot of silicon is devoted to things that are not act...",
+      "url": "https://spectrum.ieee.org/processor-efficiency-computing-lean-metric",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 25 Aug 2025 14:00:03 +0000",
+      "collected_at": "2025-08-28T00:49:20.698598"
+    },
+    {
+      "title": "Teens’ Innovations Save Marine Life and Better Detect Diseases",
+      "summary": "Coral reefs are vital to marine ecosystems, supporting more species than any other ocean environment. More than 80 percent of the planet’s coral reefs have been bleached due to rising ocean temperatures and pollution, according to the U.S. National Oceanic and Atmospheric Administration. The reef da...",
+      "url": "https://spectrum.ieee.org/2025-ieee-presidents-scholarship",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 25 Aug 2025 18:00:04 +0000",
+      "collected_at": "2025-08-28T00:49:20.698487"
     }
   ]
 }
