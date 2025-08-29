@@ -1,48 +1,8 @@
 {
-  "last_updated": "2025-08-28T00:49:21.703303",
+  "last_updated": "2025-08-29T00:49:54.548076",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "The AI Agents of Tomorrow Need Data Integrity",
-      "summary": "Think of the Web as a digital territory with its own social contract. In 2014, Tim Berners-Lee called for a “Magna Carta for the Web” to restore the balance of power between individuals and institutions. This mirrors the original charter’s purpose: ensuring that those who occupy a territory have a m...",
-      "url": "https://spectrum.ieee.org/data-integrity",
-      "date": "08月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 18 Aug 2025 13:00:05 +0000",
-      "collected_at": "2025-08-28T00:49:20.700770"
-    },
-    {
-      "title": "Career Growth Requires Singular Focus",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!During the COVID pandemic, as remote work became the no...",
-      "url": "https://spectrum.ieee.org/dont-be-overemployed",
-      "date": "08月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 18 Aug 2025 16:41:56 +0000",
-      "collected_at": "2025-08-28T00:49:20.700466"
-    },
-    {
-      "title": "Smart Glasses Help Train General-Purpose Robots",
-      "summary": "General-purpose robots are hard to train. The dream is to have a robot like the Jetson’s Rosie that can performing a range of household tasks, like tidying up or folding laundry. But for that to happen, the robot needs to learn from a large amount of data that match real-world conditions—that data c...",
-      "url": "https://spectrum.ieee.org/smart-glasses-robot-training",
-      "date": "08月19日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 19 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.700355"
-    },
-    {
-      "title": "The Accidental Engineer Who Conjured Up Extended Reality",
-      "summary": "In the 1980s, people weren’t wearing head-mounted cameras, displays, or computers. Except for high school student Steve Mann, who regularly wore his homemade electronic computer vision system (seeing aid).Back then, Mann attracted stares, questions, suspicion, and sometimes hostility. But it didn’t ...",
-      "url": "https://spectrum.ieee.org/engineer-conjured-up-extended-reality",
-      "date": "08月19日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 19 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-28T00:49:20.700246"
-    },
     {
       "title": "What I Learned From a Janky Drone",
       "summary": "The package containing the ArduCopter 2.8 board finally arrived from China, bearing the weight of our anticipation. I remember picking it up, the cardboard box weathered slightly from its journey. As I tore through the layers of tape, it felt like unwrapping a long-awaited gift. But as I lifted the ...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.700026"
+      "collected_at": "2025-08-29T00:49:53.545631"
     },
     {
       "title": "Learning More With Less",
@@ -61,67 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 Aug 2025 13:05:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.699825"
+      "collected_at": "2025-08-29T00:49:53.545434"
     },
     {
       "title": "The 60-Year Old Algorithm Underlying Today’s Tech",
       "summary": "CT scanning, streaming videos, and sending images over the Internet wouldn’t be possible without the Fast Fourier transform. Commonly known as FFT, the computer algorithm designed by researchers at Princeton University and IBM is found in just about every electronic device, according to an entry in ...",
       "url": "https://spectrum.ieee.org/fft-algorithm-ieee-milestone",
-      "date": "6日前",
+      "date": "08月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 Aug 2025 18:00:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.699638"
+      "collected_at": "2025-08-29T00:49:53.545232"
     },
     {
       "title": "China, Russia, and U.S. Race to Develop Lunar Nuclear Reactors",
       "summary": "China, Russia, and the United States are racing to put nuclear power plants on the moon. China and Russia in May agreed to work together to complete a lunar nuclear reactor by 2036. In response, NASA’s interim chief Sean Duffy announced in August that the United States would fast track its lunar nuc...",
       "url": "https://spectrum.ieee.org/lunar-nuclear-reactor-nasa-moon",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 22 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.699443"
+      "collected_at": "2025-08-29T00:49:53.545045"
     },
     {
       "title": "Video Friday: Inaugural World Humanoid Robot Games Held",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, THE NETHERLAN...",
       "url": "https://spectrum.ieee.org/world-humanoid-robot-games",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 22 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-28T00:49:20.699268"
+      "collected_at": "2025-08-29T00:49:53.544882"
     },
     {
       "title": "The Unlikely Revival of Nuclear Batteries",
       "summary": "In 1970, surgeons in Paris implanted the first nuclear-powered pacemaker, and over the next five years, at least 1,400 additional people received the devices, mostly in France and the United States. Encased in titanium, the batteries for these devices contained a radioactive isotope—typically about ...",
       "url": "https://spectrum.ieee.org/nuclear-battery-revival",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 13:00:00 +0000",
-      "collected_at": "2025-08-28T00:49:20.699022"
+      "collected_at": "2025-08-29T00:49:53.544695"
     },
     {
       "title": "Does Computing Face a Lean Future?",
       "summary": "In July, a University of Michigan computer engineering professor put out a new idea for measuring the efficiency of a processor design. Todd Austin’s LEAN metric received both praise and skepticism, but even the critics understood the rationale: A lot of silicon is devoted to things that are not act...",
       "url": "https://spectrum.ieee.org/processor-efficiency-computing-lean-metric",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-28T00:49:20.698598"
+      "collected_at": "2025-08-29T00:49:53.544280"
     },
     {
       "title": "Teens’ Innovations Save Marine Life and Better Detect Diseases",
       "summary": "Coral reefs are vital to marine ecosystems, supporting more species than any other ocean environment. More than 80 percent of the planet’s coral reefs have been bleached due to rising ocean temperatures and pollution, according to the U.S. National Oceanic and Atmospheric Administration. The reef da...",
       "url": "https://spectrum.ieee.org/2025-ieee-presidents-scholarship",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-28T00:49:20.698487"
+      "collected_at": "2025-08-29T00:49:53.544169"
+    },
+    {
+      "title": "Fancy Flying Trick Could Bring Sensors to Earth’s “Ignorosphere”",
+      "summary": "Earth’s atmosphere is large, extending out to around 10,000 kilometers from the surface of the planet. It’s so large, in fact, that scientists break it into five separate sections. There’s one particular section that hasn’t received a whole lot of attention due to the difficulty in maintaining any c...",
+      "url": "https://spectrum.ieee.org/atmospheric-sensors-mesosphere-photophoresis",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 26 Aug 2025 13:00:04 +0000",
+      "collected_at": "2025-08-29T00:49:53.544013"
+    },
+    {
+      "title": "It’s the End of the Line for AOL’s Dial-Up Service",
+      "summary": "The last time I used a dial-up modem came sometime around 2001. Within just a few years, dial-up had exited my life, never to return. I haven’t even had a telephone line in my house for most of my adult life.\n\n\n\nBut I still feel a strong tinge of sadness to know that AOL is finally retiring the ol’ ...",
+      "url": "https://spectrum.ieee.org/end-of-aol-dial-up",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 27 Aug 2025 14:00:04 +0000",
+      "collected_at": "2025-08-29T00:49:53.543907"
+    },
+    {
+      "title": "Trump Seeks to Cancel CHIPS Act R&D Organization’s Funds",
+      "summary": "The U.S. Commerce Department says it will not abide by an agreement to fund the U.S. CHIPS and Science Act’s R&D through the nonprofit set up to administer the program, called Natcast. Instead, it handed operational control to the National Institute of Standards and Technology (NIST).Natcast was cre...",
+      "url": "https://spectrum.ieee.org/natcast",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 27 Aug 2025 15:05:15 +0000",
+      "collected_at": "2025-08-29T00:49:53.543684"
+    },
+    {
+      "title": "Data Centers May House AI—But Operators Don’t Trust AI (Yet)",
+      "summary": "AI is starting to be trusted with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 d...",
+      "url": "https://spectrum.ieee.org/ai-data-center-operator-trust",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 28 Aug 2025 12:00:02 +0000",
+      "collected_at": "2025-08-29T00:49:53.543557"
     }
   ]
 }
