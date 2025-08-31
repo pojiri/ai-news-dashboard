@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-08-30T00:45:50.294548",
+  "last_updated": "2025-08-31T00:53:33.176170",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "China, Russia, and U.S. Race to Develop Lunar Nuclear Reactors",
-      "summary": "China, Russia, and the United States are racing to put nuclear power plants on the moon. China and Russia in May agreed to work together to complete a lunar nuclear reactor by 2036. In response, NASA’s interim chief Sean Duffy announced in August that the United States would fast track its lunar nuc...",
-      "url": "https://spectrum.ieee.org/lunar-nuclear-reactor-nasa-moon",
-      "date": "08月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 22 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-30T00:45:49.292358"
-    },
     {
       "title": "Video Friday: Inaugural World Humanoid Robot Games Held",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.RO-MAN 2025: 25–29 August 2025, EINDHOVEN, THE NETHERLAN...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 22 Aug 2025 15:30:04 +0000",
-      "collected_at": "2025-08-30T00:45:49.292187"
+      "collected_at": "2025-08-31T00:53:32.173714"
     },
     {
       "title": "The Unlikely Revival of Nuclear Batteries",
       "summary": "In 1970, surgeons in Paris implanted the first nuclear-powered pacemaker, and over the next five years, at least 1,400 additional people received the devices, mostly in France and the United States. Encased in titanium, the batteries for these devices contained a radioactive isotope—typically about ...",
       "url": "https://spectrum.ieee.org/nuclear-battery-revival",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 13:00:00 +0000",
-      "collected_at": "2025-08-30T00:45:49.291984"
+      "collected_at": "2025-08-31T00:53:32.173502"
     },
     {
       "title": "Does Computing Face a Lean Future?",
       "summary": "In July, a University of Michigan computer engineering professor put out a new idea for measuring the efficiency of a processor design. Todd Austin’s LEAN metric received both praise and skepticism, but even the critics understood the rationale: A lot of silicon is devoted to things that are not act...",
       "url": "https://spectrum.ieee.org/processor-efficiency-computing-lean-metric",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 14:00:03 +0000",
-      "collected_at": "2025-08-30T00:45:49.291544"
+      "collected_at": "2025-08-31T00:53:32.173086"
     },
     {
       "title": "Teens’ Innovations Save Marine Life and Better Detect Diseases",
       "summary": "Coral reefs are vital to marine ecosystems, supporting more species than any other ocean environment. More than 80 percent of the planet’s coral reefs have been bleached due to rising ocean temperatures and pollution, according to the U.S. National Oceanic and Atmospheric Administration. The reef da...",
       "url": "https://spectrum.ieee.org/2025-ieee-presidents-scholarship",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 Aug 2025 18:00:04 +0000",
-      "collected_at": "2025-08-30T00:45:49.291451"
+      "collected_at": "2025-08-31T00:53:32.172992"
     },
     {
       "title": "Fancy Flying Trick Could Bring Sensors to Earth’s “Ignorosphere”",
       "summary": "Earth’s atmosphere is large, extending out to around 10,000 kilometers from the surface of the planet. It’s so large, in fact, that scientists break it into five separate sections. There’s one particular section that hasn’t received a whole lot of attention due to the difficulty in maintaining any c...",
       "url": "https://spectrum.ieee.org/atmospheric-sensors-mesosphere-photophoresis",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-08-30T00:45:49.291294"
+      "collected_at": "2025-08-31T00:53:32.172836"
     },
     {
       "title": "It’s the End of the Line for AOL’s Dial-Up Service",
       "summary": "The last time I used a dial-up modem came sometime around 2001. Within just a few years, dial-up had exited my life, never to return. I haven’t even had a telephone line in my house for most of my adult life.\n\n\n\nBut I still feel a strong tinge of sadness to know that AOL is finally retiring the ol’ ...",
       "url": "https://spectrum.ieee.org/end-of-aol-dial-up",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-08-30T00:45:49.291190"
+      "collected_at": "2025-08-31T00:53:32.172732"
     },
     {
       "title": "Trump Seeks to Cancel CHIPS Act R&D Organization’s Funds",
       "summary": "The U.S. Commerce Department says it will not abide by an agreement to fund the U.S. CHIPS and Science Act’s R&D through the nonprofit set up to administer the program, called Natcast. Instead, it handed operational control to the National Institute of Standards and Technology (NIST).Natcast was cre...",
       "url": "https://spectrum.ieee.org/natcast",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 Aug 2025 15:05:15 +0000",
-      "collected_at": "2025-08-30T00:45:49.290959"
+      "collected_at": "2025-08-31T00:53:32.172492"
     },
     {
       "title": "Data Centers May House AI—But Operators Don’t Trust AI (Yet)",
       "summary": "AI is starting to be trusted with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 d...",
       "url": "https://spectrum.ieee.org/ai-data-center-operator-trust",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-08-30T00:45:49.290816"
+      "collected_at": "2025-08-31T00:53:32.172369"
     },
     {
       "title": "The First Inkjet Printer Was a Medical Device",
       "summary": "Millions of people worldwide have reason to be thankful that Swedish engineer Rune Elmqvist decided not to practice medicine. Although qualified as a doctor, he chose to invent medical equipment instead. In 1949, while working at Elema-Schonander (later Siemens-Elema), in Stockholm, he applied for a...",
       "url": "https://spectrum.ieee.org/rune-elmqvist",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-08-30T00:45:49.290655"
+      "collected_at": "2025-08-31T00:53:32.172211"
     },
     {
       "title": "Teach 5G Hands-On with TIMS Lab Experiments",
       "summary": "Boost Student Comprehension in Telecoms with Interactive 5G Labs.Teaching complex 5G and telecommunications concepts can be challenging – students often struggle to connect theory with real-world applications. Traditional lecture-based methods may fail to engage, leaving gaps in understanding critic...",
       "url": "https://content.knowledgehub.wiley.com/unravelling-5g-complexity-engaging-students-with-tims-powered-hands-on-education/",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 16:10:47 +0000",
-      "collected_at": "2025-08-30T00:45:49.290450"
+      "collected_at": "2025-08-31T00:53:32.172012"
     },
     {
       "title": "Onboarding Like a Pro: Your First 30 Days",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!I’ve been “the new engineer” seven times in my career, ...",
       "url": "https://spectrum.ieee.org/onboarding-like-a-pro",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 19:53:32 +0000",
-      "collected_at": "2025-08-30T00:45:49.290399"
+      "collected_at": "2025-08-31T00:53:32.171961"
+    },
+    {
+      "title": "6G Wireless Networks to Use Satellites as Base Stations",
+      "summary": "The future of wireless communication is today being sketched out in the skies and in space. A new generation of intelligent aerospace platforms—drones, airships, and satellites—will be part of tomorrow’s 6G networks, acting as, in effect, base stations in the sky. They’re expected to roll out in the...",
+      "url": "https://spectrum.ieee.org/6g-wireless",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 29 Aug 2025 13:00:02 +0000",
+      "collected_at": "2025-08-31T00:53:32.171836"
     }
   ]
 }
