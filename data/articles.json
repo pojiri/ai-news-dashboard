@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-09-03T00:46:10.290317",
+  "last_updated": "2025-09-04T00:46:29.216579",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Fancy Flying Trick Could Bring Sensors to Earth’s “Ignorosphere”",
-      "summary": "Earth’s atmosphere is large, extending out to around 10,000 kilometers from the surface of the planet. It’s so large, in fact, that scientists break it into five separate sections. There’s one particular section that hasn’t received a whole lot of attention due to the difficulty in maintaining any c...",
-      "url": "https://spectrum.ieee.org/atmospheric-sensors-mesosphere-photophoresis",
-      "date": "08月26日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 26 Aug 2025 13:00:04 +0000",
-      "collected_at": "2025-09-03T00:46:09.287815"
-    },
-    {
       "title": "It’s the End of the Line for AOL’s Dial-Up Service",
       "summary": "The last time I used a dial-up modem came sometime around 2001. Within just a few years, dial-up had exited my life, never to return. I haven’t even had a telephone line in my house for most of my adult life.\n\n\n\nBut I still feel a strong tinge of sadness to know that AOL is finally retiring the ol’ ...",
       "url": "https://spectrum.ieee.org/end-of-aol-dial-up",
-      "date": "6日前",
+      "date": "08月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 Aug 2025 14:00:04 +0000",
-      "collected_at": "2025-09-03T00:46:09.287701"
+      "collected_at": "2025-09-04T00:46:28.214077"
     },
     {
       "title": "Trump Seeks to Cancel CHIPS Act R&D Organization’s Funds",
       "summary": "The U.S. Commerce Department says it will not abide by an agreement to fund the U.S. CHIPS and Science Act’s R&D through the nonprofit set up to administer the program, called Natcast. Instead, it handed operational control to the National Institute of Standards and Technology (NIST).Natcast was cre...",
       "url": "https://spectrum.ieee.org/natcast",
-      "date": "6日前",
+      "date": "08月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 Aug 2025 15:05:15 +0000",
-      "collected_at": "2025-09-03T00:46:09.287452"
+      "collected_at": "2025-09-04T00:46:28.213843"
     },
     {
       "title": "Data Centers May House AI—But Operators Don’t Trust AI (Yet)",
-      "summary": "AI is starting to be trusted with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 d...",
+      "summary": "We are starting to trust AI with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 da...",
       "url": "https://spectrum.ieee.org/ai-data-center-operator-trust",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-09-03T00:46:09.287326"
+      "collected_at": "2025-09-04T00:46:28.213689"
     },
     {
       "title": "The First Inkjet Printer Was a Medical Device",
       "summary": "Millions of people worldwide have reason to be thankful that Swedish engineer Rune Elmqvist decided not to practice medicine. Although qualified as a doctor, he chose to invent medical equipment instead. In 1949, while working at Elema-Schonander (later Siemens-Elema), in Stockholm, he applied for a...",
       "url": "https://spectrum.ieee.org/rune-elmqvist",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-09-03T00:46:09.287166"
+      "collected_at": "2025-09-04T00:46:28.213520"
     },
     {
       "title": "Teach 5G Hands-On with TIMS Lab Experiments",
       "summary": "Boost Student Comprehension in Telecoms with Interactive 5G Labs.Teaching complex 5G and telecommunications concepts can be challenging – students often struggle to connect theory with real-world applications. Traditional lecture-based methods may fail to engage, leaving gaps in understanding critic...",
       "url": "https://content.knowledgehub.wiley.com/unravelling-5g-complexity-engaging-students-with-tims-powered-hands-on-education/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 16:10:47 +0000",
-      "collected_at": "2025-09-03T00:46:09.286963"
+      "collected_at": "2025-09-04T00:46:28.213326"
     },
     {
       "title": "Onboarding Like a Pro: Your First 30 Days",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!I’ve been “the new engineer” seven times in my career, ...",
       "url": "https://spectrum.ieee.org/onboarding-like-a-pro",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 19:53:32 +0000",
-      "collected_at": "2025-09-03T00:46:09.286912"
+      "collected_at": "2025-09-04T00:46:28.213277"
     },
     {
       "title": "6G Wireless Networks to Use Satellites as Base Stations",
       "summary": "The future of wireless communication is today being sketched out in the skies and in space. A new generation of intelligent aerospace platforms—drones, airships, and satellites—will be part of tomorrow’s 6G networks, acting as, in effect, base stations in the sky. They’re expected to roll out in the...",
       "url": "https://spectrum.ieee.org/6g-wireless",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-03T00:46:09.286784"
+      "collected_at": "2025-09-04T00:46:28.213152"
     },
     {
       "title": "Video Friday: Spot’s Got Talent",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CLAWAR 2025: 5–7 September 2025, SHENZHEN, CHINAACTUATE ...",
       "url": "https://spectrum.ieee.org/video-friday-synchronized-dancing-robots",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 16:30:03 +0000",
-      "collected_at": "2025-09-03T00:46:09.286727"
+      "collected_at": "2025-09-04T00:46:28.213100"
     },
     {
       "title": "The Karaoke Machine’s Surprising Origin",
       "summary": "Belting your favorite song over prerecorded music into a microphone in front of friends and strangers at karaoke is a popular way for people around the world to destress after work or celebrate a friend’s birthday. The idea for the karaoke machine didn’t come from a singer or a large entertainment c...",
       "url": "https://spectrum.ieee.org/karaoke-machine-ieee-milestone",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 18:00:02 +0000",
-      "collected_at": "2025-09-03T00:46:09.286559"
+      "collected_at": "2025-09-04T00:46:28.212959"
     },
     {
       "title": "This DIY Test Equipment Could Save Your Radio",
       "summary": "Recently I noticed an irresistible offer on Craigslist: a Majestic 3C70 AM/shortwave radio for just US $50. This model dates from the 1930s, when such radios came in gorgeous wooden cabinets. The specimen I stumbled on was still in the possession of the original owner, who used to listen to it with ...",
       "url": "https://spectrum.ieee.org/vintage-electronics-dim-bulb",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-03T00:46:09.286406"
+      "collected_at": "2025-09-04T00:46:28.212809"
     },
     {
       "title": "Tech Founders Must Prioritize the Problem Before Their Solution",
       "summary": "When I left Los Alamos National Laboratory to start a company 11 years ago, I thought my team was ready. We had developed a new class of quantum dots—nanoscale particles of light-emitting semiconductor material that can be used in displays, solar cells, and more. Our technology was safer, more stabl...",
       "url": "https://spectrum.ieee.org/tech-founders-prioritize-the-problem",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-09-03T00:46:09.286280"
+      "collected_at": "2025-09-04T00:46:28.212643"
+    },
+    {
+      "title": "Fiber to the Home",
+      "summary": "The crew has come: caravan of trucksstationed on the street, unstacking conesand digging ditches, deft and efficient.Here in our yards, long years of earthhave been hefted by hand and heaped up on tarps.A pneumatic mole emerges from the trailer,and a heavy hose is hauled into place.With a pop, the p...",
+      "url": "https://spectrum.ieee.org/steve-searcy-poem",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 31 Aug 2025 15:40:02 +0000",
+      "collected_at": "2025-09-04T00:46:28.212517"
     }
   ]
 }
