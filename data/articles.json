@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-09-06T00:45:58.496728",
+  "last_updated": "2025-09-07T00:53:03.955839",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Trump Seeks to Cancel CHIPS Act R&D Organization’s Funds",
-      "summary": "The U.S. Commerce Department says it will not abide by an agreement to fund the U.S. CHIPS and Science Act’s R&D through the nonprofit set up to administer the program, called Natcast. Instead, it handed operational control to the National Institute of Standards and Technology (NIST).Natcast was cre...",
-      "url": "https://spectrum.ieee.org/natcast",
-      "date": "08月27日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 27 Aug 2025 15:05:15 +0000",
-      "collected_at": "2025-09-06T00:45:57.494164"
-    },
     {
       "title": "Data Centers May House AI—But Operators Don’t Trust AI (Yet)",
       "summary": "We are starting to trust AI with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 da...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.494033"
+      "collected_at": "2025-09-07T00:53:02.953319"
     },
     {
       "title": "The First Inkjet Printer Was a Medical Device",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-09-06T00:45:57.493855"
+      "collected_at": "2025-09-07T00:53:02.953159"
     },
     {
       "title": "Teach 5G Hands-On with TIMS Lab Experiments",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 16:10:47 +0000",
-      "collected_at": "2025-09-06T00:45:57.493656"
+      "collected_at": "2025-09-07T00:53:02.952962"
     },
     {
       "title": "Onboarding Like a Pro: Your First 30 Days",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 19:53:32 +0000",
-      "collected_at": "2025-09-06T00:45:57.493603"
+      "collected_at": "2025-09-07T00:53:02.952908"
     },
     {
       "title": "6G Wireless Networks to Use Satellites as Base Stations",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.493477"
+      "collected_at": "2025-09-07T00:53:02.952781"
     },
     {
       "title": "Video Friday: Spot’s Got Talent",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 16:30:03 +0000",
-      "collected_at": "2025-09-06T00:45:57.493419"
+      "collected_at": "2025-09-07T00:53:02.952722"
     },
     {
       "title": "The Karaoke Machine’s Surprising Origin",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 18:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.493278"
+      "collected_at": "2025-09-07T00:53:02.952575"
     },
     {
       "title": "This DIY Test Equipment Could Save Your Radio",
       "summary": "Recently I noticed an irresistible offer on Craigslist: a Majestic 3C70 AM/shortwave radio for just US $50. This model dates from the 1930s, when such radios came in gorgeous wooden cabinets. The specimen I stumbled on was still in the possession of the original owner, who used to listen to it with ...",
       "url": "https://spectrum.ieee.org/vintage-electronics-dim-bulb",
-      "date": "6日前",
+      "date": "08月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.493125"
+      "collected_at": "2025-09-07T00:53:02.952405"
     },
     {
       "title": "Tech Founders Must Prioritize the Problem Before Their Solution",
       "summary": "When I left Los Alamos National Laboratory to start a company 11 years ago, I thought my team was ready. We had developed a new class of quantum dots—nanoscale particles of light-emitting semiconductor material that can be used in displays, solar cells, and more. Our technology was safer, more stabl...",
       "url": "https://spectrum.ieee.org/tech-founders-prioritize-the-problem",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.493004"
+      "collected_at": "2025-09-07T00:53:02.952272"
     },
     {
       "title": "Fiber to the Home",
       "summary": "The crew has come: caravan of trucksstationed on the street, unstacking conesand digging ditches, deft and efficient.Here in our yards, long years of earthhave been hefted by hand and heaped up on tarps.A pneumatic mole emerges from the trailer,and a heavy hose is hauled into place.With a pop, the p...",
       "url": "https://spectrum.ieee.org/steve-searcy-poem",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 15:40:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.492857"
+      "collected_at": "2025-09-07T00:53:02.952149"
     },
     {
       "title": "Connecting Africa’s Next Generation of Engineers",
       "summary": "I get a lot of email from people asking to contribute to IEEE Spectrum. Usually, they want to write an article for us. But one bold query I received in January 2024 went much further: An undergraduate engineering student named Oluwatosin Kolade, from Obafemi Awolowo University, in Ilé-Ifẹ̀, Nigeria,...",
       "url": "https://spectrum.ieee.org/africa-s-next-generation-engineers",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Sep 2025 10:00:02 +0000",
-      "collected_at": "2025-09-06T00:45:57.492803"
+      "collected_at": "2025-09-07T00:53:02.952093"
+    },
+    {
+      "title": "IEEE President’s Note: How History Shapes Tech’s Future",
+      "summary": "For most of its more than 140-year existence, IEEE has been a leader in preserving the far-reaching implications of the history behind the electrical, electronic, and computing fields and related areas of science and technology that underpin modern society. This history showcases a continuous and dy...",
+      "url": "https://spectrum.ieee.org/ieee-presidents-note-september-2025",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 01 Sep 2025 18:00:02 +0000",
+      "collected_at": "2025-09-07T00:53:02.951999"
     }
   ]
 }
