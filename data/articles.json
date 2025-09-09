@@ -1,38 +1,8 @@
 {
-  "last_updated": "2025-09-08T00:51:53.639724",
+  "last_updated": "2025-09-09T00:48:55.834556",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Data Centers May House AI—But Operators Don’t Trust AI (Yet)",
-      "summary": "We are starting to trust AI with high-stakes tasks, including running automated factories and guiding military drones through hostile airspace. But when it comes to managing the data centers that power this AI revolution, human operators are far more cautious.According to a new survey of over 600 da...",
-      "url": "https://spectrum.ieee.org/ai-data-center-operator-trust",
-      "date": "08月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 28 Aug 2025 12:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.637197"
-    },
-    {
-      "title": "The First Inkjet Printer Was a Medical Device",
-      "summary": "Millions of people worldwide have reason to be thankful that Swedish engineer Rune Elmqvist decided not to practice medicine. Although qualified as a doctor, he chose to invent medical equipment instead. In 1949, while working at Elema-Schonander (later Siemens-Elema), in Stockholm, he applied for a...",
-      "url": "https://spectrum.ieee.org/rune-elmqvist",
-      "date": "08月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 28 Aug 2025 13:00:03 +0000",
-      "collected_at": "2025-09-08T00:51:52.637039"
-    },
-    {
-      "title": "Teach 5G Hands-On with TIMS Lab Experiments",
-      "summary": "Boost Student Comprehension in Telecoms with Interactive 5G Labs.Teaching complex 5G and telecommunications concepts can be challenging – students often struggle to connect theory with real-world applications. Traditional lecture-based methods may fail to engage, leaving gaps in understanding critic...",
-      "url": "https://content.knowledgehub.wiley.com/unravelling-5g-complexity-engaging-students-with-tims-powered-hands-on-education/",
-      "date": "08月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 28 Aug 2025 16:10:47 +0000",
-      "collected_at": "2025-09-08T00:51:52.636841"
-    },
     {
       "title": "Onboarding Like a Pro: Your First 30 Days",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!I’ve been “the new engineer” seven times in my career, ...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 19:53:32 +0000",
-      "collected_at": "2025-09-08T00:51:52.636768"
+      "collected_at": "2025-09-09T00:48:54.832713"
     },
     {
       "title": "6G Wireless Networks to Use Satellites as Base Stations",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.636638"
+      "collected_at": "2025-09-09T00:48:54.832586"
     },
     {
       "title": "Video Friday: Spot’s Got Talent",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 16:30:03 +0000",
-      "collected_at": "2025-09-08T00:51:52.636579"
+      "collected_at": "2025-09-09T00:48:54.832529"
     },
     {
       "title": "The Karaoke Machine’s Surprising Origin",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 18:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.636430"
+      "collected_at": "2025-09-09T00:48:54.832386"
     },
     {
       "title": "This DIY Test Equipment Could Save Your Radio",
@@ -81,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.636277"
+      "collected_at": "2025-09-09T00:48:54.832240"
     },
     {
       "title": "Tech Founders Must Prioritize the Problem Before Their Solution",
@@ -91,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.636148"
+      "collected_at": "2025-09-09T00:48:54.832116"
     },
     {
       "title": "Fiber to the Home",
@@ -101,27 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 15:40:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.636016"
+      "collected_at": "2025-09-09T00:48:54.831990"
     },
     {
       "title": "Connecting Africa’s Next Generation of Engineers",
       "summary": "I get a lot of email from people asking to contribute to IEEE Spectrum. Usually, they want to write an article for us. But one bold query I received in January 2024 went much further: An undergraduate engineering student named Oluwatosin Kolade, from Obafemi Awolowo University, in Ilé-Ifẹ̀, Nigeria,...",
       "url": "https://spectrum.ieee.org/africa-s-next-generation-engineers",
-      "date": "6日前",
+      "date": "09月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Sep 2025 10:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.635944"
+      "collected_at": "2025-09-09T00:48:54.831925"
     },
     {
       "title": "IEEE President’s Note: How History Shapes Tech’s Future",
       "summary": "For most of its more than 140-year existence, IEEE has been a leader in preserving the far-reaching implications of the history behind the electrical, electronic, and computing fields and related areas of science and technology that underpin modern society. This history showcases a continuous and dy...",
       "url": "https://spectrum.ieee.org/ieee-presidents-note-september-2025",
-      "date": "6日前",
+      "date": "09月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Sep 2025 18:00:02 +0000",
-      "collected_at": "2025-09-08T00:51:52.635818"
+      "collected_at": "2025-09-09T00:48:54.831806"
+    },
+    {
+      "title": "Celebrating the 15th Anniversary of the IEEE and HKN Merger",
+      "summary": "In the histories of two long-established organizations—the Eta Kappa Nu (HKN) honor society, founded in 1904, and IEEE, formed in 1963—15 years might not seem very long. Since their merger in 2010, however, more than 40,000 members have been inducted into IEEE-HKN, 57 chapters have been formed (30 o...",
+      "url": "https://spectrum.ieee.org/ieee-hkn-honor-society-15",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 03 Sep 2025 18:00:03 +0000",
+      "collected_at": "2025-09-09T00:48:54.831692"
+    },
+    {
+      "title": "Video Friday: Robot Vacuum Climbs Stairs",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
+      "url": "https://spectrum.ieee.org/video-friday-eufy-robot-vacuum",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 05 Sep 2025 16:00:03 +0000",
+      "collected_at": "2025-09-09T00:48:54.831544"
+    },
+    {
+      "title": "How Nauto’s AI Dashcam Reduces Driver Risk and Accidents",
+      "summary": "Driving trucks is one of the unappreciated backbones of modern civilization. It’s also hard and sometimes dangerous work. But technology is being spun up to make the job safer and easier.A new class of devices is being targeted at fleets that helps drivers elude accidents by flagging risky situation...",
+      "url": "https://spectrum.ieee.org/ai-dashcam-driver-safety-nauto",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 06 Sep 2025 13:00:02 +0000",
+      "collected_at": "2025-09-09T00:48:54.831381"
     }
   ]
 }
