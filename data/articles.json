@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09T00:48:55.834556",
+  "last_updated": "2025-09-10T00:47:35.811004",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 Aug 2025 19:53:32 +0000",
-      "collected_at": "2025-09-09T00:48:54.832713"
+      "collected_at": "2025-09-10T00:47:34.808260"
     },
     {
       "title": "6G Wireless Networks to Use Satellites as Base Stations",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.832586"
+      "collected_at": "2025-09-10T00:47:34.808131"
     },
     {
       "title": "Video Friday: Spot’s Got Talent",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 16:30:03 +0000",
-      "collected_at": "2025-09-09T00:48:54.832529"
+      "collected_at": "2025-09-10T00:47:34.808074"
     },
     {
       "title": "The Karaoke Machine’s Surprising Origin",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 Aug 2025 18:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.832386"
+      "collected_at": "2025-09-10T00:47:34.807928"
     },
     {
       "title": "This DIY Test Equipment Could Save Your Radio",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 Aug 2025 13:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.832240"
+      "collected_at": "2025-09-10T00:47:34.807759"
     },
     {
       "title": "Tech Founders Must Prioritize the Problem Before Their Solution",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 14:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.832116"
+      "collected_at": "2025-09-10T00:47:34.807636"
     },
     {
       "title": "Fiber to the Home",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 Aug 2025 15:40:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.831990"
+      "collected_at": "2025-09-10T00:47:34.807506"
     },
     {
       "title": "Connecting Africa’s Next Generation of Engineers",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Sep 2025 10:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.831925"
+      "collected_at": "2025-09-10T00:47:34.807437"
     },
     {
       "title": "IEEE President’s Note: How History Shapes Tech’s Future",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Sep 2025 18:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.831806"
+      "collected_at": "2025-09-10T00:47:34.807336"
     },
     {
       "title": "Celebrating the 15th Anniversary of the IEEE and HKN Merger",
       "summary": "In the histories of two long-established organizations—the Eta Kappa Nu (HKN) honor society, founded in 1904, and IEEE, formed in 1963—15 years might not seem very long. Since their merger in 2010, however, more than 40,000 members have been inducted into IEEE-HKN, 57 chapters have been formed (30 o...",
       "url": "https://spectrum.ieee.org/ieee-hkn-honor-society-15",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Sep 2025 18:00:03 +0000",
-      "collected_at": "2025-09-09T00:48:54.831692"
+      "collected_at": "2025-09-10T00:47:34.807213"
     },
     {
       "title": "Video Friday: Robot Vacuum Climbs Stairs",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
       "url": "https://spectrum.ieee.org/video-friday-eufy-robot-vacuum",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Sep 2025 16:00:03 +0000",
-      "collected_at": "2025-09-09T00:48:54.831544"
+      "collected_at": "2025-09-10T00:47:34.807064"
     },
     {
       "title": "How Nauto’s AI Dashcam Reduces Driver Risk and Accidents",
       "summary": "Driving trucks is one of the unappreciated backbones of modern civilization. It’s also hard and sometimes dangerous work. But technology is being spun up to make the job safer and easier.A new class of devices is being targeted at fleets that helps drivers elude accidents by flagging risky situation...",
       "url": "https://spectrum.ieee.org/ai-dashcam-driver-safety-nauto",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 06 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-09T00:48:54.831381"
+      "collected_at": "2025-09-10T00:47:34.806895"
     }
   ]
 }
