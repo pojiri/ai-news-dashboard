@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-09-12T00:46:44.133808",
+  "last_updated": "2025-09-13T00:44:06.173787",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "IEEE President’s Note: How History Shapes Tech’s Future",
-      "summary": "For most of its more than 140-year existence, IEEE has been a leader in preserving the far-reaching implications of the history behind the electrical, electronic, and computing fields and related areas of science and technology that underpin modern society. This history showcases a continuous and dy...",
-      "url": "https://spectrum.ieee.org/ieee-presidents-note-september-2025",
-      "date": "09月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 01 Sep 2025 18:00:02 +0000",
-      "collected_at": "2025-09-12T00:46:43.131125"
-    },
     {
       "title": "Celebrating the 15th Anniversary of the IEEE and HKN Merger",
       "summary": "In the histories of two long-established organizations—the Eta Kappa Nu (HKN) honor society, founded in 1904, and IEEE, formed in 1963—15 years might not seem very long. Since their merger in 2010, however, more than 40,000 members have been inducted into IEEE-HKN, 57 chapters have been formed (30 o...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Sep 2025 18:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.131012"
+      "collected_at": "2025-09-13T00:44:05.171392"
     },
     {
       "title": "Video Friday: Robot Vacuum Climbs Stairs",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
       "url": "https://spectrum.ieee.org/video-friday-eufy-robot-vacuum",
-      "date": "6日前",
+      "date": "09月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Sep 2025 16:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.130847"
+      "collected_at": "2025-09-13T00:44:05.171241"
     },
     {
       "title": "How Nauto’s AI Dashcam Reduces Driver Risk and Accidents",
       "summary": "Driving trucks is one of the unappreciated backbones of modern civilization. It’s also hard and sometimes dangerous work. But technology is being spun up to make the job safer and easier.A new class of devices is being targeted at fleets that helps drivers elude accidents by flagging risky situation...",
       "url": "https://spectrum.ieee.org/ai-dashcam-driver-safety-nauto",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 06 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-12T00:46:43.130674"
+      "collected_at": "2025-09-13T00:44:05.171072"
     },
     {
       "title": "How Cryptocurrency Captured the Dream of the Decentralized Web",
       "summary": "The term Web3 was originally coined by Ethereum cofounder Gavin Wood as a secure, decentralized, peer-to-peer version of the Internet. The idea was to build an Internet based on blockchain technology and a peer-to-peer network, without the need for large data centers or third-party providers. These ...",
       "url": "https://spectrum.ieee.org/web3-hardware-security",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.130492"
+      "collected_at": "2025-09-13T00:44:05.170934"
     },
     {
       "title": "4 Ways to Conquer Imposter Syndrome",
       "summary": "If you credit luck instead of skill for your professional accomplishments, and if you struggle to accept praise, you might be experiencing imposter syndrome. If so, you aren’t alone. Nearly 70 percent of high-achieving adults experience it, according to an article in the Harvard Business Review.Comm...",
       "url": "https://spectrum.ieee.org/4-ways-conquer-imposter-syndrome",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Sep 2025 18:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.130297"
+      "collected_at": "2025-09-13T00:44:05.170727"
     },
     {
       "title": "If We Want Bigger Wind Turbines, We’re Gonna Need Bigger Airplanes",
       "summary": "The world’s largest airplane, when it’s built, will stretch more than a football field from tip to tail. Sixty percent longer than the biggest existing aircraft, with 12 times as much cargo space as a 747, the behemoth will look like an oil tanker that’s sprouted wings—aeronautical engineering at a ...",
       "url": "https://spectrum.ieee.org/wind-turbine-blade-transport-plane",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Sep 2025 12:00:04 +0000",
-      "collected_at": "2025-09-12T00:46:43.130158"
+      "collected_at": "2025-09-13T00:44:05.170592"
     },
     {
       "title": "The Real Story on AI’s Water Use–and How to Tackle It",
       "summary": "AI is hot, capturing headlines, investments, and users. It also runs hot, literally: The data centers operating artificial intelligence (AI) models use large amounts of electricity and generate enormous heat. To keep servers from overheating, many facilities rely on cooling systems that use water.AI...",
       "url": "https://spectrum.ieee.org/ai-water-usage",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-12T00:46:43.129959"
+      "collected_at": "2025-09-13T00:44:05.170395"
     },
     {
       "title": "Machine Learning Tests Keep Getting Bigger",
       "summary": "The machine learning field is moving fast, and the yardsticks used measure progress in it are having to race to keep up. A case in point, MLPerf, the bi-annual machine learning competition sometimes termed “the Olympics of AI,” introduced three new benchmark tests, reflecting new directions in the f...",
       "url": "https://spectrum.ieee.org/mlperf-inference-51",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Sep 2025 15:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.129828"
+      "collected_at": "2025-09-13T00:44:05.170269"
     },
     {
       "title": "How Robotics Is Powering the Future of Innovation",
       "summary": "The future of robotics is being shaped by powerful technologies like AI, edge computing, and high-speed connectivity, driving smarter, more responsive machines across industries. Robots are no longer confined to static environments—they are evolving to interact dynamically with humans and their surr...",
       "url": "https://content.knowledgehub.wiley.com/from-concept-to-reality-how-robotics-is-transforming-our-world/",
-      "date": "14時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Sep 2025 10:00:02 +0000",
-      "collected_at": "2025-09-12T00:46:43.129691"
+      "collected_at": "2025-09-13T00:44:05.170137"
     },
     {
       "title": "Natcast to Lay Off Majority of Its Staff",
       "summary": "Natcast, the non-profit organization created to run the U.S. CHIPS & Science Act’s National Semiconductor Technology Center (NSTC) told the majority of its staff they would be laid off this week, IEEE Spectrum has learned. A small core team will continue on to shut Natcast down over the next few wee...",
       "url": "https://spectrum.ieee.org/natcast-layoffs",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Sep 2025 12:00:03 +0000",
-      "collected_at": "2025-09-12T00:46:43.129632"
+      "collected_at": "2025-09-13T00:44:05.170084"
     },
     {
       "title": "Reality Is Ruining the Humanoid Robot Hype",
       "summary": "Over the next several years, humanoid robots will change the nature of work. Or at least, that’s what humanoid robotics companies have been consistently promising, enabling them to raise hundreds of millions of dollars at valuations that run into the billions.Delivering on these promises will requir...",
       "url": "https://spectrum.ieee.org/humanoid-robot-scaling",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Sep 2025 13:00:00 +0000",
-      "collected_at": "2025-09-12T00:46:43.129484"
+      "collected_at": "2025-09-13T00:44:05.169967"
+    },
+    {
+      "title": "Help Celebrate IEEE Day on 7 October",
+      "summary": "Every year IEEE members around the globe come together on IEEE Day to celebrate a shared legacy of innovation, collaboration, and service. First celebrated in 2009, the day commemorates the initial gathering of IEEE members to share their technical ideas in 1884.This year the event will be held on 7...",
+      "url": "https://spectrum.ieee.org/ieee-day-2025",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 11 Sep 2025 18:00:05 +0000",
+      "collected_at": "2025-09-13T00:44:05.169796"
     }
   ]
 }
