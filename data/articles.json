@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-09-24T00:48:21.692248",
+  "last_updated": "2025-09-25T00:48:36.525923",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Faster Career Growth: Individual Contributor or Manager?",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!During my first two years working at Meta, I was an ind...",
-      "url": "https://spectrum.ieee.org/faster-career-growth",
-      "date": "09月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 11 Sep 2025 19:55:38 +0000",
-      "collected_at": "2025-09-24T00:48:20.689903"
-    },
-    {
-      "title": "Video Friday: A Soft Robot Companion",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
-      "url": "https://spectrum.ieee.org/video-friday-soft-robot-companion",
-      "date": "09月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 12 Sep 2025 17:04:10 +0000",
-      "collected_at": "2025-09-24T00:48:20.689788"
-    },
     {
       "title": "A Fusion-Reactor-Inspired Thruster Could Deorbit Space Junk",
       "summary": "There are plenty of labs working on solutions to Kessler Syndrome, where there’s so much debris in low Earth orbit that rockets are no longer capable of reaching it without being hit with hypersonic parts of defunct equipment. While we haven’t yet gotten to the point where we’ve lost access to space...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 14 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-24T00:48:20.689658"
+      "collected_at": "2025-09-25T00:48:35.524071"
     },
     {
       "title": "How Much Carbon Do We Need to Capture?",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-09-24T00:48:20.689555"
+      "collected_at": "2025-09-25T00:48:35.523965"
     },
     {
       "title": "Face to Face With the Scale of the Cosmos",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 16 Sep 2025 15:04:13 +0000",
-      "collected_at": "2025-09-24T00:48:20.689433"
+      "collected_at": "2025-09-25T00:48:35.523846"
     },
     {
       "title": "Redefining Construction With Eco-Friendly Concepts and 4D Tech",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 16 Sep 2025 18:00:04 +0000",
-      "collected_at": "2025-09-24T00:48:20.689211"
+      "collected_at": "2025-09-25T00:48:35.523630"
     },
     {
       "title": "Water Vapor Could Cool Your Next iPhone",
       "summary": "On 9 September, Apple introduced its newest lineup, including the iPhone 17 series. Much of the attention went to a new ultrathin model and a bright orange color option (a shade not dissimilar to that of the IEEE Spectrum logo). The new smartphones will also ship with the latest operating system and...",
       "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "date": "6日前",
+      "date": "09月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-24T00:48:20.689030"
+      "collected_at": "2025-09-25T00:48:35.523458"
     },
     {
       "title": "This Microscope for Chipmaking Started as a Home Video Wannabe",
       "summary": "I love a good comeback story of technological innovation, struggle, failure, and redemption. The invention of the scanning capacitance microscope has all of that.In 1981, RCA filed a patent for the SCM on behalf of company researcher James R. Matey. The microscope was an unintentional by-product of ...",
       "url": "https://spectrum.ieee.org/rca-videodisc",
-      "date": "6日前",
+      "date": "09月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Sep 2025 14:00:04 +0000",
-      "collected_at": "2025-09-24T00:48:20.688927"
+      "collected_at": "2025-09-25T00:48:35.523351"
     },
     {
       "title": "Video Friday: A Billion Dollars for Humanoid Robots",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
       "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Sep 2025 15:30:05 +0000",
-      "collected_at": "2025-09-24T00:48:20.688714"
+      "collected_at": "2025-09-25T00:48:35.523132"
     },
     {
       "title": "Molten Regolith Electrolysis Could Make Moon Dust Useful",
       "summary": "Blue Origin is committed to making a permanent human presence in space a reality. To this end, the company has developed the New Shepard and New Glenn rockets to send payloads to orbit, and it aims to create superheavy launch vehicles to reach the moon (the New Armstrong rocket) and beyond. Another ...",
       "url": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 21 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-24T00:48:20.688543"
+      "collected_at": "2025-09-25T00:48:35.522965"
     },
     {
       "title": "Are You Smarter Than an AI?",
       "summary": "The ARC Prize test is a deceptively simple challenge designed to measure a machine’s ability to reason, abstract, and generalize—core ingredients of artificial general intelligence (AGI). It’s the most prominent benchmark to emerge as researchers look for ways to measure progress toward AGI. For the...",
       "url": "https://spectrum.ieee.org/arc-prize-agi-test",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-24T00:48:20.688449"
+      "collected_at": "2025-09-25T00:48:35.522873"
     },
     {
       "title": "Will We Know Artificial General Intelligence When We See It?",
       "summary": "Buzzwords in the field of artificial intelligence can be technical: perceptron, convolution, transformer. These refer to specific computing approaches. A recent term sounds more mundane but has revolutionary implications: timeline. Ask someone in AI for their timeline, and they’ll tell you when they...",
       "url": "https://spectrum.ieee.org/agi-benchmark",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:01:02 +0000",
-      "collected_at": "2025-09-24T00:48:20.688389"
+      "collected_at": "2025-09-25T00:48:35.522811"
+    },
+    {
+      "title": "The Long Strange Trip from Silica to Smartphone",
+      "summary": "This article is part of our special report The Scale Issue.If you want to get a sense of the truly global scale of the electronics industry, look no further than your smartphone. The processor that powers it started as a humble rock, and by the time it found its way into your device, it had probably...",
+      "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 23 Sep 2025 13:00:04 +0000",
+      "collected_at": "2025-09-25T00:48:35.522501"
+    },
+    {
+      "title": "Top Programming Languages Methodology 2025",
+      "summary": "Our Top Programming Languages interactive tries to tackle the problem of estimating a language’s popularity by looking for proxy signals. We do this by constructing measures of popularity from a variety of data sources that we believe are good proxies for active interest for each programming languag...",
+      "url": "https://spectrum.ieee.org/top-programming-languages-methodology-2025",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 23 Sep 2025 17:44:19 +0000",
+      "collected_at": "2025-09-25T00:48:35.522326"
     }
   ]
 }
