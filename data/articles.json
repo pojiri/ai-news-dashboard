@@ -1,38 +1,8 @@
 {
-  "last_updated": "2025-09-25T00:48:36.525923",
+  "last_updated": "2025-09-26T00:47:15.676059",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "A Fusion-Reactor-Inspired Thruster Could Deorbit Space Junk",
-      "summary": "There are plenty of labs working on solutions to Kessler Syndrome, where there’s so much debris in low Earth orbit that rockets are no longer capable of reaching it without being hit with hypersonic parts of defunct equipment. While we haven’t yet gotten to the point where we’ve lost access to space...",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-plasma-thruster-deorbit",
-      "date": "09月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 14 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-25T00:48:35.524071"
-    },
-    {
-      "title": "How Much Carbon Do We Need to Capture?",
-      "summary": "Plans to end global warming hinge on driving net greenhouse gas emissions to zero (plus or minus a few gigatonnes). It’s not going well. CO2 emissions hit an all-time high last year, and for the first time average temperatures on Earth rose 1.5 °C above preindustrial levels. To limit warming to 2 °C...",
-      "url": "https://spectrum.ieee.org/scaling-carbon-capture-technology",
-      "date": "09月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 15 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-09-25T00:48:35.523965"
-    },
-    {
-      "title": "Face to Face With the Scale of the Cosmos",
-      "summary": "For most of us, to see a truly starry night isn’t easy. I have been writing about dark skies and light pollution for almost 20 years. And I have seen some breathtaking skies—southern Morocco at the edge of the desert so plush with stars it still seems like a dream, the Racetrack in Death Valley with...",
-      "url": "https://spectrum.ieee.org/scale-of-light-pollution",
-      "date": "09月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 16 Sep 2025 15:04:13 +0000",
-      "collected_at": "2025-09-25T00:48:35.523846"
-    },
     {
       "title": "Redefining Construction With Eco-Friendly Concepts and 4D Tech",
       "summary": "Carolina Araújo Moreira Delci often has dreamed of transforming the world around her. As a child, she says, she was fascinated by how bridges, dams, and skyscrapers can reshape urban landscapes.“Even back then, I could see the power that engineering had to touch lives at scale,” Delci says. “I wante...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 16 Sep 2025 18:00:04 +0000",
-      "collected_at": "2025-09-25T00:48:35.523630"
+      "collected_at": "2025-09-26T00:47:14.673342"
     },
     {
       "title": "Water Vapor Could Cool Your Next iPhone",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-25T00:48:35.523458"
+      "collected_at": "2025-09-26T00:47:14.673166"
     },
     {
       "title": "This Microscope for Chipmaking Started as a Home Video Wannabe",
@@ -61,67 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Sep 2025 14:00:04 +0000",
-      "collected_at": "2025-09-25T00:48:35.523351"
+      "collected_at": "2025-09-26T00:47:14.673058"
     },
     {
       "title": "Video Friday: A Billion Dollars for Humanoid Robots",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
       "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Sep 2025 15:30:05 +0000",
-      "collected_at": "2025-09-25T00:48:35.523132"
+      "collected_at": "2025-09-26T00:47:14.672835"
     },
     {
       "title": "Molten Regolith Electrolysis Could Make Moon Dust Useful",
       "summary": "Blue Origin is committed to making a permanent human presence in space a reality. To this end, the company has developed the New Shepard and New Glenn rockets to send payloads to orbit, and it aims to create superheavy launch vehicles to reach the moon (the New Armstrong rocket) and beyond. Another ...",
       "url": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 21 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-25T00:48:35.522965"
+      "collected_at": "2025-09-26T00:47:14.672663"
     },
     {
       "title": "Are You Smarter Than an AI?",
       "summary": "The ARC Prize test is a deceptively simple challenge designed to measure a machine’s ability to reason, abstract, and generalize—core ingredients of artificial general intelligence (AGI). It’s the most prominent benchmark to emerge as researchers look for ways to measure progress toward AGI. For the...",
       "url": "https://spectrum.ieee.org/arc-prize-agi-test",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-25T00:48:35.522873"
+      "collected_at": "2025-09-26T00:47:14.672570"
     },
     {
       "title": "Will We Know Artificial General Intelligence When We See It?",
       "summary": "Buzzwords in the field of artificial intelligence can be technical: perceptron, convolution, transformer. These refer to specific computing approaches. A recent term sounds more mundane but has revolutionary implications: timeline. Ask someone in AI for their timeline, and they’ll tell you when they...",
       "url": "https://spectrum.ieee.org/agi-benchmark",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:01:02 +0000",
-      "collected_at": "2025-09-25T00:48:35.522811"
+      "collected_at": "2025-09-26T00:47:14.672503"
     },
     {
       "title": "The Long Strange Trip from Silica to Smartphone",
       "summary": "This article is part of our special report The Scale Issue.If you want to get a sense of the truly global scale of the electronics industry, look no further than your smartphone. The processor that powers it started as a humble rock, and by the time it found its way into your device, it had probably...",
       "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-25T00:48:35.522501"
+      "collected_at": "2025-09-26T00:47:14.672198"
     },
     {
       "title": "Top Programming Languages Methodology 2025",
       "summary": "Our Top Programming Languages interactive tries to tackle the problem of estimating a language’s popularity by looking for proxy signals. We do this by constructing measures of popularity from a variety of data sources that we believe are good proxies for active interest for each programming languag...",
       "url": "https://spectrum.ieee.org/top-programming-languages-methodology-2025",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Sep 2025 17:44:19 +0000",
-      "collected_at": "2025-09-25T00:48:35.522326"
+      "collected_at": "2025-09-26T00:47:14.672019"
+    },
+    {
+      "title": "The Top Programming Languages 2025",
+      "summary": "Since 2013, we’ve been metaphorically peering over the shoulders of programmers to create our annual interactive rankings of the most popular programming languages. But fundamental shifts in how people are coding may not just make it harder to measure popularity, but could even make the concept itse...",
+      "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 23 Sep 2025 17:44:36 +0000",
+      "collected_at": "2025-09-26T00:47:14.671866"
+    },
+    {
+      "title": "How to Measure Nothing Better",
+      "summary": "There’s no such thing as a complete vacuum. Even in the cosmic void between galaxies, there’s an estimated density of about one hydrogen or helium atom per cubic meter. But these estimates are largely theoretical—no one has yet launched a sensor into intergalactic space and beamed back the result. O...",
+      "url": "https://spectrum.ieee.org/vacuum-measurement",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 24 Sep 2025 11:02:08 +0000",
+      "collected_at": "2025-09-26T00:47:14.671675"
+    },
+    {
+      "title": "How Badly Is AI Cutting Early-Career Employment?",
+      "summary": "As AI tools become more common in people’s everyday work, researchers are looking to uncover its effects on the job market—especially for early career workers.A paper from the Stanford Digital Economy Lab, part of the Stanford Institute for Human-Centered AI, has now found early evidence that employ...",
+      "url": "https://spectrum.ieee.org/ai-impact-on-job-market",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 24 Sep 2025 13:00:02 +0000",
+      "collected_at": "2025-09-26T00:47:14.671454"
     }
   ]
 }
