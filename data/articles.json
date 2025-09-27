@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-09-26T00:47:15.676059",
+  "last_updated": "2025-09-27T00:45:36.711165",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Redefining Construction With Eco-Friendly Concepts and 4D Tech",
-      "summary": "Carolina Araújo Moreira Delci often has dreamed of transforming the world around her. As a child, she says, she was fascinated by how bridges, dams, and skyscrapers can reshape urban landscapes.“Even back then, I could see the power that engineering had to touch lives at scale,” Delci says. “I wante...",
-      "url": "https://spectrum.ieee.org/smart-infrastructure-carolina-moreira-delci",
-      "date": "09月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 16 Sep 2025 18:00:04 +0000",
-      "collected_at": "2025-09-26T00:47:14.673342"
-    },
-    {
-      "title": "Water Vapor Could Cool Your Next iPhone",
-      "summary": "On 9 September, Apple introduced its newest lineup, including the iPhone 17 series. Much of the attention went to a new ultrathin model and a bright orange color option (a shade not dissimilar to that of the IEEE Spectrum logo). The new smartphones will also ship with the latest operating system and...",
-      "url": "https://spectrum.ieee.org/iphone-17-pro-vapor-chamber",
-      "date": "09月17日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 17 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-26T00:47:14.673166"
-    },
     {
       "title": "This Microscope for Chipmaking Started as a Home Video Wannabe",
       "summary": "I love a good comeback story of technological innovation, struggle, failure, and redemption. The invention of the scanning capacitance microscope has all of that.In 1981, RCA filed a patent for the SCM on behalf of company researcher James R. Matey. The microscope was an unintentional by-product of ...",
@@ -31,97 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Sep 2025 14:00:04 +0000",
-      "collected_at": "2025-09-26T00:47:14.673058"
+      "collected_at": "2025-09-27T00:45:35.708855"
     },
     {
       "title": "Video Friday: A Billion Dollars for Humanoid Robots",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ACTUATE 2025: 23–24 September 2025, SAN FRANCISCOCoRL 20...",
       "url": "https://spectrum.ieee.org/video-friday-billion-humanoid-robots",
-      "date": "6日前",
+      "date": "09月19日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Sep 2025 15:30:05 +0000",
-      "collected_at": "2025-09-26T00:47:14.672835"
+      "collected_at": "2025-09-27T00:45:35.708638"
     },
     {
       "title": "Molten Regolith Electrolysis Could Make Moon Dust Useful",
       "summary": "Blue Origin is committed to making a permanent human presence in space a reality. To this end, the company has developed the New Shepard and New Glenn rockets to send payloads to orbit, and it aims to create superheavy launch vehicles to reach the moon (the New Armstrong rocket) and beyond. Another ...",
       "url": "https://spectrum.ieee.org/blue-origin-molten-regolith-electrolysis",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 21 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-26T00:47:14.672663"
+      "collected_at": "2025-09-27T00:45:35.708456"
     },
     {
       "title": "Are You Smarter Than an AI?",
       "summary": "The ARC Prize test is a deceptively simple challenge designed to measure a machine’s ability to reason, abstract, and generalize—core ingredients of artificial general intelligence (AGI). It’s the most prominent benchmark to emerge as researchers look for ways to measure progress toward AGI. For the...",
       "url": "https://spectrum.ieee.org/arc-prize-agi-test",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-26T00:47:14.672570"
+      "collected_at": "2025-09-27T00:45:35.708346"
     },
     {
       "title": "Will We Know Artificial General Intelligence When We See It?",
       "summary": "Buzzwords in the field of artificial intelligence can be technical: perceptron, convolution, transformer. These refer to specific computing approaches. A recent term sounds more mundane but has revolutionary implications: timeline. Ask someone in AI for their timeline, and they’ll tell you when they...",
       "url": "https://spectrum.ieee.org/agi-benchmark",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Sep 2025 13:01:02 +0000",
-      "collected_at": "2025-09-26T00:47:14.672503"
+      "collected_at": "2025-09-27T00:45:35.708287"
     },
     {
       "title": "The Long Strange Trip from Silica to Smartphone",
       "summary": "This article is part of our special report The Scale Issue.If you want to get a sense of the truly global scale of the electronics industry, look no further than your smartphone. The processor that powers it started as a humble rock, and by the time it found its way into your device, it had probably...",
       "url": "https://spectrum.ieee.org/the-long-strange-trip-from-silica-to-smartphone",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Sep 2025 13:00:04 +0000",
-      "collected_at": "2025-09-26T00:47:14.672198"
+      "collected_at": "2025-09-27T00:45:35.707995"
     },
     {
       "title": "Top Programming Languages Methodology 2025",
       "summary": "Our Top Programming Languages interactive tries to tackle the problem of estimating a language’s popularity by looking for proxy signals. We do this by constructing measures of popularity from a variety of data sources that we believe are good proxies for active interest for each programming languag...",
       "url": "https://spectrum.ieee.org/top-programming-languages-methodology-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Sep 2025 17:44:19 +0000",
-      "collected_at": "2025-09-26T00:47:14.672019"
+      "collected_at": "2025-09-27T00:45:35.707820"
     },
     {
       "title": "The Top Programming Languages 2025",
       "summary": "Since 2013, we’ve been metaphorically peering over the shoulders of programmers to create our annual interactive rankings of the most popular programming languages. But fundamental shifts in how people are coding may not just make it harder to measure popularity, but could even make the concept itse...",
       "url": "https://spectrum.ieee.org/top-programming-languages-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Sep 2025 17:44:36 +0000",
-      "collected_at": "2025-09-26T00:47:14.671866"
+      "collected_at": "2025-09-27T00:45:35.707673"
     },
     {
       "title": "How to Measure Nothing Better",
       "summary": "There’s no such thing as a complete vacuum. Even in the cosmic void between galaxies, there’s an estimated density of about one hydrogen or helium atom per cubic meter. But these estimates are largely theoretical—no one has yet launched a sensor into intergalactic space and beamed back the result. O...",
       "url": "https://spectrum.ieee.org/vacuum-measurement",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Sep 2025 11:02:08 +0000",
-      "collected_at": "2025-09-26T00:47:14.671675"
+      "collected_at": "2025-09-27T00:45:35.707486"
     },
     {
       "title": "How Badly Is AI Cutting Early-Career Employment?",
       "summary": "As AI tools become more common in people’s everyday work, researchers are looking to uncover its effects on the job market—especially for early career workers.A paper from the Stanford Digital Economy Lab, part of the Stanford Institute for Human-Centered AI, has now found early evidence that employ...",
       "url": "https://spectrum.ieee.org/ai-impact-on-job-market",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-09-26T00:47:14.671454"
+      "collected_at": "2025-09-27T00:45:35.707255"
+    },
+    {
+      "title": "Microcredentials Chip Away at Semiconductor Workforce Gap",
+      "summary": "In 2017, Demis John noticed a staffing problem among the semiconductor companies in Santa Barbara. The area had about 28 small semiconductor companies at the time, many launched from the nanofabrication facility housed at University of California, Santa Barbara, where John works. But as these compan...",
+      "url": "https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 25 Sep 2025 13:00:03 +0000",
+      "collected_at": "2025-09-27T00:45:35.707143"
+    },
+    {
+      "title": "Exploit Allows for Takeover of Fleets of Unitree Robots",
+      "summary": "A critical vulnerability in the Bluetooth Low Energy (BLE) Wi-Fi configuration interface used by several different Unitree robots can result in a root level takeover by an attacker, security researchers disclosed on 20 September. The exploit impacts Unitree’s Go2 and B2 quadrupeds and G1 and H1 huma...",
+      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 25 Sep 2025 13:36:52 +0000",
+      "collected_at": "2025-09-27T00:45:35.706999"
     }
   ]
 }
