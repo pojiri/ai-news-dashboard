@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-10-01T00:55:41.913226",
+  "last_updated": "2025-10-02T00:46:58.261008",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "How Badly Is AI Cutting Early-Career Employment?",
-      "summary": "As AI tools become more common in people’s everyday work, researchers are looking to uncover its effects on the job market—especially for early-career workers.A paper from the Stanford Digital Economy Lab, part of the Stanford Institute for Human-Centered AI, has now found early evidence that employ...",
-      "url": "https://spectrum.ieee.org/ai-impact-on-job-market",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 24 Sep 2025 13:00:02 +0000",
-      "collected_at": "2025-10-01T00:55:40.911229"
-    },
-    {
-      "title": "Microcredentials Chip Away at Semiconductor Workforce Gap",
-      "summary": "In 2017, Demis John noticed a staffing problem among the semiconductor companies in Santa Barbara. The area had about 28 small semiconductor companies at the time, many launched from the nanofabrication facility housed at University of California, Santa Barbara, where John works. But as these compan...",
-      "url": "https://spectrum.ieee.org/microcredentials-semiconductor-workforce-development",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-10-01T00:55:40.911119"
-    },
-    {
-      "title": "Exploit Allows for Takeover of Fleets of Unitree Robots",
-      "summary": "A critical vulnerability in the Bluetooth Low Energy (BLE) Wi-Fi configuration interface used by several different Unitree robots can result in a root-level takeover by an attacker, security researchers disclosed on 20 September. The exploit impacts Unitree’s Go2 and B2 quadrupeds and G1 and H1 huma...",
-      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Sep 2025 13:36:52 +0000",
-      "collected_at": "2025-10-01T00:55:40.910974"
-    },
-    {
-      "title": "Configuring and Controlling Complex Test Equipment Setups for Silicon Device Test and Characterization",
-      "summary": "In this webinar, we will explore efficient, accurate, and scalable techniques for analog and mixed-signal device testing using reconfigurable test setups. As semiconductor devices grow more complex, engineers face the challenge of validating performance and catching edge cases under tight schedules....",
-      "url": "https://events.bizzabo.com/762929",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Sep 2025 14:16:46 +0000",
-      "collected_at": "2025-10-01T00:55:40.910828"
-    },
-    {
       "title": "Video Friday: Gemini Robotics Improves Motor Skills",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2025: 27–30 September 2025, SEOULIEEE Humanoids: 30...",
       "url": "https://spectrum.ieee.org/video-friday-google-gemini-robotics",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Sep 2025 15:30:02 +0000",
-      "collected_at": "2025-10-01T00:55:40.910776"
+      "collected_at": "2025-10-02T00:46:57.258383"
     },
     {
       "title": "Bell Labs Scientists Accidentally Proved the Big Bang Theory",
       "summary": "“How did we get here?”That existential question about the universe has captivated humankind for centuries. Many scientists have attempted to answer it, including the Rev. Georges Lemaître, a Belgian cosmologist and Catholic priest. In 1927 he theorized that the universe was created from a single par...",
       "url": "https://spectrum.ieee.org/big-bang-theory-discovery",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Sep 2025 18:00:02 +0000",
-      "collected_at": "2025-10-01T00:55:40.910634"
+      "collected_at": "2025-10-02T00:46:57.258236"
     },
     {
       "title": "Build Your Own Commodore 64 Cartridge",
       "summary": "Have you ever thought “IEEE Spectrum is terrific, but I just wish I had a way to experience even more of it, perhaps at a local science and technology museum?” Well, I am pleased to say that your very specific wish has been granted! In collaboration with the IEEE History Center and the IEEE Global M...",
       "url": "https://spectrum.ieee.org/commodore-64-cartridge",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 28 Sep 2025 13:00:01 +0000",
-      "collected_at": "2025-10-01T00:55:40.910423"
+      "collected_at": "2025-10-02T00:46:57.258004"
     },
     {
       "title": "The High-Speed Plan for Interstellar Travel",
       "summary": "To the naked eye, the stars are diamond flecks scattered across the inner surface of a celestial sphere. Telescopes have brought depth to our vision, mapping the true distances to cosmic objects. But the universe they reveal appears utterly beyond the human scale of space and time. Even the closest ...",
       "url": "https://spectrum.ieee.org/high-speed-interstellar-travel",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-10-01T00:55:40.910261"
+      "collected_at": "2025-10-02T00:46:57.257842"
     },
     {
       "title": "Array-Scale MUT Simulations Powered by the Cloud",
       "summary": "Designing and optimizing ultrasound transducers—whether PMUTs or CMUTs—requires accuracy at scale. Yet traditional simulation approaches are often constrained to individual cells or limited structures, leaving important array-level effects poorly understood until expensive and time-consuming testing...",
       "url": "https://events.bizzabo.com/764786",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Sep 2025 14:47:06 +0000",
-      "collected_at": "2025-10-01T00:55:40.910161"
+      "collected_at": "2025-10-02T00:46:57.257743"
     },
     {
       "title": "Electric Boats Drive New England Aquaculture",
       "summary": "This article was originally published by Canary Media.At a dock along the banks of the Cousins River, Chad Strater loaded up his small aluminum workboat with power tools and a winch. Strater, who owns a marine construction business, was setting out to tinker with floating equipment at a nearby oyste...",
       "url": "https://spectrum.ieee.org/electric-boats-aquaculture",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Sep 2025 16:00:04 +0000",
-      "collected_at": "2025-10-01T00:55:40.910096"
+      "collected_at": "2025-10-02T00:46:57.257678"
     },
     {
       "title": "No Vacancy",
       "summary": "We forge ahead with scientific quests,but even zealous efforts hit a walltrying to make what nature most detests:nothing at all.It seems like such a little thing to do—removing every molecule. We findthat though we displace almost all, a fewremain behind.It takes attentive planning and robustequipme...",
       "url": "https://spectrum.ieee.org/steve-searcy-october-2025-poem",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Sep 2025 18:00:04 +0000",
-      "collected_at": "2025-10-01T00:55:40.909863"
+      "collected_at": "2025-10-02T00:46:57.257456"
     },
     {
       "title": "Why the World Needs a Flying Robot Baby",
       "summary": "One of the robotics projects that I’ve been most excited about for years now is iRonCub, from Daniele Pucci’s Artificial and Mechanical Intelligence Lab at the Italian Institute of Technology (IIT) in Genoa, Italy. Since 2017, Pucci has been developing a jet-propulsion system that will enable an iCu...",
       "url": "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Sep 2025 12:00:03 +0000",
-      "collected_at": "2025-10-01T00:55:40.909809"
+      "collected_at": "2025-10-02T00:46:57.257401"
+    },
+    {
+      "title": "Have We Reached a Space-Junk Tipping Point?",
+      "summary": "Low Earth orbit, where most satellites operate, has become a whirlwind of metal shards and dead, tumbling debris.Anyone with hardware or human crew in orbit knows the drill. Orbital collision warnings can be unremitting. Whether the object is a defunct satellite or a stray hunk of glass from a solar...",
+      "url": "https://spectrum.ieee.org/kessler-syndrome-space-debris",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Sep 2025 13:00:03 +0000",
+      "collected_at": "2025-10-02T00:46:57.257286"
+    },
+    {
+      "title": "“Hearing Car” Detects Sounds for Safer Driving",
+      "summary": "Autonomous vehicles have eyes—cameras, lidar, radar. But ears? That’s what researchers at Fraunhofer Institute for Digital Media Technology’s Oldenburg Branch for Hearing, Speech and Audio Technology in Germany are building with the Hearing Car. The idea is to outfit vehicles with external microphon...",
+      "url": "https://spectrum.ieee.org/fraunhofer-hearing-car-microphone",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Sep 2025 14:00:03 +0000",
+      "collected_at": "2025-10-02T00:46:57.256940"
+    },
+    {
+      "title": "IEEE Collabratec Reaches 100,000 Member Milestone",
+      "summary": "IEEE Collabratec reached a milestone in August: more than 100,000 IEEE members (plus 250,000 nonmembers) on the online networking platform. To commemorate the achievement, IEEE released a 100,000-member badge for users.The badges recognize members for their participation in IEEE Collabratec’s commun...",
+      "url": "https://spectrum.ieee.org/ieee-collabratec-milestone",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Sep 2025 18:00:04 +0000",
+      "collected_at": "2025-10-02T00:46:57.256788"
+    },
+    {
+      "title": "AI-Powered Tools Enhance Global Innovation Strategies",
+      "summary": "This is a sponsored article brought to you by IP.comAround the world, innovation is no longer just a function of invention. It is a strategic asset, deeply linked to economic resilience—and increasingly reliant on ever-evolving technologies like artificial intelligence (AI). As intellectual property...",
+      "url": "https://spectrum.ieee.org/ai-powered-ip-innovation",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 01 Oct 2025 12:30:03 +0000",
+      "collected_at": "2025-10-02T00:46:57.256691"
     }
   ]
 }
