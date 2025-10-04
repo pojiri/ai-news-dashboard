@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-10-03T00:46:55.075439",
+  "last_updated": "2025-10-04T00:44:53.213209",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Why the World Needs a Flying Robot Baby",
-      "summary": "One of the robotics projects that I’ve been most excited about for years now is iRonCub, from Daniele Pucci’s Artificial and Mechanical Intelligence Lab at the Italian Institute of Technology (IIT) in Genoa, Italy. Since 2017, Pucci has been developing a jet-propulsion system that will enable an iCu...",
-      "url": "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot",
-      "date": "2日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 30 Sep 2025 12:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.072967"
-    },
-    {
       "title": "Have We Reached a Space-Junk Tipping Point?",
       "summary": "Low Earth orbit, where most satellites operate, has become a whirlwind of metal shards and dead, tumbling debris.Anyone with hardware or human crew in orbit knows the drill. Orbital collision warnings can be unremitting. Whether the object is a defunct satellite or a stray hunk of glass from a solar...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-space-debris",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Sep 2025 13:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.072852"
+      "collected_at": "2025-10-04T00:44:52.211088"
     },
     {
       "title": "“Hearing Car” Detects Sounds for Safer Driving",
       "summary": "Autonomous vehicles have eyes—cameras, lidar, radar. But ears? That’s what researchers at Fraunhofer Institute for Digital Media Technology’s Oldenburg Branch for Hearing, Speech and Audio Technology in Germany are building with the Hearing Car. The idea is to outfit vehicles with external microphon...",
       "url": "https://spectrum.ieee.org/fraunhofer-hearing-car-microphone",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Sep 2025 14:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.072529"
+      "collected_at": "2025-10-04T00:44:52.210778"
     },
     {
       "title": "IEEE Collabratec Reaches 100,000 Member Milestone",
       "summary": "IEEE Collabratec reached a milestone in August: more than 100,000 IEEE members (plus 250,000 nonmembers) on the online networking platform. To commemorate the achievement, IEEE released a 100,000-member badge for users.The badges recognize members for their participation in IEEE Collabratec’s commun...",
       "url": "https://spectrum.ieee.org/ieee-collabratec-milestone",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Sep 2025 18:00:04 +0000",
-      "collected_at": "2025-10-03T00:46:54.072356"
+      "collected_at": "2025-10-04T00:44:52.210631"
     },
     {
       "title": "AI-Powered Tools Enhance Global Innovation Strategies",
       "summary": "This is a sponsored article brought to you by IP.comAround the world, innovation is no longer just a function of invention. It is a strategic asset, deeply linked to economic resilience—and increasingly reliant on ever-evolving technologies like artificial intelligence (AI). As intellectual property...",
       "url": "https://spectrum.ieee.org/ai-powered-ip-innovation",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Oct 2025 12:30:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.072261"
+      "collected_at": "2025-10-04T00:44:52.210540"
     },
     {
       "title": "The Hidden Behemoth Behind Every AI Answer",
       "summary": "What happens when you say “Hello” to ChatGPT?Such a simple query might seem trivial, but making it possible across billions of sessions requires immense scale. While OpenAI reveals little information about its operations, we’ve used the scraps we do have to estimate the impact of ChatGPT—and of the ...",
       "url": "https://spectrum.ieee.org/ai-energy-use",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.072124"
+      "collected_at": "2025-10-04T00:44:52.210405"
     },
     {
       "title": "AI Expands the Search for New Battery Materials",
       "summary": "When Microsoft researchers in 2023 identified a new kind of material that could dramatically reduce the amount of lithium needed in rechargeable batteries, it felt like combing through a haystack in record time. That’s because their discovery began as 32 million possibilities and, with the help of a...",
       "url": "https://spectrum.ieee.org/ai-battery-material",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Oct 2025 14:00:04 +0000",
-      "collected_at": "2025-10-03T00:46:54.072052"
+      "collected_at": "2025-10-04T00:44:52.210329"
     },
     {
       "title": "Muscle-Bound Micromirrors Could Bring Lidar to More Cars",
       "summary": "Five years ago, Eric Aguilar was fed up.He had worked on lidar and other sensors for years at Tesla and Google X, but the technology always seemed too expensive and, more importantly, unreliable. He replaced the lidar sensors when they broke—which was all too often, and seemingly at random—and devel...",
       "url": "https://spectrum.ieee.org/mems-lidar",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Oct 2025 15:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.071910"
+      "collected_at": "2025-10-04T00:44:52.210172"
     },
     {
       "title": "The Quest to Sequence the Genomes of Everything",
       "summary": "A gibbous moon hangs over a lonely mountain trail in the Italian Alps, above the village of Malles Venosta, whose lights dot the valley below. Benjamin Wiesmair stands next to a moth trap as tall as he is, his face, bushy beard, and hair bun lit by its purple glow. He’s wearing a headlamp, a dusty a...",
       "url": "https://spectrum.ieee.org/whole-genome-sequencing",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Oct 2025 13:00:04 +0000",
-      "collected_at": "2025-10-03T00:46:54.071743"
+      "collected_at": "2025-10-04T00:44:52.210009"
     },
     {
       "title": "11 Oddball Technology Records You Probably Didn’t Know",
       "summary": "This article is part of The Scale Issue.Longest Continuously Operating Electronic ComputerVoyager 1 and its twin space probe, both launched by NASA in 1977, were the first human-made objects to reach interstellar space. But that’s not the only record the spacecraft hold. Voyager 2’s Computer Command...",
       "url": "https://spectrum.ieee.org/11-oddball-technology-records-you-probably-didnt-know",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Oct 2025 14:00:04 +0000",
-      "collected_at": "2025-10-03T00:46:54.071370"
+      "collected_at": "2025-10-04T00:44:52.209699"
     },
     {
       "title": "Getting Value from Skip-Level Conversations",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!In 2015, I joined Pinterest as a software engineer afte...",
       "url": "https://spectrum.ieee.org/getting-value-skip-level-meeting",
-      "date": "9時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Oct 2025 15:27:46 +0000",
-      "collected_at": "2025-10-03T00:46:54.071236"
+      "collected_at": "2025-10-04T00:44:52.209565"
     },
     {
       "title": "The Story of Engineering Is the Story of Scale",
       "summary": "Engineers are masters of scale. They harness energy from the sun, wind, rivers, atoms, and ores. They manipulate electrons, photons, and crystals to compute and communicate. They devise instruments that detect perturbations in the fabric of space-time. And they grapple with challenges—anticipated or...",
       "url": "https://spectrum.ieee.org/engineering-scale",
-      "date": "8時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Oct 2025 16:00:03 +0000",
-      "collected_at": "2025-10-03T00:46:54.071132"
+      "collected_at": "2025-10-04T00:44:52.209463"
+    },
+    {
+      "title": "Where Will Taiwan Get Energy After Its Failed Nuclear Referendum?",
+      "summary": "Taiwan failed to pass an August referendum on whether or not a nuclear plant should be restarted, if it were deemed safe to operate. While the more than 4 million votes for “yes” outnumbered the more than 1.5 million “no” votes, the number of affirmative votes failed to surpass the 25 percent thresh...",
+      "url": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 02 Oct 2025 17:00:05 +0000",
+      "collected_at": "2025-10-04T00:44:52.209358"
     }
   ]
 }
