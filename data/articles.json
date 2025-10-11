@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-10-10T00:47:58.378512",
+  "last_updated": "2025-10-11T00:45:12.269078",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Where Will Taiwan Get Energy After Its Failed Nuclear Referendum?",
-      "summary": "Taiwan failed to pass an August referendum on whether or not a nuclear plant should be restarted, if it were deemed safe to operate. While the more than 4 million votes for “yes” outnumbered the more than 1.5 million “no” votes, the number of affirmative votes failed to surpass the 25 percent thresh...",
-      "url": "https://spectrum.ieee.org/nuclear-energy-taiwan-maanshan-plant",
-      "date": "10月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 02 Oct 2025 17:00:05 +0000",
-      "collected_at": "2025-10-10T00:47:57.376285"
-    },
     {
       "title": "This Mexican Student Is Engineering a Healthier Future",
       "summary": "Most of us have heard the adage “an ounce of prevention is worth a pound of cure.” But when it comes to personal health, many people overlook preventative measures such as diet and exercise. Instead, they tend to rely on medical professionals to save the day after they’ve gotten sick.Ximena Montserr...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-10T00:47:57.376098"
+      "collected_at": "2025-10-11T00:45:11.266684"
     },
     {
       "title": "Video Friday: Drone Easily Lands on Speeding Vehicle",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Robot Summit: 10–12 October 2025, OSAKA, JAPANIROS...",
       "url": "https://spectrum.ieee.org/video-friday-speedy-drone-landing",
-      "date": "6日前",
+      "date": "10月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Oct 2025 16:00:03 +0000",
-      "collected_at": "2025-10-10T00:47:57.375960"
+      "collected_at": "2025-10-11T00:45:11.266550"
     },
     {
       "title": "5 Ways Volunteering Can Be a Springboard for Professional Growth",
       "summary": "Since the early 2000s, I’ve been actively volunteering for nonprofits and local community organizations including my children’s school’s parent-teacher organization. There I worked with teachers and other parents to plan and implement annual programs that enriched the students and the school communi...",
       "url": "https://spectrum.ieee.org/5-ways-volunteering-professional-growth",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 04 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-10T00:47:57.375831"
+      "collected_at": "2025-10-11T00:45:11.266411"
     },
     {
       "title": "The Future of the Grid: Simulation-Driven Optimization",
       "summary": "This is a sponsored article brought to you by COMSOL.Simulation software is useful in the analysis of new designs for improving power grid resilience, ensuring efficient and reliable power distribution, and developing components that integrate alternative energy sources, such as nuclear fusion and r...",
       "url": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Oct 2025 10:00:05 +0000",
-      "collected_at": "2025-10-10T00:47:57.375734"
+      "collected_at": "2025-10-11T00:45:11.266315"
     },
     {
       "title": "Natron’s Failure May Not Spell Doom for Sodium-Ion Batteries",
       "summary": "Natron Energy, a Santa Clara, California-based sodium-ion battery startup, ceased operation on 3 September due to funding issues. Just a year ago, the company made headlines for its plans to build a first-of-its-kind US $1.4 billion factory in North Carolina to manufacture up to 14 gigawatt-hours of...",
       "url": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Oct 2025 17:56:02 +0000",
-      "collected_at": "2025-10-10T00:47:57.375582"
+      "collected_at": "2025-10-11T00:45:11.266162"
     },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day!First celebrated in 2009, IEEE Day commemorates the initial gathering of IEEE members to share their technical ideas in 1884.Worldwide celebrations demonstrate the ways thousands of IEEE members in local communities join together to collaborate on ideas that leverage technology for a ...",
       "url": "https://spectrum.ieee.org/ieee-day",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 13:00:00 +0000",
-      "collected_at": "2025-10-10T00:47:57.375408"
+      "collected_at": "2025-10-11T00:45:11.265990"
     },
     {
       "title": "Noncontact Motion Sensor Brings Precision to Manufacturing",
       "summary": "Aeva Technologies, a developer of lidar systems based in Mountain View, Calif., has unveiled the Aeva Eve 1V, a high-precision, noncontact motion sensor built on its frequency modulated continuous wave (FMCW) sensing technology. The company says that the Eve 1V measures an object’s motion with accur...",
       "url": "https://spectrum.ieee.org/aeva-motion-sensor-precision-manufacturing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 14:00:03 +0000",
-      "collected_at": "2025-10-10T00:47:57.375338"
+      "collected_at": "2025-10-11T00:45:11.265925"
     },
     {
       "title": "3D and AI: Excellent Fits for the Fashion Industry",
       "summary": "When you’re buying a new item of clothing, you probably don’t give much thought to the design and assembly processes the garment went through before arriving at the store.Creating a piece of apparel starts with a designer sketching out an idea. Then a pattern is made, the fabric is chosen and cut, a...",
       "url": "https://spectrum.ieee.org/3d-and-ai-fashion-industry",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 18:00:03 +0000",
-      "collected_at": "2025-10-10T00:47:57.375222"
+      "collected_at": "2025-10-11T00:45:11.265820"
     },
     {
       "title": "Fast, Tiny, and Smart AI: Small Language Models for Your Phone",
       "summary": "While most of the AI world is racing to build ever-bigger language models like OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5, the Israeli AI startup AI21 is taking a different path.AI21 has just unveiled Jamba Reasoning 3B, a 3-billion-parameter model. This compact, open-source model can handle m...",
       "url": "https://spectrum.ieee.org/small-language-models",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Oct 2025 13:46:46 +0000",
-      "collected_at": "2025-10-10T00:47:57.375083"
+      "collected_at": "2025-10-11T00:45:11.265664"
     },
     {
       "title": "Engineering Simulations Slim Down to Find Answers in Real Time",
       "summary": "Physics simulations have a problem—engineers who need those simulations’ results often don’t have time to wait. Add in real-world settings with multiple independent calculations required (for example, separate thermal, mechanical, and electromagnetic elements in the system), and “multiphysics” compu...",
       "url": "https://spectrum.ieee.org/surrogate-model-multiphysics-comsol",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Oct 2025 15:32:00 +0000",
-      "collected_at": "2025-10-10T00:47:57.374983"
+      "collected_at": "2025-10-11T00:45:11.265563"
     },
     {
       "title": "The AI Boom Has a Copper Problem. Are Microbes the Solution?",
       "summary": "The internet’s next existential crisis won’t be disinformation or deepfakes. It will be copper.The world is building AI like it’s Minecraft, stacking data centers, transmission lines, and cooling systems with little regard for the physical limits beneath them. Everyone is focused on models and compu...",
       "url": "https://spectrum.ieee.org/ai-copper",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 12:00:04 +0000",
-      "collected_at": "2025-10-10T00:47:57.374876"
+      "collected_at": "2025-10-11T00:45:11.265453"
+    },
+    {
+      "title": "Learning to Code Still Matters in the Age of AI",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Cursor, the AI-native code editor, recently reported th...",
+      "url": "https://spectrum.ieee.org/learning-coding-age-of-ai",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 09 Oct 2025 14:18:39 +0000",
+      "collected_at": "2025-10-11T00:45:11.265322"
     }
   ]
 }
