@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T00:51:25.455574",
+  "last_updated": "2025-10-13T00:52:48.096380",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,117 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 04 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-12T00:51:24.453089"
+      "collected_at": "2025-10-13T00:52:47.094097"
     },
     {
       "title": "The Future of the Grid: Simulation-Driven Optimization",
       "summary": "This is a sponsored article brought to you by COMSOL.Simulation software is useful in the analysis of new designs for improving power grid resilience, ensuring efficient and reliable power distribution, and developing components that integrate alternative energy sources, such as nuclear fusion and r...",
       "url": "https://spectrum.ieee.org/multiphysics-simulation-power-grid",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Oct 2025 10:00:05 +0000",
-      "collected_at": "2025-10-12T00:51:24.452982"
+      "collected_at": "2025-10-13T00:52:47.093995"
     },
     {
       "title": "Natron’s Failure May Not Spell Doom for Sodium-Ion Batteries",
       "summary": "Natron Energy, a Santa Clara, California-based sodium-ion battery startup, ceased operation on 3 September due to funding issues. Just a year ago, the company made headlines for its plans to build a first-of-its-kind US $1.4 billion factory in North Carolina to manufacture up to 14 gigawatt-hours of...",
       "url": "https://spectrum.ieee.org/natron-sodium-ion-battery-failure",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Oct 2025 17:56:02 +0000",
-      "collected_at": "2025-10-12T00:51:24.452828"
+      "collected_at": "2025-10-13T00:52:47.093848"
     },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day!First celebrated in 2009, IEEE Day commemorates the initial gathering of IEEE members to share their technical ideas in 1884.Worldwide celebrations demonstrate the ways thousands of IEEE members in local communities join together to collaborate on ideas that leverage technology for a ...",
       "url": "https://spectrum.ieee.org/ieee-day",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 13:00:00 +0000",
-      "collected_at": "2025-10-12T00:51:24.452654"
+      "collected_at": "2025-10-13T00:52:47.093680"
     },
     {
       "title": "Noncontact Motion Sensor Brings Precision to Manufacturing",
       "summary": "Aeva Technologies, a developer of lidar systems based in Mountain View, Calif., has unveiled the Aeva Eve 1V, a high-precision, noncontact motion sensor built on its frequency modulated continuous wave (FMCW) sensing technology. The company says that the Eve 1V measures an object’s motion with accur...",
       "url": "https://spectrum.ieee.org/aeva-motion-sensor-precision-manufacturing",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 14:00:03 +0000",
-      "collected_at": "2025-10-12T00:51:24.452589"
+      "collected_at": "2025-10-13T00:52:47.093622"
     },
     {
       "title": "3D and AI: Excellent Fits for the Fashion Industry",
       "summary": "When you’re buying a new item of clothing, you probably don’t give much thought to the design and assembly processes the garment went through before arriving at the store.Creating a piece of apparel starts with a designer sketching out an idea. Then a pattern is made, the fabric is chosen and cut, a...",
       "url": "https://spectrum.ieee.org/3d-and-ai-fashion-industry",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Oct 2025 18:00:03 +0000",
-      "collected_at": "2025-10-12T00:51:24.452485"
+      "collected_at": "2025-10-13T00:52:47.093525"
     },
     {
       "title": "Fast, Tiny, and Smart AI: Small Language Models for Your Phone",
       "summary": "While most of the AI world is racing to build ever-bigger language models like OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5, the Israeli AI startup AI21 is taking a different path.AI21 has just unveiled Jamba Reasoning 3B, a 3-billion-parameter model. This compact, open-source model can handle m...",
       "url": "https://spectrum.ieee.org/small-language-models",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Oct 2025 13:46:46 +0000",
-      "collected_at": "2025-10-12T00:51:24.452346"
+      "collected_at": "2025-10-13T00:52:47.093392"
     },
     {
       "title": "Engineering Simulations Slim Down to Find Answers in Real Time",
       "summary": "Physics simulations have a problem—engineers who need those simulations’ results often don’t have time to wait. Add in real-world settings with multiple independent calculations required (for example, separate thermal, mechanical, and electromagnetic elements in the system), and “multiphysics” compu...",
       "url": "https://spectrum.ieee.org/surrogate-model-multiphysics-comsol",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Oct 2025 15:32:00 +0000",
-      "collected_at": "2025-10-12T00:51:24.452227"
+      "collected_at": "2025-10-13T00:52:47.093295"
     },
     {
       "title": "The AI Boom Has a Copper Problem. Are Microbes the Solution?",
       "summary": "The internet’s next existential crisis won’t be disinformation or deepfakes. It will be copper.The world is building AI like it’s Minecraft, stacking data centers, transmission lines, and cooling systems with little regard for the physical limits beneath them. Everyone is focused on models and compu...",
       "url": "https://spectrum.ieee.org/ai-copper",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 12:00:04 +0000",
-      "collected_at": "2025-10-12T00:51:24.452119"
+      "collected_at": "2025-10-13T00:52:47.093180"
     },
     {
       "title": "Learning to Code Still Matters in the Age of AI",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Cursor, the AI-native code editor, recently reported th...",
       "url": "https://spectrum.ieee.org/learning-coding-age-of-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 14:18:39 +0000",
-      "collected_at": "2025-10-12T00:51:24.451987"
+      "collected_at": "2025-10-13T00:52:47.093053"
     },
     {
       "title": "Cisco Bridges Classical and Quantum Networks",
       "summary": "In the drive to make a practical quantum computer, researchers are developing bigger and better quantum networks—ones with capabilities that will complement and enhance quantum computing. Put another way, building a functioning quantum network that can exchange many qubits securely, over long distan...",
       "url": "https://spectrum.ieee.org/quantum-networks-cisco-quantum-computing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 16:00:04 +0000",
-      "collected_at": "2025-10-12T00:51:24.451883"
+      "collected_at": "2025-10-13T00:52:47.092954"
     },
     {
       "title": "Empowering Women in the Power Industry",
       "summary": "Without support from her family, Mini Thomas says, she would not have had a successful career in academia.The IEEE senior member has held several leadership positions in India, including dean of engineering at the Delhi Technological University (formerly the Delhi College of Engineering) and (the fi...",
       "url": "https://spectrum.ieee.org/empowering-women-power-industry",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-12T00:51:24.451749"
+      "collected_at": "2025-10-13T00:52:47.092825"
     }
   ]
 }
