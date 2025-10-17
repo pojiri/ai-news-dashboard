@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-10-16T00:50:14.376607",
+  "last_updated": "2025-10-17T00:49:20.268313",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Fast, Tiny, and Smart AI: Small Language Models for Your Phone",
-      "summary": "While most of the AI world is racing to build ever-bigger language models like OpenAI’s GPT-5 and Anthropic’s Claude Sonnet 4.5, the Israeli AI startup AI21 is taking a different path.AI21 has just unveiled Jamba Reasoning 3B, a 3-billion-parameter model. This compact, open-source model can handle m...",
-      "url": "https://spectrum.ieee.org/small-language-models",
-      "date": "10月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 08 Oct 2025 13:46:46 +0000",
-      "collected_at": "2025-10-16T00:50:13.374402"
-    },
-    {
-      "title": "Engineering Simulations Slim Down to Find Answers in Real Time",
-      "summary": "Physics simulations have a problem—engineers who need those simulations’ results often don’t have time to wait. Add in real-world settings with multiple independent calculations required (for example, separate thermal, mechanical, and electromagnetic elements in the system), and “multiphysics” compu...",
-      "url": "https://spectrum.ieee.org/surrogate-model-multiphysics-comsol",
-      "date": "10月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 08 Oct 2025 15:32:00 +0000",
-      "collected_at": "2025-10-16T00:50:13.374293"
-    },
-    {
-      "title": "The AI Boom Has a Copper Problem. Are Microbes the Solution?",
-      "summary": "The internet’s next existential crisis won’t be disinformation or deepfakes. It will be copper.The world is building AI like it’s Minecraft, stacking data centers, transmission lines, and cooling systems with little regard for the physical limits beneath them. Everyone is focused on models and compu...",
-      "url": "https://spectrum.ieee.org/ai-copper",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 09 Oct 2025 12:00:04 +0000",
-      "collected_at": "2025-10-16T00:50:13.374177"
-    },
-    {
       "title": "Learning to Code Still Matters in the Age of AI",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Cursor, the AI-native code editor, recently reported th...",
       "url": "https://spectrum.ieee.org/learning-coding-age-of-ai",
-      "date": "6日前",
+      "date": "10月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 14:18:39 +0000",
-      "collected_at": "2025-10-16T00:50:13.374049"
+      "collected_at": "2025-10-17T00:49:19.265870"
     },
     {
       "title": "Cisco Bridges Classical and Quantum Networks",
       "summary": "In the drive to make a practical quantum computer, researchers are developing bigger and better quantum networks—ones with capabilities that will complement and enhance quantum computing. Put another way, building a functioning quantum network that can exchange many qubits securely, over long distan...",
       "url": "https://spectrum.ieee.org/quantum-networks-cisco-quantum-computing",
-      "date": "6日前",
+      "date": "10月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 16:00:04 +0000",
-      "collected_at": "2025-10-16T00:50:13.373950"
+      "collected_at": "2025-10-17T00:49:19.265762"
     },
     {
       "title": "Empowering Women in the Power Industry",
       "summary": "Without support from her family, Mini Thomas says, she would not have had a successful career in academia.The IEEE senior member has held several leadership positions in India, including dean of engineering at the Delhi Technological University (formerly the Delhi College of Engineering) and (the fi...",
       "url": "https://spectrum.ieee.org/empowering-women-power-industry",
-      "date": "6日前",
+      "date": "10月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-16T00:50:13.373821"
+      "collected_at": "2025-10-17T00:49:19.265620"
     },
     {
       "title": "Intelligence Meets Energy: ADIPEC 2025 and the AI Revolution in the Energy Sector",
       "summary": "This is a sponsored article brought to you by ADIPEC.Returning to Abu Dhabi between 3 and 6 November, ADIPEC 2025 – the world’s largest energy event – aims to show how AI is turning ideas into real-world impact across the energy value chain and redrawing the global opportunity map. At the same time,...",
       "url": "https://spectrum.ieee.org/adipec-ai-energy-intelligence-impact",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Oct 2025 11:00:03 +0000",
-      "collected_at": "2025-10-16T00:50:13.373639"
+      "collected_at": "2025-10-17T00:49:19.265422"
     },
     {
       "title": "Video Friday: Non-Humanoid Hands for Humanoid Robots",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.World Robot Summit: 10–12 October 2025, OSAKA, JAPANIROS...",
       "url": "https://spectrum.ieee.org/video-friday-robotic-hands-2674168909",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Oct 2025 16:00:04 +0000",
-      "collected_at": "2025-10-16T00:50:13.373484"
+      "collected_at": "2025-10-17T00:49:19.265265"
     },
     {
       "title": "Solid-State Transformer Design Unlocks Faster EV Charging",
       "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.\nThe rapid build-out of fast-charging stations for electric vehicles is testing the limits of today’s power grid. With individual chargers drawing 350 to 500 kilowatts (or more)—which makes EV charging ti...",
       "url": "https://spectrum.ieee.org/ev-charging-solid-state-transformers",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 11 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-16T00:50:13.373334"
+      "collected_at": "2025-10-17T00:49:19.265109"
     },
     {
       "title": "In a First, Artificial Neurons Talk Directly to Living Cells",
       "summary": "The bacteria Geobacter sulfurreducens came from humble beginnings; it was first isolated from dirt in a ditch in Norman, Okla. But now, the surprisingly remarkable microbes are the key to the first ever artificial neurons that can directly interact with living cells.The G. sulfurreducens microbes co...",
       "url": "https://spectrum.ieee.org/artificial-neuron",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Oct 2025 14:00:04 +0000",
-      "collected_at": "2025-10-16T00:50:13.373202"
+      "collected_at": "2025-10-17T00:49:19.264978"
     },
     {
       "title": "Next-Gen AI Needs Liquid Cooling",
       "summary": "Walk into a typical data center and one of the first things that jumps out at you is the noise—the low, buzzing sound of thousands of fans: fans next to individual computer chips, fans on the back panels of server racks, fans on the network switches. All of those fans are pushing hot air away from t...",
       "url": "https://spectrum.ieee.org/data-center-liquid-cooling",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Oct 2025 15:00:03 +0000",
-      "collected_at": "2025-10-16T00:50:13.373065"
+      "collected_at": "2025-10-17T00:49:19.264845"
     },
     {
       "title": "Nokia Bell Labs Breaks Ground for Its New N.J. Headquarters",
       "summary": "Nokia Bell Labs has a lot to celebrate. The research giant marked its 100th anniversary in May at its venerable campus in Murray Hill—part of New Providence, N.J.—where major technological developments have occurred, such as the Bellmac-32 microprocessor and the satellite Earth station known as the ...",
       "url": "https://spectrum.ieee.org/nokia-bell-labs-new-headquarters",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Oct 2025 18:00:03 +0000",
-      "collected_at": "2025-10-16T00:50:13.372789"
+      "collected_at": "2025-10-17T00:49:19.264576"
+    },
+    {
+      "title": "Teaching AI to Predict What Cells Will Look Like Before Running Any Experiments",
+      "summary": "This is a sponsored article brought to you by MBZUAI.If you’ve ever tried to guess how a cell will change shape after a drug or a gene edit, you know it’s part science, part art, and mostly expensive trial-and-error. Imaging thousands of conditions is slow; exploring millions is impossible.A new pap...",
+      "url": "https://spectrum.ieee.org/genai-morphdiff-drug-discovery",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Oct 2025 11:00:02 +0000",
+      "collected_at": "2025-10-17T00:49:19.264417"
+    },
+    {
+      "title": "How Roomba Got Its Vacuum",
+      "summary": "Adapted from Dancing With Roomba, written by Joe Jones, who was iRobot’s first full-time employee and the original designer of the Roomba robot vacuum.After developing a prototype robot that was effective at cleaning both hard floors and carpets using a relatively simple carpet-sweeping mechanism, i...",
+      "url": "https://spectrum.ieee.org/irobot-roomba-history",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Oct 2025 12:00:03 +0000",
+      "collected_at": "2025-10-17T00:49:19.264249"
+    },
+    {
+      "title": "Faster, Smaller AI Model Found for Image Geolocation",
+      "summary": "Imagine playing a new, slightly altered version of the game GeoGuessr. You’re faced with a photo of an average U.S. house, maybe two floors with a front lawn in a cul-de-sac and an American flag flying proudly out front. But there’s nothing particularly distinctive about this home, nothing to tell y...",
+      "url": "https://spectrum.ieee.org/where-was-this-photo-taken",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Oct 2025 12:00:03 +0000",
+      "collected_at": "2025-10-17T00:49:19.264026"
     }
   ]
 }
