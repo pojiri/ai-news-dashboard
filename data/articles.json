@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-25T00:48:35.267285",
+  "last_updated": "2025-10-26T00:54:20.368734",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Oct 2025 14:00:04 +0000",
-      "collected_at": "2025-10-25T00:48:34.264503"
+      "collected_at": "2025-10-26T00:54:19.366100"
     },
     {
       "title": "Electrifying Everything Will Require Multiphysics Modeling",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Oct 2025 15:00:04 +0000",
-      "collected_at": "2025-10-25T00:48:34.264288"
+      "collected_at": "2025-10-26T00:54:19.365886"
     },
     {
       "title": "IEEE Memorial Fund Honors Magnet Tech Pioneer Swarn Kalsi",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-25T00:48:34.264127"
+      "collected_at": "2025-10-26T00:54:19.365716"
     },
     {
       "title": "Video Friday: Multimodal Humanoid Walks, Flies, Drives",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Oct 2025 16:30:05 +0000",
-      "collected_at": "2025-10-25T00:48:34.263965"
+      "collected_at": "2025-10-26T00:54:19.365551"
     },
     {
       "title": "Why Mesh Networks Break When Big Crowds Gather",
       "summary": "A decentralized networking technology originally built for battlefields and Burning Man is today being reimagined from the ground up.Mesh networks—named for their fishnet-like connections—emerged over the past few decades from rigorous, mathematical research on keeping data flowing even when portion...",
       "url": "https://spectrum.ieee.org/mesh-network-political-protests-amigo",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 19 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-25T00:48:34.263787"
+      "collected_at": "2025-10-26T00:54:19.365374"
     },
     {
       "title": "Diamond Blankets Will Keep Future Chips Cool",
       "summary": "Today’s stunning computing power is allowing us to move from human intelligence toward artificial intelligence. And as our machines gain more power, they’re becoming not just tools but decision-makers shaping our future.But with great power comes great…heat!As nanometer-scale transistors switch at g...",
       "url": "https://spectrum.ieee.org/diamond-thermal-conductivity",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Oct 2025 12:00:03 +0000",
-      "collected_at": "2025-10-25T00:48:34.263612"
+      "collected_at": "2025-10-26T00:54:19.365195"
     },
     {
       "title": "Data Centers Look to Old Airplane Engines for Power",
       "summary": "Data-center developers are running into a severe power bottleneck as they rush to build bigger facilities to capitalize on generative AI’s potential. Normally, they would power these centers by connecting to the grid or building a power plant onsite. However, they face major delays in either securin...",
       "url": "https://spectrum.ieee.org/ai-data-centers",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Oct 2025 18:00:02 +0000",
-      "collected_at": "2025-10-25T00:48:34.263341"
+      "collected_at": "2025-10-26T00:54:19.364919"
     },
     {
       "title": "Inside the Best Weather-Forecasting AI in the World",
       "summary": "In October 2024, Hurricane Milton turned into one of the fastest-growing storms on record over the Atlantic Ocean. The hurricane’s rapid gain in intensity caught meteorologists off guard, which meant the affected communities were surprised too. The storm ultimately claimed 15 lives and caused US $34...",
       "url": "https://spectrum.ieee.org/ai-weather-forecasting",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Oct 2025 12:00:03 +0000",
-      "collected_at": "2025-10-25T00:48:34.263202"
+      "collected_at": "2025-10-26T00:54:19.364774"
     },
     {
       "title": "Microcredentials Boost Employment in High-Tech Sectors",
       "summary": "High-tech industries around the world need skilled technical workers, employees with skills-based knowledge. A recent Deloitte report estimates that the semiconductor industry alone will need more than 1 million workers globally by 2030.Many of the most essential jobs, while specialized and requirin...",
       "url": "https://spectrum.ieee.org/microcredentials",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-25T00:48:34.262826"
+      "collected_at": "2025-10-26T00:54:19.364381"
     },
     {
       "title": "Agentic AI’s Hidden Data Trail—and How to Shrink It",
       "summary": "Imagine installing a new smart-home assistant that seems almost magical: It precools the living room before the evening price spike, shades windows before midday sun warms the house, and remembers to charge your car when electricity is cheapest. But beneath that smooth experience, the system is quie...",
       "url": "https://spectrum.ieee.org/agentic-ai-security",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 13:00:02 +0000",
-      "collected_at": "2025-10-25T00:48:34.262735"
+      "collected_at": "2025-10-26T00:54:19.364288"
     },
     {
       "title": "Progress in Your Career by Managing Up",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Your relationship with your manager is the single most ...",
       "url": "https://spectrum.ieee.org/promotion-by-managing-up",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 14:59:30 +0000",
-      "collected_at": "2025-10-25T00:48:34.262617"
+      "collected_at": "2025-10-26T00:54:19.364171"
     },
     {
       "title": "4 Weird Things You Can Turn into a Supercapacitor",
       "summary": "What do water bottles, eggs, hemp, and cement have in common? They can be engineered into strange, but functional, energy-storage devices called supercapacitors.As their name suggests, supercapacitors are like capacitors with greater capacity. Similar to batteries, they can store a lot of energy, bu...",
       "url": "https://spectrum.ieee.org/supercapacitor-materials",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 16:00:03 +0000",
-      "collected_at": "2025-10-25T00:48:34.262513"
+      "collected_at": "2025-10-26T00:54:19.364067"
     }
   ]
 }
