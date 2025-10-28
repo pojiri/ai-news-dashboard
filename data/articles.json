@@ -1,38 +1,8 @@
 {
-  "last_updated": "2025-10-27T00:55:33.334967",
+  "last_updated": "2025-10-28T00:49:12.121417",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "You Can Cool Chips With Lasers?!?!",
-      "summary": "Modern high-performance chips are marvels of engineering, containing tens of billions of transistors. The problem is, you can’t use them all at once. If you did, you would create hot spots—high temperatures concentrated in tiny areas—with power densities nearing those found at the surface of the sun...",
-      "url": "https://spectrum.ieee.org/laser-cooling-chips",
-      "date": "10月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 16 Oct 2025 14:00:04 +0000",
-      "collected_at": "2025-10-27T00:55:32.332495"
-    },
-    {
-      "title": "Electrifying Everything Will Require Multiphysics Modeling",
-      "summary": "A prototyping problem is emerging in today’s efforts to electrify everything. What works as a lab-bench mockup breaks in reality. Harnessing and safely storing energy at grid scale and in cars, trucks, and planes is a very hard problem that simplified models sometimes can’t touch. “In electrificatio...",
-      "url": "https://spectrum.ieee.org/comsol-multiphysics-electrification-of-everything",
-      "date": "10月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 16 Oct 2025 15:00:04 +0000",
-      "collected_at": "2025-10-27T00:55:32.332282"
-    },
-    {
-      "title": "IEEE Memorial Fund Honors Magnet Tech Pioneer Swarn Kalsi",
-      "summary": "The IEEE Foundation this year established the EPICS in IEEE Dr. Swarn S. Kalsi Community of Projects fund to support projects “designed to inspire multidisciplinary teams of engineering students to collaborate and engineer solutions to address local community needs.”The EPICS (Engineering Projects i...",
-      "url": "https://spectrum.ieee.org/ieee-memorial-fund-swarn-kalsi",
-      "date": "10月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 16 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-27T00:55:32.332119"
-    },
     {
       "title": "Video Friday: Multimodal Humanoid Walks, Flies, Drives",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.IROS 2025: 19–25 October 2025, HANGZHOU, CHINAEnjoy toda...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Oct 2025 16:30:05 +0000",
-      "collected_at": "2025-10-27T00:55:32.331963"
+      "collected_at": "2025-10-28T00:49:11.118943"
     },
     {
       "title": "Why Mesh Networks Break When Big Crowds Gather",
@@ -51,77 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 19 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-27T00:55:32.331807"
+      "collected_at": "2025-10-28T00:49:11.118787"
     },
     {
       "title": "Diamond Blankets Will Keep Future Chips Cool",
       "summary": "Today’s stunning computing power is allowing us to move from human intelligence toward artificial intelligence. And as our machines gain more power, they’re becoming not just tools but decision-makers shaping our future.But with great power comes great…heat!As nanometer-scale transistors switch at g...",
       "url": "https://spectrum.ieee.org/diamond-thermal-conductivity",
-      "date": "6日前",
+      "date": "10月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Oct 2025 12:00:03 +0000",
-      "collected_at": "2025-10-27T00:55:32.331607"
+      "collected_at": "2025-10-28T00:49:11.118592"
     },
     {
       "title": "Data Centers Look to Old Airplane Engines for Power",
       "summary": "Data-center developers are running into a severe power bottleneck as they rush to build bigger facilities to capitalize on generative AI’s potential. Normally, they would power these centers by connecting to the grid or building a power plant onsite. However, they face major delays in either securin...",
       "url": "https://spectrum.ieee.org/ai-data-centers",
-      "date": "6日前",
+      "date": "10月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Oct 2025 18:00:02 +0000",
-      "collected_at": "2025-10-27T00:55:32.331338"
+      "collected_at": "2025-10-28T00:49:11.118318"
     },
     {
       "title": "Inside the Best Weather-Forecasting AI in the World",
       "summary": "In October 2024, Hurricane Milton turned into one of the fastest-growing storms on record over the Atlantic Ocean. The hurricane’s rapid gain in intensity caught meteorologists off guard, which meant the affected communities were surprised too. The storm ultimately claimed 15 lives and caused US $34...",
       "url": "https://spectrum.ieee.org/ai-weather-forecasting",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Oct 2025 12:00:03 +0000",
-      "collected_at": "2025-10-27T00:55:32.331199"
+      "collected_at": "2025-10-28T00:49:11.118171"
     },
     {
       "title": "Microcredentials Boost Employment in High-Tech Sectors",
       "summary": "High-tech industries around the world need skilled technical workers, employees with skills-based knowledge. A recent Deloitte report estimates that the semiconductor industry alone will need more than 1 million workers globally by 2030.Many of the most essential jobs, while specialized and requirin...",
       "url": "https://spectrum.ieee.org/microcredentials",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-27T00:55:32.330832"
+      "collected_at": "2025-10-28T00:49:11.117817"
     },
     {
       "title": "Agentic AI’s Hidden Data Trail—and How to Shrink It",
       "summary": "Imagine installing a new smart-home assistant that seems almost magical: It precools the living room before the evening price spike, shades windows before midday sun warms the house, and remembers to charge your car when electricity is cheapest. But beneath that smooth experience, the system is quie...",
       "url": "https://spectrum.ieee.org/agentic-ai-security",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 13:00:02 +0000",
-      "collected_at": "2025-10-27T00:55:32.330740"
+      "collected_at": "2025-10-28T00:49:11.117711"
     },
     {
       "title": "Progress in Your Career by Managing Up",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Your relationship with your manager is the single most ...",
       "url": "https://spectrum.ieee.org/promotion-by-managing-up",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 14:59:30 +0000",
-      "collected_at": "2025-10-27T00:55:32.330605"
+      "collected_at": "2025-10-28T00:49:11.117599"
     },
     {
       "title": "4 Weird Things You Can Turn into a Supercapacitor",
       "summary": "What do water bottles, eggs, hemp, and cement have in common? They can be engineered into strange, but functional, energy-storage devices called supercapacitors.As their name suggests, supercapacitors are like capacitors with greater capacity. Similar to batteries, they can store a lot of energy, bu...",
       "url": "https://spectrum.ieee.org/supercapacitor-materials",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Oct 2025 16:00:03 +0000",
-      "collected_at": "2025-10-27T00:55:32.330502"
+      "collected_at": "2025-10-28T00:49:11.117497"
+    },
+    {
+      "title": "Jill Gostin Is 2026 IEEE President-Elect",
+      "summary": "IEEE Senior Member Jill I. Gostin has been elected as the 2026 IEEE president-elect. She will begin serving as president on 1 January 2027. Gostin, who was nominated by the IEEE Board of Directors, received 18,546 votes in the election. Senior Member David Alan Koehler received 14,193 votes. Gostin’...",
+      "url": "https://spectrum.ieee.org/2026-ieee-president-elect-gostin",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 23 Oct 2025 18:00:02 +0000",
+      "collected_at": "2025-10-28T00:49:11.117357"
+    },
+    {
+      "title": "User-Centered Design Shapes Assistive Tech for Cerebral Palsy",
+      "summary": "Researchers in the U.S. Pacific Northwest recently delivered a piece of assistive technology whose design began with a simple but important question: What will the person using this tech need?Last month a team of engineers and occupational therapists from Whitworth University in Spokane, Wash. deliv...",
+      "url": "https://spectrum.ieee.org/assistive-technology-cerebral-palsy",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 24 Oct 2025 13:00:03 +0000",
+      "collected_at": "2025-10-28T00:49:11.117273"
+    },
+    {
+      "title": "Video Friday: Unitree’s Human-Size Humanoid Robot",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ROSCon 2025: 27–29 October 2025, SINGAPOREEnjoy today’s ...",
+      "url": "https://spectrum.ieee.org/video-friday-human-size-robot",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 24 Oct 2025 18:00:03 +0000",
+      "collected_at": "2025-10-28T00:49:11.117164"
     }
   ]
 }
