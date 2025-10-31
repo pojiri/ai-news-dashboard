@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-10-30T00:53:11.534280",
+  "last_updated": "2025-10-31T00:51:35.248031",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Microcredentials Boost Employment in High-Tech Sectors",
-      "summary": "High-tech industries around the world need skilled technical workers, employees with skills-based knowledge. A recent Deloitte report estimates that the semiconductor industry alone will need more than 1 million workers globally by 2030.Many of the most essential jobs, while specialized and requirin...",
-      "url": "https://spectrum.ieee.org/microcredentials",
-      "date": "10月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 21 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-10-30T00:53:10.532212"
-    },
-    {
-      "title": "Agentic AI’s Hidden Data Trail—and How to Shrink It",
-      "summary": "Imagine installing a new smart-home assistant that seems almost magical: It precools the living room before the evening price spike, shades windows before midday sun warms the house, and remembers to charge your car when electricity is cheapest. But beneath that smooth experience, the system is quie...",
-      "url": "https://spectrum.ieee.org/agentic-ai-security",
-      "date": "10月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 22 Oct 2025 13:00:02 +0000",
-      "collected_at": "2025-10-30T00:53:10.532117"
-    },
-    {
-      "title": "Progress in Your Career by Managing Up",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Your relationship with your manager is the single most ...",
-      "url": "https://spectrum.ieee.org/promotion-by-managing-up",
-      "date": "10月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 22 Oct 2025 14:59:30 +0000",
-      "collected_at": "2025-10-30T00:53:10.531997"
-    },
-    {
-      "title": "4 Weird Things You Can Turn into a Supercapacitor",
-      "summary": "What do water bottles, eggs, hemp, and cement have in common? They can be engineered into strange, but functional, energy-storage devices called supercapacitors.As their name suggests, supercapacitors are like capacitors with greater capacity. Similar to batteries, they can store a lot of energy, bu...",
-      "url": "https://spectrum.ieee.org/supercapacitor-materials",
-      "date": "10月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 22 Oct 2025 16:00:03 +0000",
-      "collected_at": "2025-10-30T00:53:10.531891"
-    },
-    {
-      "title": "Jill Gostin Is 2026 IEEE President-Elect",
-      "summary": "IEEE Senior Member Jill I. Gostin has been elected as the 2026 IEEE president-elect. She will begin serving as president on 1 January 2027. Gostin, who was nominated by the IEEE Board of Directors, received 18,546 votes in the election. Senior Member David Alan Koehler received 14,193 votes. Gostin’...",
-      "url": "https://spectrum.ieee.org/2026-ieee-president-elect-gostin",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 23 Oct 2025 18:00:02 +0000",
-      "collected_at": "2025-10-30T00:53:10.531745"
-    },
-    {
       "title": "User-Centered Design Shapes Assistive Tech for Cerebral Palsy",
       "summary": "Researchers in the U.S. Pacific Northwest recently delivered a piece of assistive technology whose design began with a simple but important question: What will the person using this tech need?Last month a team of engineers and occupational therapists from Whitworth University in Spokane, Wash. deliv...",
       "url": "https://spectrum.ieee.org/assistive-technology-cerebral-palsy",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-30T00:53:10.531661"
+      "collected_at": "2025-10-31T00:51:34.245865"
     },
     {
       "title": "Video Friday: Unitree’s Human-Size Humanoid Robot",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ROSCon 2025: 27–29 October 2025, SINGAPOREEnjoy today’s ...",
       "url": "https://spectrum.ieee.org/video-friday-human-size-robot",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Oct 2025 18:00:03 +0000",
-      "collected_at": "2025-10-30T00:53:10.531555"
+      "collected_at": "2025-10-31T00:51:34.245761"
     },
     {
       "title": "Tips for Success From Crowd Supply’s Helen Leigh",
       "summary": "Crowdsourcing has become a go-to for independent and open-source hardware creators hoping to turn a cool prototype into a polished product. But many projects fail along the way, often for nontechnical reasons.Helen LeighHelen Leigh is Crowd Supply’s director of business development and its former he...",
       "url": "https://spectrum.ieee.org/helen-leigh-crowd-supply-crowdsourcing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Oct 2025 12:00:02 +0000",
-      "collected_at": "2025-10-30T00:53:10.531383"
+      "collected_at": "2025-10-31T00:51:34.245605"
     },
     {
       "title": "The 7 Phases of the Internet",
       "summary": "The Internet, born as an experiment meant to connect teams of researchers, has grown into a planetary-scale infrastructure that has reshaped society. Over the course of six decades, it has advanced through—by our count—three phases: first connecting computers, then mobile devices, and later all devi...",
       "url": "https://spectrum.ieee.org/history-of-internet-7-phases",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-10-30T00:53:10.531287"
+      "collected_at": "2025-10-31T00:51:34.245507"
     },
     {
       "title": "Your AI Agent Is Now a Target for Email Phishing",
       "summary": "Email security has always been a cat-and-mouse game. Viruses are invented, and antivirus software is invented to catalog known viruses and detect their presence in email attachments and URLs. As viruses morphed into more sophisticated forms of malware, cybersecurity tools adapted to be able to scan ...",
       "url": "https://spectrum.ieee.org/ai-agent-phishing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Oct 2025 14:00:03 +0000",
-      "collected_at": "2025-10-30T00:53:10.531059"
+      "collected_at": "2025-10-31T00:51:34.245275"
     },
     {
       "title": "Teens Explore Aerospace and AI at TryEngineering Summer Camp",
       "summary": "The IEEE TryEngineering Summer Institute, one student participant says, “allowed me to gain new experiences and understand the different types of engineering disciplines, and make many great friends and memories that will remain with me.”Administered by IEEE Educational Activities, the institute is ...",
       "url": "https://spectrum.ieee.org/ieee-tryengineering-summer-camp",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Oct 2025 12:25:09 +0000",
-      "collected_at": "2025-10-30T00:53:10.530929"
+      "collected_at": "2025-10-31T00:51:34.245126"
     },
     {
       "title": "How to Land a Job in Quantum Computing",
       "summary": "Quantum computing has long held promise as the next era in information processing, with applications in drug discovery, finance, and encryption. But it’s only in recent years that the technology has edged closer to commercial viability. With that, a new demand has emerged in the job market: engineer...",
       "url": "https://spectrum.ieee.org/quantum-computing-jobs",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Oct 2025 13:00:04 +0000",
-      "collected_at": "2025-10-30T00:53:10.530732"
+      "collected_at": "2025-10-31T00:51:34.244932"
+    },
+    {
+      "title": "Scientists Need a Positive Vision for AI",
+      "summary": "For many in the research community, it’s gotten harder to be optimistic about the impacts of artificial intelligence.As authoritarianism is rising around the world, AI-generated “slop” is overwhelming legitimate media, while AI-generated deepfakes are spreading misinformation and parroting extremist...",
+      "url": "https://spectrum.ieee.org/responsible-ai",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 29 Oct 2025 13:00:03 +0000",
+      "collected_at": "2025-10-31T00:51:34.244771"
+    },
+    {
+      "title": "Advancing Magnetized Target Fusion by Solving an Inverse Problem with COMSOL Multiphysics",
+      "summary": "General Fusion’s Magnetized Target Fusion approach involves compressing a spherical tokamak plasma to achieve fusion conditions. This presentation will detail how the COMSOL Multiphysics® software was used in the LM26 fusion demonstration, which has been in operation since February 2025. Initially, ...",
+      "url": "https://events.bizzabo.com/769024",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 29 Oct 2025 13:37:02 +0000",
+      "collected_at": "2025-10-31T00:51:34.244625"
+    },
+    {
+      "title": "From Bottleneck to Breakthrough: AI in Chip Verification",
+      "summary": "This is a sponsored article brought to you by Siemens.In the world of electronics, integrated circuits (IC) chips are the unseen powerhouse behind progress. Every leap—whether it’s smarter phones, more capable cars, or breakthroughs in healthcare and science—relies on chips that are more complex, fa...",
+      "url": "https://spectrum.ieee.org/calibre-vision-ai-chip-design",
+      "date": "14時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Oct 2025 10:00:05 +0000",
+      "collected_at": "2025-10-31T00:51:34.244562"
+    },
+    {
+      "title": "New Thermal Battery Supplies Clean Heat for Oil Extraction",
+      "summary": "For the last 12 weeks, California start-up Rondo Energy has been operating what it’s calling the world’s largest thermal battery. Rondo’s system converts cheap renewable electricity into heat that can be discharged on demand into industrial processes.This differs from most next-generation energy sto...",
+      "url": "https://spectrum.ieee.org/thermal-battery-for-industrial-heat",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Oct 2025 12:00:03 +0000",
+      "collected_at": "2025-10-31T00:51:34.244360"
+    },
+    {
+      "title": "AI Model Growth Outpaces Hardware Improvements",
+      "summary": "Since 2018, the consortium MLCommons has been running a sort of Olympics for AI training. The competition, called MLPerf, consists of a set of tasks for training specific AI models, on predefined datasets, to a certain accuracy. Essentially, these tasks, called benchmarks, test how well a hardware a...",
+      "url": "https://spectrum.ieee.org/mlperf-trends",
+      "date": "11時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Oct 2025 13:00:00 +0000",
+      "collected_at": "2025-10-31T00:51:34.244193"
     }
   ]
 }
