@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-02T00:55:27.609235",
+  "last_updated": "2025-11-03T00:54:41.085197",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -7,121 +7,121 @@
       "title": "The 7 Phases of the Internet",
       "summary": "The Internet, born as an experiment meant to connect teams of researchers, has grown into a planetary-scale infrastructure that has reshaped society. Over the course of six decades, it has advanced through—by our count—three phases: first connecting computers, then mobile devices, and later all devi...",
       "url": "https://spectrum.ieee.org/history-of-internet-7-phases",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-11-02T00:55:26.606673"
+      "collected_at": "2025-11-03T00:54:40.082709"
     },
     {
       "title": "Your AI Agent Is Now a Target for Email Phishing",
       "summary": "Email security has always been a cat-and-mouse game. Viruses are invented, and antivirus software is invented to catalog known viruses and detect their presence in email attachments and URLs. As viruses morphed into more sophisticated forms of malware, cybersecurity tools adapted to be able to scan ...",
       "url": "https://spectrum.ieee.org/ai-agent-phishing",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Oct 2025 14:00:03 +0000",
-      "collected_at": "2025-11-02T00:55:26.606421"
+      "collected_at": "2025-11-03T00:54:40.082481"
     },
     {
       "title": "Teens Explore Aerospace and AI at TryEngineering Summer Camp",
       "summary": "The IEEE TryEngineering Summer Institute, one student participant says, “allowed me to gain new experiences and understand the different types of engineering disciplines, and make many great friends and memories that will remain with me.”Administered by IEEE Educational Activities, the institute is ...",
       "url": "https://spectrum.ieee.org/ieee-tryengineering-summer-camp",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Oct 2025 12:25:09 +0000",
-      "collected_at": "2025-11-02T00:55:26.606293"
+      "collected_at": "2025-11-03T00:54:40.082340"
     },
     {
       "title": "How to Land a Job in Quantum Computing",
       "summary": "Quantum computing has long held promise as the next era in information processing, with applications in drug discovery, finance, and encryption. But it’s only in recent years that the technology has edged closer to commercial viability. With that, a new demand has emerged in the job market: engineer...",
       "url": "https://spectrum.ieee.org/quantum-computing-jobs",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Oct 2025 13:00:04 +0000",
-      "collected_at": "2025-11-02T00:55:26.606088"
+      "collected_at": "2025-11-03T00:54:40.082148"
     },
     {
       "title": "Scientists Need a Positive Vision for AI",
       "summary": "For many in the research community, it’s gotten harder to be optimistic about the impacts of artificial intelligence.As authoritarianism is rising around the world, AI-generated “slop” is overwhelming legitimate media, while AI-generated deepfakes are spreading misinformation and parroting extremist...",
       "url": "https://spectrum.ieee.org/responsible-ai",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Oct 2025 13:00:03 +0000",
-      "collected_at": "2025-11-02T00:55:26.605925"
+      "collected_at": "2025-11-03T00:54:40.081989"
     },
     {
       "title": "Advancing Magnetized Target Fusion by Solving an Inverse Problem with COMSOL Multiphysics",
       "summary": "General Fusion’s Magnetized Target Fusion approach involves compressing a spherical tokamak plasma to achieve fusion conditions. This presentation will detail how the COMSOL Multiphysics® software was used in the LM26 fusion demonstration, which has been in operation since February 2025. Initially, ...",
       "url": "https://events.bizzabo.com/769024",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Oct 2025 13:37:02 +0000",
-      "collected_at": "2025-11-02T00:55:26.605777"
+      "collected_at": "2025-11-03T00:54:40.081845"
     },
     {
       "title": "From Bottleneck to Breakthrough: AI in Chip Verification",
       "summary": "This is a sponsored article brought to you by Siemens.In the world of electronics, integrated circuits (IC) chips are the unseen powerhouse behind progress. Every leap—whether it’s smarter phones, more capable cars, or breakthroughs in healthcare and science—relies on chips that are more complex, fa...",
       "url": "https://spectrum.ieee.org/calibre-vision-ai-chip-design",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Oct 2025 10:00:05 +0000",
-      "collected_at": "2025-11-02T00:55:26.605717"
+      "collected_at": "2025-11-03T00:54:40.081787"
     },
     {
       "title": "New Thermal Battery Supplies Clean Heat for Oil Extraction",
       "summary": "For the last 12 weeks, California start-up Rondo Energy has been operating what it’s calling the world’s largest thermal battery. Rondo’s system converts cheap renewable electricity into heat that can be discharged on demand into industrial processes.This differs from most next-generation energy sto...",
       "url": "https://spectrum.ieee.org/thermal-battery-for-industrial-heat",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Oct 2025 12:00:03 +0000",
-      "collected_at": "2025-11-02T00:55:26.605498"
+      "collected_at": "2025-11-03T00:54:40.081587"
     },
     {
       "title": "AI Model Growth Outpaces Hardware Improvements",
       "summary": "Since 2018, the consortium MLCommons has been running a sort of Olympics for AI training. The competition, called MLPerf, consists of a set of tasks for training specific AI models, on predefined datasets, to a certain accuracy. Essentially, these tasks, called benchmarks, test how well a hardware a...",
       "url": "https://spectrum.ieee.org/mlperf-trends",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Oct 2025 13:00:00 +0000",
-      "collected_at": "2025-11-02T00:55:26.605369"
+      "collected_at": "2025-11-03T00:54:40.081439"
     },
     {
       "title": "‘Liquid Jets’ Could Be Key to Studying Cancer Cells",
       "summary": "Many of the most devastating illnesses are like black boxes to science. Most cancer deaths, for example, are caused by strain from the disease spreading throughout the body, fueled by the few tumor cells able to survive the travel to different body parts and form new growths. But biologists know rel...",
       "url": "https://spectrum.ieee.org/hypersonic-levitation-spinning-cancer-studies",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Oct 2025 14:41:20 +0000",
-      "collected_at": "2025-11-02T00:55:26.605299"
+      "collected_at": "2025-11-03T00:54:40.081368"
     },
     {
       "title": "A Hassle-Free Battery Charger",
       "summary": "Lithium-ion batteries’ ability to deliver a lot of power from a small package have made them the go-to for makers and manufacturers alike. It’s not unusual now to find, say, microcontroller boards with integrated Li-ion chargers. Lithium-ion is so popular, in fact, that it’s easy to forget that othe...",
       "url": "https://spectrum.ieee.org/diy-nimh-battery-charger",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Oct 2025 19:30:04 +0000",
-      "collected_at": "2025-11-02T00:55:26.605184"
+      "collected_at": "2025-11-03T00:54:40.081255"
     },
     {
       "title": "In 1953, the Ford X-100 Concept Car Had It All",
       "summary": "In 1954, in a moment of absolute frankness, the president of Gifford Motors described his company’s latest luxury automobile: “Designed to appeal to the snob in everyone. Designed to convert your bank account into our dividends.”Perhaps you’re wondering why you never heard of such an honest car exec...",
       "url": "https://spectrum.ieee.org/ford-x-100-concept-car",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 31 Oct 2025 13:00:04 +0000",
-      "collected_at": "2025-11-02T00:55:26.605041"
+      "collected_at": "2025-11-03T00:54:40.081126"
     }
   ]
 }
