@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-08T00:48:32.969664",
+  "last_updated": "2025-11-09T00:55:00.653074",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 31 Oct 2025 15:30:03 +0000",
-      "collected_at": "2025-11-08T00:48:31.967091"
+      "collected_at": "2025-11-09T00:54:59.650536"
     },
     {
       "title": "Why I Admire Walt Downing’s Volunteerism",
@@ -21,107 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 31 Oct 2025 18:00:04 +0000",
-      "collected_at": "2025-11-08T00:48:31.966924"
+      "collected_at": "2025-11-09T00:54:59.650367"
     },
     {
       "title": "Chips Need to Chill Out",
       "summary": "Diamonds, lasers, and oil aren’t the first things you may think of when considering ways to keep chips and computers cool. But as modern chip designs pack and stack more transistors into ever smaller spaces, heat has emerged as a critical problem.To solve it, the semiconductor industry is throwing e...",
       "url": "https://spectrum.ieee.org/thermal-management-chips",
-      "date": "6日前",
+      "date": "11月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 01 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-08T00:48:31.966751"
+      "collected_at": "2025-11-09T00:54:59.650209"
     },
     {
       "title": "Novel Geothermal System to Come Online in Germany",
       "summary": "This article was originally published by Canary Media.Eavor, an advanced-geothermal startup, says it has significantly reduced drilling times and improved technologies at its nearly online project in Germany—milestones that should help it drive down the costs of harnessing clean energy from the grou...",
       "url": "https://spectrum.ieee.org/advanced-geothermal-germany",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Nov 2025 15:34:21 +0000",
-      "collected_at": "2025-11-08T00:48:31.966649"
+      "collected_at": "2025-11-09T00:54:59.650112"
     },
     {
       "title": "Volcanologists Turn to a High-Tech Suitcase to Study Eruptions",
       "summary": "When hundreds of volcanologists gathered in Geneva last July for the world’s largest volcanology conference, Italy’s Instituto Nazionale di Geofisica e Vulcanologia (INGV) drew particular attention. INGV was presenting results from five years of very close range observations of Stromboli, one of the...",
       "url": "https://spectrum.ieee.org/volcano-monitoring-stromboli-skate",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Nov 2025 16:58:05 +0000",
-      "collected_at": "2025-11-08T00:48:31.966521"
+      "collected_at": "2025-11-09T00:54:59.649991"
     },
     {
       "title": "A Challenge to Roboticists: My Humanoid Olympics",
       "summary": "I was a little disappointed by China’s World Humanoid Robot Games.1 As fun as real-life Rock ‘Em Sock ‘Em Robots is, what people really care about is robots doing their chores. This is why robot laundry folding videos are so popular: we didn’t know how to do that even a few years ago. And it is cert...",
       "url": "https://spectrum.ieee.org/humanoid-robot-olympics",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 13:00:03 +0000",
-      "collected_at": "2025-11-08T00:48:31.966366"
+      "collected_at": "2025-11-09T00:54:59.649845"
     },
     {
       "title": "This Professor’s Open-Source Robots Make STEM More Inclusive",
       "summary": "As an electrical engineering student in the 1980s and ‘90s, Carlotta Berry had two experiences that helped shape her future as an educator.First, while she studied robots, she wasn’t allowed to interact with them. “The robots were too expensive, so the undergrads did not get to touch them,” Berry re...",
       "url": "https://spectrum.ieee.org/berry-hands-on-robotics-education",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 15:00:04 +0000",
-      "collected_at": "2025-11-08T00:48:31.966098"
+      "collected_at": "2025-11-09T00:54:59.649589"
     },
     {
       "title": "Inside the Massive Effort to Sequence All of Europe’s Lepidoptera",
       "summary": "It’s a little after 6:30 on a brisk July morning in a stone hut high in the Italian Alps. A gently hissing wood fire is leaking some warmth out of a brick oven. Gathered near it, around a big wooden table, some of Europe’s brightest young lepidopterists are doing what they do best: arguing in Spanis...",
       "url": "https://spectrum.ieee.org/lepidoptera-genome-sequencing",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 15:45:36 +0000",
-      "collected_at": "2025-11-08T00:48:31.965929"
+      "collected_at": "2025-11-09T00:54:59.649419"
     },
     {
       "title": "Inside Hyundai’s Massive Metaplant",
       "summary": "When I traveled to Ellabell, Ga., in May to report on Hyundai Motor Group’s hyperefficient Metaplant—a US $12.6 billion boost to U.S.-based manufacturing of EVs and batteries—the company’s timing appeared solid. At this temple of leading-edge factory tech, Ioniq 5 and Ioniq 9 SUVs marched along surg...",
       "url": "https://spectrum.ieee.org/hyundai-metaplant",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Nov 2025 14:00:03 +0000",
-      "collected_at": "2025-11-08T00:48:31.965481"
+      "collected_at": "2025-11-09T00:54:59.648994"
     },
     {
       "title": "Discover’s Data Manager Helps Foil Credit Card Fraudsters",
       "summary": "Have you received a notification from your bank or credit card company alerting you to suspicious activity on your account and requesting you confirm a purchase? You probably wondered how the bank suspected the charge wasn’t legitimate.Credit card companies use a variety of methods to detect fraud, ...",
       "url": "https://spectrum.ieee.org/discover-manager-credit-card-fraud",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Nov 2025 19:00:03 +0000",
-      "collected_at": "2025-11-08T00:48:31.965197"
+      "collected_at": "2025-11-09T00:54:59.648715"
     },
     {
       "title": "How Starting a Side Project Can Help Cool Off Burnout",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!At its core, engineering is an act of creation. This is...",
       "url": "https://spectrum.ieee.org/starting-a-side-project",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 06 Nov 2025 17:56:49 +0000",
-      "collected_at": "2025-11-08T00:48:31.965044"
+      "collected_at": "2025-11-09T00:54:59.648570"
     },
     {
       "title": "Menifee’s EV-Powered Homes: A New Era in Energy Independence",
       "summary": "In Menifee, Calif., six newly built homes are testing a first for North America: electric vehicles that can power houses through the Combined Charging System (CCS) high-power DC charging standard. Each home uses a host Kia EV9 electric vehicle connected to a Wallbox Quasar 2 bidirectional charger, a...",
       "url": "https://spectrum.ieee.org/evs-keep-homes-lit",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 06 Nov 2025 21:00:03 +0000",
-      "collected_at": "2025-11-08T00:48:31.964948"
+      "collected_at": "2025-11-09T00:54:59.648460"
     }
   ]
 }
