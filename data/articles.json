@@ -1,28 +1,8 @@
 {
-  "last_updated": "2025-11-12T00:53:00.680101",
+  "last_updated": "2025-11-13T00:52:50.940247",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Novel Geothermal System to Come Online in Germany",
-      "summary": "This article was originally published by Canary Media.Eavor, an advanced-geothermal startup, says it has significantly reduced drilling times and improved technologies at its nearly online project in Germany—milestones that should help it drive down the costs of harnessing clean energy from the grou...",
-      "url": "https://spectrum.ieee.org/advanced-geothermal-germany",
-      "date": "11月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 03 Nov 2025 15:34:21 +0000",
-      "collected_at": "2025-11-12T00:52:59.677391"
-    },
-    {
-      "title": "Volcanologists Turn to a High-Tech Suitcase to Study Eruptions",
-      "summary": "When hundreds of volcanologists gathered in Geneva last July for the world’s largest volcanology conference, Italy’s Instituto Nazionale di Geofisica e Vulcanologia (INGV) drew particular attention. INGV was presenting results from five years of very close range observations of Stromboli, one of the...",
-      "url": "https://spectrum.ieee.org/volcano-monitoring-stromboli-skate",
-      "date": "11月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 03 Nov 2025 16:58:05 +0000",
-      "collected_at": "2025-11-12T00:52:59.677255"
-    },
     {
       "title": "A Challenge to Roboticists: My Humanoid Olympics",
       "summary": "I was a little disappointed by China’s World Humanoid Robot Games.1 As fun as real-life Rock ‘Em Sock ‘Em Robots is, what people really care about is robots doing their chores. This is why robot laundry folding videos are so popular: we didn’t know how to do that even a few years ago. And it is cert...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 13:00:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.677093"
+      "collected_at": "2025-11-13T00:52:49.937917"
     },
     {
       "title": "This Professor’s Open-Source Robots Make STEM More Inclusive",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 15:00:04 +0000",
-      "collected_at": "2025-11-12T00:52:59.676797"
+      "collected_at": "2025-11-13T00:52:49.937643"
     },
     {
       "title": "Inside the Massive Effort to Sequence All of Europe’s Lepidoptera",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Nov 2025 15:45:36 +0000",
-      "collected_at": "2025-11-12T00:52:59.676620"
+      "collected_at": "2025-11-13T00:52:49.937454"
     },
     {
       "title": "Inside Hyundai’s Massive Metaplant",
       "summary": "When I traveled to Ellabell, Ga., in May to report on Hyundai Motor Group’s hyperefficient Metaplant—a US $12.6 billion boost to U.S.-based manufacturing of EVs and batteries—the company’s timing appeared solid. At this temple of leading-edge factory tech, Ioniq 5 and Ioniq 9 SUVs marched along surg...",
       "url": "https://spectrum.ieee.org/hyundai-metaplant",
-      "date": "6日前",
+      "date": "11月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Nov 2025 14:00:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.676174"
+      "collected_at": "2025-11-13T00:52:49.937019"
     },
     {
       "title": "Discover’s Data Manager Helps Foil Credit Card Fraudsters",
       "summary": "Have you received a notification from your bank or credit card company alerting you to suspicious activity on your account and requesting you confirm a purchase? You probably wondered how the bank suspected the charge wasn’t legitimate.Credit card companies use a variety of methods to detect fraud, ...",
       "url": "https://spectrum.ieee.org/discover-manager-credit-card-fraud",
-      "date": "6日前",
+      "date": "11月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Nov 2025 19:00:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.675869"
+      "collected_at": "2025-11-13T00:52:49.936729"
     },
     {
       "title": "How Starting a Side Project Can Help Cool Off Burnout",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!At its core, engineering is an act of creation. This is...",
       "url": "https://spectrum.ieee.org/starting-a-side-project",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 06 Nov 2025 17:56:49 +0000",
-      "collected_at": "2025-11-12T00:52:59.675720"
+      "collected_at": "2025-11-13T00:52:49.936563"
     },
     {
       "title": "Menifee’s EV-Powered Homes: A New Era in Energy Independence",
       "summary": "In Menifee, Calif., six newly built homes are testing a first for North America: electric vehicles that can power houses through the Combined Charging System (CCS) high-power DC charging standard. Each home uses a host Kia EV9 electric vehicle connected to a Wallbox Quasar 2 bidirectional charger, a...",
       "url": "https://spectrum.ieee.org/evs-keep-homes-lit",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 06 Nov 2025 21:00:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.675625"
+      "collected_at": "2025-11-13T00:52:49.936455"
     },
     {
       "title": "Co-Captain Allows Ships to Share Important Navigational Data",
       "summary": "A new onboard system allows ocean-going vessels to share real-time sea condition data, giving crews early warnings and helping them navigate more safely. The system will analyze data related to navigation, vessel behavior, and the environment to give ship crews guidance at sea.While casualties from ...",
       "url": "https://spectrum.ieee.org/ship-navigation-orca-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 06 Nov 2025 23:19:54 +0000",
-      "collected_at": "2025-11-12T00:52:59.675430"
+      "collected_at": "2025-11-13T00:52:49.936264"
     },
     {
       "title": "Video Friday: This Drone Drives and Flies—Seamlessly",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Un...",
       "url": "https://spectrum.ieee.org/video-friday-multimode-drone",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Nov 2025 18:30:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.675316"
+      "collected_at": "2025-11-13T00:52:49.936155"
     },
     {
       "title": "IEEE WIE Podcast Focuses on Workplace Issues for Women in Tech",
       "summary": "For anyone working in today’s rapidly evolving science, technology, engineering, and mathematics fields, visibility, authenticity, and connection are no longer optional; they are essential. But there is a lack of resources for STEM professionals, especially women, looking to express themselves fully...",
       "url": "https://spectrum.ieee.org/ieee-wie-podcast-women-in-tech",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Nov 2025 20:00:03 +0000",
-      "collected_at": "2025-11-12T00:52:59.675139"
+      "collected_at": "2025-11-13T00:52:49.935982"
+    },
+    {
+      "title": "Startup Using Nanotips and Naphthalene for New Satellite Thruster",
+      "summary": "It sounds like a NASA pipe dream: a new spacecraft thruster that’s up to 40 percent more power-efficient than today’s. Even better, its fuel costs less than a thousandth as much and weighs an eighth of the mass. A startup called Orbital Arc claims it can make such a thruster.With this design, “we ca...",
+      "url": "https://spectrum.ieee.org/ion-thruster",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 09 Nov 2025 14:00:02 +0000",
+      "collected_at": "2025-11-13T00:52:49.935819"
+    },
+    {
+      "title": "DARPA and Texas Bet $1.4 Billion on a Unique Foundry",
+      "summary": "A 1980s-era semiconductor fab in Austin, Texas, is getting a makeover. The Texas Institute for Electronics (TIE), as it’s called now, is tooling up to become the only advanced packaging plant in the world that is dedicated to 3D heterogeneous integration (3DHI)—the stacking of chips made of multiple...",
+      "url": "https://spectrum.ieee.org/3d-heterogeneous-integration",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 10 Nov 2025 13:00:03 +0000",
+      "collected_at": "2025-11-13T00:52:49.935674"
     }
   ]
 }
