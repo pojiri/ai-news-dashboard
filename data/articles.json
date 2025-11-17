@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16T00:56:24.708419",
+  "last_updated": "2025-11-17T00:54:12.133717",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Nov 2025 18:30:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.706074"
+      "collected_at": "2025-11-17T00:54:11.131381"
     },
     {
       "title": "IEEE WIE Podcast Focuses on Workplace Issues for Women in Tech",
@@ -21,107 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Nov 2025 20:00:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.705900"
+      "collected_at": "2025-11-17T00:54:11.131208"
     },
     {
       "title": "Startup Using Nanotips and Naphthalene for New Satellite Thruster",
       "summary": "It sounds like a NASA pipe dream: a new spacecraft thruster that’s up to 40 percent more power-efficient than today’s. Even better, its fuel costs less than a thousandth as much and weighs an eighth of the mass. A startup called Orbital Arc claims it can make such a thruster.With this design, “we ca...",
       "url": "https://spectrum.ieee.org/ion-thruster",
-      "date": "6日前",
+      "date": "11月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 09 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-11-16T00:56:23.705730"
+      "collected_at": "2025-11-17T00:54:11.130997"
     },
     {
       "title": "DARPA and Texas Bet $1.4 Billion on a Unique Foundry",
       "summary": "A 1980s-era semiconductor fab in Austin, Texas, is getting a makeover. The Texas Institute for Electronics (TIE), as it’s called now, is tooling up to become the only advanced packaging plant in the world that is dedicated to 3D heterogeneous integration (3DHI)—the stacking of chips made of multiple...",
       "url": "https://spectrum.ieee.org/3d-heterogeneous-integration",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 10 Nov 2025 13:00:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.705591"
+      "collected_at": "2025-11-17T00:54:11.130811"
     },
     {
       "title": "Be a Force for Good On Giving Tuesday",
       "summary": "Giving Tuesday, being held on 2 December this year, is a day globally dedicated to generosity and empowering individuals and organizations to transform people’s lives and communities. For this year’s event, IEEE and the IEEE Foundation invite members to invest in the organization’s charitable progra...",
       "url": "https://spectrum.ieee.org/ieee-giving-tuesday-2025",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Nov 2025 19:00:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.705493"
+      "collected_at": "2025-11-17T00:54:11.130715"
     },
     {
       "title": "The Complicated Reality of 3D Printed Prosthetics",
       "summary": "Around ten years ago, fantastical media coverage of 3D printing dramatically increased expectations for the technology. A particular darling of that coverage was the use of 3D-printing for prosthetic limbs: For example, in 2015, The New York Times celebrated the US $15 to $20 3D-printed prosthetic h...",
       "url": "https://spectrum.ieee.org/how-3d-printing-helping-prosthetics",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Nov 2025 15:00:02 +0000",
-      "collected_at": "2025-11-16T00:56:23.705408"
+      "collected_at": "2025-11-17T00:54:11.130631"
     },
     {
       "title": "How Do You Know Whether You Perceive Pain the Same as Others?",
       "summary": "How much pain are you in on a scale from one to 10? This simple method is still the way pain is measured in doctors’ offices, clinics, and hospitals—but how do I know if my five out of 10 is the same as yours? A new, early-stage platform aims to more objectively measure and share our individual perc...",
       "url": "https://spectrum.ieee.org/eeg-pain-perception-docomo",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Nov 2025 19:59:40 +0000",
-      "collected_at": "2025-11-16T00:56:23.705244"
+      "collected_at": "2025-11-17T00:54:11.130464"
     },
     {
       "title": "China’s Tech Giants Race to Replace Nvidia’s AI Chips",
       "summary": "This post originally appeared on Recode China AI.For more than a decade, Nvidia’s chips have been the beating heart of China’s AI ecosystem. Its GPUs powered search engines, video apps, smartphones, electric vehicles, and the current wave of generative AI models. Even as Washington tightened export ...",
       "url": "https://spectrum.ieee.org/china-ai-chip",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Nov 2025 14:00:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.705139"
+      "collected_at": "2025-11-17T00:54:11.130364"
     },
     {
       "title": "Two Visions for the Future of AR Smart Glasses",
       "summary": "Are you finally ready to hang a computer screen on your face?Fifteen years ago, that would have seemed like a silly question. Then came the much-hyped and much-derided Google Glass in 2012, and frankly, it still seemed a silly question.Now, though, it’s a choice consumers are beginning to make. Tiny...",
       "url": "https://spectrum.ieee.org/two-visions-for-smart-glasses",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Nov 2025 16:00:02 +0000",
-      "collected_at": "2025-11-16T00:56:23.704892"
+      "collected_at": "2025-11-17T00:54:11.130139"
     },
     {
       "title": "Get to Know the IEEE Board of Directors",
       "summary": "The IEEE Board of Directors shapes the future direction of IEEE and is committed to ensuring IEEE remains a strong and vibrant organization—serving the needs of its members and the engineering and technology community worldwide while fulfilling the IEEE mission of advancing technology for the benefi...",
       "url": "https://spectrum.ieee.org/ieee-board-of-directors-oct25",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Nov 2025 19:00:03 +0000",
-      "collected_at": "2025-11-16T00:56:23.704621"
+      "collected_at": "2025-11-17T00:54:11.129868"
     },
     {
       "title": "Apple’s Failed Foray Into Mac Clones",
       "summary": "There’s a class of consumer that wants something they know they cannot have. For some of those people, a Macintosh computer not made by Apple has long been a desired goal.For most of the Mac’s history, you could only really get one from Apple, if you wanted to go completely by the book. Sure, there ...",
       "url": "https://spectrum.ieee.org/apple-mac-clones-history",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Nov 2025 15:00:02 +0000",
-      "collected_at": "2025-11-16T00:56:23.704365"
+      "collected_at": "2025-11-17T00:54:11.129625"
     },
     {
       "title": "Video Friday: DARPA Challenge Focuses on Heavy Lift Drones",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Cu...",
       "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drones",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Nov 2025 18:30:02 +0000",
-      "collected_at": "2025-11-16T00:56:23.704093"
+      "collected_at": "2025-11-17T00:54:11.129383"
     }
   ]
 }
