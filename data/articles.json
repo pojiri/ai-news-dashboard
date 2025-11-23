@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-11-22T00:50:12.246739",
+  "last_updated": "2025-11-23T00:59:54.148373",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Video Friday: DARPA Challenge Focuses on Heavy Lift Drones",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Cu...",
-      "url": "https://spectrum.ieee.org/video-friday-heavy-lift-drones",
-      "date": "11月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 14 Nov 2025 18:30:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.244328"
-    },
-    {
-      "title": "This Soft Robot Is 100% Edible, Including the Battery",
-      "summary": "While there are many useful questions to ask when encountering a new robot, “can I eat it” is generally not one of them. I say ‘generally,’ because edible robots are actually a thing—and not just edible in the sense that you can technically swallow them and suffer both the benefits and consequences,...",
-      "url": "https://spectrum.ieee.org/soft-edible-robot",
-      "date": "11月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 14 Nov 2025 20:24:06 +0000",
-      "collected_at": "2025-11-22T00:50:11.244181"
-    },
-    {
       "title": "Students Compete—and Cooperate—in FIRST Global Robotics Challenge",
       "summary": "Aspiring engineers from 191 countries gathered in Panama City in October to compete in the FIRST Global Robotics Challenge. The annual contest aims to foster problem-solving, cooperation, and inspire the next generation of engineers through three challenges that are inspired by a different theme eve...",
       "url": "https://spectrum.ieee.org/first-global-robotics-challenge",
-      "date": "6日前",
+      "date": "11月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 15 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.244046"
+      "collected_at": "2025-11-23T00:59:53.145855"
     },
     {
       "title": "Your Laptop Isn’t Ready for LLMs. That’s About to Change",
       "summary": "Odds are the PC in your office today isn’t ready to run AI large language models (LLMs).Today, most users interact with LLMs via an online, browser-based interface. The more technically inclined might use an application programming interface or command line interface. In either case, the queries are...",
       "url": "https://spectrum.ieee.org/ai-models-locally",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Nov 2025 13:00:03 +0000",
-      "collected_at": "2025-11-22T00:50:11.243919"
+      "collected_at": "2025-11-23T00:59:53.145697"
     },
     {
       "title": "Microfluidics Could Be the Answer to Cooling AI Chips",
       "summary": "Data center rack density has risen rapidly in recent years. Operators are cramming more computing power into each server rack to meet the needs of AI and other high-performance computing applications. That means that each rack needs more kilowatts of energy, and ultimately generates more heat. Cooli...",
       "url": "https://spectrum.ieee.org/microfluidics-cooling-ai-chips-corintis",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Nov 2025 15:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.243629"
+      "collected_at": "2025-11-23T00:59:53.145409"
     },
     {
       "title": "The First Ticket Pre-Purchasing System Was Created 65 Years Ago",
       "summary": "For Japan’s train commuters in the years following World War II, buying a ticket could be a stressful experience. Today it’s not difficult to go online and reserve a seat, but 65 years ago, travelers faced long queues at the ticket window and limited ways to find out if seats were available. Reserva...",
       "url": "https://spectrum.ieee.org/ieee-milestone-ticket-system",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Nov 2025 17:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.243508"
+      "collected_at": "2025-11-23T00:59:53.145290"
     },
     {
       "title": "Amazon Pilots New Pedal-Assist Electric Delivery Vehicle",
       "summary": "Amazon is piloting a new four-wheel, pedal-assist electric delivery vehicle built by Also, a spin-off from electric-truck maker Rivian, in a bid to make city logistics cleaner and more efficient. The vehicle—called the TM-Q—combines the stability and cargo capacity of a small van with the compact fo...",
       "url": "https://spectrum.ieee.org/electric-delivery-vehicles-amazon-also",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 18 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.243347"
+      "collected_at": "2025-11-23T00:59:53.145155"
     },
     {
       "title": "Why Is Everyone’s Robot Folding Clothes?",
       "summary": "It seems like every week there’s a new video of a robot folding clothes. We’ve had some fantastic demonstrations, like this semi-autonomous video from Weave Robotics on X.It’s awesome stuff, but Weave is far from the only company producing these kinds of videos. Figure 02 is folding clothes. Figure ...",
       "url": "https://spectrum.ieee.org/robots-folding-clothes",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Nov 2025 16:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.243222"
+      "collected_at": "2025-11-23T00:59:53.145031"
     },
     {
       "title": "Keys to Building an AI University: A Framework from NVIDIA",
       "summary": "As artificial intelligence reshapes every industry, universities face a critical choice: lead the transformation or risk falling behind. The institutions that integrate AI across disciplines, invest in computing infrastructure, and conduct groundbreaking research will become destinations for top stu...",
       "url": "https://content.knowledgehub.wiley.com/the-roadmap-to-becoming-an-ai-university-industry-brief/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Nov 2025 16:00:16 +0000",
-      "collected_at": "2025-11-22T00:50:11.243071"
+      "collected_at": "2025-11-23T00:59:53.144878"
     },
     {
       "title": "A New Axial-Flux Motor Becomes a Supercar Staple",
       "summary": "Tesla was first to patent a primitive axial-flux electric motor—Nikola Tesla, that is, way back in 1889. It would be 126 years before the concept found its way to a car, the 1,500-horsepower (1,103 kilowatt), US $1.9 million, Koenigsegg Regera hybrid, in 2015. Even today, nearly all the world’s EVs ...",
       "url": "https://spectrum.ieee.org/axial-flux-motor-yasa",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Nov 2025 16:12:53 +0000",
-      "collected_at": "2025-11-22T00:50:11.243028"
+      "collected_at": "2025-11-23T00:59:53.144822"
     },
     {
       "title": "This IBM Engineer Is Pushing Quantum Computing Out of the Lab",
       "summary": "Genya Crossman is a lifelong learner passionate about helping people understand and use quantum computing to solve the world’s most complex problems.So, she is excited that quantum computing is in the spotlight this year. UNESCO declared 2025 the International Year of Quantum Science and Technology....",
       "url": "https://spectrum.ieee.org/quantum-computing-ieee-genya-crossman",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Nov 2025 19:00:02 +0000",
-      "collected_at": "2025-11-22T00:50:11.242864"
+      "collected_at": "2025-11-23T00:59:53.144640"
     },
     {
       "title": "Narrowing focus can increase productivity",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!The most productive engineer I worked with at Meta join...",
       "url": "https://spectrum.ieee.org/produ",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Nov 2025 20:56:25 +0000",
-      "collected_at": "2025-11-22T00:50:11.242681"
+      "collected_at": "2025-11-23T00:59:53.144458"
+    },
+    {
+      "title": "Could Terahertz Radar in Cars Save Lives?",
+      "summary": "A few years ago, Matthew Carey lost a friend in a freak car accident, after the friend’s car struck some small debris on a highway. The accident happened under conditions that render nearly all of today’s car-mounted sensors useless: fog and bright early-morning sunshine. Radar can’t see small objec...",
+      "url": "https://spectrum.ieee.org/terahertz-radar",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 20 Nov 2025 15:00:02 +0000",
+      "collected_at": "2025-11-23T00:59:53.144363"
+    },
+    {
+      "title": "Video Friday: Watch Robots Throw, Catch, and Hit a Baseball",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.SOSV Robotics Matchup: 1–5 December 2025, ONLINEICRA 202...",
+      "url": "https://spectrum.ieee.org/video-friday-baseball-robot",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 21 Nov 2025 16:20:16 +0000",
+      "collected_at": "2025-11-23T00:59:53.144252"
     }
   ]
 }
