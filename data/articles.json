@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-11-30T00:59:32.169865",
+  "last_updated": "2025-12-01T01:03:36.257554",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "On Rereading Norbert Wiener’s The Human Use of Human Beings at 75",
-      "summary": "Between humans and machines,feedback loops of love and grace.It could be that way, he wrote.Less robotic ourselves, we couldlive more in dreams, less in routines.Things that made us weak and strangecan be engineered around:servos here, neural nets there,bits of bone, and hanks of hair,becoming beaut...",
-      "url": "https://spectrum.ieee.org/on-rereading-norbert-wieners-the-human-use-of-human-beings-at-75",
-      "date": "11月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 22 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.167370"
-    },
     {
       "title": "How to Spot a Counterfeit Lithium-Ion Battery",
       "summary": "As an auditor of battery manufacturers around the world, University of Maryland mechanical engineer Michael Pecht frequently finds himself touring spotless production floors. They’re akin to “the cleanest hospital that you could imagine–it’s semiconductor-type cleanliness,” he says. But he’s also se...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 22 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.167303"
+      "collected_at": "2025-12-01T01:03:35.255095"
     },
     {
       "title": "Trillions Spent and Big Software Projects Are Still Failing",
       "summary": "“Why worry about something that isn’t going to happen?”KGB Chairman Charkov’s question to inorganic chemist Valery Legasov in HBO’s “Chernobyl” miniseries makes a good epitaph for the hundreds of software development, modernization, and operational failures I have covered for IEEE Spectrum since my ...",
       "url": "https://spectrum.ieee.org/it-management-software-failures",
-      "date": "6日前",
+      "date": "11月23日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 23 Nov 2025 13:05:01 +0000",
-      "collected_at": "2025-11-30T00:59:31.167159"
+      "collected_at": "2025-12-01T01:03:35.254953"
     },
     {
       "title": "IEEE Hits 500,000-Member Milestone​",
       "summary": "IEEE celebrated a monumental achievement last month: The organization’s membership reached half a million innovators, engineers, technologists, and scientists worldwide.“This is more than a number; it is a profound testament to the enduring power and relevance of our global community,” says Antonio ...",
       "url": "https://spectrum.ieee.org/ieee-500000-member-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Nov 2025 19:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.166671"
+      "collected_at": "2025-12-01T01:03:35.254439"
     },
     {
       "title": "AI Agents Break Rules Under Everyday Pressure",
       "summary": "Several recent studies have shown that artificial-intelligence agents sometimes decide to misbehave, for instance by attempting to blackmail people who plan to replace them. But such behavior often occurs in contrived scenarios. Now, a new study presents PropensityBench, a benchmark that measures an...",
       "url": "https://spectrum.ieee.org/ai-agents-safety",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.166567"
+      "collected_at": "2025-12-01T01:03:35.254337"
     },
     {
       "title": "Listen to Protons for Less Than $100",
       "summary": "When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including those of the hydrogen atoms in a water molecule—can be made to oscillate in a magnetic field, and these oscillations can be detected with coils of wire. MRI s...",
       "url": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.166438"
+      "collected_at": "2025-12-01T01:03:35.254208"
     },
     {
       "title": "Event Sensors Bring Just the Right Data to Device Makers",
       "summary": "Anatomically, the human eye is like a sophisticated tentacle that reaches out from the brain, with the retina acting as the tentacle’s tip and touching everything the person sees. Evolution worked a wonder with this complex nervous structure.Now, contrast the eye’s anatomy to the engineering of the ...",
       "url": "https://spectrum.ieee.org/event-sensors-to-the-edge",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.166286"
+      "collected_at": "2025-12-01T01:03:35.254059"
     },
     {
       "title": "TraffickCam Uses Computer Vision to Counter Human Trafficking",
       "summary": "Abby Stylianou built an app that asks its users to upload photos of hotel rooms they stay in when they travel. It may seem like a simple act, but the resulting database of hotel room images helps Stylianou and her colleagues assist victims of human trafficking.Traffickers often post photos of their ...",
       "url": "https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 17:19:26 +0000",
-      "collected_at": "2025-11-30T00:59:31.165998"
+      "collected_at": "2025-12-01T01:03:35.253738"
     },
     {
       "title": "IEEE and Girl Scouts Are Working on Getting Girls Into STEM",
       "summary": "The percentage of women working in science, technology, engineering, and math fields continues to remain stubbornly low. Women made up 28 percent of the STEM global workforce last year, according to the World Economic Forum.IEEE and many other organizations conduct outreach programs targeting preuni...",
       "url": "https://spectrum.ieee.org/ieee-and-girl-scouts-stem",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 19:00:01 +0000",
-      "collected_at": "2025-11-30T00:59:31.165823"
+      "collected_at": "2025-12-01T01:03:35.253566"
     },
     {
       "title": "For This Engineer, Taking Deep Dives Is Part of the Job",
       "summary": "Early in Levi Unema’s career as an electrical engineer, he was presented with an unusual opportunity. While working on assembly lines at an automotive parts supplier in 2015, he got a surprise call from his high-school science teacher that set him off on an entirely new path: piloting underwater rob...",
       "url": "https://spectrum.ieee.org/levi-unema-underwater-robotics-exploration",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.165653"
+      "collected_at": "2025-12-01T01:03:35.253414"
     },
     {
       "title": "3 Weird Things You Can Turn Into a Memristor",
       "summary": "From the honey in your tea to the blood in your veins, materials all around you have a hidden talent. Some of these substances, when engineered in specific ways, can act as memristors—electrical components that can “remember” past states. Memristors are often used in chips that both perform computat...",
       "url": "https://spectrum.ieee.org/memristor-materials",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Nov 2025 15:00:01 +0000",
-      "collected_at": "2025-11-30T00:59:31.165498"
+      "collected_at": "2025-12-01T01:03:35.253256"
     },
     {
       "title": "Citizens of Smart Cities Need a Way to Opt Out",
       "summary": "For years, Gwen Shaffer has been leading Long Beach, Calif. residents on “data walks,” pointing out public Wi-Fi routers, security cameras, smart water meters, and parking kiosks. The goal, according to the professor of journalism and public relations at California State University, Long Beach, was ...",
       "url": "https://spectrum.ieee.org/smart-city-personal-data-collection",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-11-30T00:59:31.165366"
+      "collected_at": "2025-12-01T01:03:35.253122"
+    },
+    {
+      "title": "EPICS in IEEE Funds Record-Breaking Number of Student Projects",
+      "summary": "The EPICS (Engineering Projects in Community Service) in IEEE initiative had a record year in 2025, funding 48 projects involving nearly 1,000 students from 17 countries. The IEEE Educational Activities program approved the most projects this year, distributing US $290,000 in funding and engaging mo...",
+      "url": "https://spectrum.ieee.org/epics-in-ieee-student-projects",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 28 Nov 2025 19:00:02 +0000",
+      "collected_at": "2025-12-01T01:03:35.253003"
     }
   ]
 }
