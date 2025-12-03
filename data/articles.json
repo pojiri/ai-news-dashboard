@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-02T00:54:14.820832",
+  "last_updated": "2025-12-03T00:53:45.532805",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "AI Agents Break Rules Under Everyday Pressure",
-      "summary": "Several recent studies have shown that artificial-intelligence agents sometimes decide to misbehave, for instance by attempting to blackmail people who plan to replace them. But such behavior often occurs in contrived scenarios. Now, a new study presents PropensityBench, a benchmark that measures an...",
-      "url": "https://spectrum.ieee.org/ai-agents-safety",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 25 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.818566"
-    },
-    {
       "title": "Listen to Protons for Less Than $100",
       "summary": "When you get an MRI scan, the machine exploits a phenomenon called nuclear magnetic resonance (NMR). Certain kinds of atomic nuclei—including those of the hydrogen atoms in a water molecule—can be made to oscillate in a magnetic field, and these oscillations can be detected with coils of wire. MRI s...",
       "url": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
-      "date": "6日前",
+      "date": "11月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.818440"
+      "collected_at": "2025-12-03T00:53:44.530405"
     },
     {
       "title": "Event Sensors Bring Just the Right Data to Device Makers",
       "summary": "Anatomically, the human eye is like a sophisticated tentacle that reaches out from the brain, with the retina acting as the tentacle’s tip and touching everything the person sees. Evolution worked a wonder with this complex nervous structure.Now, contrast the eye’s anatomy to the engineering of the ...",
       "url": "https://spectrum.ieee.org/event-sensors-to-the-edge",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 14:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.818296"
+      "collected_at": "2025-12-03T00:53:44.530247"
     },
     {
       "title": "TraffickCam Uses Computer Vision to Counter Human Trafficking",
       "summary": "Abby Stylianou built an app that asks its users to upload photos of hotel rooms they stay in when they travel. It may seem like a simple act, but the resulting database of hotel room images helps Stylianou and her colleagues assist victims of human trafficking.Traffickers often post photos of their ...",
       "url": "https://spectrum.ieee.org/traffickcam-human-trafficking-hotel-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 17:19:26 +0000",
-      "collected_at": "2025-12-02T00:54:13.818008"
+      "collected_at": "2025-12-03T00:53:44.529945"
     },
     {
       "title": "IEEE and Girl Scouts Are Working on Getting Girls Into STEM",
       "summary": "The percentage of women working in science, technology, engineering, and math fields continues to remain stubbornly low. Women made up 28 percent of the STEM global workforce last year, according to the World Economic Forum.IEEE and many other organizations conduct outreach programs targeting preuni...",
       "url": "https://spectrum.ieee.org/ieee-and-girl-scouts-stem",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Nov 2025 19:00:01 +0000",
-      "collected_at": "2025-12-02T00:54:13.817837"
+      "collected_at": "2025-12-03T00:53:44.529774"
     },
     {
       "title": "For This Engineer, Taking Deep Dives Is Part of the Job",
       "summary": "Early in Levi Unema’s career as an electrical engineer, he was presented with an unusual opportunity. While working on assembly lines at an automotive parts supplier in 2015, he got a surprise call from his high-school science teacher that set him off on an entirely new path: piloting underwater rob...",
       "url": "https://spectrum.ieee.org/levi-unema-underwater-robotics-exploration",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.817666"
+      "collected_at": "2025-12-03T00:53:44.529621"
     },
     {
       "title": "3 Weird Things You Can Turn Into a Memristor",
       "summary": "From the honey in your tea to the blood in your veins, materials all around you have a hidden talent. Some of these substances, when engineered in specific ways, can act as memristors—electrical components that can “remember” past states. Memristors are often used in chips that both perform computat...",
       "url": "https://spectrum.ieee.org/memristor-materials",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Nov 2025 15:00:01 +0000",
-      "collected_at": "2025-12-02T00:54:13.817513"
+      "collected_at": "2025-12-03T00:53:44.529448"
     },
     {
       "title": "Citizens of Smart Cities Need a Way to Opt Out",
       "summary": "For years, Gwen Shaffer has been leading Long Beach, Calif. residents on “data walks,” pointing out public Wi-Fi routers, security cameras, smart water meters, and parking kiosks. The goal, according to the professor of journalism and public relations at California State University, Long Beach, was ...",
       "url": "https://spectrum.ieee.org/smart-city-personal-data-collection",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.817385"
+      "collected_at": "2025-12-03T00:53:44.529319"
     },
     {
       "title": "EPICS in IEEE Funds Record-Breaking Number of Student Projects",
       "summary": "The EPICS (Engineering Projects in Community Service) in IEEE initiative had a record year in 2025, funding 48 projects involving nearly 1,000 students from 17 countries. The IEEE Educational Activities program approved the most projects this year, distributing US $290,000 in funding and engaging mo...",
       "url": "https://spectrum.ieee.org/epics-in-ieee-student-projects",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Nov 2025 19:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.817280"
+      "collected_at": "2025-12-03T00:53:44.529214"
     },
     {
       "title": "Video Friday: Disney’s Robotic Olaf Makes His Debut",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.SOSV Robotics Matchup: 1–5 December 2025, ONLINEICRA 202...",
       "url": "https://spectrum.ieee.org/video-friday-disney-robot-olaf",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Nov 2025 16:30:01 +0000",
-      "collected_at": "2025-12-02T00:54:13.817037"
+      "collected_at": "2025-12-03T00:53:44.528970"
     },
     {
       "title": "This Toy Electric Stove Was Dangerously Realistic",
       "summary": "Introduced in 1930 by Lionel Corp.—better known for its electric model trains—the fully functional toy stove shown at top had two electric burners and an oven that heated to 260 °C. It came with a set of cookware, including a frying pan, a pot with lid, a muffin tin, a tea kettle, and a wooden potat...",
       "url": "https://spectrum.ieee.org/electric-toy-stoves",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 30 Nov 2025 13:00:01 +0000",
-      "collected_at": "2025-12-02T00:54:13.816898"
+      "collected_at": "2025-12-03T00:53:44.528833"
     },
     {
       "title": "The Next Frontier in AI Isn’t Just More Data",
       "summary": "For the past decade, progress in artificial intelligence has been measured by scale: bigger models, larger datasets, and more compute. That approach delivered astonishing breakthroughs in large language models (LLMs); in just five years, AI has leapt from models like GPT-2, which could hardly mimic ...",
       "url": "https://spectrum.ieee.org/reinforcement-learning-environments",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-02T00:54:13.816719"
+      "collected_at": "2025-12-03T00:53:44.528670"
+    },
+    {
+      "title": "IEEE President’s Note: Engineering With Purpose",
+      "summary": "Innovation, expertise, and efficiency often take center stage in the engineering world. Yet engineering’s impact lies not only in technical advancement but also in its ability to serve the greater good. This foundational principle is behind IEEE’s public imperative initiatives which apply our effort...",
+      "url": "https://spectrum.ieee.org/ieee-presidents-note-dec-2025",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 01 Dec 2025 19:00:02 +0000",
+      "collected_at": "2025-12-03T00:53:44.528552"
     }
   ]
 }
