@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-04T00:54:07.907610",
+  "last_updated": "2025-12-05T00:54:09.099076",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "For This Engineer, Taking Deep Dives Is Part of the Job",
-      "summary": "Early in Levi Unema’s career as an electrical engineer, he was presented with an unusual opportunity. While working on assembly lines at an automotive parts supplier in 2015, he got a surprise call from his high-school science teacher that set him off on an entirely new path: piloting underwater rob...",
-      "url": "https://spectrum.ieee.org/levi-unema-underwater-robotics-exploration",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 27 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-12-04T00:54:06.905048"
-    },
-    {
-      "title": "3 Weird Things You Can Turn Into a Memristor",
-      "summary": "From the honey in your tea to the blood in your veins, materials all around you have a hidden talent. Some of these substances, when engineered in specific ways, can act as memristors—electrical components that can “remember” past states. Memristors are often used in chips that both perform computat...",
-      "url": "https://spectrum.ieee.org/memristor-materials",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 27 Nov 2025 15:00:01 +0000",
-      "collected_at": "2025-12-04T00:54:06.904897"
-    },
-    {
       "title": "Citizens of Smart Cities Need a Way to Opt Out",
       "summary": "For years, Gwen Shaffer has been leading Long Beach, Calif. residents on “data walks,” pointing out public Wi-Fi routers, security cameras, smart water meters, and parking kiosks. The goal, according to the professor of journalism and public relations at California State University, Long Beach, was ...",
       "url": "https://spectrum.ieee.org/smart-city-personal-data-collection",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Nov 2025 13:00:02 +0000",
-      "collected_at": "2025-12-04T00:54:06.904770"
+      "collected_at": "2025-12-05T00:54:08.096614"
     },
     {
       "title": "EPICS in IEEE Funds Record-Breaking Number of Student Projects",
       "summary": "The EPICS (Engineering Projects in Community Service) in IEEE initiative had a record year in 2025, funding 48 projects involving nearly 1,000 students from 17 countries. The IEEE Educational Activities program approved the most projects this year, distributing US $290,000 in funding and engaging mo...",
       "url": "https://spectrum.ieee.org/epics-in-ieee-student-projects",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Nov 2025 19:00:02 +0000",
-      "collected_at": "2025-12-04T00:54:06.904664"
+      "collected_at": "2025-12-05T00:54:08.096511"
     },
     {
       "title": "Video Friday: Disney’s Robotic Olaf Makes His Debut",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.SOSV Robotics Matchup: 1–5 December 2025, ONLINEICRA 202...",
       "url": "https://spectrum.ieee.org/video-friday-disney-robot-olaf",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Nov 2025 16:30:01 +0000",
-      "collected_at": "2025-12-04T00:54:06.904408"
+      "collected_at": "2025-12-05T00:54:08.096269"
     },
     {
       "title": "This Toy Electric Stove Was Dangerously Realistic",
       "summary": "Introduced in 1930 by Lionel Corp.—better known for its electric model trains—the fully functional toy stove shown at top had two electric burners and an oven that heated to 260 °C. It came with a set of cookware, including a frying pan, a pot with lid, a muffin tin, a tea kettle, and a wooden potat...",
       "url": "https://spectrum.ieee.org/electric-toy-stoves",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 30 Nov 2025 13:00:01 +0000",
-      "collected_at": "2025-12-04T00:54:06.904276"
+      "collected_at": "2025-12-05T00:54:08.096134"
     },
     {
       "title": "The Next Frontier in AI Isn’t Just More Data",
       "summary": "For the past decade, progress in artificial intelligence has been measured by scale: bigger models, larger datasets, and more compute. That approach delivered astonishing breakthroughs in large language models (LLMs); in just five years, AI has leapt from models like GPT-2, which could hardly mimic ...",
       "url": "https://spectrum.ieee.org/reinforcement-learning-environments",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-04T00:54:06.904115"
+      "collected_at": "2025-12-05T00:54:08.095959"
     },
     {
       "title": "IEEE President’s Note: Engineering With Purpose",
       "summary": "Innovation, expertise, and efficiency often take center stage in the engineering world. Yet engineering’s impact lies not only in technical advancement but also in its ability to serve the greater good. This foundational principle is behind IEEE’s public imperative initiatives which apply our effort...",
       "url": "https://spectrum.ieee.org/ieee-presidents-note-dec-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-04T00:54:06.904008"
+      "collected_at": "2025-12-05T00:54:08.095854"
     },
     {
       "title": "Why We Keep Making the Same Software Mistakes",
       "summary": "Talking to Robert N. Charette can be pretty depressing. Charette, who has been writing about software failures for this magazine for the past 20 years, is a renowned risk analyst and systems expert who over the course of a 50-year career has seen more than his share of delusional thinking among IT p...",
       "url": "https://spectrum.ieee.org/avoidable-software-failures-cost-trillions",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 19:52:15 +0000",
-      "collected_at": "2025-12-04T00:54:06.903907"
+      "collected_at": "2025-12-05T00:54:08.095757"
     },
     {
       "title": "Capacity Limits in 5G Prompt a 6G Focus on Infrastructure",
       "summary": "When the head of Nokia Bell Labs core research talks about “lessons learned” from 5G, he’s doing something rare in telecom: admitting a flagship technology didn’t quite work out as planned.That candor matters now, too, because Bell Labs core research president Peter Vetter says 6G’s success depends ...",
       "url": "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 02 Dec 2025 21:17:22 +0000",
-      "collected_at": "2025-12-04T00:54:06.903812"
+      "collected_at": "2025-12-05T00:54:08.095671"
     },
     {
       "title": "De-Risk the Energy Transition with Hardware-in-the-Loop Testing",
       "summary": "Learn how hardware-in-the-loop testing validates protection schemes, renewable integration, and HVDC systems before deployment. Download this introduction to real-time power system simulation.In this white paper, you’ll learn:Why phasor-domain simulation can’t capture transient phenomena in inverter...",
       "url": "https://content.knowledgehub.wiley.com/de-risk-the-energy-transition-with-hardware-in-the-loop-testing/",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 13:50:56 +0000",
-      "collected_at": "2025-12-04T00:54:06.903575"
+      "collected_at": "2025-12-05T00:54:08.095489"
     },
     {
       "title": "When to Leave a Toxic Team",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!A word that frequently comes up in career conversations...",
       "url": "https://spectrum.ieee.org/toxic-team",
-      "date": "9時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 15:50:50 +0000",
-      "collected_at": "2025-12-04T00:54:06.903521"
+      "collected_at": "2025-12-05T00:54:08.095438"
+    },
+    {
+      "title": "MIT’s AI Robotics Lab Director Is Building People-Centered Robots",
+      "summary": "Daniela Rus has spent her career breaking barriers—scientific, social, and material—in her quest to build machines that amplify rather than replace human capability. She made robotics her life’s work, she says, because she understood it was a way to expand the possibilities of computing while enhanc...",
+      "url": "https://spectrum.ieee.org/mits-ai-robotics-lab-director",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 03 Dec 2025 19:00:02 +0000",
+      "collected_at": "2025-12-05T00:54:08.095342"
+    },
+    {
+      "title": "Cold Metal Fusion Makes It Easy to 3D Print Titanium",
+      "summary": "CADmore Metal has introduced a fresh take on 3D printing metal components to the North American market known as cold metal fusion (CMF).  John Carrington, the company’s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, wh...",
+      "url": "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 03 Dec 2025 19:55:59 +0000",
+      "collected_at": "2025-12-05T00:54:08.095143"
     }
   ]
 }
