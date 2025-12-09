@@ -1,18 +1,8 @@
 {
-  "last_updated": "2025-12-08T00:54:40.269492",
+  "last_updated": "2025-12-09T00:54:11.744834",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Video Friday: Disney’s Robotic Olaf Makes His Debut",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.SOSV Robotics Matchup: 1–5 December 2025, ONLINEICRA 202...",
-      "url": "https://spectrum.ieee.org/video-friday-disney-robot-olaf",
-      "date": "11月29日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 29 Nov 2025 16:30:01 +0000",
-      "collected_at": "2025-12-08T00:54:39.267089"
-    },
     {
       "title": "This Toy Electric Stove Was Dangerously Realistic",
       "summary": "Introduced in 1930 by Lionel Corp.—better known for its electric model trains—the fully functional toy stove shown at top had two electric burners and an oven that heated to 260 °C. It came with a set of cookware, including a frying pan, a pot with lid, a muffin tin, a tea kettle, and a wooden potat...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 30 Nov 2025 13:00:01 +0000",
-      "collected_at": "2025-12-08T00:54:39.266951"
+      "collected_at": "2025-12-09T00:54:10.742494"
     },
     {
       "title": "The Next Frontier in AI Isn’t Just More Data",
       "summary": "For the past decade, progress in artificial intelligence has been measured by scale: bigger models, larger datasets, and more compute. That approach delivered astonishing breakthroughs in large language models (LLMs); in just five years, AI has leapt from models like GPT-2, which could hardly mimic ...",
       "url": "https://spectrum.ieee.org/reinforcement-learning-environments",
-      "date": "6日前",
+      "date": "12月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-08T00:54:39.266770"
+      "collected_at": "2025-12-09T00:54:10.742325"
     },
     {
       "title": "IEEE President’s Note: Engineering With Purpose",
       "summary": "Innovation, expertise, and efficiency often take center stage in the engineering world. Yet engineering’s impact lies not only in technical advancement but also in its ability to serve the greater good. This foundational principle is behind IEEE’s public imperative initiatives which apply our effort...",
       "url": "https://spectrum.ieee.org/ieee-presidents-note-dec-2025",
-      "date": "6日前",
+      "date": "12月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-08T00:54:39.266670"
+      "collected_at": "2025-12-09T00:54:10.742213"
     },
     {
       "title": "Why We Keep Making the Same Software Mistakes",
       "summary": "Talking to Robert N. Charette can be pretty depressing. Charette, who has been writing about software failures for this magazine for the past 20 years, is a renowned risk analyst and systems expert who over the course of a 50-year career has seen more than his share of delusional thinking among IT p...",
       "url": "https://spectrum.ieee.org/avoidable-software-failures-cost-trillions",
-      "date": "6日前",
+      "date": "12月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Dec 2025 19:52:15 +0000",
-      "collected_at": "2025-12-08T00:54:39.266580"
+      "collected_at": "2025-12-09T00:54:10.742108"
     },
     {
       "title": "Capacity Limits in 5G Prompt a 6G Focus on Infrastructure",
       "summary": "When the head of Nokia Bell Labs core research talks about “lessons learned” from 5G, he’s doing something rare in telecom: admitting a flagship technology didn’t quite work out as planned.That candor matters now, too, because Bell Labs core research president Peter Vetter says 6G’s success depends ...",
       "url": "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 02 Dec 2025 21:17:22 +0000",
-      "collected_at": "2025-12-08T00:54:39.266499"
+      "collected_at": "2025-12-09T00:54:10.742010"
     },
     {
       "title": "De-Risk the Energy Transition with Hardware-in-the-Loop Testing",
       "summary": "Learn how hardware-in-the-loop testing validates protection schemes, renewable integration, and HVDC systems before deployment. Download this introduction to real-time power system simulation.In this white paper, you’ll learn:Why phasor-domain simulation can’t capture transient phenomena in inverter...",
       "url": "https://content.knowledgehub.wiley.com/de-risk-the-energy-transition-with-hardware-in-the-loop-testing/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 13:50:56 +0000",
-      "collected_at": "2025-12-08T00:54:39.266319"
+      "collected_at": "2025-12-09T00:54:10.741827"
     },
     {
       "title": "When to Leave a Toxic Team",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!A word that frequently comes up in career conversations...",
       "url": "https://spectrum.ieee.org/toxic-team",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 15:50:50 +0000",
-      "collected_at": "2025-12-08T00:54:39.266273"
+      "collected_at": "2025-12-09T00:54:10.741775"
     },
     {
       "title": "MIT’s AI Robotics Lab Director Is Building People-Centered Robots",
       "summary": "Daniela Rus has spent her career breaking barriers—scientific, social, and material—in her quest to build machines that amplify rather than replace human capability. She made robotics her life’s work, she says, because she understood it was a way to expand the possibilities of computing while enhanc...",
       "url": "https://spectrum.ieee.org/mits-ai-robotics-lab-director",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-08T00:54:39.266182"
+      "collected_at": "2025-12-09T00:54:10.741679"
     },
     {
       "title": "Cold Metal Fusion Makes It Easy to 3D Print Titanium",
       "summary": "CADmore Metal has introduced a fresh take on 3D printing metal components to the North American market known as cold metal fusion (CMF).  John Carrington, the company’s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, wh...",
       "url": "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 19:55:59 +0000",
-      "collected_at": "2025-12-08T00:54:39.265984"
+      "collected_at": "2025-12-09T00:54:10.741465"
     },
     {
       "title": "BYD’s Engine Flexes Between Ethanol, Gasoline, and Electricity",
       "summary": "The world’s first mass-produced ethanol car, the Fiat 147, motored onto Brazilian roads in 1979. The vehicle crowned decades of experimentation in the country with sugar-cane (and later, corn-based and second-generation sugar-cane waste) ethanol as a homegrown fuel. When Chinese automaker BYD introd...",
       "url": "https://spectrum.ieee.org/byd-song-pro-brazil-ethanol",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 20:45:47 +0000",
-      "collected_at": "2025-12-08T00:54:39.265867"
+      "collected_at": "2025-12-09T00:54:10.741370"
     },
     {
       "title": "Are We Testing AI’s Intelligence the Wrong Way?",
       "summary": "When people want a clear-eyed take on the state of artificial intelligence and what it all means, they tend to turn to Melanie Mitchell, a computer scientist and a professor at the Santa Fe Institute. Her 2019 book, Artificial Intelligence: A Guide for Thinking Humans, helped define the modern conve...",
       "url": "https://spectrum.ieee.org/melanie-mitchell",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 23:30:02 +0000",
-      "collected_at": "2025-12-08T00:54:39.265738"
+      "collected_at": "2025-12-09T00:54:10.741262"
+    },
+    {
+      "title": "Video Friday: Biorobotics Turns Lobster Tails Into Gripper",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! EP...",
+      "url": "https://spectrum.ieee.org/lobster-biorobotics",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 05 Dec 2025 17:30:02 +0000",
+      "collected_at": "2025-12-09T00:54:10.741111"
     }
   ]
 }
