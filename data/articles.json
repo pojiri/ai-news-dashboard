@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-10T00:55:36.735668",
+  "last_updated": "2025-12-11T00:56:04.444431",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "IEEE President’s Note: Engineering With Purpose",
-      "summary": "Innovation, expertise, and efficiency often take center stage in the engineering world. Yet engineering’s impact lies not only in technical advancement but also in its ability to serve the greater good. This foundational principle is behind IEEE’s public imperative initiatives which apply our effort...",
-      "url": "https://spectrum.ieee.org/ieee-presidents-note-dec-2025",
-      "date": "12月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 01 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.733288"
-    },
-    {
-      "title": "Why We Keep Making the Same Software Mistakes",
-      "summary": "Talking to Robert N. Charette can be pretty depressing. Charette, who has been writing about software failures for this magazine for the past 20 years, is a renowned risk analyst and systems expert who over the course of a 50-year career has seen more than his share of delusional thinking among IT p...",
-      "url": "https://spectrum.ieee.org/avoidable-software-failures-cost-trillions",
-      "date": "12月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 01 Dec 2025 19:52:15 +0000",
-      "collected_at": "2025-12-10T00:55:35.733164"
-    },
-    {
-      "title": "Capacity Limits in 5G Prompt a 6G Focus on Infrastructure",
-      "summary": "When the head of Nokia Bell Labs core research talks about “lessons learned” from 5G, he’s also being candid about the ways in which not everying worked out quite as planned.That candor matters now, too, because Bell Labs core research president Peter Vetter says 6G’s success depends on getting infr...",
-      "url": "https://spectrum.ieee.org/6g-network-infrastructure-bell-labs",
-      "date": "12月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 02 Dec 2025 21:17:22 +0000",
-      "collected_at": "2025-12-10T00:55:35.733069"
-    },
-    {
       "title": "De-Risk the Energy Transition with Hardware-in-the-Loop Testing",
       "summary": "Learn how hardware-in-the-loop testing validates protection schemes, renewable integration, and HVDC systems before deployment. Download this introduction to real-time power system simulation.In this white paper, you’ll learn:Why phasor-domain simulation can’t capture transient phenomena in inverter...",
       "url": "https://content.knowledgehub.wiley.com/de-risk-the-energy-transition-with-hardware-in-the-loop-testing/",
-      "date": "6日前",
+      "date": "12月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 13:50:56 +0000",
-      "collected_at": "2025-12-10T00:55:35.732868"
+      "collected_at": "2025-12-11T00:56:03.442382"
     },
     {
       "title": "When to Leave a Toxic Team",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!A word that frequently comes up in career conversations...",
       "url": "https://spectrum.ieee.org/toxic-team",
-      "date": "6日前",
+      "date": "12月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 15:50:50 +0000",
-      "collected_at": "2025-12-10T00:55:35.732817"
+      "collected_at": "2025-12-11T00:56:03.442328"
     },
     {
       "title": "MIT’s AI Robotics Lab Director Is Building People-Centered Robots",
       "summary": "Daniela Rus has spent her career breaking barriers—scientific, social, and material—in her quest to build machines that amplify rather than replace human capability. She made robotics her life’s work, she says, because she understood it was a way to expand the possibilities of computing while enhanc...",
       "url": "https://spectrum.ieee.org/mits-ai-robotics-lab-director",
-      "date": "6日前",
+      "date": "12月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.732718"
+      "collected_at": "2025-12-11T00:56:03.442229"
     },
     {
       "title": "Cold Metal Fusion Makes It Easy to 3D Print Titanium",
       "summary": "CADmore Metal has introduced a fresh take on 3D printing metal components to the North American market known as cold metal fusion (CMF).  John Carrington, the company’s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, wh...",
       "url": "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
-      "date": "6日前",
+      "date": "12月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 19:55:59 +0000",
-      "collected_at": "2025-12-10T00:55:35.732513"
+      "collected_at": "2025-12-11T00:56:03.442030"
     },
     {
       "title": "BYD’s Engine Flexes Between Ethanol, Gasoline, and Electricity",
       "summary": "The world’s first mass-produced ethanol car, the Fiat 147, motored onto Brazilian roads in 1979. The vehicle crowned decades of experimentation in the country with sugar-cane (and later, corn-based and second-generation sugar-cane waste) ethanol as a homegrown fuel. When Chinese automaker BYD introd...",
       "url": "https://spectrum.ieee.org/byd-song-pro-brazil-ethanol",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 20:45:47 +0000",
-      "collected_at": "2025-12-10T00:55:35.732416"
+      "collected_at": "2025-12-11T00:56:03.441927"
     },
     {
       "title": "Are We Testing AI’s Intelligence the Wrong Way?",
       "summary": "When people want a clear-eyed take on the state of artificial intelligence and what it all means, they tend to turn to Melanie Mitchell, a computer scientist and a professor at the Santa Fe Institute. Her 2019 book, Artificial Intelligence: A Guide for Thinking Humans, helped define the modern conve...",
       "url": "https://spectrum.ieee.org/melanie-mitchell",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 23:30:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.732305"
+      "collected_at": "2025-12-11T00:56:03.441821"
     },
     {
       "title": "Video Friday: Biorobotics Turns Lobster Tails Into Gripper",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! EP...",
       "url": "https://spectrum.ieee.org/lobster-biorobotics",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Dec 2025 17:30:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.732131"
+      "collected_at": "2025-12-11T00:56:03.441657"
     },
     {
       "title": "Entrepreneurship Program Brings Incubator Ideas to More Countries",
       "summary": "Technology evolves rapidly, and innovation is key to business survival, so mentoring young professionals, promoting entrepreneurship, and connecting tech startups to a global network of experts and resources are essential.Some IEEE volunteers do all of the above and more as part of the IEEE Entrepre...",
       "url": "https://spectrum.ieee.org/ieee-entrepreneurship-program-more-countries",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.732004"
+      "collected_at": "2025-12-11T00:56:03.441532"
     },
     {
       "title": "Privacy Concerns Lead Seniors to Unplug Vital Health Devices",
       "summary": "I was interviewing a 72-year-old retired accountant who had unplugged his smart glucose monitor. He explained that he “didn’t know who was looking” at his blood sugar data.This wasn’t a man unfamiliar with technology—he had successfully used computers for decades in his career. He was of sound mind....",
       "url": "https://spectrum.ieee.org/privacy-health-tech-seniors",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-10T00:55:35.731895"
+      "collected_at": "2025-12-11T00:56:03.441428"
+    },
+    {
+      "title": "Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter",
+      "summary": "If you’ve shopped on Amazon in the past few months, you might have noticed it has gotten easier to find what you’re looking for. Listings now have more images, detailed product names, and better descriptions. The website’s predictive search feature uses the listing updates to anticipate needs and su...",
+      "url": "https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 08 Dec 2025 19:00:03 +0000",
+      "collected_at": "2025-12-11T00:56:03.441293"
+    },
+    {
+      "title": "Why the Most “Accurate” Glucose Monitors Are Failing Some Users",
+      "summary": "When Dan Heller received his first batch of Dexcom’s latest continuous glucose monitors in early 2023, he decided to run a small experiment: He wore the new biosensor and the previous generation at the same time to see how they compared in measuring his glucose levels. The new, seventh-generation mo...",
+      "url": "https://spectrum.ieee.org/glucose-monitor-accuracy-user-concerns",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 09 Dec 2025 16:09:28 +0000",
+      "collected_at": "2025-12-11T00:56:03.441129"
+    },
+    {
+      "title": "Virtual Power Plants Are Finally Having Their Moment",
+      "summary": "German utility RWE implemented the first known virtual power plant (VPP) in 2008, aggregating nine small hydroelectric plants for a total capacity of 8.6 megawatts. In general, a VPP pulls together many small components—like rooftop solar, home batteries, and smart thermostats—into a single coordina...",
+      "url": "https://spectrum.ieee.org/virtual-power-plants-battery-tech",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 09 Dec 2025 17:00:02 +0000",
+      "collected_at": "2025-12-11T00:56:03.440970"
     }
   ]
 }
