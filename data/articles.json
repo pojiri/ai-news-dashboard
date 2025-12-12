@@ -1,38 +1,8 @@
 {
-  "last_updated": "2025-12-11T00:56:04.444431",
+  "last_updated": "2025-12-12T00:58:42.627558",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "De-Risk the Energy Transition with Hardware-in-the-Loop Testing",
-      "summary": "Learn how hardware-in-the-loop testing validates protection schemes, renewable integration, and HVDC systems before deployment. Download this introduction to real-time power system simulation.In this white paper, you’ll learn:Why phasor-domain simulation can’t capture transient phenomena in inverter...",
-      "url": "https://content.knowledgehub.wiley.com/de-risk-the-energy-transition-with-hardware-in-the-loop-testing/",
-      "date": "12月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 03 Dec 2025 13:50:56 +0000",
-      "collected_at": "2025-12-11T00:56:03.442382"
-    },
-    {
-      "title": "When to Leave a Toxic Team",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!A word that frequently comes up in career conversations...",
-      "url": "https://spectrum.ieee.org/toxic-team",
-      "date": "12月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 03 Dec 2025 15:50:50 +0000",
-      "collected_at": "2025-12-11T00:56:03.442328"
-    },
-    {
-      "title": "MIT’s AI Robotics Lab Director Is Building People-Centered Robots",
-      "summary": "Daniela Rus has spent her career breaking barriers—scientific, social, and material—in her quest to build machines that amplify rather than replace human capability. She made robotics her life’s work, she says, because she understood it was a way to expand the possibilities of computing while enhanc...",
-      "url": "https://spectrum.ieee.org/mits-ai-robotics-lab-director",
-      "date": "12月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 03 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.442229"
-    },
     {
       "title": "Cold Metal Fusion Makes It Easy to 3D Print Titanium",
       "summary": "CADmore Metal has introduced a fresh take on 3D printing metal components to the North American market known as cold metal fusion (CMF).  John Carrington, the company’s CEO, claims CMF produces stronger 3D printed metal parts that are cheaper and faster to make. That includes titanium components, wh...",
@@ -41,87 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Dec 2025 19:55:59 +0000",
-      "collected_at": "2025-12-11T00:56:03.442030"
+      "collected_at": "2025-12-12T00:58:41.625016"
     },
     {
       "title": "BYD’s Engine Flexes Between Ethanol, Gasoline, and Electricity",
       "summary": "The world’s first mass-produced ethanol car, the Fiat 147, motored onto Brazilian roads in 1979. The vehicle crowned decades of experimentation in the country with sugar-cane (and later, corn-based and second-generation sugar-cane waste) ethanol as a homegrown fuel. When Chinese automaker BYD introd...",
       "url": "https://spectrum.ieee.org/byd-song-pro-brazil-ethanol",
-      "date": "6日前",
+      "date": "12月04日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 20:45:47 +0000",
-      "collected_at": "2025-12-11T00:56:03.441927"
+      "collected_at": "2025-12-12T00:58:41.624917"
     },
     {
       "title": "Are We Testing AI’s Intelligence the Wrong Way?",
       "summary": "When people want a clear-eyed take on the state of artificial intelligence and what it all means, they tend to turn to Melanie Mitchell, a computer scientist and a professor at the Santa Fe Institute. Her 2019 book, Artificial Intelligence: A Guide for Thinking Humans, helped define the modern conve...",
       "url": "https://spectrum.ieee.org/melanie-mitchell",
-      "date": "6日前",
+      "date": "12月04日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 04 Dec 2025 23:30:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.441821"
+      "collected_at": "2025-12-12T00:58:41.624803"
     },
     {
       "title": "Video Friday: Biorobotics Turns Lobster Tails Into Gripper",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! EP...",
       "url": "https://spectrum.ieee.org/lobster-biorobotics",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Dec 2025 17:30:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.441657"
+      "collected_at": "2025-12-12T00:58:41.624624"
     },
     {
       "title": "Entrepreneurship Program Brings Incubator Ideas to More Countries",
       "summary": "Technology evolves rapidly, and innovation is key to business survival, so mentoring young professionals, promoting entrepreneurship, and connecting tech startups to a global network of experts and resources are essential.Some IEEE volunteers do all of the above and more as part of the IEEE Entrepre...",
       "url": "https://spectrum.ieee.org/ieee-entrepreneurship-program-more-countries",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.441532"
+      "collected_at": "2025-12-12T00:58:41.624498"
     },
     {
       "title": "Privacy Concerns Lead Seniors to Unplug Vital Health Devices",
       "summary": "I was interviewing a 72-year-old retired accountant who had unplugged his smart glucose monitor. He explained that he “didn’t know who was looking” at his blood sugar data.This wasn’t a man unfamiliar with technology—he had successfully used computers for decades in his career. He was of sound mind....",
       "url": "https://spectrum.ieee.org/privacy-health-tech-seniors",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.441428"
+      "collected_at": "2025-12-12T00:58:41.624395"
     },
     {
       "title": "Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter",
       "summary": "If you’ve shopped on Amazon in the past few months, you might have noticed it has gotten easier to find what you’re looking for. Listings now have more images, detailed product names, and better descriptions. The website’s predictive search feature uses the listing updates to anticipate needs and su...",
       "url": "https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Dec 2025 19:00:03 +0000",
-      "collected_at": "2025-12-11T00:56:03.441293"
+      "collected_at": "2025-12-12T00:58:41.624263"
     },
     {
       "title": "Why the Most “Accurate” Glucose Monitors Are Failing Some Users",
       "summary": "When Dan Heller received his first batch of Dexcom’s latest continuous glucose monitors in early 2023, he decided to run a small experiment: He wore the new biosensor and the previous generation at the same time to see how they compared in measuring his glucose levels. The new, seventh-generation mo...",
       "url": "https://spectrum.ieee.org/glucose-monitor-accuracy-user-concerns",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Dec 2025 16:09:28 +0000",
-      "collected_at": "2025-12-11T00:56:03.441129"
+      "collected_at": "2025-12-12T00:58:41.624098"
     },
     {
       "title": "Virtual Power Plants Are Finally Having Their Moment",
       "summary": "German utility RWE implemented the first known virtual power plant (VPP) in 2008, aggregating nine small hydroelectric plants for a total capacity of 8.6 megawatts. In general, a VPP pulls together many small components—like rooftop solar, home batteries, and smart thermostats—into a single coordina...",
       "url": "https://spectrum.ieee.org/virtual-power-plants-battery-tech",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-11T00:56:03.440970"
+      "collected_at": "2025-12-12T00:58:41.623938"
+    },
+    {
+      "title": "This Low-Cost Stopgap Tech Can Fix the Grid",
+      "summary": "The power surging through transmission lines over the iconic stone walls of England’s northern countryside is pushing the United Kingdom’s grid to its limits. To the north, Scottish wind farms have doubled their output over the past decade. In the south, where electricity demand is heaviest, electri...",
+      "url": "https://spectrum.ieee.org/grid-congestion-uk",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 10 Dec 2025 14:00:02 +0000",
+      "collected_at": "2025-12-12T00:58:41.623757"
+    },
+    {
+      "title": "Two New AI Ethics Certifications Available from IEEE",
+      "summary": "It appears that nearly every organization is planning to use artificial intelligence to improve operations. Although autonomous intelligent systems (AIS) can offer significant benefits, they also can be used unethically. The technology can create deepfakes, realistic-looking altered images and video...",
+      "url": "https://spectrum.ieee.org/two-new-ai-ethics-certifications",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 10 Dec 2025 19:00:02 +0000",
+      "collected_at": "2025-12-12T00:58:41.623451"
+    },
+    {
+      "title": "Why Vision AI Models Fail",
+      "summary": "Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.The four most common model failure modes that jeopardize production vision systemsReal-world case studies from Tesla, Walmart, and TS...",
+      "url": "https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 10 Dec 2025 20:33:57 +0000",
+      "collected_at": "2025-12-12T00:58:41.623345"
     }
   ]
 }
