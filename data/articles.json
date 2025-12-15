@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-14T00:59:56.630849",
+  "last_updated": "2025-12-15T00:58:16.201364",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -7,121 +7,121 @@
       "title": "Privacy Concerns Lead Seniors to Unplug Vital Health Devices",
       "summary": "I was interviewing a 72-year-old retired accountant who had unplugged his smart glucose monitor. He explained that he “didn’t know who was looking” at his blood sugar data.This wasn’t a man unfamiliar with technology—he had successfully used computers for decades in his career. He was of sound mind....",
       "url": "https://spectrum.ieee.org/privacy-health-tech-seniors",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.628511"
+      "collected_at": "2025-12-15T00:58:15.199214"
     },
     {
       "title": "Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter",
       "summary": "If you’ve shopped on Amazon in the past few months, you might have noticed it has gotten easier to find what you’re looking for. Listings now have more images, detailed product names, and better descriptions. The website’s predictive search feature uses the listing updates to anticipate needs and su...",
       "url": "https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Dec 2025 19:00:03 +0000",
-      "collected_at": "2025-12-14T00:59:55.628381"
+      "collected_at": "2025-12-15T00:58:15.199082"
     },
     {
       "title": "Why the Most “Accurate” Glucose Monitors Are Failing Some Users",
       "summary": "When Dan Heller received his first batch of Dexcom’s latest continuous glucose monitors in early 2023, he decided to run a small experiment: He wore the new biosensor and the previous generation at the same time to see how they compared in measuring his glucose levels. The new, seventh-generation mo...",
       "url": "https://spectrum.ieee.org/glucose-monitor-accuracy-user-concerns",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Dec 2025 16:09:28 +0000",
-      "collected_at": "2025-12-14T00:59:55.628216"
+      "collected_at": "2025-12-15T00:58:15.198914"
     },
     {
       "title": "Virtual Power Plants Are Finally Having Their Moment",
       "summary": "German utility RWE implemented the first known virtual power plant (VPP) in 2008, aggregating nine small hydroelectric plants for a total capacity of 8.6 megawatts. In general, a VPP pulls together many small components—like rooftop solar, home batteries, and smart thermostats—into a single coordina...",
       "url": "https://spectrum.ieee.org/virtual-power-plants-battery-tech",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.628058"
+      "collected_at": "2025-12-15T00:58:15.198753"
     },
     {
       "title": "This Low-Cost Stopgap Tech Can Fix the Grid",
       "summary": "The power surging through transmission lines over the iconic stone walls of England’s northern countryside is pushing the United Kingdom’s grid to its limits. To the north, Scottish wind farms have doubled their output over the past decade. In the south, where electricity demand is heaviest, electri...",
       "url": "https://spectrum.ieee.org/grid-congestion-uk",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.627878"
+      "collected_at": "2025-12-15T00:58:15.198574"
     },
     {
       "title": "Two New AI Ethics Certifications Available from IEEE",
       "summary": "It appears that nearly every organization is planning to use artificial intelligence to improve operations. Although autonomous intelligent systems (AIS) can offer significant benefits, they also can be used unethically. The technology can create deepfakes, realistic-looking altered images and video...",
       "url": "https://spectrum.ieee.org/two-new-ai-ethics-certifications",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.627585"
+      "collected_at": "2025-12-15T00:58:15.198282"
     },
     {
       "title": "Why Vision AI Models Fail",
       "summary": "Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.The four most common model failure modes that jeopardize production vision systemsReal-world case studies from Tesla, Walmart, and TS...",
       "url": "https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Dec 2025 20:33:57 +0000",
-      "collected_at": "2025-12-14T00:59:55.627481"
+      "collected_at": "2025-12-15T00:58:15.198176"
     },
     {
       "title": "In 1844, Chess Was Already Online",
       "summary": "On 18 November 1844, the Washington Chess Club challenged its counterparts in Baltimore to a match. Two teams were organized, and at 4 p.m. on 26 November, the first game commenced with three consulting members to a side. Washington began conventionally, pushing a pawn to the center of the board. Ba...",
       "url": "https://spectrum.ieee.org/telegraph-chess",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 13:23:32 +0000",
-      "collected_at": "2025-12-14T00:59:55.627435"
+      "collected_at": "2025-12-15T00:58:15.198130"
     },
     {
       "title": "Tiny Chips Could Lead to Giant Power Savings",
       "summary": "Even if a GPU in a data center should only require 700 watts to run a large language model, it may realistically need 1,700 watts because of inefficiencies in how electricity reaches it. That’s a problem Peng Zou and his team at startup PowerLattice say they have solved by miniaturizing and repackag...",
       "url": "https://spectrum.ieee.org/voltage-regulator",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.627096"
+      "collected_at": "2025-12-15T00:58:15.197790"
     },
     {
       "title": "Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds",
       "summary": "Ghost Robotics is today announcing a major upgrade for their Vision 60 quadruped: an arm. Ghost, a company which originated at the GRASP Lab at the University of Pennsylvania, specializes in exceptionally rugged quadrupeds, and while many of its customers use its robots for public safety and disaste...",
       "url": "https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 15:00:02 +0000",
-      "collected_at": "2025-12-14T00:59:55.626980"
+      "collected_at": "2025-12-15T00:58:15.197670"
     },
     {
       "title": "How the RESISTORS Put Computing into 1960s Counter-culture",
       "summary": "In late April of 1968, a computer conference in Atlantic City, N.J., got off to a rocky start. A strike by telephone operators prevented exhibitors from linking their terminals to off-site computers, as union-sympathetic workers refused to wire up the necessary connections. Companies’ displays were ...",
       "url": "https://spectrum.ieee.org/teenage-hackers",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 13:26:23 +0000",
-      "collected_at": "2025-12-14T00:59:55.626822"
+      "collected_at": "2025-12-15T00:58:15.197512"
     },
     {
       "title": "Real-World Diagnostics and Prognostics for Grid-Connected Battery Energy Storage Systems",
       "summary": "This is a sponsored article brought to you by The University of Sheffield.Across global electricity networks, the shift to renewable energy has fundamentally changed the behavior of power systems. Decades of engineering assumptions, predictable inertia, dispatchable baseload generation, and slow, we...",
       "url": "https://spectrum.ieee.org/sheffield-battery-energy-storage-system-research",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 15:01:32 +0000",
-      "collected_at": "2025-12-14T00:59:55.626478"
+      "collected_at": "2025-12-15T00:58:15.197168"
     }
   ]
 }
