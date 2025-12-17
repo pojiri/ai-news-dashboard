@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-16T00:56:20.053954",
+  "last_updated": "2025-12-17T00:51:43.915869",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Virtual Power Plants Are Finally Having Their Moment",
-      "summary": "German utility RWE implemented the first known virtual power plant (VPP) in 2008, aggregating nine small hydroelectric plants for a total capacity of 8.6 megawatts. In general, a VPP pulls together many small components—like rooftop solar, home batteries, and smart thermostats—into a single coordina...",
-      "url": "https://spectrum.ieee.org/virtual-power-plants-battery-tech",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 09 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.051636"
-    },
-    {
-      "title": "This Low-Cost Stopgap Tech Can Fix the Grid",
-      "summary": "The power surging through transmission lines over the iconic stone walls of England’s northern countryside is pushing the United Kingdom’s grid to its limits. To the north, Scottish wind farms have doubled their output over the past decade. In the south, where electricity demand is heaviest, electri...",
-      "url": "https://spectrum.ieee.org/grid-congestion-uk",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 10 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.051458"
-    },
-    {
       "title": "Two New AI Ethics Certifications Available from IEEE",
       "summary": "It appears that nearly every organization is planning to use artificial intelligence to improve operations. Although autonomous intelligent systems (AIS) can offer significant benefits, they also can be used unethically. The technology can create deepfakes, realistic-looking altered images and video...",
       "url": "https://spectrum.ieee.org/two-new-ai-ethics-certifications",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.051180"
+      "collected_at": "2025-12-17T00:51:42.913605"
     },
     {
       "title": "Why Vision AI Models Fail",
       "summary": "Prevent costly AI failures in production by mastering data-centric approaches to detect bias, classimbalance, and data leakage before deployment impacts your business.The four most common model failure modes that jeopardize production vision systemsReal-world case studies from Tesla, Walmart, and TS...",
       "url": "https://content.knowledgehub.wiley.com/why-vision-ai-models-fail/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Dec 2025 20:33:57 +0000",
-      "collected_at": "2025-12-16T00:56:19.051074"
+      "collected_at": "2025-12-17T00:51:42.913504"
     },
     {
       "title": "In 1844, Chess Was Already Online",
       "summary": "On 18 November 1844, the Washington Chess Club challenged its counterparts in Baltimore to a match. Two teams were organized, and at 4 p.m. on 26 November, the first game commenced with three consulting members to a side. Washington began conventionally, pushing a pawn to the center of the board. Ba...",
       "url": "https://spectrum.ieee.org/telegraph-chess",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 13:23:32 +0000",
-      "collected_at": "2025-12-16T00:56:19.051013"
+      "collected_at": "2025-12-17T00:51:42.913464"
     },
     {
       "title": "Tiny Chips Could Lead to Giant Power Savings",
       "summary": "Even if a GPU in a data center should only require 700 watts to run a large language model, it may realistically need 1,700 watts because of inefficiencies in how electricity reaches it. That’s a problem Peng Zou and his team at startup PowerLattice say they have solved by miniaturizing and repackag...",
       "url": "https://spectrum.ieee.org/voltage-regulator",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.050671"
+      "collected_at": "2025-12-17T00:51:42.913114"
     },
     {
       "title": "Ghost Robotics’ Arm Brings Manipulation to Military Quadrupeds",
       "summary": "Ghost Robotics is today announcing a major upgrade for their Vision 60 quadruped: an arm. Ghost, a company which originated at the GRASP Lab at the University of Pennsylvania, specializes in exceptionally rugged quadrupeds, and while many of its customers use its robots for public safety and disaste...",
       "url": "https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Dec 2025 15:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.050555"
+      "collected_at": "2025-12-17T00:51:42.913005"
     },
     {
       "title": "How the RESISTORS Put Computing into 1960s Counter-culture",
       "summary": "In late April of 1968, a computer conference in Atlantic City, N.J., got off to a rocky start. A strike by telephone operators prevented exhibitors from linking their terminals to off-site computers, as union-sympathetic workers refused to wire up the necessary connections. Companies’ displays were ...",
       "url": "https://spectrum.ieee.org/teenage-hackers",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 13:26:23 +0000",
-      "collected_at": "2025-12-16T00:56:19.050399"
+      "collected_at": "2025-12-17T00:51:42.912854"
     },
     {
       "title": "Real-World Diagnostics and Prognostics for Grid-Connected Battery Energy Storage Systems",
       "summary": "This is a sponsored article brought to you by The University of Sheffield.Across global electricity networks, the shift to renewable energy has fundamentally changed the behavior of power systems. Decades of engineering assumptions, predictable inertia, dispatchable baseload generation, and slow, we...",
       "url": "https://spectrum.ieee.org/sheffield-battery-energy-storage-system-research",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 15:01:32 +0000",
-      "collected_at": "2025-12-16T00:56:19.050074"
+      "collected_at": "2025-12-17T00:51:42.912534"
     },
     {
       "title": "Webinar: Will AI End Distinct Programming Languages?",
       "summary": "Join Stephen Cass, Dina Genkina, and Kohava Mendelsohn as they discuss whether AI spells the end of distinct programming languages as we know it. IEEE Spectrum publishes a respected annual ranking of the year’s Top Programming Languages—but could this year be our last? This recording of the live web...",
       "url": "https://spectrum.ieee.org/webinar-will-ai-end-distinct-programming-languages",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 15:50:07 +0000",
-      "collected_at": "2025-12-16T00:56:19.049851"
+      "collected_at": "2025-12-17T00:51:42.912327"
     },
     {
       "title": "Video Friday: Robot Dog Shows Off Its Muscles",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Su...",
       "url": "https://spectrum.ieee.org/musculoskeletal-robot-dog",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.049803"
+      "collected_at": "2025-12-17T00:51:42.912284"
     },
     {
       "title": "7 Bell Labs Breakthroughs Honored as IEEE Milestones",
       "summary": "Bell Labs is already highly recognized, but in its centennial year, the organization hoped to add more awards to burnish its reputation as one of the world’s leading centers of technical innovation.On 21 October, IEEE representatives, Nokia Bell Labs leaders, and alumni of the storied institution ga...",
       "url": "https://spectrum.ieee.org/7-bell-labs-ieee-milestones",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 13 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-16T00:56:19.049647"
+      "collected_at": "2025-12-17T00:51:42.912133"
+    },
+    {
+      "title": "Remembering Influential Engineering Educator Lyle Feisel",
+      "summary": "Lyle Feisel, an influential engineering educator and dedicated IEEE volunteer, died on 5 November at the age of 90.Feisel was a professor of electrical engineering and the founding dean of the Watson engineering school at the State University of New York, Binghamton. He established its organizationa...",
+      "url": "https://spectrum.ieee.org/remembering-lyle-feisel",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 15 Dec 2025 19:00:02 +0000",
+      "collected_at": "2025-12-17T00:51:42.911626"
+    },
+    {
+      "title": "Could This Technology Prevent Blackouts?",
+      "summary": "Spain’s grid operator, Red Eléctrica, proudly declared that electricity demand across the country’s peninsular system was met entirely by renewable energy sources for the first time on a weekday, on 16 April 2025.Just 12 days later, at 12.33 p.m. on Monday, 28 April, Spain and Portugal’s grids colla...",
+      "url": "https://spectrum.ieee.org/virtual-synchronous-machines",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 15 Dec 2025 19:15:36 +0000",
+      "collected_at": "2025-12-17T00:51:42.911491"
     }
   ]
 }
