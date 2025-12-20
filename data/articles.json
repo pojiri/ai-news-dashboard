@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-19T00:55:59.880037",
+  "last_updated": "2025-12-20T00:52:36.724039",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Real-World Diagnostics and Prognostics for Grid-Connected Battery Energy Storage Systems",
-      "summary": "This is a sponsored article brought to you by The University of Sheffield.Across global electricity networks, the shift to renewable energy has fundamentally changed the behavior of power systems. Decades of engineering assumptions, predictable inertia, dispatchable baseload generation, and slow, we...",
-      "url": "https://spectrum.ieee.org/sheffield-battery-energy-storage-system-research",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 12 Dec 2025 15:01:32 +0000",
-      "collected_at": "2025-12-19T00:55:58.877913"
-    },
-    {
-      "title": "Webinar: Will AI End Distinct Programming Languages?",
-      "summary": "Join Stephen Cass, Dina Genkina, and Kohava Mendelsohn as they discuss whether AI spells the end of distinct programming languages as we know it. IEEE Spectrum publishes a respected annual ranking of the year’s Top Programming Languages—but could this year be our last? This recording of the live web...",
-      "url": "https://spectrum.ieee.org/webinar-will-ai-end-distinct-programming-languages",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 12 Dec 2025 15:50:07 +0000",
-      "collected_at": "2025-12-19T00:55:58.877682"
-    },
-    {
-      "title": "Video Friday: Robot Dog Shows Off Its Muscles",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Su...",
-      "url": "https://spectrum.ieee.org/musculoskeletal-robot-dog",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 12 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-19T00:55:58.877635"
-    },
-    {
       "title": "7 Bell Labs Breakthroughs Honored as IEEE Milestones",
       "summary": "Bell Labs is already highly recognized, but in its centennial year, the organization hoped to add more awards to burnish its reputation as one of the world’s leading centers of technical innovation.On 21 October, IEEE representatives, Nokia Bell Labs leaders, and alumni of the storied institution ga...",
       "url": "https://spectrum.ieee.org/7-bell-labs-ieee-milestones",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 13 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-19T00:55:58.877484"
+      "collected_at": "2025-12-20T00:52:35.721842"
     },
     {
       "title": "Remembering Influential Engineering Educator Lyle Feisel",
       "summary": "Lyle Feisel, an influential engineering educator and dedicated IEEE volunteer, died on 5 November at the age of 90.Feisel was a professor of electrical engineering and the founding dean of the Watson engineering school at the State University of New York, Binghamton. He established its organizationa...",
       "url": "https://spectrum.ieee.org/remembering-lyle-feisel",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-19T00:55:58.876997"
+      "collected_at": "2025-12-20T00:52:35.721339"
     },
     {
       "title": "Could This Technology Prevent Blackouts?",
       "summary": "Spain’s grid operator, Red Eléctrica, proudly declared that electricity demand across the country’s peninsular system was met entirely by renewable energy sources for the first time on a weekday, on 16 April 2025.Just 12 days later, at 12.33 p.m. on Monday, 28 April, Spain and Portugal’s grids colla...",
       "url": "https://spectrum.ieee.org/virtual-synchronous-machines",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Dec 2025 19:15:36 +0000",
-      "collected_at": "2025-12-19T00:55:58.876857"
+      "collected_at": "2025-12-20T00:52:35.721202"
     },
     {
       "title": "Virtual Power Plants Play the Imitation Game",
       "summary": "In 1950, the English mathematician Alan Turing devised what he called “the imitation game.” Later dubbed the Turing test, the experiment asks a human participant to conduct a conversation with an unknown partner and try to determine if it’s a computer or a person on the other end of the line. If the...",
       "url": "https://spectrum.ieee.org/virtual-power-plant-litmus",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Dec 2025 23:03:43 +0000",
-      "collected_at": "2025-12-19T00:55:58.876620"
+      "collected_at": "2025-12-20T00:52:35.720985"
     },
     {
       "title": "This AI Can Beat You At Rock-Paper-Scissors",
       "summary": "Rock-paper-scissors is often a game of psychology, reverse psychology, reverse-reverse psychology, and chance. But what if a computer could understand you well enough to win every time? A team at Hokkaido University and the TDK Corp. (of cassette-tape fame), both based in Japan, has designed a chip ...",
       "url": "https://spectrum.ieee.org/analog-reservoir-computer",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 16 Dec 2025 16:00:02 +0000",
-      "collected_at": "2025-12-19T00:55:58.876479"
+      "collected_at": "2025-12-20T00:52:35.720845"
     },
     {
       "title": "iRobot’s Cofounder Weighs In on Company’s Bankruptcy",
       "summary": "On Sunday evening, the legendary robotics company iRobot, manufacturer of the Roomba robotic vacuum, filed for bankruptcy. The company will be handing over all of its assets to its Chinese manufacturing partner, Picea. According to iRobot’s press release, “this agreement represents a critical step t...",
       "url": "https://spectrum.ieee.org/irobot-bankruptcy-colin-angle-amazon",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 16 Dec 2025 20:12:37 +0000",
-      "collected_at": "2025-12-19T00:55:58.876351"
+      "collected_at": "2025-12-20T00:52:35.720719"
     },
     {
       "title": "U.S. Plans Largest Nuclear Power Program Since the 1970s",
       "summary": "The United States aims to embark on its most active new nuclear construction program since the 1970s. In its most high-dollar nuclear deal yet, the Trump administration in October launched a partnership to build at least $80 billion worth of new, large-scale nuclear reactors, and chose Westinghouse ...",
       "url": "https://spectrum.ieee.org/80-billion-us-nuclear-power",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Dec 2025 14:39:37 +0000",
-      "collected_at": "2025-12-19T00:55:58.876223"
+      "collected_at": "2025-12-20T00:52:35.720575"
     },
     {
       "title": "Key Questions to Ask in Your Next Job Interview",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!Don’t squander the reverse interviewAt the end of every...",
       "url": "https://spectrum.ieee.org/reverse-interview",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Dec 2025 15:07:51 +0000",
-      "collected_at": "2025-12-19T00:55:58.876048"
+      "collected_at": "2025-12-20T00:52:35.720400"
     },
     {
       "title": "A Chip That Keeps Time (Almost) Like an Atomic Clock",
       "summary": "For decades, atomic clocks have provided the most stable means of timekeeping. They measure time by oscillating in step with the resonant frequency of atoms, a method so accurate that it serves as the basis for the definition of a second. Now, a new challenger has emerged in the timekeeping arena. R...",
       "url": "https://spectrum.ieee.org/silicon-clock",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-19T00:55:58.875954"
+      "collected_at": "2025-12-20T00:52:35.720307"
+    },
+    {
+      "title": "Advice on Leading and Mentoring for Greater Innovation",
+      "summary": "In the modern era of rapid digital transformation, engineering leaders are expected to be more than project managers and technical experts. They need to be vision-setters, innovation enablers, and mentors shaping the next generation of talent.Leadership and mentorship, when paired with intention, do...",
+      "url": "https://spectrum.ieee.org/advice-leading-mentoring-greater-innovation",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 17 Dec 2025 19:00:02 +0000",
+      "collected_at": "2025-12-20T00:52:35.720179"
+    },
+    {
+      "title": "This Valve Could Halve EV Fast-Charge Times",
+      "summary": "Fast, direct-current charging can charge an EV’s battery from about 20 percent to 80 percent in 20 minutes. That’s not bad, but it’s still about six times as long as it takes to fill the tank of an ordinary petrol-powered vehicle.One of the major bottlenecks to even faster charging is cooling, speci...",
+      "url": "https://spectrum.ieee.org/breaking-ev-charging-bottlenecks",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 17 Dec 2025 19:15:24 +0000",
+      "collected_at": "2025-12-20T00:52:35.720046"
+    },
+    {
+      "title": "The U.S. CHIPS Act Takes Another Hit",
+      "summary": "The head of a U.S. CHIPS and Science Act-funded center devoted to digital twins for chip manufacturing has informed its 121 members that the U.S. Department of Commerce will terminate its US $285-million five-year contract.According to its website, the SMART USA Institute has the goal of uniting aca...",
+      "url": "https://spectrum.ieee.org/semiconductor-digital-twins-funding",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 18 Dec 2025 13:00:02 +0000",
+      "collected_at": "2025-12-20T00:52:35.719917"
     }
   ]
 }
