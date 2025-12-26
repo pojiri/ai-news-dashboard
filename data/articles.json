@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-25T00:55:51.660242",
+  "last_updated": "2025-12-26T00:56:14.681446",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "The U.S. CHIPS Act Takes Another Hit",
-      "summary": "The head of a U.S. CHIPS and Science Act-funded center devoted to digital twins for chip manufacturing has informed its 121 members that the U.S. Department of Commerce will terminate its US $285-million five-year contract.According to its website, the SMART USA Institute has the goal of uniting aca...",
-      "url": "https://spectrum.ieee.org/semiconductor-digital-twins-funding",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 18 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.658161"
-    },
-    {
-      "title": "Video Friday: Happy Robot Holidays",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Happy Holidays from FZI Li...",
-      "url": "https://spectrum.ieee.org/happy-holidays-robot",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 19 Dec 2025 16:30:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.658021"
-    },
-    {
       "title": "Interconnections With Renewables Turn Existing Power Plants Green",
       "summary": "Demand for electricity is up in the United States, and so is its price. One way to increase supply and lower costs is to build new power plants, but that can take years and cost a fortune. Talgat Kopzhanov is working on a faster, more affordable solution: the generator replacement interconnection pr...",
       "url": "https://spectrum.ieee.org/renewables-existing-power-plants-green",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.657856"
+      "collected_at": "2025-12-26T00:56:13.679626"
     },
     {
       "title": "Grid-Scale Bubble Batteries Will Soon Be Everywhere",
       "summary": "This giant bubble on the island of Sardinia holds 2,000 tonnes of carbon dioxide. But the gas wasn’t captured from factory emissions, nor was it pulled from the air. It came from a gas supplier, and it lives permanently inside the dome’s system to serve an eco-friendly purpose: to store large amount...",
       "url": "https://spectrum.ieee.org/co2-battery-energy-storage",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 21 Dec 2025 13:00:01 +0000",
-      "collected_at": "2025-12-25T00:55:50.657660"
+      "collected_at": "2025-12-26T00:56:13.679424"
     },
     {
       "title": "The Top 6 Biomedical Stories of 2025",
       "summary": "IEEE Spectrum’s most popular biomedical stories of the last year centered both on incorporating new technologies and revamping old ones. While AI is all the rage in most sectors—including biomed, with applications like an in-brain warning system for worsening mental health and a model to estimate he...",
       "url": "https://spectrum.ieee.org/top-biomedical-stories-2025",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 21 Dec 2025 14:00:01 +0000",
-      "collected_at": "2025-12-25T00:55:50.657484"
+      "collected_at": "2025-12-26T00:56:13.679247"
     },
     {
       "title": "Ultrasound Treatment Takes on Cancer’s Toughest Tumors",
       "summary": "For many years, doctors and technicians who performed medical ultrasound procedures viewed bubbles with wary concern. The phenomenon of cavitation—the formation and collapse of tiny gas bubbles due to changes in pressure—was considered an undesirable and largely uncontrollable side effect. But in 20...",
       "url": "https://spectrum.ieee.org/ultrasound-cancer-treatment",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Dec 2025 13:00:01 +0000",
-      "collected_at": "2025-12-25T00:55:50.657304"
+      "collected_at": "2025-12-26T00:56:13.679084"
     },
     {
       "title": "The Top 7 Telecommunications Stories of 2025",
       "summary": "The telecom networks originally built to carry phone calls and packets of data are in the midst of a dramatic shift. The past year saw early steps toward networks becoming a more integrated data fabric that can measure the world, process and sense collaboratively, and even stretch into outer space.T...",
       "url": "https://spectrum.ieee.org/top-telecom-stories-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Dec 2025 14:00:01 +0000",
-      "collected_at": "2025-12-25T00:55:50.657192"
+      "collected_at": "2025-12-26T00:56:13.678971"
     },
     {
       "title": "IEEE Summit Yields Better Equipped STEM Educators",
       "summary": "The annual IEEE STEM Summit, held this year on 23 and 24 October, brought together preuniversity educators, IEEE volunteers, and STEM enthusiasts to discuss ways to spark children’s interest in science, technology, engineering, and mathematics.The free virtual summit attracted nearly 1,000 attendees...",
       "url": "https://spectrum.ieee.org/ieee-stem-summit-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Dec 2025 19:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.657012"
+      "collected_at": "2025-12-26T00:56:13.678782"
     },
     {
       "title": "Next-Level Quantum Computers Will Almost Be Useful",
       "summary": "SummaryQuantum computing aims for error correction by 2026, with Microsoft, Atom Computing, and QuEra leading efforts to deliver small, error-corrected machines.Neutral atoms offer maneuverability and parallelism, enabling error correction and a plausible path to scaling up.Industry perspectives var...",
       "url": "https://spectrum.ieee.org/neutral-atom-quantum-computing",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Dec 2025 13:00:01 +0000",
-      "collected_at": "2025-12-25T00:55:50.656908"
+      "collected_at": "2025-12-26T00:56:13.678663"
     },
     {
       "title": "The Top 5 Transportation Stories for 2025",
       "summary": "IEEE Spectrum’s transportation coverage this year covered breakthroughs in electric vehicles, batteries, charging, automation, aviation, maritime tech and more. Readers followed the race to rebuild U.S. magnet manufacturing, rethink EV-charging architecture, and reinvent automotive software. They tr...",
       "url": "https://spectrum.ieee.org/top-ev-charging-stories-2025",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.656725"
+      "collected_at": "2025-12-26T00:56:13.678477"
     },
     {
       "title": "Drones Compete to Spot and Extinguish Brushfires",
       "summary": "To the untrained eye, it did not look like a particularly complicated mission. A large black quadcopter drone, more than two meters spanning the propeller tips, sat parked on the grass. Nestled between the legs of its landing gear was a red balloon filled with water. Not far away, on a concrete pad,...",
       "url": "https://spectrum.ieee.org/wildfire-drones",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.656514"
+      "collected_at": "2025-12-26T00:56:13.678272"
     },
     {
       "title": "The Top 6 Robotics Stories of 2025",
       "summary": "Usually, I start off these annual highlights posts by saying that it was the best year ever for robotics. But this year, I’m not so sure. At the end of 2024, it really seemed like AI and humanoid robots were poised to make a transformative amount of progress towards some sort of practicality. While ...",
       "url": "https://spectrum.ieee.org/top-robotics-stories-2025",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-25T00:55:50.656223"
+      "collected_at": "2025-12-26T00:56:13.678012"
+    },
+    {
+      "title": "IEEE’s Role in ABET Accreditation Explained",
+      "summary": "There is a misconception among some that IEEE accredits engineering programs in the United States, but that is the responsibility of ABET.The global, nonprofit agency accredits academic programs leading to degrees in specific disciplines. It does not accredit the institution, school, college, depart...",
+      "url": "https://spectrum.ieee.org/ieee-abet-accreditation-programs",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 24 Dec 2025 16:00:02 +0000",
+      "collected_at": "2025-12-26T00:56:13.677867"
+    },
+    {
+      "title": "Hermetic Sealing Solutions for High-Performance Miniaturized Battery Systems",
+      "summary": "Achieve reliable hermetic sealing for millimeter-scale microbatteries using dual-seal epoxy adhesive methods that maximize energy density while preventing electrolyte leakage and moisture ingress. What Attendees will Learn“Seal smart, not complex” -- Dual-seal approach combines epoxy adhesives with ...",
+      "url": "https://content.knowledgehub.wiley.com/dual-seal-method-for-the-hermetic-sealing-of-microbatteries/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 24 Dec 2025 17:55:46 +0000",
+      "collected_at": "2025-12-26T00:56:13.677711"
     }
   ]
 }
