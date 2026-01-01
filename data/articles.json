@@ -1,127 +1,127 @@
 {
-  "last_updated": "2025-12-31T00:57:37.165632",
+  "last_updated": "2026-01-01T01:02:59.066783",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Hermetic Sealing Solutions for High-Performance Miniaturized Battery Systems",
-      "summary": "Achieve reliable hermetic sealing for millimeter-scale microbatteries using dual-seal epoxy adhesive methods that maximize energy density while preventing electrolyte leakage and moisture ingress. What Attendees will Learn“Seal smart, not complex” -- Dual-seal approach combines epoxy adhesives with ...",
-      "url": "https://content.knowledgehub.wiley.com/dual-seal-method-for-the-hermetic-sealing-of-microbatteries/",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 24 Dec 2025 17:55:46 +0000",
-      "collected_at": "2025-12-31T00:57:36.163456"
-    },
-    {
-      "title": "Mesh Networks Are About to Escape Apple, Amazon, and Google Silos",
-      "summary": "In the early 2000s, mesh networks were on the verge of being everywhere and connecting everything. Daisy-chaining many devices like beads on a string would “accommodate hundreds or thousands of nodes” and provide “low, up-front cost, easy network maintenance, robustness, and reliable service coverag...",
-      "url": "https://spectrum.ieee.org/mesh-network-interoperable-thread",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Dec 2025 13:00:00 +0000",
-      "collected_at": "2025-12-31T00:57:36.163405"
-    },
-    {
-      "title": "The Top 8 Computing Stories of 2025",
-      "summary": "This year, AI continued looming large in the software world. But more than before, people are wrestling with both its amazing capabilities and its striking shortcomings. New research has found that AI agents are doubling the length of task they can do every seven months—an astounding rate of exponen...",
-      "url": "https://spectrum.ieee.org/top-computing-stories-2025",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.163261"
-    },
-    {
       "title": "How to Stay Ahead of AI as an Early-Career Engineer",
       "summary": "“AI is not going to take your job. The person who uses AI is going to take your job.”This is an idea that has become a refrain for, among others, Nvidia CEO Jensen Huang, who has publicly made the prediction several times since October 2023. Meanwhile, other AI developers and stalwarts say the techn...",
       "url": "https://spectrum.ieee.org/ai-effect-entry-level-jobs",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 25 Dec 2025 17:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.163076"
+      "collected_at": "2026-01-01T01:02:58.064352"
     },
     {
       "title": "The Top 8 Magnets and Motors Stories of 2025",
       "summary": "Rarely a week went by in 2025 without some newsworthy development related to rare earth elements, magnets, and electric motors. IEEE Spectrum was on top of the big ones, starting with the production of industrial quantities of the rare-earth oxides of neodymium and praseodymium at the Mountain Pass ...",
       "url": "https://spectrum.ieee.org/best-rare-earth-elements-2025",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.162892"
+      "collected_at": "2026-01-01T01:02:58.064187"
     },
     {
       "title": "Video Friday: Holiday Robot Helpers Send Season’s Greetings",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Ha...",
       "url": "https://spectrum.ieee.org/holiday-robot-videos",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Dec 2025 18:30:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.162675"
+      "collected_at": "2026-01-01T01:02:58.063960"
     },
     {
       "title": "AI Data Centers Demand More Than Copper Can Deliver",
       "summary": "SummaryIn data-center terms, scaling out involves linking computers, while scaling up packs more GPUs into a computer, challenging copper’s physical limits.Copper cables face a phenomenon at high data rates at high data rates that necessitate wider wires and more power, complicating a data center’s ...",
       "url": "https://spectrum.ieee.org/rf-over-fiber",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 27 Dec 2025 13:00:01 +0000",
-      "collected_at": "2025-12-31T00:57:36.162535"
+      "collected_at": "2026-01-01T01:02:58.063807"
     },
     {
       "title": "The Top 7 Consumer Electronics Stories of 2025",
       "summary": "In 2025, many of IEEE Spectrum‘s top consumer electronics stories were about about creating the experience you want with technology. Open-source software offered more customization for laptops and displays, devices with less distracting design received recognition with a new certification, and smart...",
       "url": "https://spectrum.ieee.org/top-consumer-tech-stories-2025",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 27 Dec 2025 14:00:01 +0000",
-      "collected_at": "2025-12-31T00:57:36.162318"
+      "collected_at": "2026-01-01T01:02:58.063589"
     },
     {
       "title": "First Air Taxi Service to Launch in Dubai in 2026",
       "summary": "SummaryJoby Aviation is realizing Uber’s original “Elevate” dream, moving electric vertical take-off and landing (eVTOL) aircraft from science fiction toward commercial reality.By 2026, Joby aims to inaugurate the world’s first integrated air taxi network—in Dubai—leveraging aggressive local infrast...",
       "url": "https://spectrum.ieee.org/joby-air-taxi",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 28 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.162152"
+      "collected_at": "2026-01-01T01:02:58.063421"
     },
     {
       "title": "The Top 5 Climate Tech Stories of 2025",
       "summary": "The skies may have rained on this year’s big climate summit in Belém, Brazil, but engineers have invented plenty of exciting climate tech this year worth celebrating. Here are some of the year’s top IEEE Spectrum climate technology stories:1. Device Uses Wind to Create Ammonia Out of Thin Air       ...",
       "url": "https://spectrum.ieee.org/top-climate-tech-stories-2025",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 28 Dec 2025 14:00:01 +0000",
-      "collected_at": "2025-12-31T00:57:36.162008"
+      "collected_at": "2026-01-01T01:02:58.063280"
     },
     {
       "title": "Devices Target the Gut to Maintain Weight Loss from GLP-1 Drugs",
       "summary": "Christina had tried dieting and exercise before. The weight always came off but then crept back on, especially after she gave birth to her son in 2022.She had hoped that a new class of weight-loss drugs might finally offer something different. Obesity treatments such as Wegovy and Zepbound had just ...",
       "url": "https://spectrum.ieee.org/weight-loss-devices",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Dec 2025 13:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.161858"
+      "collected_at": "2026-01-01T01:02:58.063150"
     },
     {
       "title": "The Top 7 Energy Stories of 2025",
       "summary": "Powering the AI data center boom dominated the conversation in the global energy sector in 2025. Governments are racing to develop the most advanced AI models, and data center developers are building as fast as they can. But no one is going to get very far without finding ways to generate and move m...",
       "url": "https://spectrum.ieee.org/top-energy-stories-2025",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Dec 2025 14:00:02 +0000",
-      "collected_at": "2025-12-31T00:57:36.161700"
+      "collected_at": "2026-01-01T01:02:58.062987"
+    },
+    {
+      "title": "Porsche Brings Wireless EV Charging to Consumers",
+      "summary": "Charging an EV at home doesn’t seem like an inconvenience—until you find yourself dragging a cord around a garage or down a rainy driveway, then unplugging and coiling it back up every time you drive the kids to school or run an errand. For elderly or disabled drivers, those bulky cords can be a phy...",
+      "url": "https://spectrum.ieee.org/porsche-wireless-ev-charging",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Dec 2025 13:00:02 +0000",
+      "collected_at": "2026-01-01T01:02:58.062758"
+    },
+    {
+      "title": "The Top 8 Semiconductor Stories of 2025",
+      "summary": "This year’s top semiconductor stories were mostly about the long and twisting trips a technology takes from idea (or even raw material) to commercial deployment. I’ve been at IEEE Spectrum long enough to have seen some of the early days of things that became commercial only this year.In chip-making ...",
+      "url": "https://spectrum.ieee.org/top-semiconductor-stories-2025",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Dec 2025 14:00:02 +0000",
+      "collected_at": "2026-01-01T01:02:58.062630"
+    },
+    {
+      "title": "Hands-On Experience Can Increase Your Chances of Landing a Job",
+      "summary": "As a college student, are you concerned that your knowledge alone won’t be enough to impress potential employers? Do you feel you lack the necessary hands-on technical skills to secure a job? Maybe you’ve thought of an engineering solution for a problem in your school or community but are unsure how...",
+      "url": "https://spectrum.ieee.org/hands-on-projects-career-advice",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 30 Dec 2025 19:00:02 +0000",
+      "collected_at": "2026-01-01T01:02:58.062448"
     }
   ]
 }
