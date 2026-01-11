@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-01-10T00:56:04.802452",
+  "last_updated": "2026-01-11T01:03:00.622649",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Tech to Track in 2026",
-      "summary": "Every September as we plan our January tech forecast issue, IEEE Spectrum’s editors survey their beats and seek out promising projects that could solve seemingly intractable problems or transform entire industries.Often these projects fly under the radar of the popular technology press, which these ...",
-      "url": "https://spectrum.ieee.org/tech-in-2026",
-      "date": "01月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 01 Jan 2026 15:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.799847"
-    },
     {
       "title": "This Engineer Builds Bespoke Accordions and Autonomous Car Systems",
       "summary": "When Sergey Antonovich rediscovered a childhood passion for music, he found an unexpected application for his skills as an embedded systems engineer: building bespoke digital accordions.Antonovich admits the accordion isn’t the coolest instrument. It was chosen for him by his mother when he was 8, a...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.799737"
+      "collected_at": "2026-01-11T01:02:59.620166"
     },
     {
       "title": "Video Friday: Watch Scuttle Evolve",
@@ -31,97 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Jan 2026 18:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.799588"
+      "collected_at": "2026-01-11T01:02:59.620021"
     },
     {
       "title": "Jacob’s Ladder",
       "summary": "I know now how the sparks can climb,in broadening arcs of ions—the heat they grow inside themselveslike some permission or belief.But at ten, it seemed mystical;their frown, glowing, then invisible.Gone. Save the odor of ozone.I was young and scared and alone.But the buzz and brightness begananew in...",
       "url": "https://spectrum.ieee.org/jacobs-ladder",
-      "date": "6日前",
+      "date": "01月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 03 Jan 2026 13:00:01 +0000",
-      "collected_at": "2026-01-10T00:56:03.799486"
+      "collected_at": "2026-01-11T01:02:59.619925"
     },
     {
       "title": "CES 2026 Preview: E-ink Smartphone, Allergen Detector, and More",
       "summary": "In a few days, Las Vegas will be inundated with engineers, executives, investors, and members of the press—including me—for the annual Consumer Electronics Show, one of the largest tech events of the year. If you can dream it, there’s a good chance it’ll be on display at CES 2026 (though admittedly,...",
       "url": "https://spectrum.ieee.org/ces-2026-preview",
-      "date": "6日前",
+      "date": "01月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 03 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-10T00:56:03.799430"
+      "collected_at": "2026-01-11T01:02:59.619863"
     },
     {
       "title": "See the Sky Like Never Before With a DIY Eyepiece",
       "summary": "When it comes to viewing nebulae, galaxies, and other deep-sky objects, amateur astronomers on a budget have had two options. They can view with the naked eye through a telescope and perceive these spectacular objects as faint smudges that don’t even begin to capture their majesty, or they can captu...",
       "url": "https://spectrum.ieee.org/diy-astrophotography-eyepiece",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 04 Jan 2026 13:00:01 +0000",
-      "collected_at": "2026-01-10T00:56:03.799320"
+      "collected_at": "2026-01-11T01:02:59.619741"
     },
     {
       "title": "The Data Center Boom Is Concentrated in the U.S.",
       "summary": "If a data center is moving in next door, you probably live in the United States. More than half of all upcoming global data centers—as indicated by land purchased for data centers not yet announced, those under construction, and those whose plans are public—will be developed in the United States.And...",
       "url": "https://spectrum.ieee.org/data-center-growth",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.799174"
+      "collected_at": "2026-01-11T01:02:59.619593"
     },
     {
       "title": "Global Giants Are Investing in Clean Tech Despite Politics",
       "summary": "The Trump administration has given corporations plenty of convenient excuses to retreat from their climate commitments, with its moves to withdraw from the Paris Agreement, roll back emissions regulations, and scale back clean energy incentives.But will the world’s largest corporations follow its le...",
       "url": "https://spectrum.ieee.org/firms-bet-climate-tech",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-10T00:56:03.799103"
+      "collected_at": "2026-01-11T01:02:59.619522"
     },
     {
       "title": "How the Dictaphone Entered Office Life",
       "summary": "Thanks to Hollywood, whenever I think of a Dictaphone, my imagination immediately jumps to a mid-20th-century office, Don Draper suavely seated at his desk, voicing ad copy into a desktop machine. A perfectly coiffed woman from the secretarial pool then takes the recordings and neatly types them up,...",
       "url": "https://spectrum.ieee.org/who-invented-the-dictaphone",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.798836"
+      "collected_at": "2026-01-11T01:02:59.619254"
     },
     {
       "title": "These Hearing Aids Will Tune in to Your Brain",
       "summary": "Imagine you’re at a bustling dinner party filled with laughter, music, and clinking silverware. You’re trying to follow a conversation across the table, but every word feels like it’s wrapped in noise. For most people, these types of party scenarios, where it’s difficult to filter out extraneous sou...",
       "url": "https://spectrum.ieee.org/hearing-aids-biosignals",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.798594"
+      "collected_at": "2026-01-11T01:02:59.619013"
     },
     {
       "title": "Meet the IEEE Board-Nominated Candidates for President-Elect",
       "summary": "The IEEE Board of Directors has nominated IEEE Senior Member David Alan Koehler and IEEE Life Fellow Manfred “Fred” J. Schindler as candidates for 2027 IEEE president-elect.IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee are seeking nomination by petition. A separate ar...",
       "url": "https://spectrum.ieee.org/2027-ieee-president-elect-candidates",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-10T00:56:03.798315"
+      "collected_at": "2026-01-11T01:02:59.618728"
     },
     {
       "title": "AI Coding Assistants Are Getting Worse",
       "summary": "In recent months, I’ve noticed a troubling trend with AI coding assistants. After two years of steady improvements, over the course of 2025, most of the core models reached a quality plateau, and more recently, seem to be in decline. A task that might have taken five hours assisted by AI, and perhap...",
       "url": "https://spectrum.ieee.org/ai-coding-degrades",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-10T00:56:03.798203"
+      "collected_at": "2026-01-11T01:02:59.618605"
+    },
+    {
+      "title": "How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications",
+      "summary": "This whitepaper provides MEMS engineers, biomedical device developers, and multiphysics simulation specialists with a practical AI-accelerated workflow for optimizing piezoelectric micromachined ultrasonic transducers (PMUTs), enabling you to explore complex design trade-offs between sensitivity and...",
+      "url": "https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 08 Jan 2026 22:06:42 +0000",
+      "collected_at": "2026-01-11T01:02:59.618472"
     }
   ]
 }
