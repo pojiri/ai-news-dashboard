@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-01-12T01:00:28.427024",
+  "last_updated": "2026-01-13T00:53:38.319655",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "This Engineer Builds Bespoke Accordions and Autonomous Car Systems",
-      "summary": "When Sergey Antonovich rediscovered a childhood passion for music, he found an unexpected application for his skills as an embedded systems engineer: building bespoke digital accordions.Antonovich admits the accordion isn’t the coolest instrument. It was chosen for him by his mother when he was 8, a...",
-      "url": "https://spectrum.ieee.org/digital-accordions-autonomous-car-system",
-      "date": "01月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 02 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.424559"
-    },
-    {
-      "title": "Video Friday: Watch Scuttle Evolve",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! I ...",
-      "url": "https://spectrum.ieee.org/video-friday-robot-farming",
-      "date": "01月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 02 Jan 2026 18:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.424413"
-    },
     {
       "title": "Jacob’s Ladder",
       "summary": "I know now how the sparks can climb,in broadening arcs of ions—the heat they grow inside themselveslike some permission or belief.But at ten, it seemed mystical;their frown, glowing, then invisible.Gone. Save the odor of ozone.I was young and scared and alone.But the buzz and brightness begananew in...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 03 Jan 2026 13:00:01 +0000",
-      "collected_at": "2026-01-12T01:00:27.424316"
+      "collected_at": "2026-01-13T00:53:37.317214"
     },
     {
       "title": "CES 2026 Preview: E-ink Smartphone, Allergen Detector, and More",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 03 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-12T01:00:27.424255"
+      "collected_at": "2026-01-13T00:53:37.317163"
     },
     {
       "title": "See the Sky Like Never Before With a DIY Eyepiece",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 04 Jan 2026 13:00:01 +0000",
-      "collected_at": "2026-01-12T01:00:27.424139"
+      "collected_at": "2026-01-13T00:53:37.317056"
     },
     {
       "title": "The Data Center Boom Is Concentrated in the U.S.",
       "summary": "If a data center is moving in next door, you probably live in the United States. More than half of all upcoming global data centers—as indicated by land purchased for data centers not yet announced, those under construction, and those whose plans are public—will be developed in the United States.And...",
       "url": "https://spectrum.ieee.org/data-center-growth",
-      "date": "6日前",
+      "date": "01月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.423991"
+      "collected_at": "2026-01-13T00:53:37.316923"
     },
     {
       "title": "Global Giants Are Investing in Clean Tech Despite Politics",
       "summary": "The Trump administration has given corporations plenty of convenient excuses to retreat from their climate commitments, with its moves to withdraw from the Paris Agreement, roll back emissions regulations, and scale back clean energy incentives.But will the world’s largest corporations follow its le...",
       "url": "https://spectrum.ieee.org/firms-bet-climate-tech",
-      "date": "6日前",
+      "date": "01月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-12T01:00:27.423899"
+      "collected_at": "2026-01-13T00:53:37.316851"
     },
     {
       "title": "How the Dictaphone Entered Office Life",
       "summary": "Thanks to Hollywood, whenever I think of a Dictaphone, my imagination immediately jumps to a mid-20th-century office, Don Draper suavely seated at his desk, voicing ad copy into a desktop machine. A perfectly coiffed woman from the secretarial pool then takes the recordings and neatly types them up,...",
       "url": "https://spectrum.ieee.org/who-invented-the-dictaphone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.423623"
+      "collected_at": "2026-01-13T00:53:37.316563"
     },
     {
       "title": "These Hearing Aids Will Tune in to Your Brain",
       "summary": "Imagine you’re at a bustling dinner party filled with laughter, music, and clinking silverware. You’re trying to follow a conversation across the table, but every word feels like it’s wrapped in noise. For most people, these types of party scenarios, where it’s difficult to filter out extraneous sou...",
       "url": "https://spectrum.ieee.org/hearing-aids-biosignals",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.423378"
+      "collected_at": "2026-01-13T00:53:37.316320"
     },
     {
       "title": "Meet the IEEE Board-Nominated Candidates for President-Elect",
       "summary": "The IEEE Board of Directors has nominated IEEE Senior Member David Alan Koehler and IEEE Life Fellow Manfred “Fred” J. Schindler as candidates for 2027 IEEE president-elect.IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee are seeking nomination by petition. A separate ar...",
       "url": "https://spectrum.ieee.org/2027-ieee-president-elect-candidates",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-12T01:00:27.423105"
+      "collected_at": "2026-01-13T00:53:37.316027"
     },
     {
       "title": "AI Coding Assistants Are Getting Worse",
       "summary": "In recent months, I’ve noticed a troubling trend with AI coding assistants. After two years of steady improvements, over the course of 2025, most of the core models reached a quality plateau, and more recently, seem to be in decline. A task that might have taken five hours assisted by AI, and perhap...",
       "url": "https://spectrum.ieee.org/ai-coding-degrades",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-12T01:00:27.423013"
+      "collected_at": "2026-01-13T00:53:37.315949"
     },
     {
       "title": "How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications",
       "summary": "This whitepaper provides MEMS engineers, biomedical device developers, and multiphysics simulation specialists with a practical AI-accelerated workflow for optimizing piezoelectric micromachined ultrasonic transducers (PMUTs), enabling you to explore complex design trade-offs between sensitivity and...",
       "url": "https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 22:06:42 +0000",
-      "collected_at": "2026-01-12T01:00:27.422829"
+      "collected_at": "2026-01-13T00:53:37.315817"
+    },
+    {
+      "title": "Video Friday: Robots Are Everywhere at CES 2026",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! We...",
+      "url": "https://spectrum.ieee.org/robots-ces-2026",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 09 Jan 2026 18:00:04 +0000",
+      "collected_at": "2026-01-13T00:53:37.315768"
+    },
+    {
+      "title": "Sena Kizildemir Simulates Disasters to Prevent Building Collapses",
+      "summary": "When two airplanes hit the World Trade Center in New York City on 11 September 2001, no one could predict how the Twin Towers would react structurally. The commercial jet airliners severed columns and started fires, weakening steel beams, and causing a “pancaking,” progressive collapse.Skyscrapers h...",
+      "url": "https://spectrum.ieee.org/sena-kizildemir-simulation-disasters",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 09 Jan 2026 19:00:02 +0000",
+      "collected_at": "2026-01-13T00:53:37.315634"
     }
   ]
 }
