@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-01-16T00:58:15.721598",
+  "last_updated": "2026-01-17T00:55:38.381685",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "These Hearing Aids Will Tune in to Your Brain",
-      "summary": "Imagine you’re at a bustling dinner party filled with laughter, music, and clinking silverware. You’re trying to follow a conversation across the table, but every word feels like it’s wrapped in noise. For most people, these types of party scenarios, where it’s difficult to filter out extraneous sou...",
-      "url": "https://spectrum.ieee.org/hearing-aids-biosignals",
-      "date": "01月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 07 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.719175"
-    },
-    {
-      "title": "Meet the IEEE Board-Nominated Candidates for President-Elect",
-      "summary": "The IEEE Board of Directors has nominated IEEE Senior Member David Alan Koehler and IEEE Life Fellow Manfred “Fred” J. Schindler as candidates for 2027 IEEE president-elect.IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee are seeking nomination by petition. A separate ar...",
-      "url": "https://spectrum.ieee.org/2027-ieee-president-elect-candidates",
-      "date": "01月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 07 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-16T00:58:14.718904"
-    },
     {
       "title": "AI Coding Assistants Are Getting Worse",
       "summary": "In recent months, I’ve noticed a troubling trend with AI coding assistants. After two years of steady improvements, over the course of 2025, most of the core models reached a quality plateau, and more recently, seem to be in decline. A task that might have taken five hours assisted by AI, and perhap...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.718815"
+      "collected_at": "2026-01-17T00:55:37.379408"
     },
     {
       "title": "How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications",
@@ -41,87 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 22:06:42 +0000",
-      "collected_at": "2026-01-16T00:58:14.718677"
+      "collected_at": "2026-01-17T00:55:37.379271"
     },
     {
       "title": "Video Friday: Robots Are Everywhere at CES 2026",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! We...",
       "url": "https://spectrum.ieee.org/robots-ces-2026",
-      "date": "6日前",
+      "date": "01月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Jan 2026 18:00:04 +0000",
-      "collected_at": "2026-01-16T00:58:14.718610"
+      "collected_at": "2026-01-17T00:55:37.379212"
     },
     {
       "title": "Sena Kizildemir Simulates Disasters to Prevent Building Collapses",
       "summary": "When two airplanes hit the World Trade Center in New York City on 11 September 2001, no one could predict how the Twin Towers would react structurally. The commercial jet airliners severed columns and started fires, weakening steel beams, and causing a “pancaking,” progressive collapse.Skyscrapers h...",
       "url": "https://spectrum.ieee.org/sena-kizildemir-simulation-disasters",
-      "date": "6日前",
+      "date": "01月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.718454"
+      "collected_at": "2026-01-17T00:55:37.379070"
     },
     {
       "title": "Nvidia’s New Rubin Architecture Thrives on Networking",
       "summary": "Earlier this week, Nvidia surprise-announced their new Vera Rubin architecture (no relation to the recently unveiled telescope) at the Consumer Electronics Show in Las Vegas. The new platform, set to reach customers later this year, is advertised to offer a tenfold reduction in inference costs and a...",
       "url": "https://spectrum.ieee.org/nvidia-rubin-networking",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 10 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.718302"
+      "collected_at": "2026-01-17T00:55:37.378903"
     },
     {
       "title": "Chilean Telescope Array Gets 145 New Powerful Amplifiers",
       "summary": "For decades, scientists have observed the cosmos with radio antennas to visualize the dark, distant regions of the universe. This includes the gas and dust of the interstellar medium, planet-forming disks, and objects that cannot be observed in visible light. In this field, the Atacama Large Millime...",
       "url": "https://spectrum.ieee.org/atacama-large-millimeter-array",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 11 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.718197"
+      "collected_at": "2026-01-17T00:55:37.378793"
     },
     {
       "title": "Researchers Beam Power From a Moving Airplane",
       "summary": "On a blustery November day, a Cessna turboprop flew over Pennsylvania at 5,000 meters, in crosswinds of up to 70 knots—nearly as fast as the little plane was flying. But the bumpy conditions didn’t thwart its mission: to wirelessly beam power down to receivers on the ground as it flew by.The test fl...",
       "url": "https://spectrum.ieee.org/wireless-power-movin-airplane",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.718102"
+      "collected_at": "2026-01-17T00:55:37.378683"
     },
     {
       "title": "This $5,200 Conductive Suit Could Make Power-Line Work Safer",
       "summary": "In 2018, Justin Kropp was working on a transmission circuit in Southern California when disaster struck. Grid operators had earlier shut down the 115-kilovolt circuit, but six high-voltage lines that shared the corridor were still operating, and some of their power snuck onto the deenergized wires h...",
       "url": "https://spectrum.ieee.org/transmission-line-safety-suit",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-16T00:58:14.717997"
+      "collected_at": "2026-01-17T00:55:37.378575"
     },
     {
       "title": "Meet the Two Members Petitioning to Be President-Elect Candidates",
       "summary": "The IEEE Board of Directors has received petition intentions from IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee as candidates for 2027 IEEE president-elect. The petitioners are listed in alphabetical order and indicate no preference.The winner of this year’s election ...",
       "url": "https://spectrum.ieee.org/2027-petition-president-elect-candidates",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-16T00:58:14.717868"
+      "collected_at": "2026-01-17T00:55:37.378448"
     },
     {
       "title": "Stretchable OLEDs Just Got a Huge Upgrade",
       "summary": "Wearable displays are catching up with phones and smartwatches. For decades, engineers have sought OLEDs that can bend, twist, and stretch while maintaining bright and stable light. These displays could be integrated into a new class of devices—woven into clothing fabric, for example, to show real-t...",
       "url": "https://spectrum.ieee.org/stretchable-oleds-wearable-display-drexel",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 16:00:04 +0000",
-      "collected_at": "2026-01-16T00:58:14.717786"
+      "collected_at": "2026-01-17T00:55:37.378366"
+    },
+    {
+      "title": "The Ultimate 3D Integration Would Cook Future GPUs",
+      "summary": "Peek inside the package of AMD’s or Nvidia’s most advanced AI products, and you’ll find a familiar arrangement: The GPU is flanked on two sides by high-bandwidth memory (HBM), the most advanced memory chips available. These memory chips are placed as close as possible to the computing chips they ser...",
+      "url": "https://spectrum.ieee.org/hbm-on-gpu-imec-iedm",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
+      "collected_at": "2026-01-17T00:55:37.378246"
+    },
+    {
+      "title": "Lessons for Your Career From 2025",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!As we enter 2026, we’re taking a look back at the top p...",
+      "url": "https://spectrum.ieee.org/career-advice-2025",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
+      "collected_at": "2026-01-17T00:55:37.378136"
     }
   ]
 }
