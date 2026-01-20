@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T01:01:53.413612",
+  "last_updated": "2026-01-20T00:56:59.421456",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 08 Jan 2026 22:06:42 +0000",
-      "collected_at": "2026-01-19T01:01:52.411604"
+      "collected_at": "2026-01-20T00:56:58.419137"
     },
     {
       "title": "Video Friday: Robots Are Everywhere at CES 2026",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Jan 2026 18:00:04 +0000",
-      "collected_at": "2026-01-19T01:01:52.411546"
+      "collected_at": "2026-01-20T00:56:58.419077"
     },
     {
       "title": "Sena Kizildemir Simulates Disasters to Prevent Building Collapses",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.411400"
+      "collected_at": "2026-01-20T00:56:58.418936"
     },
     {
       "title": "Nvidia’s New Rubin Architecture Thrives on Networking",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 10 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.411214"
+      "collected_at": "2026-01-20T00:56:58.418773"
     },
     {
       "title": "Chilean Telescope Array Gets 145 New Powerful Amplifiers",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 11 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.411095"
+      "collected_at": "2026-01-20T00:56:58.418661"
     },
     {
       "title": "Researchers Beam Power From a Moving Airplane",
       "summary": "On a blustery November day, a Cessna turboprop flew over Pennsylvania at 5,000 meters, in crosswinds of up to 70 knots—nearly as fast as the little plane was flying. But the bumpy conditions didn’t thwart its mission: to wirelessly beam power down to receivers on the ground as it flew by.The test fl...",
       "url": "https://spectrum.ieee.org/wireless-power-movin-airplane",
-      "date": "6日前",
+      "date": "01月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.410990"
+      "collected_at": "2026-01-20T00:56:58.418559"
     },
     {
       "title": "This $5,200 Conductive Suit Could Make Power-Line Work Safer",
       "summary": "In 2018, Justin Kropp was working on a transmission circuit in Southern California when disaster struck. Grid operators had earlier shut down the 115-kilovolt circuit, but six high-voltage lines that shared the corridor were still operating, and some of their power snuck onto the deenergized wires h...",
       "url": "https://spectrum.ieee.org/transmission-line-safety-suit",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.410878"
+      "collected_at": "2026-01-20T00:56:58.418441"
     },
     {
       "title": "Meet the Two Members Petitioning to Be President-Elect Candidates",
       "summary": "The IEEE Board of Directors has received petition intentions from IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee as candidates for 2027 IEEE president-elect. The petitioners are listed in alphabetical order and indicate no preference.The winner of this year’s election ...",
       "url": "https://spectrum.ieee.org/2027-petition-president-elect-candidates",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-19T01:01:52.410749"
+      "collected_at": "2026-01-20T00:56:58.418313"
     },
     {
       "title": "Stretchable OLEDs Just Got a Huge Upgrade",
       "summary": "Wearable displays are catching up with phones and smartwatches. For decades, engineers have sought OLEDs that can bend, twist, and stretch while maintaining bright and stable light. These displays could be integrated into a new class of devices—woven into clothing fabric, for example, to show real-t...",
       "url": "https://spectrum.ieee.org/stretchable-oleds-wearable-display-drexel",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 16:00:04 +0000",
-      "collected_at": "2026-01-19T01:01:52.410666"
+      "collected_at": "2026-01-20T00:56:58.418212"
     },
     {
       "title": "The Ultimate 3D Integration Would Cook Future GPUs",
       "summary": "Peek inside the package of AMD’s or Nvidia’s most advanced AI products, and you’ll find a familiar arrangement: The GPU is flanked on two sides by high-bandwidth memory (HBM), the most advanced memory chips available. These memory chips are placed as close as possible to the computing chips they ser...",
       "url": "https://spectrum.ieee.org/hbm-on-gpu-imec-iedm",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-19T01:01:52.410546"
+      "collected_at": "2026-01-20T00:56:58.418093"
     },
     {
       "title": "Lessons for Your Career From 2025",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!As we enter 2026, we’re taking a look back at the top p...",
       "url": "https://spectrum.ieee.org/career-advice-2025",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
-      "collected_at": "2026-01-19T01:01:52.410434"
+      "collected_at": "2026-01-20T00:56:58.417984"
     },
     {
       "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
       "summary": "The newly released Preparing for a Career as an AI Developer guide from the IEEE Computer Society argues that the most durable path to artificial intelligence jobs is not defined by mastering any single tool or model. Instead, it depends on cultivating a balanced mix of technical fundamentals and hu...",
       "url": "https://spectrum.ieee.org/ai-developer-career-advice",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-19T01:01:52.410315"
+      "collected_at": "2026-01-20T00:56:58.417883"
     }
   ]
 }
