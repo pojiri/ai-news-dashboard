@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-01-20T00:56:59.421456",
+  "last_updated": "2026-01-21T00:59:07.241598",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How AI Accelerates PMUT Design for Biomedical Ultrasonic Applications",
-      "summary": "This whitepaper provides MEMS engineers, biomedical device developers, and multiphysics simulation specialists with a practical AI-accelerated workflow for optimizing piezoelectric micromachined ultrasonic transducers (PMUTs), enabling you to explore complex design trade-offs between sensitivity and...",
-      "url": "https://content.knowledgehub.wiley.com/quanscient-multiphysicsai-for-pmut-design/",
-      "date": "01月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 08 Jan 2026 22:06:42 +0000",
-      "collected_at": "2026-01-20T00:56:58.419137"
-    },
-    {
-      "title": "Video Friday: Robots Are Everywhere at CES 2026",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! We...",
-      "url": "https://spectrum.ieee.org/robots-ces-2026",
-      "date": "01月09日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 09 Jan 2026 18:00:04 +0000",
-      "collected_at": "2026-01-20T00:56:58.419077"
-    },
-    {
-      "title": "Sena Kizildemir Simulates Disasters to Prevent Building Collapses",
-      "summary": "When two airplanes hit the World Trade Center in New York City on 11 September 2001, no one could predict how the Twin Towers would react structurally. The commercial jet airliners severed columns and started fires, weakening steel beams, and causing a “pancaking,” progressive collapse.Skyscrapers h...",
-      "url": "https://spectrum.ieee.org/sena-kizildemir-simulation-disasters",
-      "date": "01月09日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 09 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.418936"
-    },
     {
       "title": "Nvidia’s New Rubin Architecture Thrives on Networking",
       "summary": "Earlier this week, Nvidia surprise-announced their new Vera Rubin architecture (no relation to the recently unveiled telescope) at the Consumer Electronics Show in Las Vegas. The new platform, set to reach customers later this year, is advertised to offer a tenfold reduction in inference costs and a...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 10 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.418773"
+      "collected_at": "2026-01-21T00:59:06.239216"
     },
     {
       "title": "Chilean Telescope Array Gets 145 New Powerful Amplifiers",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 11 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.418661"
+      "collected_at": "2026-01-21T00:59:06.239106"
     },
     {
       "title": "Researchers Beam Power From a Moving Airplane",
@@ -61,67 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.418559"
+      "collected_at": "2026-01-21T00:59:06.239006"
     },
     {
       "title": "This $5,200 Conductive Suit Could Make Power-Line Work Safer",
       "summary": "In 2018, Justin Kropp was working on a transmission circuit in Southern California when disaster struck. Grid operators had earlier shut down the 115-kilovolt circuit, but six high-voltage lines that shared the corridor were still operating, and some of their power snuck onto the deenergized wires h...",
       "url": "https://spectrum.ieee.org/transmission-line-safety-suit",
-      "date": "6日前",
+      "date": "01月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.418441"
+      "collected_at": "2026-01-21T00:59:06.238892"
     },
     {
       "title": "Meet the Two Members Petitioning to Be President-Elect Candidates",
       "summary": "The IEEE Board of Directors has received petition intentions from IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee as candidates for 2027 IEEE president-elect. The petitioners are listed in alphabetical order and indicate no preference.The winner of this year’s election ...",
       "url": "https://spectrum.ieee.org/2027-petition-president-elect-candidates",
-      "date": "6日前",
+      "date": "01月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-20T00:56:58.418313"
+      "collected_at": "2026-01-21T00:59:06.238732"
     },
     {
       "title": "Stretchable OLEDs Just Got a Huge Upgrade",
       "summary": "Wearable displays are catching up with phones and smartwatches. For decades, engineers have sought OLEDs that can bend, twist, and stretch while maintaining bright and stable light. These displays could be integrated into a new class of devices—woven into clothing fabric, for example, to show real-t...",
       "url": "https://spectrum.ieee.org/stretchable-oleds-wearable-display-drexel",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 16:00:04 +0000",
-      "collected_at": "2026-01-20T00:56:58.418212"
+      "collected_at": "2026-01-21T00:59:06.238640"
     },
     {
       "title": "The Ultimate 3D Integration Would Cook Future GPUs",
       "summary": "Peek inside the package of AMD’s or Nvidia’s most advanced AI products, and you’ll find a familiar arrangement: The GPU is flanked on two sides by high-bandwidth memory (HBM), the most advanced memory chips available. These memory chips are placed as close as possible to the computing chips they ser...",
       "url": "https://spectrum.ieee.org/hbm-on-gpu-imec-iedm",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-20T00:56:58.418093"
+      "collected_at": "2026-01-21T00:59:06.238521"
     },
     {
       "title": "Lessons for Your Career From 2025",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!As we enter 2026, we’re taking a look back at the top p...",
       "url": "https://spectrum.ieee.org/career-advice-2025",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
-      "collected_at": "2026-01-20T00:56:58.417984"
+      "collected_at": "2026-01-21T00:59:06.238408"
     },
     {
       "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
       "summary": "The newly released Preparing for a Career as an AI Developer guide from the IEEE Computer Society argues that the most durable path to artificial intelligence jobs is not defined by mastering any single tool or model. Instead, it depends on cultivating a balanced mix of technical fundamentals and hu...",
       "url": "https://spectrum.ieee.org/ai-developer-career-advice",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-20T00:56:58.417883"
+      "collected_at": "2026-01-21T00:59:06.238311"
+    },
+    {
+      "title": "Video Friday: Bipedal Robot Stops Itself From Falling",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Th...",
+      "url": "https://spectrum.ieee.org/video-friday-bipedal-robot",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 16 Jan 2026 18:30:02 +0000",
+      "collected_at": "2026-01-21T00:59:06.238152"
+    },
+    {
+      "title": "IEEE Medal of Honor Recipient Is Nvidia’s CEO Jensen Huang",
+      "summary": "Jensen Huang, founder and CEO of Nvidia, is the 2026 IEEE Medal of Honor recipient. The IEEE honorary member is being recognized for his “leadership in the development of graphics processing units and their application to scientific computing and artificial intelligence.” The news was announced on 6...",
+      "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 16 Jan 2026 19:00:02 +0000",
+      "collected_at": "2026-01-21T00:59:06.237977"
+    },
+    {
+      "title": "Are There Enough Engineers for the AI Boom?",
+      "summary": "The AI data center construction boom continues unabated, with the demand for power in the United States potentially reaching 106 gigawatts by 2035, according to a December report from research and analysis company BloombergNEF. That’s a 36 percent jump from the company’s previous outlook, published ...",
+      "url": "https://spectrum.ieee.org/ai-data-centers-engineers-jobs",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
+      "collected_at": "2026-01-21T00:59:06.237890"
     }
   ]
 }
