@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-01-22T00:58:19.758057",
+  "last_updated": "2026-01-23T00:58:52.588183",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Chilean Telescope Array Gets 145 New Powerful Amplifiers",
-      "summary": "For decades, scientists have observed the cosmos with radio antennas to visualize the dark, distant regions of the universe. This includes the gas and dust of the interstellar medium, planet-forming disks, and objects that cannot be observed in visible light. In this field, the Atacama Large Millime...",
-      "url": "https://spectrum.ieee.org/atacama-large-millimeter-array",
-      "date": "01月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 11 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.755675"
-    },
-    {
-      "title": "Researchers Beam Power From a Moving Airplane",
-      "summary": "On a blustery November day, a Cessna turboprop flew over Pennsylvania at 5,000 meters, in crosswinds of up to 70 knots—nearly as fast as the little plane was flying. But the bumpy conditions didn’t thwart its mission: to wirelessly beam power down to receivers on the ground as it flew by.The test fl...",
-      "url": "https://spectrum.ieee.org/wireless-power-movin-airplane",
-      "date": "01月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 12 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.755570"
-    },
-    {
-      "title": "This $5,200 Conductive Suit Could Make Power-Line Work Safer",
-      "summary": "In 2018, Justin Kropp was working on a transmission circuit in Southern California when disaster struck. Grid operators had earlier shut down the 115-kilovolt circuit, but six high-voltage lines that shared the corridor were still operating, and some of their power snuck onto the deenergized wires h...",
-      "url": "https://spectrum.ieee.org/transmission-line-safety-suit",
-      "date": "01月13日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 13 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.755444"
-    },
     {
       "title": "Meet the Two Members Petitioning to Be President-Elect Candidates",
       "summary": "The IEEE Board of Directors has received petition intentions from IEEE Senior Member Gerardo Barbosa and IEEE Life Senior Member Timothy T. Lee as candidates for 2027 IEEE president-elect. The petitioners are listed in alphabetical order and indicate no preference.The winner of this year’s election ...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 13 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-22T00:58:18.755305"
+      "collected_at": "2026-01-23T00:58:51.585541"
     },
     {
       "title": "Stretchable OLEDs Just Got a Huge Upgrade",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 16:00:04 +0000",
-      "collected_at": "2026-01-22T00:58:18.755218"
+      "collected_at": "2026-01-23T00:58:51.585448"
     },
     {
       "title": "The Ultimate 3D Integration Would Cook Future GPUs",
@@ -61,67 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-22T00:58:18.755092"
+      "collected_at": "2026-01-23T00:58:51.585318"
     },
     {
       "title": "Lessons for Your Career From 2025",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!As we enter 2026, we’re taking a look back at the top p...",
       "url": "https://spectrum.ieee.org/career-advice-2025",
-      "date": "6日前",
+      "date": "01月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
-      "collected_at": "2026-01-22T00:58:18.754967"
+      "collected_at": "2026-01-23T00:58:51.585197"
     },
     {
       "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
       "summary": "The newly released Preparing for a Career as an AI Developer guide from the IEEE Computer Society argues that the most durable path to artificial intelligence jobs is not defined by mastering any single tool or model. Instead, it depends on cultivating a balanced mix of technical fundamentals and hu...",
       "url": "https://spectrum.ieee.org/ai-developer-career-advice",
-      "date": "6日前",
+      "date": "01月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.754870"
+      "collected_at": "2026-01-23T00:58:51.585086"
     },
     {
       "title": "Video Friday: Bipedal Robot Stops Itself From Falling",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Th...",
       "url": "https://spectrum.ieee.org/video-friday-bipedal-robot",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 18:30:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.754710"
+      "collected_at": "2026-01-23T00:58:51.584896"
     },
     {
       "title": "IEEE Medal of Honor Recipient Is Nvidia’s CEO Jensen Huang",
       "summary": "Jensen Huang, founder and CEO of Nvidia, is the 2026 IEEE Medal of Honor recipient. The IEEE honorary member is being recognized for his “leadership in the development of graphics processing units and their application to scientific computing and artificial intelligence.” The news was announced on 6...",
       "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-22T00:58:18.754518"
+      "collected_at": "2026-01-23T00:58:51.584720"
     },
     {
       "title": "Are There Enough Engineers for the AI Boom?",
       "summary": "The AI data center construction boom continues unabated, with the demand for power in the United States potentially reaching 106 gigawatts by 2035, according to a December report from research and analysis company BloombergNEF. That’s a 36 percent jump from the company’s previous outlook, published ...",
       "url": "https://spectrum.ieee.org/ai-data-centers-engineers-jobs",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-22T00:58:18.754434"
+      "collected_at": "2026-01-23T00:58:51.584638"
     },
     {
       "title": "NASA Demolishes Historic Test Stands That Built the Space Age",
       "summary": "The thunderous roar that echoed across Huntsville, Alabama, on 10 January wasn’t a rocket launch but something equally momentous: the end of an era. Two massive test stands at Marshall Space Flight Center that helped send humans to the moon collapsed in carefully choreographed implosions, their stee...",
       "url": "https://spectrum.ieee.org/nasa-marshall-test-stands-demolition",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 18 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-22T00:58:18.754296"
+      "collected_at": "2026-01-23T00:58:51.584500"
+    },
+    {
+      "title": "The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages",
+      "summary": "Isolation dictates where we go to see into the far reaches of the universe. The Atacama Desert of Chile, the summit of Mauna Kea in Hawaii, the vast expanse of the Australian Outback—these are where astronomers and engineers have built the great observatories and radio telescopes of modern times. Th...",
+      "url": "https://spectrum.ieee.org/lunar-radio-telescope",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 20 Jan 2026 14:00:03 +0000",
+      "collected_at": "2026-01-23T00:58:51.584408"
+    },
+    {
+      "title": "From Vietnam Boat Refugee to Reliability Engineering Scholar",
+      "summary": "Hoang Pham has spent his career trying to ensure that some of the world’s most critical systems don’t fail, including commercial aircraft engines, nuclear facilities, and massive data centers that underpin AI and cloud computing.A professor of industrial and systems engineering at Rutgers University...",
+      "url": "https://spectrum.ieee.org/boat-refugee-reliability-engineering-scholar",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 20 Jan 2026 19:00:03 +0000",
+      "collected_at": "2026-01-23T00:58:51.584033"
+    },
+    {
+      "title": "Why AI Keeps Falling for Prompt Injection Attacks",
+      "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
+      "url": "https://spectrum.ieee.org/prompt-injection-attack",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
+      "collected_at": "2026-01-23T00:58:51.583834"
     }
   ]
 }
