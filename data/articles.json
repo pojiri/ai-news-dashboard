@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T01:03:59.906163",
+  "last_updated": "2026-01-26T01:02:39.611546",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-25T01:03:58.903840"
+      "collected_at": "2026-01-26T01:02:38.609046"
     },
     {
       "title": "Lessons for Your Career From 2025",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
-      "collected_at": "2026-01-25T01:03:58.903718"
+      "collected_at": "2026-01-26T01:02:38.608928"
     },
     {
       "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-25T01:03:58.903594"
+      "collected_at": "2026-01-26T01:02:38.608825"
     },
     {
       "title": "Video Friday: Bipedal Robot Stops Itself From Falling",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 18:30:02 +0000",
-      "collected_at": "2026-01-25T01:03:58.903431"
+      "collected_at": "2026-01-26T01:02:38.608660"
     },
     {
       "title": "IEEE Medal of Honor Recipient Is Nvidia’s CEO Jensen Huang",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-25T01:03:58.903256"
+      "collected_at": "2026-01-26T01:02:38.608481"
     },
     {
       "title": "Are There Enough Engineers for the AI Boom?",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-25T01:03:58.903167"
+      "collected_at": "2026-01-26T01:02:38.608394"
     },
     {
       "title": "NASA Demolishes Historic Test Stands That Built the Space Age",
       "summary": "The thunderous roar that echoed across Huntsville, Alabama, on 10 January wasn’t a rocket launch but something equally momentous: the end of an era. Two massive test stands at Marshall Space Flight Center that helped send humans to the moon collapsed in carefully choreographed implosions, their stee...",
       "url": "https://spectrum.ieee.org/nasa-marshall-test-stands-demolition",
-      "date": "6日前",
+      "date": "01月18日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 18 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-25T01:03:58.903022"
+      "collected_at": "2026-01-26T01:02:38.608233"
     },
     {
       "title": "The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages",
       "summary": "Isolation dictates where we go to see into the far reaches of the universe. The Atacama Desert of Chile, the summit of Mauna Kea in Hawaii, the vast expanse of the Australian Outback—these are where astronomers and engineers have built the great observatories and radio telescopes of modern times. Th...",
       "url": "https://spectrum.ieee.org/lunar-radio-telescope",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-25T01:03:58.902928"
+      "collected_at": "2026-01-26T01:02:38.608129"
     },
     {
       "title": "From Vietnam Boat Refugee to Reliability Engineering Scholar",
       "summary": "Hoang Pham has spent his career trying to ensure that some of the world’s most critical systems don’t fail, including commercial aircraft engines, nuclear facilities, and massive data centers that underpin AI and cloud computing.A professor of industrial and systems engineering at Rutgers University...",
       "url": "https://spectrum.ieee.org/boat-refugee-reliability-engineering-scholar",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-25T01:03:58.902543"
+      "collected_at": "2026-01-26T01:02:38.607767"
     },
     {
       "title": "Why AI Keeps Falling for Prompt Injection Attacks",
       "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
       "url": "https://spectrum.ieee.org/prompt-injection-attack",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-25T01:03:58.902366"
+      "collected_at": "2026-01-26T01:02:38.607593"
     },
     {
       "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
       "summary": "Thousands of satellites are tightly packed into low Earth orbit, and the overcrowding is only growing. Scientists have created a simple warning system called the CRASH Clock that answers a basic question: If satellites suddenly couldn’t steer around one another, how much time would elapse before the...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 23:04:38 +0000",
-      "collected_at": "2026-01-25T01:03:58.902174"
+      "collected_at": "2026-01-26T01:02:38.607392"
     },
     {
       "title": "How to Compute With Electron Waves",
       "summary": "Much has been made of the excessive power demands of AI, but solutions are sparse. This has led engineers to consider completely new paradigms in computing: optical, thermodynamic, reversible—the list goes on. Many of these approaches require a change in the materials used for computation, which wou...",
       "url": "https://spectrum.ieee.org/plasmon-computing-device",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-25T01:03:58.902000"
+      "collected_at": "2026-01-26T01:02:38.607164"
     }
   ]
 }
