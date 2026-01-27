@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-01-26T01:02:39.611546",
+  "last_updated": "2026-01-27T01:01:29.226774",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "The Ultimate 3D Integration Would Cook Future GPUs",
-      "summary": "Peek inside the package of AMD’s or Nvidia’s most advanced AI products, and you’ll find a familiar arrangement: The GPU is flanked on two sides by high-bandwidth memory (HBM), the most advanced memory chips available. These memory chips are placed as close as possible to the computing chips they ser...",
-      "url": "https://spectrum.ieee.org/hbm-on-gpu-imec-iedm",
-      "date": "01月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 14 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-26T01:02:38.609046"
-    },
     {
       "title": "Lessons for Your Career From 2025",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!As we enter 2026, we’re taking a look back at the top p...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 18:32:11 +0000",
-      "collected_at": "2026-01-26T01:02:38.608928"
+      "collected_at": "2026-01-27T01:01:28.224551"
     },
     {
       "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-26T01:02:38.608825"
+      "collected_at": "2026-01-27T01:01:28.224448"
     },
     {
       "title": "Video Friday: Bipedal Robot Stops Itself From Falling",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 18:30:02 +0000",
-      "collected_at": "2026-01-26T01:02:38.608660"
+      "collected_at": "2026-01-27T01:01:28.224286"
     },
     {
       "title": "IEEE Medal of Honor Recipient Is Nvidia’s CEO Jensen Huang",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-26T01:02:38.608481"
+      "collected_at": "2026-01-27T01:01:28.224112"
     },
     {
       "title": "Are There Enough Engineers for the AI Boom?",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-26T01:02:38.608394"
+      "collected_at": "2026-01-27T01:01:28.224025"
     },
     {
       "title": "NASA Demolishes Historic Test Stands That Built the Space Age",
@@ -71,57 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 18 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-26T01:02:38.608233"
+      "collected_at": "2026-01-27T01:01:28.223867"
     },
     {
       "title": "The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages",
       "summary": "Isolation dictates where we go to see into the far reaches of the universe. The Atacama Desert of Chile, the summit of Mauna Kea in Hawaii, the vast expanse of the Australian Outback—these are where astronomers and engineers have built the great observatories and radio telescopes of modern times. Th...",
       "url": "https://spectrum.ieee.org/lunar-radio-telescope",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-26T01:02:38.608129"
+      "collected_at": "2026-01-27T01:01:28.223766"
     },
     {
       "title": "From Vietnam Boat Refugee to Reliability Engineering Scholar",
       "summary": "Hoang Pham has spent his career trying to ensure that some of the world’s most critical systems don’t fail, including commercial aircraft engines, nuclear facilities, and massive data centers that underpin AI and cloud computing.A professor of industrial and systems engineering at Rutgers University...",
       "url": "https://spectrum.ieee.org/boat-refugee-reliability-engineering-scholar",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-26T01:02:38.607767"
+      "collected_at": "2026-01-27T01:01:28.223395"
     },
     {
       "title": "Why AI Keeps Falling for Prompt Injection Attacks",
       "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
       "url": "https://spectrum.ieee.org/prompt-injection-attack",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-26T01:02:38.607593"
+      "collected_at": "2026-01-27T01:01:28.223226"
     },
     {
       "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
       "summary": "Thousands of satellites are tightly packed into low Earth orbit, and the overcrowding is only growing. Scientists have created a simple warning system called the CRASH Clock that answers a basic question: If satellites suddenly couldn’t steer around one another, how much time would elapse before the...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 23:04:38 +0000",
-      "collected_at": "2026-01-26T01:02:38.607392"
+      "collected_at": "2026-01-27T01:01:28.223033"
     },
     {
       "title": "How to Compute With Electron Waves",
       "summary": "Much has been made of the excessive power demands of AI, but solutions are sparse. This has led engineers to consider completely new paradigms in computing: optical, thermodynamic, reversible—the list goes on. Many of these approaches require a change in the materials used for computation, which wou...",
       "url": "https://spectrum.ieee.org/plasmon-computing-device",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-26T01:02:38.607164"
+      "collected_at": "2026-01-27T01:01:28.222841"
+    },
+    {
+      "title": "Thinking of Joining IEEE’s Leadership Ranks?",
+      "summary": "Strong leadership is essential for IEEE to advance technology for humanity. The organization depends on the dedicated service of its volunteers to advance its mission. Each year, the Nominations and Appointments (N&A) Committee is responsible for recommending candidates to the Board of Directors and...",
+      "url": "https://spectrum.ieee.org/ieee-leadership-nominations-2027",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 22 Jan 2026 19:00:03 +0000",
+      "collected_at": "2026-01-27T01:01:28.222701"
     }
   ]
 }
