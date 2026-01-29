@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-01-28T00:58:29.739216",
+  "last_updated": "2026-01-29T01:06:33.487544",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How to Gain Footing in AI as the Ground Keeps Shifting",
-      "summary": "The newly released Preparing for a Career as an AI Developer guide from the IEEE Computer Society argues that the most durable path to artificial intelligence jobs is not defined by mastering any single tool or model. Instead, it depends on cultivating a balanced mix of technical fundamentals and hu...",
-      "url": "https://spectrum.ieee.org/ai-developer-career-advice",
-      "date": "01月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 15 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-28T00:58:28.736958"
-    },
-    {
-      "title": "Video Friday: Bipedal Robot Stops Itself From Falling",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Th...",
-      "url": "https://spectrum.ieee.org/video-friday-bipedal-robot",
-      "date": "01月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 16 Jan 2026 18:30:02 +0000",
-      "collected_at": "2026-01-28T00:58:28.736801"
-    },
-    {
-      "title": "IEEE Medal of Honor Recipient Is Nvidia’s CEO Jensen Huang",
-      "summary": "Jensen Huang, founder and CEO of Nvidia, is the 2026 IEEE Medal of Honor recipient. The IEEE honorary member is being recognized for his “leadership in the development of graphics processing units and their application to scientific computing and artificial intelligence.” The news was announced on 6...",
-      "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
-      "date": "01月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 16 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-01-28T00:58:28.736622"
-    },
     {
       "title": "Are There Enough Engineers for the AI Boom?",
       "summary": "The AI data center construction boom continues unabated, with the demand for power in the United States potentially reaching 106 gigawatts by 2035, according to a December report from research and analysis company BloombergNEF. That’s a 36 percent jump from the company’s previous outlook, published ...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-28T00:58:28.736543"
+      "collected_at": "2026-01-29T01:06:32.485283"
     },
     {
       "title": "NASA Demolishes Historic Test Stands That Built the Space Age",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 18 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-28T00:58:28.736406"
+      "collected_at": "2026-01-29T01:06:32.485115"
     },
     {
       "title": "The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-28T00:58:28.736317"
+      "collected_at": "2026-01-29T01:06:32.485019"
     },
     {
       "title": "From Vietnam Boat Refugee to Reliability Engineering Scholar",
@@ -71,57 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 20 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-28T00:58:28.735892"
+      "collected_at": "2026-01-29T01:06:32.484638"
     },
     {
       "title": "Why AI Keeps Falling for Prompt Injection Attacks",
       "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
       "url": "https://spectrum.ieee.org/prompt-injection-attack",
-      "date": "6日前",
+      "date": "01月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-28T00:58:28.735713"
+      "collected_at": "2026-01-29T01:06:32.484459"
     },
     {
       "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
       "summary": "Thousands of satellites are tightly packed into low Earth orbit, and the overcrowding is only growing. Scientists have created a simple warning system called the CRASH Clock that answers a basic question: If satellites suddenly couldn’t steer around one another, how much time would elapse before the...",
       "url": "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
-      "date": "6日前",
+      "date": "01月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 23:04:38 +0000",
-      "collected_at": "2026-01-28T00:58:28.735522"
+      "collected_at": "2026-01-29T01:06:32.484248"
     },
     {
       "title": "How to Compute With Electron Waves",
       "summary": "Much has been made of the excessive power demands of AI, but solutions are sparse. This has led engineers to consider completely new paradigms in computing: optical, thermodynamic, reversible—the list goes on. Many of these approaches require a change in the materials used for computation, which wou...",
       "url": "https://spectrum.ieee.org/plasmon-computing-device",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-28T00:58:28.735351"
+      "collected_at": "2026-01-29T01:06:32.484050"
     },
     {
       "title": "Thinking of Joining IEEE’s Leadership Ranks?",
       "summary": "Strong leadership is essential for IEEE to advance technology for humanity. The organization depends on the dedicated service of its volunteers to advance its mission. Each year, the Nominations and Appointments (N&A) Committee is responsible for recommending candidates to the Board of Directors and...",
       "url": "https://spectrum.ieee.org/ieee-leadership-nominations-2027",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-28T00:58:28.735214"
+      "collected_at": "2026-01-29T01:06:32.483910"
     },
     {
       "title": "Video Friday: Humans and Robots Team Up in Battlefield Triage",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! On...",
       "url": "https://spectrum.ieee.org/darpa-triage-challenge-robot",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-28T00:58:28.735096"
+      "collected_at": "2026-01-29T01:06:32.483803"
+    },
+    {
+      "title": "The Project G Stereo Was the Definition of Groovy",
+      "summary": "Dizzy Gillespie was a fan. Frank Sinatra bought one for himself and gave them to his Rat Pack friends. Hugh Hefner acquired one for the Playboy Mansion. Clairtone Sound Corp.’s Project G high-fidelity stereo system, which debuted in 1964 at the National Furniture Show in Chicago, was squarely aimed ...",
+      "url": "https://spectrum.ieee.org/project-g-stereo",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 24 Jan 2026 14:00:02 +0000",
+      "collected_at": "2026-01-29T01:06:32.483694"
+    },
+    {
+      "title": "IEEE Brings Hands-On STEM Activities to India’s Rural Areas",
+      "summary": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed.In the far northeastern corner of India—where villages are located in for...",
+      "url": "https://spectrum.ieee.org/ieee-stem-activities-rural-india",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 26 Jan 2026 19:00:03 +0000",
+      "collected_at": "2026-01-29T01:06:32.483496"
+    },
+    {
+      "title": "How Norway Accomplished a Near-Total EV Transition",
+      "summary": "More than 97 percent of the new cars Norwegians registered in November 2025 were electric, almost reaching the country’s goal of 100 percent. As a result, the government has begun removing some of the many carrots it used to encourage its successful EV transition. Cecilie Knibe Kroglund, state secre...",
+      "url": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 27 Jan 2026 14:00:03 +0000",
+      "collected_at": "2026-01-29T01:06:32.483325"
     }
   ]
 }
