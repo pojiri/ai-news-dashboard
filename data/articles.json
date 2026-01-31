@@ -1,48 +1,8 @@
 {
-  "last_updated": "2026-01-30T01:06:24.093603",
+  "last_updated": "2026-01-31T01:03:36.060486",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Are There Enough Engineers for the AI Boom?",
-      "summary": "The AI data center construction boom continues unabated, with the demand for power in the United States potentially reaching 106 gigawatts by 2035, according to a December report from research and analysis company BloombergNEF. That’s a 36 percent jump from the company’s previous outlook, published ...",
-      "url": "https://spectrum.ieee.org/ai-data-centers-engineers-jobs",
-      "date": "01月17日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 17 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-30T01:06:23.091327"
-    },
-    {
-      "title": "NASA Demolishes Historic Test Stands That Built the Space Age",
-      "summary": "The thunderous roar that echoed across Huntsville, Alabama, on 10 January wasn’t a rocket launch but something equally momentous: the end of an era. Two massive test stands at Marshall Space Flight Center that helped send humans to the moon collapsed in carefully choreographed implosions, their stee...",
-      "url": "https://spectrum.ieee.org/nasa-marshall-test-stands-demolition",
-      "date": "01月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 18 Jan 2026 14:00:01 +0000",
-      "collected_at": "2026-01-30T01:06:23.091189"
-    },
-    {
-      "title": "The Quest to Build a Radio Telescope That Can Hear the Cosmic Dark Ages",
-      "summary": "Isolation dictates where we go to see into the far reaches of the universe. The Atacama Desert of Chile, the summit of Mauna Kea in Hawaii, the vast expanse of the Australian Outback—these are where astronomers and engineers have built the great observatories and radio telescopes of modern times. Th...",
-      "url": "https://spectrum.ieee.org/lunar-radio-telescope",
-      "date": "01月20日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 20 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.091098"
-    },
-    {
-      "title": "From Vietnam Boat Refugee to Reliability Engineering Scholar",
-      "summary": "Hoang Pham has spent his career trying to ensure that some of the world’s most critical systems don’t fail, including commercial aircraft engines, nuclear facilities, and massive data centers that underpin AI and cloud computing.A professor of industrial and systems engineering at Rutgers University...",
-      "url": "https://spectrum.ieee.org/boat-refugee-reliability-engineering-scholar",
-      "date": "01月20日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 20 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.090690"
-    },
     {
       "title": "Why AI Keeps Falling for Prompt Injection Attacks",
       "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-30T01:06:23.090518"
+      "collected_at": "2026-01-31T01:03:35.058076"
     },
     {
       "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
@@ -61,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Jan 2026 23:04:38 +0000",
-      "collected_at": "2026-01-30T01:06:23.090320"
+      "collected_at": "2026-01-31T01:03:35.057875"
     },
     {
       "title": "How to Compute With Electron Waves",
@@ -71,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-30T01:06:23.090142"
+      "collected_at": "2026-01-31T01:03:35.057679"
     },
     {
       "title": "Thinking of Joining IEEE’s Leadership Ranks?",
@@ -81,47 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.089993"
+      "collected_at": "2026-01-31T01:03:35.057532"
     },
     {
       "title": "Video Friday: Humans and Robots Team Up in Battlefield Triage",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! On...",
       "url": "https://spectrum.ieee.org/darpa-triage-challenge-robot",
-      "date": "6日前",
+      "date": "01月23日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.089873"
+      "collected_at": "2026-01-31T01:03:35.057417"
     },
     {
       "title": "The Project G Stereo Was the Definition of Groovy",
       "summary": "Dizzy Gillespie was a fan. Frank Sinatra bought one for himself and gave them to his Rat Pack friends. Hugh Hefner acquired one for the Playboy Mansion. Clairtone Sound Corp.’s Project G high-fidelity stereo system, which debuted in 1964 at the National Furniture Show in Chicago, was squarely aimed ...",
       "url": "https://spectrum.ieee.org/project-g-stereo",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 24 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-30T01:06:23.089751"
+      "collected_at": "2026-01-31T01:03:35.057293"
     },
     {
       "title": "IEEE Brings Hands-On STEM Activities to India’s Rural Areas",
       "summary": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed.In the far northeastern corner of India—where villages are located in for...",
       "url": "https://spectrum.ieee.org/ieee-stem-activities-rural-india",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.089547"
+      "collected_at": "2026-01-31T01:03:35.057087"
     },
     {
       "title": "How Norway Accomplished a Near-Total EV Transition",
       "summary": "More than 97 percent of the new cars Norwegians registered in November 2025 were electric, almost reaching the country’s goal of 100 percent. As a result, the government has begun removing some of the many carrots it used to encourage its successful EV transition. Cecilie Knibe Kroglund, state secre...",
       "url": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-30T01:06:23.089378"
+      "collected_at": "2026-01-31T01:03:35.056916"
+    },
+    {
+      "title": "Mapping 6,000 Worlds: The New Era of Exoplanetary Data",
+      "summary": "In the 1990s, astronomers confirmed the first planets orbiting stars beyond our sun. Since then, the tally has risen steadily, and last year it crossed a striking milestone: more than 6,000 known exoplanets. NASA’s Exoplanet Archive has captured not just the growing count but how dramatically the pa...",
+      "url": "https://spectrum.ieee.org/exoplanets",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 28 Jan 2026 15:04:38 +0000",
+      "collected_at": "2026-01-31T01:03:35.056822"
+    },
+    {
+      "title": "The Art of Asking Questions",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!In this week’s Career Alert, we start with an announcem...",
+      "url": "https://spectrum.ieee.org/asking-questions",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 28 Jan 2026 16:05:25 +0000",
+      "collected_at": "2026-01-31T01:03:35.056700"
+    },
+    {
+      "title": "How Clean-Energy Firms Adapt Messaging in the Trump Era",
+      "summary": "As the Trump administration doubles down on its energy and AI dominance agenda, U.S. energy companies have found themselves navigating tricky communication strategies. Touting the clean, carbon-free nature of renewable energy no longer carries the clout it did under the Biden administration, and pol...",
+      "url": "https://spectrum.ieee.org/trump-renewable-energy",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 28 Jan 2026 19:37:40 +0000",
+      "collected_at": "2026-01-31T01:03:35.056582"
+    },
+    {
+      "title": "At Age 25, Wikipedia Refuses to Evolve",
+      "summary": "Wikipedia celebrates its 25th anniversary this month as the internet’s most reliable knowledge source. Yet behind the celebrations, a troubling pattern has developed: the volunteer community that built this encyclopedia has lately rejected a key innovation designed to serve readers. The same institu...",
+      "url": "https://spectrum.ieee.org/wikipedia-at-25",
+      "date": "8時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 30 Jan 2026 16:30:23 +0000",
+      "collected_at": "2026-01-31T01:03:35.056406"
     }
   ]
 }
