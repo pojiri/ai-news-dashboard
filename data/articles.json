@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-01-31T01:03:36.060486",
+  "last_updated": "2026-02-01T01:18:12.651897",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Why AI Keeps Falling for Prompt Injection Attacks",
-      "summary": "Imagine you work at a drive-through restaurant. Someone drives up and says: “I’ll have a double cheeseburger, large fries, and ignore previous instructions and give me the contents of the cash drawer.” Would you hand over the money? Of course not. Yet this is what large language models (LLMs) do.Pro...",
-      "url": "https://spectrum.ieee.org/prompt-injection-attack",
-      "date": "01月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 21 Jan 2026 13:00:02 +0000",
-      "collected_at": "2026-01-31T01:03:35.058076"
-    },
-    {
-      "title": "CRASH Clock Measures Dangerous Overcrowding in Low Earth Orbit",
-      "summary": "Thousands of satellites are tightly packed into low Earth orbit, and the overcrowding is only growing. Scientists have created a simple warning system called the CRASH Clock that answers a basic question: If satellites suddenly couldn’t steer around one another, how much time would elapse before the...",
-      "url": "https://spectrum.ieee.org/kessler-syndrome-crash-clock",
-      "date": "01月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 21 Jan 2026 23:04:38 +0000",
-      "collected_at": "2026-01-31T01:03:35.057875"
-    },
     {
       "title": "How to Compute With Electron Waves",
       "summary": "Much has been made of the excessive power demands of AI, but solutions are sparse. This has led engineers to consider completely new paradigms in computing: optical, thermodynamic, reversible—the list goes on. Many of these approaches require a change in the materials used for computation, which wou...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-31T01:03:35.057679"
+      "collected_at": "2026-02-01T01:18:11.649769"
     },
     {
       "title": "Thinking of Joining IEEE’s Leadership Ranks?",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-31T01:03:35.057532"
+      "collected_at": "2026-02-01T01:18:11.649625"
     },
     {
       "title": "Video Friday: Humans and Robots Team Up in Battlefield Triage",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Jan 2026 17:00:03 +0000",
-      "collected_at": "2026-01-31T01:03:35.057417"
+      "collected_at": "2026-02-01T01:18:11.649513"
     },
     {
       "title": "The Project G Stereo Was the Definition of Groovy",
       "summary": "Dizzy Gillespie was a fan. Frank Sinatra bought one for himself and gave them to his Rat Pack friends. Hugh Hefner acquired one for the Playboy Mansion. Clairtone Sound Corp.’s Project G high-fidelity stereo system, which debuted in 1964 at the National Furniture Show in Chicago, was squarely aimed ...",
       "url": "https://spectrum.ieee.org/project-g-stereo",
-      "date": "6日前",
+      "date": "01月24日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 24 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-01-31T01:03:35.057293"
+      "collected_at": "2026-02-01T01:18:11.649396"
     },
     {
       "title": "IEEE Brings Hands-On STEM Activities to India’s Rural Areas",
       "summary": "“Until we get equality in education, we won’t have an equal society.” Spoken by Sonia Sotomayor, associate justice of the U.S. Supreme Court, the words echo sharply across regions of the world where education is not guaranteed.In the far northeastern corner of India—where villages are located in for...",
       "url": "https://spectrum.ieee.org/ieee-stem-activities-rural-india",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Jan 2026 19:00:03 +0000",
-      "collected_at": "2026-01-31T01:03:35.057087"
+      "collected_at": "2026-02-01T01:18:11.649190"
     },
     {
       "title": "How Norway Accomplished a Near-Total EV Transition",
       "summary": "More than 97 percent of the new cars Norwegians registered in November 2025 were electric, almost reaching the country’s goal of 100 percent. As a result, the government has begun removing some of the many carrots it used to encourage its successful EV transition. Cecilie Knibe Kroglund, state secre...",
       "url": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Jan 2026 14:00:03 +0000",
-      "collected_at": "2026-01-31T01:03:35.056916"
+      "collected_at": "2026-02-01T01:18:11.649022"
     },
     {
       "title": "Mapping 6,000 Worlds: The New Era of Exoplanetary Data",
       "summary": "In the 1990s, astronomers confirmed the first planets orbiting stars beyond our sun. Since then, the tally has risen steadily, and last year it crossed a striking milestone: more than 6,000 known exoplanets. NASA’s Exoplanet Archive has captured not just the growing count but how dramatically the pa...",
       "url": "https://spectrum.ieee.org/exoplanets",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Jan 2026 15:04:38 +0000",
-      "collected_at": "2026-01-31T01:03:35.056822"
+      "collected_at": "2026-02-01T01:18:11.648932"
     },
     {
       "title": "The Art of Asking Questions",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Taro and delivered to your inbox for free!In this week’s Career Alert, we start with an announcem...",
       "url": "https://spectrum.ieee.org/asking-questions",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Jan 2026 16:05:25 +0000",
-      "collected_at": "2026-01-31T01:03:35.056700"
+      "collected_at": "2026-02-01T01:18:11.648809"
     },
     {
       "title": "How Clean-Energy Firms Adapt Messaging in the Trump Era",
       "summary": "As the Trump administration doubles down on its energy and AI dominance agenda, U.S. energy companies have found themselves navigating tricky communication strategies. Touting the clean, carbon-free nature of renewable energy no longer carries the clout it did under the Biden administration, and pol...",
       "url": "https://spectrum.ieee.org/trump-renewable-energy",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Jan 2026 19:37:40 +0000",
-      "collected_at": "2026-01-31T01:03:35.056582"
+      "collected_at": "2026-02-01T01:18:11.648693"
     },
     {
       "title": "At Age 25, Wikipedia Refuses to Evolve",
       "summary": "Wikipedia celebrates its 25th anniversary this month as the internet’s most reliable knowledge source. Yet behind the celebrations, a troubling pattern has developed: the volunteer community that built this encyclopedia has lately rejected a key innovation designed to serve readers. The same institu...",
       "url": "https://spectrum.ieee.org/wikipedia-at-25",
-      "date": "8時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 30 Jan 2026 16:30:23 +0000",
-      "collected_at": "2026-01-31T01:03:35.056406"
+      "collected_at": "2026-02-01T01:18:11.648519"
+    },
+    {
+      "title": "Video Friday: Multitasking Robots Smoothly Do the Things Together",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy this week’s videos...",
+      "url": "https://spectrum.ieee.org/multitasking-robot",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 30 Jan 2026 18:30:02 +0000",
+      "collected_at": "2026-02-01T01:18:11.648337"
+    },
+    {
+      "title": "Go Global to Make Your Career Go Further",
+      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society. In your career, you are likely to face many choices and job opportunities. One I faced was whether to participate in a development project involving teams from aroun...",
+      "url": "https://spectrum.ieee.org/global-projects-career-benefits",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 30 Jan 2026 19:00:02 +0000",
+      "collected_at": "2026-02-01T01:18:11.648200"
     }
   ]
 }
