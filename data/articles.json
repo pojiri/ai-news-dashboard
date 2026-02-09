@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T01:28:28.494513",
+  "last_updated": "2026-02-09T01:12:30.946045",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 30 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.492024"
+      "collected_at": "2026-02-09T01:12:29.943707"
     },
     {
       "title": "Ode to Very Small Devices",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 30 Jan 2026 19:02:06 +0000",
-      "collected_at": "2026-02-08T01:28:27.491892"
+      "collected_at": "2026-02-09T01:12:29.943573"
     },
     {
       "title": "Explore the Stratosphere With a DIY Pico balloon",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.491808"
+      "collected_at": "2026-02-09T01:12:29.943489"
     },
     {
       "title": "How YouTube and Adhesive Tape Are Disrupting Assistive Technology",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Jan 2026 15:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.491671"
+      "collected_at": "2026-02-09T01:12:29.943343"
     },
     {
       "title": "LuSEE-Night: See You on the Far Side of the Moon",
       "summary": "As a kid in the 1970s, I watched the Apollo moon missions on TV, drawn like a curious moth to the cathode-ray tube’s glow. The English band Pink Floyd blared through the speakers of my mom’s Oldsmobile Cutlass Supreme, beckoning us to the dark side of the moon.The far side of the moon, the term most...",
       "url": "https://spectrum.ieee.org/radio-telescope",
-      "date": "6日前",
+      "date": "02月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Feb 2026 14:00:01 +0000",
-      "collected_at": "2026-02-08T01:28:27.491464"
+      "collected_at": "2026-02-09T01:12:29.943135"
     },
     {
       "title": "Don’t Regulate AI Models. Regulate AI Use",
       "summary": "At times, it can seem like efforts to regulate and rein in AI are everything, everywhere, all at once.China issued the first AI-specific regulations in 2021. The focus is squarely on providers and content governance, enforced through platform control and recordkeeping requirements.  In Europe, the E...",
       "url": "https://spectrum.ieee.org/ai-model-regulation",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 15:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.491378"
+      "collected_at": "2026-02-09T01:12:29.943037"
     },
     {
       "title": "IEEE Considers Safety Guidelines for Neurotech Consumer Products",
       "summary": "Nonmedical devices that read brainwaves, such as smart headbands, headphones, and glasses, are becoming more popular among consumers. The products claim to make users more productive, creative, and healthier. IEEE Spectrum previewed several of these smart wearables that were introduced at this year’...",
       "url": "https://spectrum.ieee.org/ieee-safety-guidelines-neurotech",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 22:00:04 +0000",
-      "collected_at": "2026-02-08T01:28:27.491150"
+      "collected_at": "2026-02-09T01:12:29.942810"
     },
     {
       "title": "AI Hunts for the Next Big Thing in Physics",
       "summary": "In 1930, a young physicist named Carl D. Anderson was tasked by his mentor with measuring the energies of cosmic rays—particles arriving at high speed from outer space. Anderson built an improved version of a cloud chamber, a device that visually records the trajectories of particles. In 1932, he sa...",
       "url": "https://spectrum.ieee.org/particle-physics-ai",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.491029"
+      "collected_at": "2026-02-09T01:12:29.942687"
     },
     {
       "title": "Breaking Boundaries in Wireless Communication",
       "summary": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-...",
       "url": "https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 15:58:27 +0000",
-      "collected_at": "2026-02-08T01:28:27.490621"
+      "collected_at": "2026-02-09T01:12:29.942272"
     },
     {
       "title": "Milan-Cortina Winter Olympics Debut Next-Generation Sports Smarts",
       "summary": "From 6-22 February, the 2026 Winter Olympics in Milan-Cortina d’Ampezzo, Italy will feature not just the world’s top winter athletes but also some of the most advanced sports technologies today. At the first Cortina Olympics in 1956, the Swiss company Omega—based in Biel/Bienne—introduced electronic...",
       "url": "https://spectrum.ieee.org/winter-olympics-2026-tech",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 17:03:54 +0000",
-      "collected_at": "2026-02-08T01:28:27.490578"
+      "collected_at": "2026-02-09T01:12:29.942229"
     },
     {
       "title": "Paying Tribute to Finite Element Field Computation Pioneer",
       "summary": "MVK Chari, a pioneer in finite element field computation, died on 3 December. The IEEE Life Fellow was 97.Chari developed a finite element method (FEM) for analyzing nonlinear electromagnetic fields—which is crucial for the design of electric machines. The technique is used to obtain approximate sol...",
       "url": "https://spectrum.ieee.org/tribute-finite-element-field-computation-pioneer",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.490437"
+      "collected_at": "2026-02-09T01:12:29.942082"
     },
     {
       "title": "“Quantum Twins” Simulate What Supercomputers Can’t",
       "summary": "While quantum computers continue to slowly grind toward usefulness, some are pursuing a different approach—analog quantum simulation. This path doesn’t offer complete control of single bits of quantum information, known as qubits—it is not a universal quantum computer. Instead, quantum simulators di...",
       "url": "https://spectrum.ieee.org/quantum-twins",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 05 Feb 2026 16:00:02 +0000",
-      "collected_at": "2026-02-08T01:28:27.490330"
+      "collected_at": "2026-02-09T01:12:29.941962"
     }
   ]
 }
