@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-02-09T01:12:30.946045",
+  "last_updated": "2026-02-10T01:21:05.743404",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Go Global to Make Your Career Go Further",
-      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society. In your career, you are likely to face many choices and job opportunities. One I faced was whether to participate in a development project involving teams from aroun...",
-      "url": "https://spectrum.ieee.org/global-projects-career-benefits",
-      "date": "01月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 30 Jan 2026 19:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.943707"
-    },
-    {
-      "title": "Ode to Very Small Devices",
-      "summary": "As fairies for the Irish or leeks for Welsh,it’s the secret lives of small hidden machines,their junctures, and networks that inspire me:Mystic hidden functionaries that makeour made world live, brave little servo motors,whose couplers, whose eccentric fire-filledsensors are encased in bakelite with...",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-ode",
-      "date": "01月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 30 Jan 2026 19:02:06 +0000",
-      "collected_at": "2026-02-09T01:12:29.943573"
-    },
     {
       "title": "Explore the Stratosphere With a DIY Pico balloon",
       "summary": "There’s an interesting development in amateur ballooning: using so-called superpressure balloons, which float high in the atmosphere indefinitely rather than simply going up and up and then popping like a normal weather balloon. Superpressure balloons can last for months and travel long distances, p...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.943489"
+      "collected_at": "2026-02-10T01:21:04.741029"
     },
     {
       "title": "How YouTube and Adhesive Tape Are Disrupting Assistive Technology",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Jan 2026 15:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.943343"
+      "collected_at": "2026-02-10T01:21:04.740896"
     },
     {
       "title": "LuSEE-Night: See You on the Far Side of the Moon",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Feb 2026 14:00:01 +0000",
-      "collected_at": "2026-02-09T01:12:29.943135"
+      "collected_at": "2026-02-10T01:21:04.740698"
     },
     {
       "title": "Don’t Regulate AI Models. Regulate AI Use",
       "summary": "At times, it can seem like efforts to regulate and rein in AI are everything, everywhere, all at once.China issued the first AI-specific regulations in 2021. The focus is squarely on providers and content governance, enforced through platform control and recordkeeping requirements.  In Europe, the E...",
       "url": "https://spectrum.ieee.org/ai-model-regulation",
-      "date": "6日前",
+      "date": "02月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 15:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.943037"
+      "collected_at": "2026-02-10T01:21:04.740607"
     },
     {
       "title": "IEEE Considers Safety Guidelines for Neurotech Consumer Products",
       "summary": "Nonmedical devices that read brainwaves, such as smart headbands, headphones, and glasses, are becoming more popular among consumers. The products claim to make users more productive, creative, and healthier. IEEE Spectrum previewed several of these smart wearables that were introduced at this year’...",
       "url": "https://spectrum.ieee.org/ieee-safety-guidelines-neurotech",
-      "date": "6日前",
+      "date": "02月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 22:00:04 +0000",
-      "collected_at": "2026-02-09T01:12:29.942810"
+      "collected_at": "2026-02-10T01:21:04.740379"
     },
     {
       "title": "AI Hunts for the Next Big Thing in Physics",
       "summary": "In 1930, a young physicist named Carl D. Anderson was tasked by his mentor with measuring the energies of cosmic rays—particles arriving at high speed from outer space. Anderson built an improved version of a cloud chamber, a device that visually records the trajectories of particles. In 1932, he sa...",
       "url": "https://spectrum.ieee.org/particle-physics-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.942687"
+      "collected_at": "2026-02-10T01:21:04.740249"
     },
     {
       "title": "Breaking Boundaries in Wireless Communication",
       "summary": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-...",
       "url": "https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 15:58:27 +0000",
-      "collected_at": "2026-02-09T01:12:29.942272"
+      "collected_at": "2026-02-10T01:21:04.739849"
     },
     {
       "title": "Milan-Cortina Winter Olympics Debut Next-Generation Sports Smarts",
-      "summary": "From 6-22 February, the 2026 Winter Olympics in Milan-Cortina d’Ampezzo, Italy will feature not just the world’s top winter athletes but also some of the most advanced sports technologies today. At the first Cortina Olympics in 1956, the Swiss company Omega—based in Biel/Bienne—introduced electronic...",
+      "summary": "From 6–22 February, the 2026 Winter Olympics in Milan-Cortina d’Ampezzo, Italy, will feature not just the world’s top winter athletes but also some of the most advanced sports technologies today. At the first Cortina Olympics, in 1956, the Swiss company Omega—based in Biel/Bienne—introduced electron...",
       "url": "https://spectrum.ieee.org/winter-olympics-2026-tech",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 17:03:54 +0000",
-      "collected_at": "2026-02-09T01:12:29.942229"
+      "collected_at": "2026-02-10T01:21:04.739806"
     },
     {
       "title": "Paying Tribute to Finite Element Field Computation Pioneer",
       "summary": "MVK Chari, a pioneer in finite element field computation, died on 3 December. The IEEE Life Fellow was 97.Chari developed a finite element method (FEM) for analyzing nonlinear electromagnetic fields—which is crucial for the design of electric machines. The technique is used to obtain approximate sol...",
       "url": "https://spectrum.ieee.org/tribute-finite-element-field-computation-pioneer",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.942082"
+      "collected_at": "2026-02-10T01:21:04.739664"
     },
     {
       "title": "“Quantum Twins” Simulate What Supercomputers Can’t",
       "summary": "While quantum computers continue to slowly grind toward usefulness, some are pursuing a different approach—analog quantum simulation. This path doesn’t offer complete control of single bits of quantum information, known as qubits—it is not a universal quantum computer. Instead, quantum simulators di...",
       "url": "https://spectrum.ieee.org/quantum-twins",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 05 Feb 2026 16:00:02 +0000",
-      "collected_at": "2026-02-09T01:12:29.941962"
+      "collected_at": "2026-02-10T01:21:04.739535"
+    },
+    {
+      "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! To...",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 06 Feb 2026 17:00:02 +0000",
+      "collected_at": "2026-02-10T01:21:04.739422"
+    },
+    {
+      "title": "IEEE Online Mini-MBA Aims to Fill Leadership Skills Gaps in AI",
+      "summary": "Boardroom priorities are shifting from financial metrics toward technical oversight. Although market share and operational efficiency remain business bedrocks, executives also must now manage the complexities of machine learning, the integrity of their data systems, and the risks of algorithmic bias...",
+      "url": "https://spectrum.ieee.org/ieee-online-mini-ai-mba",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 06 Feb 2026 19:00:03 +0000",
+      "collected_at": "2026-02-10T01:21:04.739268"
     }
   ]
 }
