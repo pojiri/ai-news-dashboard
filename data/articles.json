@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-02-10T01:21:05.743404",
+  "last_updated": "2026-02-11T01:19:12.842811",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Explore the Stratosphere With a DIY Pico balloon",
-      "summary": "There’s an interesting development in amateur ballooning: using so-called superpressure balloons, which float high in the atmosphere indefinitely rather than simply going up and up and then popping like a normal weather balloon. Superpressure balloons can last for months and travel long distances, p...",
-      "url": "https://spectrum.ieee.org/explore-stratosphere-diy-pico-balloon",
-      "date": "01月31日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 31 Jan 2026 14:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.741029"
-    },
     {
       "title": "How YouTube and Adhesive Tape Are Disrupting Assistive Technology",
       "summary": "Assistive technology is expensive, and many people with disabilities live on fixed incomes. Disabled assistive tech users also must contend with equipment that was often designed without any capacity to be repaired or modified. But assistive tech users ultimately need the functionality they need—a w...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Jan 2026 15:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.740896"
+      "collected_at": "2026-02-11T01:19:11.840525"
     },
     {
       "title": "LuSEE-Night: See You on the Far Side of the Moon",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Feb 2026 14:00:01 +0000",
-      "collected_at": "2026-02-10T01:21:04.740698"
+      "collected_at": "2026-02-11T01:19:11.840316"
     },
     {
       "title": "Don’t Regulate AI Models. Regulate AI Use",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 15:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.740607"
+      "collected_at": "2026-02-11T01:19:11.840234"
     },
     {
       "title": "IEEE Considers Safety Guidelines for Neurotech Consumer Products",
@@ -51,77 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Feb 2026 22:00:04 +0000",
-      "collected_at": "2026-02-10T01:21:04.740379"
+      "collected_at": "2026-02-11T01:19:11.840021"
     },
     {
       "title": "AI Hunts for the Next Big Thing in Physics",
       "summary": "In 1930, a young physicist named Carl D. Anderson was tasked by his mentor with measuring the energies of cosmic rays—particles arriving at high speed from outer space. Anderson built an improved version of a cloud chamber, a device that visually records the trajectories of particles. In 1932, he sa...",
       "url": "https://spectrum.ieee.org/particle-physics-ai",
-      "date": "6日前",
+      "date": "02月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.740249"
+      "collected_at": "2026-02-11T01:19:11.839899"
     },
     {
       "title": "Breaking Boundaries in Wireless Communication",
       "summary": "This paper discusses how RF propagation simulations empower engineers to test numerous real-world use cases in far less time, and at lower costs, than in situ testing alone. Learn how simulations provide a powerful visual aid and offer valuable insights to improve the performance and design of body-...",
       "url": "https://content.knowledgehub.wiley.com/breaking-boundaries-in-wireless-communication-simulating-animated-on-body-rf-propagation/",
-      "date": "6日前",
+      "date": "02月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Feb 2026 15:58:27 +0000",
-      "collected_at": "2026-02-10T01:21:04.739849"
+      "collected_at": "2026-02-11T01:19:11.839439"
     },
     {
       "title": "Milan-Cortina Winter Olympics Debut Next-Generation Sports Smarts",
       "summary": "From 6–22 February, the 2026 Winter Olympics in Milan-Cortina d’Ampezzo, Italy, will feature not just the world’s top winter athletes but also some of the most advanced sports technologies today. At the first Cortina Olympics, in 1956, the Swiss company Omega—based in Biel/Bienne—introduced electron...",
       "url": "https://spectrum.ieee.org/winter-olympics-2026-tech",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 17:03:54 +0000",
-      "collected_at": "2026-02-10T01:21:04.739806"
+      "collected_at": "2026-02-11T01:19:11.839383"
     },
     {
       "title": "Paying Tribute to Finite Element Field Computation Pioneer",
       "summary": "MVK Chari, a pioneer in finite element field computation, died on 3 December. The IEEE Life Fellow was 97.Chari developed a finite element method (FEM) for analyzing nonlinear electromagnetic fields—which is crucial for the design of electric machines. The technique is used to obtain approximate sol...",
       "url": "https://spectrum.ieee.org/tribute-finite-element-field-computation-pioneer",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.739664"
+      "collected_at": "2026-02-11T01:19:11.839244"
     },
     {
       "title": "“Quantum Twins” Simulate What Supercomputers Can’t",
       "summary": "While quantum computers continue to slowly grind toward usefulness, some are pursuing a different approach—analog quantum simulation. This path doesn’t offer complete control of single bits of quantum information, known as qubits—it is not a universal quantum computer. Instead, quantum simulators di...",
       "url": "https://spectrum.ieee.org/quantum-twins",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 05 Feb 2026 16:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.739535"
+      "collected_at": "2026-02-11T01:19:11.839144"
     },
     {
       "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! To...",
       "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Feb 2026 17:00:02 +0000",
-      "collected_at": "2026-02-10T01:21:04.739422"
+      "collected_at": "2026-02-11T01:19:11.839034"
     },
     {
       "title": "IEEE Online Mini-MBA Aims to Fill Leadership Skills Gaps in AI",
       "summary": "Boardroom priorities are shifting from financial metrics toward technical oversight. Although market share and operational efficiency remain business bedrocks, executives also must now manage the complexities of machine learning, the integrity of their data systems, and the risks of algorithmic bias...",
       "url": "https://spectrum.ieee.org/ieee-online-mini-ai-mba",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-10T01:21:04.739268"
+      "collected_at": "2026-02-11T01:19:11.838876"
+    },
+    {
+      "title": "Low-Vision Programmers Can Now Design 3D Models Independently",
+      "summary": "Most 3D design software requires visual dragging and rotating—posing a challenge for blind and low-vision users. As a result, a range of hardware design, robotics, coding, and engineering work is inaccessible to interested programmers. A visually-impaired programmer might write great code. But becau...",
+      "url": "https://spectrum.ieee.org/3d-modeling-blind-programmers",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 07 Feb 2026 14:00:01 +0000",
+      "collected_at": "2026-02-11T01:19:11.838724"
     }
   ]
 }
