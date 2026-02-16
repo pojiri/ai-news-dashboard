@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-02-15T01:14:20.313441",
+  "last_updated": "2026-02-16T01:11:29.928180",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Video Friday: Autonomous Robots Learn By Doing in This Factory",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! To...",
-      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
-      "date": "02月06日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 06 Feb 2026 17:00:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.310868"
-    },
     {
       "title": "IEEE Online Mini-MBA Aims to Fill Leadership Skills Gaps in AI",
       "summary": "Boardroom priorities are shifting from financial metrics toward technical oversight. Although market share and operational efficiency remain business bedrocks, executives also must now manage the complexities of machine learning, the integrity of their data systems, and the risks of algorithmic bias...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-15T01:14:19.310706"
+      "collected_at": "2026-02-16T01:11:28.925499"
     },
     {
       "title": "Low-Vision Programmers Can Now Design 3D Models Independently",
@@ -31,97 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 07 Feb 2026 14:00:01 +0000",
-      "collected_at": "2026-02-15T01:14:19.310576"
+      "collected_at": "2026-02-16T01:11:28.925371"
     },
     {
       "title": "New Devices Might Scale the Memory Wall",
       "summary": "The hunt is on for anything that can surmount AI’s perennial memory wall–even quick models are bogged down by the time and energy needed to carry data between processor and memory. Resistive RAM (RRAM)could circumvent the wall by allowing computation to happen in the memory itself. Unfortunately, mo...",
       "url": "https://spectrum.ieee.org/ai-and-memory-wall",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 09 Feb 2026 13:00:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.310446"
+      "collected_at": "2026-02-16T01:11:28.925241"
     },
     {
       "title": "IEEE Honors Global Dream Team of Innovators",
       "summary": "Meet the recipients of the 2026 IEEE Medals—the organization’s highest-level honors. Presented on behalf of the IEEE Board of Directors, these medals recognize innovators whose work has shaped modern technology across disciplines including AI, education, and semiconductors.The medals will be present...",
       "url": "https://spectrum.ieee.org/ieee-2026-honors",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 09 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-15T01:14:19.310347"
+      "collected_at": "2026-02-16T01:11:28.925140"
     },
     {
       "title": "How and When the Memory Chip Shortage Will End",
       "summary": "If it feels these days as if everything in technology is about AI, that’s because it is. And nowhere is that more true than in the market for computer memory. Demand, and profitability, for the type of DRAM used to feed GPUs and other accelerators in AI data centers is so huge that it’s diverting aw...",
       "url": "https://spectrum.ieee.org/dram-shortage",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 10 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.310095"
+      "collected_at": "2026-02-16T01:11:28.924897"
     },
     {
       "title": "How Do You Define an AI Companion?",
       "summary": "For a different perspective on AI companions, see our Q&A with Brad Knox: How Can AI Companions Be Helpful, not Harmful?AI models intended to provide companionship for humans are on the rise. People are already frequently developing relationships with chatbots, seeking not just a personal assistant ...",
       "url": "https://spectrum.ieee.org/ai-companion-relationships",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.309892"
+      "collected_at": "2026-02-16T01:11:28.924696"
     },
     {
       "title": "How Can AI Companions Be Helpful, not Harmful?",
       "summary": "For a different perspective on AI companions, see our Q&A with Jaime Banks: How Do You Define an AI Companion?Novel technology is often a double-edged sword. New capabilities come with new risks, and artificial intelligence is certainly no exception.AI used for human companionship, for instance, pro...",
       "url": "https://spectrum.ieee.org/ai-companion-harm-benefit",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 14:30:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.309708"
+      "collected_at": "2026-02-16T01:11:28.924514"
     },
     {
       "title": "Tips for Using AI Tools in Technical Interviews",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!We’d like to introduce Brian Jenney, a senior softwa...",
       "url": "https://spectrum.ieee.org/ai-tools-interviews",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 18:15:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.309532"
+      "collected_at": "2026-02-16T01:11:28.924340"
     },
     {
       "title": "Rediscovering the Lost Legacy of Chemist Jan Czochralski",
       "summary": "During times of political turmoil, history often gets rewritten, erased, or lost. That is what happened to the legacy of Jan Czochralski, a Polish chemist whose contributions to semiconductor manufacturing were expunged after World War II.In 1916 he invented a method for growing single crystals of s...",
       "url": "https://spectrum.ieee.org/legacy-chemist-jan-czochralski",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-15T01:14:19.309402"
+      "collected_at": "2026-02-16T01:11:28.924212"
     },
     {
       "title": "What the FDA’s 2026 Update Means for Wearables",
       "summary": "As new consumer hardware and software capabilities have bumped up against medicine over the last few years, consumers and manufacturers alike have struggled with identifying the line between “wellness” products such as earbuds that can also amplify and clarify surrounding speakers’ voices and regula...",
       "url": "https://spectrum.ieee.org/fda-medical-device-rules",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-15T01:14:19.309201"
+      "collected_at": "2026-02-16T01:11:28.924023"
     },
     {
       "title": "LEDs Enter the Nanoscale",
       "summary": "MicroLEDs, with pixels just micrometers across, have long been a byword in the display world. Now, microLED-makers have begun shrinking their creations into the uncharted nano realm. In January, a startup named Polar Light Technologies unveiled prototype blue LEDs less than 500 nanometers across. Th...",
       "url": "https://spectrum.ieee.org/nanoled-research-approaches",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-15T01:14:19.309071"
+      "collected_at": "2026-02-16T01:11:28.923895"
+    },
+    {
+      "title": "Video Friday: Robot Collective Stays Alive Even When Parts Die",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! No...",
+      "url": "https://spectrum.ieee.org/video-friday-robot-collective",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 13 Feb 2026 16:30:03 +0000",
+      "collected_at": "2026-02-16T01:11:28.923730"
     }
   ]
 }
