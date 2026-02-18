@@ -1,127 +1,127 @@
 {
-  "last_updated": "2026-02-17T01:10:36.418303",
+  "last_updated": "2026-02-18T01:13:00.784064",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Low-Vision Programmers Can Now Design 3D Models Independently",
-      "summary": "Most 3D design software requires visual dragging and rotating—posing a challenge for blind and low-vision users. As a result, a range of hardware design, robotics, coding, and engineering work is inaccessible to interested programmers. A visually-impaired programmer might write great code. But becau...",
-      "url": "https://spectrum.ieee.org/3d-modeling-blind-programmers",
-      "date": "02月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 07 Feb 2026 14:00:01 +0000",
-      "collected_at": "2026-02-17T01:10:35.416415"
-    },
-    {
-      "title": "New Devices Might Scale the Memory Wall",
-      "summary": "The hunt is on for anything that can surmount AI’s perennial memory wall–even quick models are bogged down by the time and energy needed to carry data between processor and memory. Resistive RAM (RRAM)could circumvent the wall by allowing computation to happen in the memory itself. Unfortunately, mo...",
-      "url": "https://spectrum.ieee.org/ai-and-memory-wall",
-      "date": "02月09日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 09 Feb 2026 13:00:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.416290"
-    },
-    {
-      "title": "IEEE Honors Global Dream Team of Innovators",
-      "summary": "Meet the recipients of the 2026 IEEE Medals—the organization’s highest-level honors. Presented on behalf of the IEEE Board of Directors, these medals recognize innovators whose work has shaped modern technology across disciplines including AI, education, and semiconductors.The medals will be present...",
-      "url": "https://spectrum.ieee.org/ieee-2026-honors",
-      "date": "02月09日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 09 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-17T01:10:35.416183"
-    },
-    {
       "title": "How and When the Memory Chip Shortage Will End",
       "summary": "If it feels these days as if everything in technology is about AI, that’s because it is. And nowhere is that more true than in the market for computer memory. Demand, and profitability, for the type of DRAM used to feed GPUs and other accelerators in AI data centers is so huge that it’s diverting aw...",
       "url": "https://spectrum.ieee.org/dram-shortage",
-      "date": "6日前",
+      "date": "02月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 10 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.415913"
+      "collected_at": "2026-02-18T01:12:59.781579"
     },
     {
       "title": "How Do You Define an AI Companion?",
       "summary": "For a different perspective on AI companions, see our Q&A with Brad Knox: How Can AI Companions Be Helpful, not Harmful?AI models intended to provide companionship for humans are on the rise. People are already frequently developing relationships with chatbots, seeking not just a personal assistant ...",
       "url": "https://spectrum.ieee.org/ai-companion-relationships",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.415716"
+      "collected_at": "2026-02-18T01:12:59.781387"
     },
     {
       "title": "How Can AI Companions Be Helpful, not Harmful?",
       "summary": "For a different perspective on AI companions, see our Q&A with Jaime Banks: How Do You Define an AI Companion?Novel technology is often a double-edged sword. New capabilities come with new risks, and artificial intelligence is certainly no exception.AI used for human companionship, for instance, pro...",
       "url": "https://spectrum.ieee.org/ai-companion-harm-benefit",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 14:30:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.415536"
+      "collected_at": "2026-02-18T01:12:59.781205"
     },
     {
       "title": "Tips for Using AI Tools in Technical Interviews",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!We’d like to introduce Brian Jenney, a senior softwa...",
       "url": "https://spectrum.ieee.org/ai-tools-interviews",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 18:15:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.415360"
+      "collected_at": "2026-02-18T01:12:59.781031"
     },
     {
       "title": "Rediscovering the Lost Legacy of Chemist Jan Czochralski",
       "summary": "During times of political turmoil, history often gets rewritten, erased, or lost. That is what happened to the legacy of Jan Czochralski, a Polish chemist whose contributions to semiconductor manufacturing were expunged after World War II.In 1916 he invented a method for growing single crystals of s...",
       "url": "https://spectrum.ieee.org/legacy-chemist-jan-czochralski",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-17T01:10:35.415233"
+      "collected_at": "2026-02-18T01:12:59.780900"
     },
     {
       "title": "What the FDA’s 2026 Update Means for Wearables",
       "summary": "As new consumer hardware and software capabilities have bumped up against medicine over the last few years, consumers and manufacturers alike have struggled with identifying the line between “wellness” products such as earbuds that can also amplify and clarify surrounding speakers’ voices and regula...",
       "url": "https://spectrum.ieee.org/fda-medical-device-rules",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-17T01:10:35.415045"
+      "collected_at": "2026-02-18T01:12:59.780694"
     },
     {
       "title": "LEDs Enter the Nanoscale",
       "summary": "MicroLEDs, with pixels just micrometers across, have long been a byword in the display world. Now, microLED-makers have begun shrinking their creations into the uncharted nano realm. In January, a startup named Polar Light Technologies unveiled prototype blue LEDs less than 500 nanometers across. Th...",
       "url": "https://spectrum.ieee.org/nanoled-research-approaches",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-17T01:10:35.414918"
+      "collected_at": "2026-02-18T01:12:59.780567"
     },
     {
       "title": "Video Friday: Robot Collective Stays Alive Even When Parts Die",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! No...",
       "url": "https://spectrum.ieee.org/video-friday-robot-collective",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 16:30:03 +0000",
-      "collected_at": "2026-02-17T01:10:35.414763"
+      "collected_at": "2026-02-18T01:12:59.780443"
     },
     {
       "title": "TryEngineering Marks 20 Years of Getting Kids Interested in STEM",
       "summary": "IEEE TryEngineering is celebrating 20 years of empowering educators with resources that introduce engineering to students at an early age. Launched in 2006 as a collaboration between IEEE, IBM, and the New York Hall of Science (NYSCI), TryEngineering began with a clear goal: Make engineering accessi...",
       "url": "https://spectrum.ieee.org/ieee-tryengineering-20-years",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 19:00:04 +0000",
-      "collected_at": "2026-02-17T01:10:35.414605"
+      "collected_at": "2026-02-18T01:12:59.780276"
+    },
+    {
+      "title": "Sub-$200 Lidar Could Reshuffle  Auto Sensor Economics",
+      "summary": "MicroVision, a solid-state sensor technology company located in Redmond, Wash., says it has designed a solid-state automotive lidar sensor intended to reach production pricing below US $200. That’s less than half of typical prices now, and it’s not even the full extent of the company’s ambition. The...",
+      "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 14 Feb 2026 14:00:02 +0000",
+      "collected_at": "2026-02-18T01:12:59.780125"
+    },
+    {
+      "title": "NASA Let AI Drive the Perseverance Rover",
+      "summary": "In December, NASA took another small, incremental step towards autonomous surface rovers. In a demonstration, the Perseverance team used AI to generate the rover’s waypoints. Perseverance used the AI waypoints on two separate days, traveling a total of 456 meters without human control.“This demonstr...",
+      "url": "https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 15 Feb 2026 14:00:02 +0000",
+      "collected_at": "2026-02-18T01:12:59.779965"
+    },
+    {
+      "title": "This Former Physicist Helps Keep the Internet Secure",
+      "summary": "When Alan DeKok began a side project in network security, he didn’t expect to start a 27-year career. In fact, he didn’t initially set out to work in computing at all.DeKok studied nuclear physics before making the switch to a part of network computing that is foundational but—like nuclear physics—l...",
+      "url": "https://spectrum.ieee.org/network-security-engineer-alan-dekok",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 16 Feb 2026 14:00:02 +0000",
+      "collected_at": "2026-02-18T01:12:59.779820"
     }
   ]
 }
