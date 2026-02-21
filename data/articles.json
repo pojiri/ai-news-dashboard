@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-02-20T01:07:45.012909",
+  "last_updated": "2026-02-21T01:06:08.055920",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Tips for Using AI Tools in Technical Interviews",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!We’d like to introduce Brian Jenney, a senior softwa...",
-      "url": "https://spectrum.ieee.org/ai-tools-interviews",
-      "date": "02月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 11 Feb 2026 18:15:02 +0000",
-      "collected_at": "2026-02-20T01:07:44.010698"
-    },
-    {
-      "title": "Rediscovering the Lost Legacy of Chemist Jan Czochralski",
-      "summary": "During times of political turmoil, history often gets rewritten, erased, or lost. That is what happened to the legacy of Jan Czochralski, a Polish chemist whose contributions to semiconductor manufacturing were expunged after World War II.In 1916 he invented a method for growing single crystals of s...",
-      "url": "https://spectrum.ieee.org/legacy-chemist-jan-czochralski",
-      "date": "02月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 11 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-20T01:07:44.010563"
-    },
     {
       "title": "What the FDA’s 2026 Update Means for Wearables",
       "summary": "As new consumer hardware and software capabilities have bumped up against medicine over the last few years, consumers and manufacturers alike have struggled with identifying the line between “wellness” products such as earbuds that can also amplify and clarify surrounding speakers’ voices and regula...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-20T01:07:44.010367"
+      "collected_at": "2026-02-21T01:06:07.053114"
     },
     {
       "title": "LEDs Enter the Nanoscale",
@@ -41,87 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-20T01:07:44.010204"
+      "collected_at": "2026-02-21T01:06:07.052985"
     },
     {
       "title": "Video Friday: Robot Collective Stays Alive Even When Parts Die",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! No...",
       "url": "https://spectrum.ieee.org/video-friday-robot-collective",
-      "date": "6日前",
+      "date": "02月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 16:30:03 +0000",
-      "collected_at": "2026-02-20T01:07:44.010014"
+      "collected_at": "2026-02-21T01:06:07.052853"
     },
     {
       "title": "TryEngineering Marks 20 Years of Getting Kids Interested in STEM",
       "summary": "IEEE TryEngineering is celebrating 20 years of empowering educators with resources that introduce engineering to students at an early age. Launched in 2006 as a collaboration between IEEE, IBM, and the New York Hall of Science (NYSCI), TryEngineering began with a clear goal: Make engineering accessi...",
       "url": "https://spectrum.ieee.org/ieee-tryengineering-20-years",
-      "date": "6日前",
+      "date": "02月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 19:00:04 +0000",
-      "collected_at": "2026-02-20T01:07:44.009690"
+      "collected_at": "2026-02-21T01:06:07.052678"
     },
     {
       "title": "Sub-$200 Lidar Could Reshuffle  Auto Sensor Economics",
       "summary": "MicroVision, a solid-state sensor technology company located in Redmond, Wash., says it has designed a solid-state automotive lidar sensor intended to reach production pricing below US $200. That’s less than half of typical prices now, and it’s not even the full extent of the company’s ambition. The...",
       "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 14 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-20T01:07:44.009472"
+      "collected_at": "2026-02-21T01:06:07.052507"
     },
     {
       "title": "NASA Let AI Drive the Perseverance Rover",
       "summary": "In December, NASA took another small, incremental step towards autonomous surface rovers. In a demonstration, the Perseverance team used AI to generate the rover’s waypoints. Perseverance used the AI waypoints on two separate days, traveling a total of 456 meters without human control.“This demonstr...",
       "url": "https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 15 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-20T01:07:44.009318"
+      "collected_at": "2026-02-21T01:06:07.052356"
     },
     {
       "title": "This Former Physicist Helps Keep the Internet Secure",
       "summary": "When Alan DeKok began a side project in network security, he didn’t expect to start a 27-year career. In fact, he didn’t initially set out to work in computing at all.DeKok studied nuclear physics before making the switch to a part of network computing that is foundational but—like nuclear physics—l...",
       "url": "https://spectrum.ieee.org/network-security-engineer-alan-dekok",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-20T01:07:44.009210"
+      "collected_at": "2026-02-21T01:06:07.052248"
     },
     {
       "title": "We’re Measuring Data Center Sustainability Wrong",
       "summary": "In 2024, Google claimed that their data centers are 1.5x more energy efficient than industry average. In 2025, Microsoft committed billions to nuclear power for AI workloads. The data center industry tracks power usage effectiveness to three decimal places and optimizes water usage intensity with ma...",
       "url": "https://spectrum.ieee.org/data-center-sustainability-metrics",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-20T01:07:44.009083"
+      "collected_at": "2026-02-21T01:06:07.052119"
     },
     {
       "title": "Estimating Surface Heating of an Atmospheric Reentry Vehicle With Simulation",
       "summary": "Join Hannah Alpert (NASA Ames) to explore thermal data from the record-breaking 6-meter LOFTID inflatable aeroshell. Learn how COMSOL Multiphysics® was used to perform inverse analysis on flight thermocouple data, validating heat flux gauges and preflight CFD predictions. Attendees will gain technic...",
       "url": "https://event.on24.com/wcc/r/5204256/9B4BA35D454493C7D9829FE90B5A0ABD",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 19:27:00 +0000",
-      "collected_at": "2026-02-20T01:07:44.008924"
+      "collected_at": "2026-02-21T01:06:07.051964"
     },
     {
       "title": "Lidar Mobility Device Assists Navigation and Avoids Collisions",
       "summary": "At CES 2026 in Las Vegas, Singapore-based startup Strutt introduced the EV1, a powered personal mobility device that uses lidar, cameras, and onboard computing for collision avoidance. Unlike manually-steered powered wheelchairs, the EV1 assists with navigation in both indoor and outdoor environment...",
       "url": "https://spectrum.ieee.org/assistive-technology-lidar-wheelchair",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 19:58:48 +0000",
-      "collected_at": "2026-02-20T01:07:44.008850"
+      "collected_at": "2026-02-21T01:06:07.051914"
+    },
+    {
+      "title": "Tomorrow’s Smart Pills Will Deliver Drugs and Take Biopsies",
+      "summary": "One day soon, a doctor might prescribe a pill that doesn’t just deliver medicine but also reports back on what it finds inside you—and then takes actions based on its findings.Instead of scheduling an endoscopy or CT scan, you’d swallow an electronic capsule smaller than a multivitamin. As it travel...",
+      "url": "https://spectrum.ieee.org/ingestible-electronics",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 18 Feb 2026 15:14:00 +0000",
+      "collected_at": "2026-02-21T01:06:07.051766"
+    },
+    {
+      "title": "IEEE Course Improves Engineers’ Writing Skills",
+      "summary": "In the rapidly evolving world of engineering technology, professionals devote enormous energy to such tasks as mastering the latest frameworks, optimizing architectures, and refining machine learning models. It’s easy to let technical expertise become the sole measure of professional value. However,...",
+      "url": "https://spectrum.ieee.org/ieee-course-technical-writing",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 18 Feb 2026 19:00:03 +0000",
+      "collected_at": "2026-02-21T01:06:07.051434"
     }
   ]
 }
