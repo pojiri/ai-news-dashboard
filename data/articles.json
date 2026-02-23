@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-02-22T01:10:52.553044",
+  "last_updated": "2026-02-23T01:10:36.172930",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "LEDs Enter the Nanoscale",
-      "summary": "MicroLEDs, with pixels just micrometers across, have long been a byword in the display world. Now, microLED-makers have begun shrinking their creations into the uncharted nano realm. In January, a startup named Polar Light Technologies unveiled prototype blue LEDs less than 500 nanometers across. Th...",
-      "url": "https://spectrum.ieee.org/nanoled-research-approaches",
-      "date": "02月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 12 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-22T01:10:51.550380"
-    },
     {
       "title": "Video Friday: Robot Collective Stays Alive Even When Parts Die",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! No...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 16:30:03 +0000",
-      "collected_at": "2026-02-22T01:10:51.550254"
+      "collected_at": "2026-02-23T01:10:35.170542"
     },
     {
       "title": "TryEngineering Marks 20 Years of Getting Kids Interested in STEM",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Feb 2026 19:00:04 +0000",
-      "collected_at": "2026-02-22T01:10:51.550088"
+      "collected_at": "2026-02-23T01:10:35.170364"
     },
     {
       "title": "Sub-$200 Lidar Could Reshuffle  Auto Sensor Economics",
@@ -41,87 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 14 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-22T01:10:51.549936"
+      "collected_at": "2026-02-23T01:10:35.170213"
     },
     {
       "title": "NASA Let AI Drive the Perseverance Rover",
       "summary": "In December, NASA took another small, incremental step towards autonomous surface rovers. In a demonstration, the Perseverance team used AI to generate the rover’s waypoints. Perseverance used the AI waypoints on two separate days, traveling a total of 456 meters without human control.“This demonstr...",
       "url": "https://spectrum.ieee.org/perseverance-rover-nasa-anthropic-ai",
-      "date": "6日前",
+      "date": "02月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 15 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-22T01:10:51.549773"
+      "collected_at": "2026-02-23T01:10:35.170055"
     },
     {
       "title": "This Former Physicist Helps Keep the Internet Secure",
       "summary": "When Alan DeKok began a side project in network security, he didn’t expect to start a 27-year career. In fact, he didn’t initially set out to work in computing at all.DeKok studied nuclear physics before making the switch to a part of network computing that is foundational but—like nuclear physics—l...",
       "url": "https://spectrum.ieee.org/network-security-engineer-alan-dekok",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-22T01:10:51.549642"
+      "collected_at": "2026-02-23T01:10:35.169937"
     },
     {
       "title": "We’re Measuring Data Center Sustainability Wrong",
       "summary": "In 2024, Google claimed that their data centers are 1.5x more energy efficient than industry average. In 2025, Microsoft committed billions to nuclear power for AI workloads. The data center industry tracks power usage effectiveness to three decimal places and optimizes water usage intensity with ma...",
       "url": "https://spectrum.ieee.org/data-center-sustainability-metrics",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-22T01:10:51.549517"
+      "collected_at": "2026-02-23T01:10:35.169810"
     },
     {
       "title": "Estimating Surface Heating of an Atmospheric Reentry Vehicle With Simulation",
       "summary": "Join Hannah Alpert (NASA Ames) to explore thermal data from the record-breaking 6-meter LOFTID inflatable aeroshell. Learn how COMSOL Multiphysics® was used to perform inverse analysis on flight thermocouple data, validating heat flux gauges and preflight CFD predictions. Attendees will gain technic...",
       "url": "https://event.on24.com/wcc/r/5204256/9B4BA35D454493C7D9829FE90B5A0ABD",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 19:27:00 +0000",
-      "collected_at": "2026-02-22T01:10:51.549368"
+      "collected_at": "2026-02-23T01:10:35.169660"
     },
     {
       "title": "Lidar Mobility Device Assists Navigation and Avoids Collisions",
       "summary": "At CES 2026 in Las Vegas, Singapore-based startup Strutt introduced the EV1, a powered personal mobility device that uses lidar, cameras, and onboard computing for collision avoidance. Unlike manually-steered powered wheelchairs, the EV1 assists with navigation in both indoor and outdoor environment...",
       "url": "https://spectrum.ieee.org/assistive-technology-lidar-wheelchair",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Feb 2026 19:58:48 +0000",
-      "collected_at": "2026-02-22T01:10:51.549321"
+      "collected_at": "2026-02-23T01:10:35.169610"
     },
     {
       "title": "Tomorrow’s Smart Pills Will Deliver Drugs and Take Biopsies",
       "summary": "One day soon, a doctor might prescribe a pill that doesn’t just deliver medicine but also reports back on what it finds inside you—and then takes actions based on its findings.Instead of scheduling an endoscopy or CT scan, you’d swallow an electronic capsule smaller than a multivitamin. As it travel...",
       "url": "https://spectrum.ieee.org/ingestible-electronics",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 18 Feb 2026 15:14:00 +0000",
-      "collected_at": "2026-02-22T01:10:51.549181"
+      "collected_at": "2026-02-23T01:10:35.169451"
     },
     {
       "title": "IEEE Course Improves Engineers’ Writing Skills",
       "summary": "In the rapidly evolving world of engineering technology, professionals devote enormous energy to such tasks as mastering the latest frameworks, optimizing architectures, and refining machine learning models. It’s easy to let technical expertise become the sole measure of professional value. However,...",
       "url": "https://spectrum.ieee.org/ieee-course-technical-writing",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 18 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-22T01:10:51.548880"
+      "collected_at": "2026-02-23T01:10:35.169153"
     },
     {
       "title": "The U.S. and China Are Pursuing Different AI Futures",
       "summary": "More money has been invested in AI than it took to land on the moon. Spending on the technology this year is projected to reach up to $700 billion, almost double last year’s spending. Part of the impetus for this frantic outlay is a conviction among investors and policymakers in the United States th...",
       "url": "https://spectrum.ieee.org/us-china-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 19 Feb 2026 17:03:24 +0000",
-      "collected_at": "2026-02-22T01:10:51.548775"
+      "collected_at": "2026-02-23T01:10:35.169047"
+    },
+    {
+      "title": "Video Friday: Humanoid Robots Celebrate Spring",
+      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! So...",
+      "url": "https://spectrum.ieee.org/robot-martial-arts",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 20 Feb 2026 18:00:02 +0000",
+      "collected_at": "2026-02-23T01:10:35.168881"
     }
   ]
 }
