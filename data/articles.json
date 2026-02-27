@@ -1,127 +1,127 @@
 {
-  "last_updated": "2026-02-26T01:07:51.444893",
+  "last_updated": "2026-02-27T01:07:23.403282",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Tomorrow’s Smart Pills Will Deliver Drugs and Take Biopsies",
-      "summary": "One day soon, a doctor might prescribe a pill that doesn’t just deliver medicine but also reports back on what it finds inside you—and then takes actions based on its findings.Instead of scheduling an endoscopy or CT scan, you’d swallow an electronic capsule smaller than a multivitamin. As it travel...",
-      "url": "https://spectrum.ieee.org/ingestible-electronics",
-      "date": "02月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 18 Feb 2026 15:14:00 +0000",
-      "collected_at": "2026-02-26T01:07:50.442205"
-    },
-    {
-      "title": "IEEE Course Improves Engineers’ Writing Skills",
-      "summary": "In the rapidly evolving world of engineering technology, professionals devote enormous energy to such tasks as mastering the latest frameworks, optimizing architectures, and refining machine learning models. It’s easy to let technical expertise become the sole measure of professional value. However,...",
-      "url": "https://spectrum.ieee.org/ieee-course-technical-writing",
-      "date": "02月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 18 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-26T01:07:50.441906"
-    },
-    {
-      "title": "The U.S. and China Are Pursuing Different AI Futures",
-      "summary": "More money has been invested in AI than it took to land on the moon. Spending on the technology this year is projected to reach up to $700 billion, almost double last year’s spending. Part of the impetus for this frantic outlay is a conviction among investors and policymakers in the United States th...",
-      "url": "https://spectrum.ieee.org/us-china-ai",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 19 Feb 2026 17:03:24 +0000",
-      "collected_at": "2026-02-26T01:07:50.441795"
-    },
-    {
-      "title": "Video Friday: Humanoid Robots Celebrate Spring",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! So...",
-      "url": "https://spectrum.ieee.org/robot-martial-arts",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 20 Feb 2026 18:00:02 +0000",
-      "collected_at": "2026-02-26T01:07:50.441618"
-    },
-    {
-      "title": "IEEE Plays a Pivotal Role In Climate Mitigation Talks",
-      "summary": "IEEE has enhanced its standing as a trusted, neutral authority on the role of technology in climate change mitigation and adaption. Last year it became the first technical association to be invited to a U.N. Conference of the Parties on Climate Change.IEEE representatives participated in several ses...",
-      "url": "https://spectrum.ieee.org/ieee-climate-mitigation-talks-2025",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 20 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-02-26T01:07:50.441451"
-    },
-    {
       "title": "AI Data Centers Turn to High-Temperature Superconductors",
       "summary": "Data centers for AI are turning the world of power generation on its head. There isn’t enough power capacity on the grid to even come close to how much energy is needed for the number being built. And traditional transmission and distribution networks aren’t efficient enough to take full advantage o...",
       "url": "https://spectrum.ieee.org/ai-data-centers-hts-superconductors",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 21 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-02-26T01:07:50.441266"
+      "collected_at": "2026-02-27T01:07:22.400926"
     },
     {
       "title": "Poem: The Attraction of Blackberries",
       "summary": "The first time she tried to seduce me,(atoms falling in a vacuum)she asked about blackberries—(every mass exerts some gravity)Did I know their season, where they grow?(galvanometers, gravimeters)I could answer both easily—(tools to measure small attractions)down the dirt road in September.(devices t...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-blackberries",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 22 Feb 2026 13:00:02 +0000",
-      "collected_at": "2026-02-26T01:07:50.441154"
+      "collected_at": "2026-02-27T01:07:22.400807"
     },
     {
       "title": "The Age-Verification Trap",
       "summary": "Social media is going the way of alcohol, gambling, and other social sins: Societies are deciding it’s no longer kid stuff. Lawmakers point to compulsive use, exposure to harmful content, and mounting concerns about adolescent mental health. So, many propose to set a minimum age, usually 13 or 16.In...",
       "url": "https://spectrum.ieee.org/age-verification",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Feb 2026 09:00:03 +0000",
-      "collected_at": "2026-02-26T01:07:50.441104"
+      "collected_at": "2026-02-27T01:07:22.400765"
     },
     {
       "title": "AI for Cybersecurity: Promise, Practice, and Pitfalls",
       "summary": "AI is revolutionizing the cybersecurity landscape. From accelerating threat detection to enabling real-time automated responses, artificial intelligence is reshaping how organizations defend against increasingly sophisticated attacks.But with these advancements come new and complex risks—AI systems ...",
       "url": "https://events.bizzabo.com/734412",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Feb 2026 11:00:02 +0000",
-      "collected_at": "2026-02-26T01:07:50.440967"
+      "collected_at": "2026-02-27T01:07:22.400632"
     },
     {
       "title": "AI’s Math Tricks Don’t Work for Scientific Computing",
       "summary": "AI has driven an explosion of new number formats—the ways in which numbers are represented digitally. Engineers are looking at every possible way to save computation time and energy, including shortening the number of bits used to represent data. But what works for AI doesn’t necessarily work for sc...",
       "url": "https://spectrum.ieee.org/number-formats-ai-scientific-computing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Feb 2026 13:00:03 +0000",
-      "collected_at": "2026-02-26T01:07:50.440916"
+      "collected_at": "2026-02-27T01:07:22.400589"
     },
     {
       "title": "Your Watch Will One Day Track Blood Pressure",
       "summary": "Your smartwatch can track a lot of things, but at least for now, it can’t keep an accurate eye on your blood pressure. Last week researchers from University of Texas at Austin showed a way your smartwatch someday could. They were able to discern blood pressure by reflecting radio signals off a perso...",
       "url": "https://spectrum.ieee.org/blood-pressure-monitor-smartwatch",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Feb 2026 15:00:03 +0000",
-      "collected_at": "2026-02-26T01:07:50.440829"
+      "collected_at": "2026-02-27T01:07:22.400509"
     },
     {
       "title": "This Physics Professor Credits Collaboration for Her Success",
       "summary": "For Cinzia DaVià, collaboration isn’t just a buzzword. It’s the approach she applies to all her professional endeavors.From her contributions to the development of a silicon sensor used in CERN (European Organization for Nuclear Research) particle accelerator experiments to her current research on p...",
       "url": "https://spectrum.ieee.org/cinzia-davia-physics",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-02-26T01:07:50.440723"
+      "collected_at": "2026-02-27T01:07:22.400411"
+    },
+    {
+      "title": "Jimi Hendrix Was a Systems Engineer",
+      "summary": "3 February 1967 is a day that belongs in the annals of music history. It’s the day that Jimi Hendrix entered London’s Olympic Studios to record a song using a new component. The song was “Purple Haze,” and the component was the Octavia guitar pedal, created for Hendrix by sound engineer Roger Mayer....",
+      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 25 Feb 2026 15:39:03 +0000",
+      "collected_at": "2026-02-27T01:07:22.400191"
+    },
+    {
+      "title": "AI Is Acing Math Exams Faster Than Scientists Write Them",
+      "summary": "Mathematics is often regarded as the ideal domain for measuring AI progress effectively. Math’s step-by-step logic is easy to track, and its definitive automatically verifiable answers remove any human or subjective factors. But AI systems are improving at such a pace that math benchmarks are strugg...",
+      "url": "https://spectrum.ieee.org/ai-math-benchmarks",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 25 Feb 2026 16:00:02 +0000",
+      "collected_at": "2026-02-27T01:07:22.400044"
+    },
+    {
+      "title": "How to Thrive as a Remote Worker",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Standing Out as a Remote Worker Takes a Different St...",
+      "url": "https://spectrum.ieee.org/remote-work",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 25 Feb 2026 17:48:29 +0000",
+      "collected_at": "2026-02-27T01:07:22.399937"
+    },
+    {
+      "title": "Achieving Micron-Level Tolerances: CAD Optimization for Sub-10µm 3D Printing",
+      "summary": "Achieve successful micro-scale 3D prints by optimizing tolerances, wall thickness, support strategies, microfluidic channels, and material selection in your CAD models from the start.What Attendees will LearnTolerance-driven design -- How to define resolution and tolerance constraints that translate...",
+      "url": "https://content.knowledgehub.wiley.com/designing-for-precision-cad-tips-for-micro-scale-3d-printing/",
+      "date": "14時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 26 Feb 2026 11:00:02 +0000",
+      "collected_at": "2026-02-27T01:07:22.399807"
+    },
+    {
+      "title": "How Stupid Would It Be to Put Data Centers in Space?",
+      "summary": "What’s the difference between a stupid idea and a brilliant one? Sometimes, it just comes down to resources. Practically unlimited funds, like limitless thrust, can get even a mad idea off the ground. And so it might be for the concept of putting AI data centers in orbit. In a rare moment of unalloy...",
+      "url": "https://spectrum.ieee.org/orbital-data-centers",
+      "date": "11時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 26 Feb 2026 14:00:02 +0000",
+      "collected_at": "2026-02-27T01:07:22.399755"
     }
   ]
 }
