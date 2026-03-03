@@ -1,127 +1,127 @@
 {
-  "last_updated": "2026-03-02T01:09:02.384078",
+  "last_updated": "2026-03-03T01:10:56.812538",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "This Physics Professor Credits Collaboration for Her Success",
-      "summary": "For Cinzia DaVià, collaboration isn’t just a buzzword. It’s the approach she applies to all her professional endeavors.From her contributions to the development of a silicon sensor used in CERN (European Organization for Nuclear Research) particle accelerator experiments to her current research on p...",
-      "url": "https://spectrum.ieee.org/cinzia-davia-physics",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 24 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-03-02T01:09:01.381627"
-    },
-    {
-      "title": "Jimi Hendrix Was a Systems Engineer",
-      "summary": "3 February 1967 is a day that belongs in the annals of music history. It’s the day that Jimi Hendrix entered London’s Olympic Studios to record a song using a new component. The song was “Purple Haze,” and the component was the Octavia guitar pedal, created for Hendrix by sound engineer Roger Mayer....",
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "date": "4日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Feb 2026 15:39:03 +0000",
-      "collected_at": "2026-03-02T01:09:01.381399"
-    },
-    {
-      "title": "AI Is Acing Math Exams Faster Than Scientists Write Them",
-      "summary": "Mathematics is often regarded as the ideal domain for measuring AI progress effectively. Math’s step-by-step logic is easy to track, and its definitive automatically verifiable answers remove any human or subjective factors. But AI systems are improving at such a pace that math benchmarks are strugg...",
-      "url": "https://spectrum.ieee.org/ai-math-benchmarks",
-      "date": "4日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Feb 2026 16:00:02 +0000",
-      "collected_at": "2026-03-02T01:09:01.381231"
-    },
-    {
-      "title": "How to Thrive as a Remote Worker",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Standing Out as a Remote Worker Takes a Different St...",
-      "url": "https://spectrum.ieee.org/remote-work",
-      "date": "4日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Feb 2026 17:48:29 +0000",
-      "collected_at": "2026-03-02T01:09:01.381122"
-    },
-    {
       "title": "Achieving Micron-Level Tolerances: CAD Optimization for Sub-10µm 3D Printing",
       "summary": "Achieve successful micro-scale 3D prints by optimizing tolerances, wall thickness, support strategies, microfluidic channels, and material selection in your CAD models from the start.What Attendees will LearnTolerance-driven design -- How to define resolution and tolerance constraints that translate...",
       "url": "https://content.knowledgehub.wiley.com/designing-for-precision-cad-tips-for-micro-scale-3d-printing/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Feb 2026 11:00:02 +0000",
-      "collected_at": "2026-03-02T01:09:01.381010"
+      "collected_at": "2026-03-03T01:10:55.810286"
     },
     {
       "title": "How Stupid Would It Be to Put Data Centers in Space?",
       "summary": "What’s the difference between a stupid idea and a brilliant one? Sometimes, it just comes down to resources. Practically unlimited funds, like limitless thrust, can get even a mad idea off the ground. And so it might be for the concept of putting AI data centers in orbit. In a rare moment of unalloy...",
       "url": "https://spectrum.ieee.org/orbital-data-centers",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-03-02T01:09:01.380954"
+      "collected_at": "2026-03-03T01:10:55.810238"
     },
     {
       "title": "From Headsets to Hearing Aids",
       "summary": "This is a sponsored article brought to you by Audio Precision.Bluetooth started as a simple wireless connection between a phone and a headset. Since its inception, it has become the invisible scaffolding for music, calls, gaming, and hearing assistance across consumer and professional devices alike....",
       "url": "https://spectrum.ieee.org/bluetooth-low-energy-audio",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Feb 2026 14:23:17 +0000",
-      "collected_at": "2026-03-02T01:09:01.380852"
+      "collected_at": "2026-03-03T01:10:55.810142"
     },
     {
       "title": "New Path to Battery-Grade Lithium Uses Electrochemistry",
       "summary": "As electric vehicles roll off assembly lines, a bottleneck sits upstream: lithium refinement. Turning raw lithium into the compounds needed for batteries is expensive, messy, and energy intensive, but Mangrove Lithium, a Vancouver-based startup, has a better way. The company has developed an electro...",
       "url": "https://spectrum.ieee.org/mangrove-lithium-refining-ev-bottleneck",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Feb 2026 17:00:03 +0000",
-      "collected_at": "2026-03-02T01:09:01.380617"
+      "collected_at": "2026-03-03T01:10:55.809916"
     },
     {
       "title": "This Startup Makes Access to Rehabilitation Facilities Easier",
       "summary": "When doctors in the United States refer patients to specialty or post-acute medical care such as physical therapy or long-term nursing care, nearly half never complete the process of finding help. Referrals stall in part because provider directories are outdated, insurance coverage is unclear, and m...",
       "url": "https://spectrum.ieee.org/carenector-health-care-startup",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 26 Feb 2026 19:00:03 +0000",
-      "collected_at": "2026-03-02T01:09:01.380503"
+      "collected_at": "2026-03-03T01:10:55.809811"
     },
     {
       "title": "Video Friday: Robot Dogs Haul Produce From the Field",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Ou...",
       "url": "https://spectrum.ieee.org/quadruped-farming-robots",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Feb 2026 18:00:55 +0000",
-      "collected_at": "2026-03-02T01:09:01.380226"
+      "collected_at": "2026-03-03T01:10:55.809593"
     },
     {
       "title": "This Power Grid Pioneer’s EV Prediction Came 100 Years Too Soon",
       "summary": "Charles Proteus Steinmetz was a towering figure in the early decades of electrical engineering, easily the intellectual equal of Thomas Edison and Nikola Tesla—men he considered his friends. One of Steinmetz’s most significant achievements was to quantify and characterize the phenomenon of magnetic ...",
       "url": "https://spectrum.ieee.org/charles-proteus-steinmetz",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 28 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-03-02T01:09:01.380079"
+      "collected_at": "2026-03-03T01:10:55.809444"
     },
     {
       "title": "Xiangyi Cheng Is Bringing AR to Classrooms and Hospitals",
       "summary": "When Xiangyi Cheng published her first journal paper as a principal investigator in IEEE Access in 2024, it marked more than a professional milestone. For Cheng, an IEEE member and an assistant professor of mechanical engineering at Loyola Marymount University, in Los Angeles, it was the latest wayp...",
       "url": "https://spectrum.ieee.org/xiangyi-cheng-ar-classrooms-hospitals",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 28 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-03-02T01:09:01.379857"
+      "collected_at": "2026-03-03T01:10:55.809227"
+    },
+    {
+      "title": "Letting Machines Decide What Matters",
+      "summary": "In the time it takes you to read this sentence, the Large Hadron Collider (LHC) will have smashed billions of particles together. In all likelihood, it will have found exactly what it found yesterday: more evidence to support the Standard Model of particle physics.For the engineers who built this 27...",
+      "url": "https://spectrum.ieee.org/ai-new-physics",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 01 Mar 2026 11:00:03 +0000",
+      "collected_at": "2026-03-03T01:10:55.809064"
+    },
+    {
+      "title": "IEEE President’s Note: Engineering a Modern Renaissance",
+      "summary": "Consider a powerful parallel between the advancements made during the Renaissance and the developments made by today’s engineers.The Renaissance was a uniquely fertile era. Its ethos of curiosity and creativity fostered unprecedented collaboration across disciplines. Artists, scientists, philosopher...",
+      "url": "https://spectrum.ieee.org/ieee-presidents-note-engineering-renaissance",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 01 Mar 2026 19:00:02 +0000",
+      "collected_at": "2026-03-03T01:10:55.808985"
+    },
+    {
+      "title": "What Military Drones Can Teach Self-Driving Cars",
+      "summary": "Self-driving cars often struggle with with situations that are commonplace for human drivers. When confronted with construction zones, school buses, power outages, or misbehaving pedestrians, these vehicles often behave unpredictably, leading to crashes or freezing events, causing significant disrup...",
+      "url": "https://spectrum.ieee.org/military-drones-self-driving-cars",
+      "date": "13時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 02 Mar 2026 12:00:02 +0000",
+      "collected_at": "2026-03-03T01:10:55.808890"
+    },
+    {
+      "title": "How Quantum Data Can Teach AI to Do Better Chemistry",
+      "summary": "Sometimes a visually compelling metaphor is all you need to get an otherwise complicated idea across. In the summer of 2001, a Tulane physics professor named John P. Perdew came up with a banger. He wanted to convey the hierarchy of computational complexity inherent in the behavior of electrons in m...",
+      "url": "https://spectrum.ieee.org/quantum-chemistry",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 02 Mar 2026 13:00:02 +0000",
+      "collected_at": "2026-03-03T01:10:55.808676"
     }
   ]
 }
