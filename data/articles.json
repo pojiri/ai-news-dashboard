@@ -1,127 +1,127 @@
 {
-  "last_updated": "2026-03-06T01:13:32.745424",
+  "last_updated": "2026-03-07T01:05:12.923224",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Video Friday: Robot Dogs Haul Produce From the Field",
-      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Ou...",
-      "url": "https://spectrum.ieee.org/quadruped-farming-robots",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 27 Feb 2026 18:00:55 +0000",
-      "collected_at": "2026-03-06T01:13:31.742913"
-    },
-    {
-      "title": "This Power Grid Pioneer’s EV Prediction Came 100 Years Too Soon",
-      "summary": "Charles Proteus Steinmetz was a towering figure in the early decades of electrical engineering, easily the intellectual equal of Thomas Edison and Nikola Tesla—men he considered his friends. One of Steinmetz’s most significant achievements was to quantify and characterize the phenomenon of magnetic ...",
-      "url": "https://spectrum.ieee.org/charles-proteus-steinmetz",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 28 Feb 2026 14:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.742762"
-    },
-    {
-      "title": "Xiangyi Cheng Is Bringing AR to Classrooms and Hospitals",
-      "summary": "When Xiangyi Cheng published her first journal paper as a principal investigator in IEEE Access in 2024, it marked more than a professional milestone. For Cheng, an IEEE member and an assistant professor of mechanical engineering at Loyola Marymount University, in Los Angeles, it was the latest wayp...",
-      "url": "https://spectrum.ieee.org/xiangyi-cheng-ar-classrooms-hospitals",
-      "date": "5日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 28 Feb 2026 19:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.742534"
-    },
-    {
       "title": "Letting Machines Decide What Matters",
       "summary": "In the time it takes you to read this sentence, the Large Hadron Collider (LHC) will have smashed billions of particles together. In all likelihood, it will have found exactly what it found yesterday: more evidence to support the Standard Model of particle physics.For the engineers who built this 27...",
       "url": "https://spectrum.ieee.org/ai-new-physics",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Mar 2026 11:00:03 +0000",
-      "collected_at": "2026-03-06T01:13:31.742367"
+      "collected_at": "2026-03-07T01:05:11.920697"
     },
     {
       "title": "IEEE President’s Note: Engineering a Modern Renaissance",
       "summary": "Consider a powerful parallel between the advancements made during the Renaissance and the developments made by today’s engineers.The Renaissance was a uniquely fertile era. Its ethos of curiosity and creativity fostered unprecedented collaboration across disciplines. Artists, scientists, philosopher...",
       "url": "https://spectrum.ieee.org/ieee-presidents-note-engineering-renaissance",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Mar 2026 19:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.742288"
+      "collected_at": "2026-03-07T01:05:11.920617"
     },
     {
       "title": "What Military Drones Can Teach Self-Driving Cars",
       "summary": "Self-driving cars often struggle with situations that are commonplace for human drivers. When confronted with construction zones, school buses, power outages, or misbehaving pedestrians, these vehicles often behave unpredictably, leading to crashes or freezing events, causing significant disruption ...",
       "url": "https://spectrum.ieee.org/military-drones-self-driving-cars",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Mar 2026 12:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.742191"
+      "collected_at": "2026-03-07T01:05:11.920521"
     },
     {
       "title": "How Quantum Data Can Teach AI to Do Better Chemistry",
       "summary": "Sometimes a visually compelling metaphor is all you need to get an otherwise complicated idea across. In the summer of 2001, a Tulane physics professor named John P. Perdew came up with a banger. He wanted to convey the hierarchy of computational complexity inherent in the behavior of electrons in m...",
       "url": "https://spectrum.ieee.org/quantum-chemistry",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.741978"
+      "collected_at": "2026-03-07T01:05:11.920336"
     },
     {
       "title": "How Electrical Engineers Fight a War",
       "summary": "Every time Russia attacks Ukraine’s power infrastructure, Ukrainian engineers risk their lives in the scramble to get electricity flowing again. It’s a dangerous job at best, and a lethal one at worst. It also requires creativity. Time pressure and equipment shortages make it nearly impossible to re...",
       "url": "https://spectrum.ieee.org/repair-ukraine-power-grid",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Mar 2026 14:00:03 +0000",
-      "collected_at": "2026-03-06T01:13:31.741739"
+      "collected_at": "2026-03-07T01:05:11.920117"
     },
     {
       "title": "Watershed Moment for AI–Human Collaboration in Math",
       "summary": "When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had ...",
       "url": "https://spectrum.ieee.org/ai-proof-verification",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Mar 2026 18:00:03 +0000",
-      "collected_at": "2026-03-06T01:13:31.741559"
+      "collected_at": "2026-03-07T01:05:11.919943"
     },
     {
       "title": "Optimizing a Battery Electric Vehicle Thermal Management System",
       "summary": "This webinar looks at a Battery Electric Virtual Vehicle Model of a mid-size BEV, and uses Simulink and Simscape to facilitate design exploration, component refinement, and system-level optimization. The virtual vehicle comprises five subsystems: Electric powertrain, driveline, refrigerant cycle, co...",
       "url": "https://content.knowledgehub.wiley.com/optimizing-a-battery-electric-vehicle-thermal-management-system/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 11:00:02 +0000",
-      "collected_at": "2026-03-06T01:13:31.741406"
+      "collected_at": "2026-03-07T01:05:11.919779"
     },
     {
       "title": "Countdown to IEEE’s Annual Election",
       "summary": "This year’s annual election, which begins on 17 August, will include candidates for IEEE president-elect and other officer positions up for election.To see who is running for 2027 IEEE president-elect and the petition candidates, visit the election website.The ballot also includes nominees for deleg...",
       "url": "https://spectrum.ieee.org/ieee-annual-election-2026",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 19:00:04 +0000",
-      "collected_at": "2026-03-06T01:13:31.741365"
+      "collected_at": "2026-03-07T01:05:11.919733"
     },
     {
       "title": "This Offshore Wind Turbine Will House a Data Center Underwater",
       "summary": "As data-center developers frantically seek to secure power for their operations, one startup is proposing a novel solution: Build them into floating offshore wind turbines. San Francisco–based offshore wind-power developer Aikido Technologies today announced its plans to start housing data centers i...",
       "url": "https://spectrum.ieee.org/data-center-floating-wind-turbine",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 20:56:45 +0000",
-      "collected_at": "2026-03-06T01:13:31.741281"
+      "collected_at": "2026-03-07T01:05:11.919650"
+    },
+    {
+      "title": "Taara Brings Fiber-Optic Speeds to Open-Air Laser Links​",
+      "summary": "Taara started as a Google X moonshot spin-off aimed at connecting rural villages in sub-Saharan Africa with beams of light. Its newest product, debuting this week at Mobile World Congress (MWC), in Barcelona, aims at a different kind of connectivity problem: getting internet access into buildings in...",
+      "url": "https://spectrum.ieee.org/free-space-optical-link-taara",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 04 Mar 2026 15:00:03 +0000",
+      "collected_at": "2026-03-07T01:05:11.919503"
+    },
+    {
+      "title": "This Student-Built EV Focuses on Repairability",
+      "summary": "At first glance, the Aria EV doesn’t look much different from any other student-built electric prototype—no different from the battery-powered cars built by engineering students from dozens of universities every year. Beneath its panels, however, is a challenge to the modern auto industry: What if e...",
+      "url": "https://spectrum.ieee.org/ev-battery-swapping-aria-ev",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 04 Mar 2026 17:21:07 +0000",
+      "collected_at": "2026-03-07T01:05:11.919373"
+    },
+    {
+      "title": "From TV Repairman to Electromagnetic Compatibility Expert",
+      "summary": "No one had very high career aspirations for teenager David A. Weston—except for Weston himself. Growing up in London, he scored low on the U.K. national assessment test given to students finishing primary school. The result meant that his next path was either to become a laborer or attend a vocation...",
+      "url": "https://spectrum.ieee.org/from-tv-repairman-to-electromagnetic-compatibility-expert",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 05 Mar 2026 19:00:03 +0000",
+      "collected_at": "2026-03-07T01:05:11.919218"
     }
   ]
 }
