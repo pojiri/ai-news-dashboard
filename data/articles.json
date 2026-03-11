@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-03-10T01:04:20.223633",
+  "last_updated": "2026-03-11T01:05:31.581025",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How Electrical Engineers Fight a War",
-      "summary": "Every time Russia attacks Ukraine’s power infrastructure, Ukrainian engineers risk their lives in the scramble to get electricity flowing again. It’s a dangerous job at best, and a lethal one at worst. It also requires creativity. Time pressure and equipment shortages make it nearly impossible to re...",
-      "url": "https://spectrum.ieee.org/repair-ukraine-power-grid",
-      "date": "03月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 02 Mar 2026 14:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.221199"
-    },
     {
       "title": "Watershed Moment for AI–Human Collaboration in Math",
       "summary": "When Ukrainian mathematician Maryna Viazovska received a Fields Medal—widely regarded as the Nobel Prize for mathematics—in July 2022, it was big news. Not only was she the second woman to accept the honor in the award’s 86-year history, but she collected the medal just months after her country had ...",
@@ -21,107 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 02 Mar 2026 18:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.221014"
+      "collected_at": "2026-03-11T01:05:30.579319"
     },
     {
       "title": "Optimizing a Battery Electric Vehicle Thermal Management System",
       "summary": "This webinar looks at a Battery Electric Virtual Vehicle Model of a mid-size BEV, and uses Simulink and Simscape to facilitate design exploration, component refinement, and system-level optimization. The virtual vehicle comprises five subsystems: Electric powertrain, driveline, refrigerant cycle, co...",
       "url": "https://content.knowledgehub.wiley.com/optimizing-a-battery-electric-vehicle-thermal-management-system/",
-      "date": "6日前",
+      "date": "03月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 11:00:02 +0000",
-      "collected_at": "2026-03-10T01:04:19.220840"
+      "collected_at": "2026-03-11T01:05:30.579170"
     },
     {
       "title": "Countdown to IEEE’s Annual Election",
       "summary": "This year’s annual election, which begins on 17 August, will include candidates for IEEE president-elect and other officer positions up for election.To see who is running for 2027 IEEE president-elect and the petition candidates, visit the election website.The ballot also includes nominees for deleg...",
       "url": "https://spectrum.ieee.org/ieee-annual-election-2026",
-      "date": "6日前",
+      "date": "03月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 19:00:04 +0000",
-      "collected_at": "2026-03-10T01:04:19.220795"
+      "collected_at": "2026-03-11T01:05:30.579120"
     },
     {
       "title": "This Offshore Wind Turbine Will House a Data Center Underwater",
       "summary": "As data-center developers frantically seek to secure power for their operations, one startup is proposing a novel solution: Build them into floating offshore wind turbines. San Francisco–based offshore wind-power developer Aikido Technologies today announced its plans to start housing data centers i...",
       "url": "https://spectrum.ieee.org/data-center-floating-wind-turbine",
-      "date": "6日前",
+      "date": "03月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 03 Mar 2026 20:56:45 +0000",
-      "collected_at": "2026-03-10T01:04:19.220713"
+      "collected_at": "2026-03-11T01:05:30.579032"
     },
     {
       "title": "Taara Brings Fiber-Optic Speeds to Open-Air Laser Links​",
       "summary": "Taara started as a Google X moonshot spin-off aimed at connecting rural villages in sub-Saharan Africa with beams of light. Its newest product, debuting this week at Mobile World Congress (MWC), in Barcelona, aims at a different kind of connectivity problem: getting internet access into buildings in...",
       "url": "https://spectrum.ieee.org/free-space-optical-link-taara",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Mar 2026 15:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.220569"
+      "collected_at": "2026-03-11T01:05:30.578882"
     },
     {
       "title": "This Student-Built EV Focuses on Repairability",
       "summary": "At first glance, the Aria EV doesn’t look much different from any other student-built electric prototype—no different from the battery-powered cars built by engineering students from dozens of universities every year. Beneath its panels, however, is a challenge to the modern auto industry: What if e...",
       "url": "https://spectrum.ieee.org/ev-battery-swapping-aria-ev",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 04 Mar 2026 17:21:07 +0000",
-      "collected_at": "2026-03-10T01:04:19.220440"
+      "collected_at": "2026-03-11T01:05:30.578754"
     },
     {
       "title": "From TV Repairman to Electromagnetic Compatibility Expert",
       "summary": "No one had very high career aspirations for teenager David A. Weston—except for Weston himself. Growing up in London, he scored low on the U.K. national assessment test given to students finishing primary school. The result meant that his next path was either to become a laborer or attend a vocation...",
       "url": "https://spectrum.ieee.org/from-tv-repairman-to-electromagnetic-compatibility-expert",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 05 Mar 2026 19:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.220291"
+      "collected_at": "2026-03-11T01:05:30.578608"
     },
     {
       "title": "The Millisecond That Could Change Cancer Treatment",
       "summary": "Inside a cavernous hall at the Swiss-French border, the air hums with high voltage and possibility. From his perch on the wraparound observation deck, physicist Walter Wuensch surveys a multimillion-dollar array of accelerating cavities, klystrons, modulators, and pulse compressors—hardware being re...",
       "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Mar 2026 14:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.220031"
+      "collected_at": "2026-03-11T01:05:30.578342"
     },
     {
       "title": "Video Friday: A Robot Hand With Artificial Muscles and Tendons",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Th...",
       "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Mar 2026 16:00:05 +0000",
-      "collected_at": "2026-03-10T01:04:19.219673"
+      "collected_at": "2026-03-11T01:05:30.578025"
     },
     {
       "title": "Laser-Based 3D Printing Could Build Future Bases on the Moon",
       "summary": "Through the Artemis Program, NASA hopes to establish a permanent human presence on the Moon in its southern polar region. China, Russia, and the European Space Agency (ESA) have similar plans, all of which involve building bases near the permanently shadowed regions (PSRs)—craters that contain water...",
       "url": "https://spectrum.ieee.org/lunar-base-3d-printing",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 07 Mar 2026 14:00:02 +0000",
-      "collected_at": "2026-03-10T01:04:19.219522"
+      "collected_at": "2026-03-11T01:05:30.577880"
     },
     {
       "title": "Military AI Policy Needs Democratic Oversight",
       "summary": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private compa...",
       "url": "https://spectrum.ieee.org/military-ai-governance",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 08 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-03-10T01:04:19.219414"
+      "collected_at": "2026-03-11T01:05:30.577773"
+    },
+    {
+      "title": "Do Offshore Wind Farms Pose National Security Risks?",
+      "summary": "When the Trump administration last year sought to freeze construction of offshore wind farms by citing concerns about interference with military radar and sonar, the implication was that these were new issues. But for more than a decade, the United States, Taiwan, and many European countries have su...",
+      "url": "https://spectrum.ieee.org/offshore-wind-military-radar",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 09 Mar 2026 14:00:03 +0000",
+      "collected_at": "2026-03-11T01:05:30.577614"
     }
   ]
 }
