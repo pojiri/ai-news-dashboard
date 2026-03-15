@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T01:07:27.541746",
+  "last_updated": "2026-03-15T01:19:16.985730",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,117 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 06 Mar 2026 16:00:05 +0000",
-      "collected_at": "2026-03-14T01:07:26.539554"
+      "collected_at": "2026-03-15T01:19:15.983228"
     },
     {
       "title": "Laser-Based 3D Printing Could Build Future Bases on the Moon",
       "summary": "Through the Artemis Program, NASA hopes to establish a permanent human presence on the Moon in its southern polar region. China, Russia, and the European Space Agency (ESA) have similar plans, all of which involve building bases near the permanently shadowed regions (PSRs)—craters that contain water...",
       "url": "https://spectrum.ieee.org/lunar-base-3d-printing",
-      "date": "6日前",
+      "date": "03月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 07 Mar 2026 14:00:02 +0000",
-      "collected_at": "2026-03-14T01:07:26.539391"
+      "collected_at": "2026-03-15T01:19:15.983071"
     },
     {
       "title": "Military AI Policy Needs Democratic Oversight",
       "summary": "A simmering dispute between the United States Department of Defense (DOD) and Anthropic has now escalated into a full-blown confrontation, raising an uncomfortable but important question: who gets to set the guardrails for military use of artificial intelligence — the executive branch, private compa...",
       "url": "https://spectrum.ieee.org/military-ai-governance",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 08 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.539280"
+      "collected_at": "2026-03-15T01:19:15.982953"
     },
     {
       "title": "Do Offshore Wind Farms Pose National Security Risks?",
       "summary": "When the Trump administration last year sought to freeze construction of offshore wind farms by citing concerns about interference with military radar and sonar, the implication was that these were new issues. But for more than a decade, the United States, Taiwan, and many European countries have su...",
       "url": "https://spectrum.ieee.org/offshore-wind-military-radar",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 09 Mar 2026 14:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.539137"
+      "collected_at": "2026-03-15T01:19:15.982805"
     },
     {
       "title": "How Cross-Cultural Engineering Drives Tech Advancement",
       "summary": "Innovation rarely happens in isolation. Usually, the systems that engineers design are shaped by global teams whose members’ knowledge and ideas move across borders as easily as data.That is especially true in my field of robotics and automation—where hardware, software, and human workflows function...",
       "url": "https://spectrum.ieee.org/cross-cultural-engineering-tech-advancement",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 09 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-03-14T01:07:26.538954"
+      "collected_at": "2026-03-15T01:19:15.982610"
     },
     {
       "title": "Finite-Element Approaches to Transformer Harmonic and Transient Analysis",
       "summary": "Explore structured finite-element methodologies for analyzing transformer behavior under harmonic and transient conditions — covering modelling, solver configuration, and result validation techniques.What Attendees will LearnHow FEM enables pre-fabrication performance evaluation — Assess magnetic fi...",
       "url": "https://content.knowledgehub.wiley.com/solving-harmonic-and-transient-challenges-in-transformers-using-integrateds-faraday/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 10 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.538843"
+      "collected_at": "2026-03-15T01:19:15.982500"
     },
     {
       "title": "Intel Demos Chip to Compute With Encrypted Data",
       "summary": "SummaryFully homomorphic encryption (FHE) allows computing on encrypted data without decryption, but it’s currently slow on standard CPUs and GPUs.Intel’s Heracles chip accelerates FHE tasks up to 5,000 times faster than top Intel server CPUs.Heracles uses a 3-nanometer FinFET technology and high-ba...",
       "url": "https://spectrum.ieee.org/fhe-intel",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 10 Mar 2026 13:00:04 +0000",
-      "collected_at": "2026-03-14T01:07:26.538794"
+      "collected_at": "2026-03-15T01:19:15.982451"
     },
     {
       "title": "Why AI Chatbots Agree With You Even When You’re Wrong",
       "summary": "In April of 2025, OpenAI released a new version of GPT-4o, one of the AI algorithms users could select to power ChatGPT, the company’s chatbot. The next week, OpenAI reverted to the previous version. “The update we removed was overly flattering or agreeable—often described as sycophantic,” the compa...",
       "url": "https://spectrum.ieee.org/ai-sycophancy",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Mar 2026 12:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.538629"
+      "collected_at": "2026-03-15T01:19:15.982288"
     },
     {
       "title": "How Robert Goddard’s Self-Reliance Crashed His Rocket Dreams",
       "summary": "There’s a moment in John Williams’s Star Wars overture when the brass surges upward. You don’t just hear it; you feel propulsion turning into pure possibility.On 16 March 1926, in a snow-dusted field in Auburn, Mass., Robert Goddard created an earlier version of that same feeling. His first liquid-f...",
       "url": "https://spectrum.ieee.org/robert-goddard-leadership",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Mar 2026 13:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.538450"
+      "collected_at": "2026-03-15T01:19:15.982111"
     },
     {
       "title": "Keep Your Intuition Sharp While Using AI Coding Tools",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!How to Keep Your Engineering Skills Sharp in an AI W...",
       "url": "https://spectrum.ieee.org/ai-for-coding-intuition",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Mar 2026 15:28:43 +0000",
-      "collected_at": "2026-03-14T01:07:26.538338"
+      "collected_at": "2026-03-15T01:19:15.982011"
     },
     {
       "title": "IEEE Launches Global Virtual Career Fairs",
       "summary": "In 2025 IEEE launched its first virtual career fair to help strengthen the engineering workforce and connect top talent with industry professionals. The event, which was held in the United States, attracted thousands of students and professionals. They learned about more than 500 job opportunities i...",
       "url": "https://spectrum.ieee.org/ieee-global-virtual-career-fairs",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 11 Mar 2026 18:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.538231"
+      "collected_at": "2026-03-15T01:19:15.981898"
     },
     {
       "title": "40 Years of Wireless Evolution Leads to a Smart, Sensing Network",
       "summary": "Every generation of mobile networks, from 1G to 5G, has rewritten the rules of how the world lives and works. The coming 6G revolution, by decade’s end, will represent a new direction still, toward a universal data fabric where millions of agents collaborate in real-time across the digital and physi...",
       "url": "https://spectrum.ieee.org/telecom-history-1g-to-6g",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Mar 2026 13:00:03 +0000",
-      "collected_at": "2026-03-14T01:07:26.538090"
+      "collected_at": "2026-03-15T01:19:15.981732"
     }
   ]
 }
