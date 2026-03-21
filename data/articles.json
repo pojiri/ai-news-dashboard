@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-03-20T01:09:46.405701",
+  "last_updated": "2026-03-21T01:05:35.227830",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Keep Your Intuition Sharp While Using AI Coding Tools",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!How to Keep Your Engineering Skills Sharp in an AI W...",
-      "url": "https://spectrum.ieee.org/ai-for-coding-intuition",
-      "date": "03月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 11 Mar 2026 15:28:43 +0000",
-      "collected_at": "2026-03-20T01:09:45.403506"
-    },
-    {
-      "title": "IEEE Launches Global Virtual Career Fairs",
-      "summary": "In 2025 IEEE launched its first virtual career fair to help strengthen the engineering workforce and connect top talent with industry professionals. The event, which was held in the United States, attracted thousands of students and professionals. They learned about more than 500 job opportunities i...",
-      "url": "https://spectrum.ieee.org/ieee-global-virtual-career-fairs",
-      "date": "03月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 11 Mar 2026 18:00:03 +0000",
-      "collected_at": "2026-03-20T01:09:45.403401"
-    },
     {
       "title": "40 Years of Wireless Evolution Leads to a Smart, Sensing Network",
       "summary": "Every generation of mobile networks, from 1G to 5G, has rewritten the rules of how the world lives and works. The coming 6G revolution, by decade’s end, will represent a new direction still, toward a universal data fabric where millions of agents collaborate in real-time across the digital and physi...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Mar 2026 13:00:03 +0000",
-      "collected_at": "2026-03-20T01:09:45.403262"
+      "collected_at": "2026-03-21T01:05:34.224924"
     },
     {
       "title": "Investing in Your Professional Community Yields Big Returns",
@@ -41,87 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-03-20T01:09:45.403044"
+      "collected_at": "2026-03-21T01:05:34.224702"
     },
     {
       "title": "Waabi's Raquel Urtasun on Level-4 Autonomous Trucks",
       "summary": "Raquel Urtasun has spent 16 years in the self-driving space, long enough to  navigate every metaphorical  glorious hill and plunging valley.  She took the trip from the early “pipe dream” dismissals, to the “we’re this close” certainty, and back again.The industry is now riding a new wave of optimis...",
       "url": "https://spectrum.ieee.org/level-4-autonomous-trucks",
-      "date": "6日前",
+      "date": "03月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Mar 2026 13:01:02 +0000",
-      "collected_at": "2026-03-20T01:09:45.402923"
+      "collected_at": "2026-03-21T01:05:34.224579"
     },
     {
       "title": "Video Friday: These Robots Were Born to Run",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNAEnjoy today’s videos! Al...",
       "url": "https://spectrum.ieee.org/legged-modular-robot",
-      "date": "6日前",
+      "date": "03月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Mar 2026 16:00:04 +0000",
-      "collected_at": "2026-03-20T01:09:45.402750"
+      "collected_at": "2026-03-21T01:05:34.224389"
     },
     {
       "title": "IEEE Young Professionals Help Bridge the U.S. Tech Skills Gap",
       "summary": "The America’s Talent Strategy: Building the Workforce for the Golden Age report, published last year by the U.S. Departments of Commerce, Education, and Labor, identified a significant engineering and skills gap. The 27-page report concluded that the shortage of talent in essential areas—including a...",
       "url": "https://spectrum.ieee.org/ieee-young-professionals-skills-gap",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Mar 2026 20:00:03 +0000",
-      "collected_at": "2026-03-20T01:09:45.402617"
+      "collected_at": "2026-03-21T01:05:34.224240"
     },
     {
-      "title": "Utilities Study How to Protect Grids From Rising Physical Threats",
+      "title": "Rising Attacks on Power Grids Push Utilities to Prepare",
       "summary": "In the fictional nation of Beryllia, the 2026 World Chalice Games were set to begin as the country faced an unrelenting heat wave. The grid, already under strain from the circumstances, was dealt a further blow when a coordinated set of attacks including vandalism, drone, and ballistic attacks by an...",
-      "url": "https://spectrum.ieee.org/power-grid-attack-gridex-drone",
-      "date": "3日前",
+      "url": "https://spectrum.ieee.org/power-grid-attack-security-gridex",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Mar 2026 20:42:45 +0000",
-      "collected_at": "2026-03-20T01:09:45.402482"
+      "collected_at": "2026-03-21T01:05:34.224097"
     },
     {
       "title": "Wanted: Europe’s Missing Cloud Provider",
       "summary": "Looming over the internet lasers and firestarting phones companies were touting at Mobile World Congress in Barcelona this month, was a more nebulous but much larger announcement: a pan-European cloud called EURO-3C.EURO-3C’s backers – Spanish telecoms giant Telefónica, dozens of other European comp...",
       "url": "https://spectrum.ieee.org/europe-cloud-sovereignty",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 11:00:06 +0000",
-      "collected_at": "2026-03-20T01:09:45.402329"
+      "collected_at": "2026-03-21T01:05:34.223913"
     },
     {
       "title": "New Polymer Blend Could Help Store Energy for the Grid and EVs",
       "summary": "As electronics demand higher energy density, one component has proved challenging to shrink: the capacitor. Making a smaller capacitor usually requires thinning the dielectric layer or electrode surface area, which has often resulted in a reduction of power. A new polymer material could help change ...",
       "url": "https://spectrum.ieee.org/polymer-blend-capacitor",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 12:00:08 +0000",
-      "collected_at": "2026-03-20T01:09:45.402188"
+      "collected_at": "2026-03-21T01:05:34.223777"
     },
     {
       "title": "“Sensorveillance” Turns Ordinary Life Into Evidence",
       "summary": "Every time you unlock your smartphone or start your connected car, you are generating a trail of digital evidence that can be used to track your every move.In Your Data Will Be Used Against You: Policing in the Age of Self-Surveillance, just published by NYU Press, law professor Andrew Guthrie Fergu...",
       "url": "https://spectrum.ieee.org/digital-surveillance",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-20T01:09:45.402092"
+      "collected_at": "2026-03-21T01:05:34.223666"
     },
     {
       "title": "ENIAC, the First General-Purpose Digital Computer, Turns 80",
       "summary": "Happy 80th anniversary, ENIAC! The Electronic Numerical Integrator and Computer, the first large-scale, general-purpose, programmable electronic digital computer, helped shape our world.On 15 February 1946, ENIAC—developed in the Moore School of Electrical Engineering at the University of Pennsylvan...",
       "url": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 18 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-03-20T01:09:45.401838"
+      "collected_at": "2026-03-21T01:05:34.223406"
+    },
+    {
+      "title": "Overcoming Core Engineering Barriers in Humanoid Robotics Development",
+      "summary": "A technical examination of the sensing, motion control, power, and thermal challenges facing humanoid robotics engineers — with component-level design strategies for real-world deployment.What Attendees will LearnWhy motion control remains the hardest unsolved problem — Explore the modelling complex...",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 19 Mar 2026 10:00:05 +0000",
+      "collected_at": "2026-03-21T01:05:34.223112"
+    },
+    {
+      "title": "How Your Virtual Twin Could One Day Save Your Life",
+      "summary": "One morning in May 2019, a cardiac surgeon stepped into the operating room at Boston Children’s Hospital more prepared than ever before to perform a high-risk procedure to rebuild a child’s heart. The surgeon was experienced, but he had an additional advantage: He had already performed the procedure...",
+      "url": "https://spectrum.ieee.org/living-heart-project-virtual-twins",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 19 Mar 2026 12:00:05 +0000",
+      "collected_at": "2026-03-21T01:05:34.223047"
     }
   ]
 }
