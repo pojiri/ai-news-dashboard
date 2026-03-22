@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T01:05:35.227830",
+  "last_updated": "2026-03-22T01:13:32.934820",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Mar 2026 13:00:03 +0000",
-      "collected_at": "2026-03-21T01:05:34.224924"
+      "collected_at": "2026-03-22T01:13:31.932348"
     },
     {
       "title": "Investing in Your Professional Community Yields Big Returns",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 12 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-03-21T01:05:34.224702"
+      "collected_at": "2026-03-22T01:13:31.932137"
     },
     {
       "title": "Waabi's Raquel Urtasun on Level-4 Autonomous Trucks",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Mar 2026 13:01:02 +0000",
-      "collected_at": "2026-03-21T01:05:34.224579"
+      "collected_at": "2026-03-22T01:13:31.932016"
     },
     {
       "title": "Video Friday: These Robots Were Born to Run",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 13 Mar 2026 16:00:04 +0000",
-      "collected_at": "2026-03-21T01:05:34.224389"
+      "collected_at": "2026-03-22T01:13:31.931829"
     },
     {
       "title": "IEEE Young Professionals Help Bridge the U.S. Tech Skills Gap",
       "summary": "The America’s Talent Strategy: Building the Workforce for the Golden Age report, published last year by the U.S. Departments of Commerce, Education, and Labor, identified a significant engineering and skills gap. The 27-page report concluded that the shortage of talent in essential areas—including a...",
       "url": "https://spectrum.ieee.org/ieee-young-professionals-skills-gap",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Mar 2026 20:00:03 +0000",
-      "collected_at": "2026-03-21T01:05:34.224240"
+      "collected_at": "2026-03-22T01:13:31.931666"
     },
     {
       "title": "Rising Attacks on Power Grids Push Utilities to Prepare",
       "summary": "In the fictional nation of Beryllia, the 2026 World Chalice Games were set to begin as the country faced an unrelenting heat wave. The grid, already under strain from the circumstances, was dealt a further blow when a coordinated set of attacks including vandalism, drone, and ballistic attacks by an...",
       "url": "https://spectrum.ieee.org/power-grid-attack-security-gridex",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 16 Mar 2026 20:42:45 +0000",
-      "collected_at": "2026-03-21T01:05:34.224097"
+      "collected_at": "2026-03-22T01:13:31.931528"
     },
     {
       "title": "Wanted: Europe’s Missing Cloud Provider",
       "summary": "Looming over the internet lasers and firestarting phones companies were touting at Mobile World Congress in Barcelona this month, was a more nebulous but much larger announcement: a pan-European cloud called EURO-3C.EURO-3C’s backers – Spanish telecoms giant Telefónica, dozens of other European comp...",
       "url": "https://spectrum.ieee.org/europe-cloud-sovereignty",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 11:00:06 +0000",
-      "collected_at": "2026-03-21T01:05:34.223913"
+      "collected_at": "2026-03-22T01:13:31.931366"
     },
     {
       "title": "New Polymer Blend Could Help Store Energy for the Grid and EVs",
       "summary": "As electronics demand higher energy density, one component has proved challenging to shrink: the capacitor. Making a smaller capacitor usually requires thinning the dielectric layer or electrode surface area, which has often resulted in a reduction of power. A new polymer material could help change ...",
       "url": "https://spectrum.ieee.org/polymer-blend-capacitor",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 12:00:08 +0000",
-      "collected_at": "2026-03-21T01:05:34.223777"
+      "collected_at": "2026-03-22T01:13:31.931232"
     },
     {
       "title": "“Sensorveillance” Turns Ordinary Life Into Evidence",
       "summary": "Every time you unlock your smartphone or start your connected car, you are generating a trail of digital evidence that can be used to track your every move.In Your Data Will Be Used Against You: Policing in the Age of Self-Surveillance, just published by NYU Press, law professor Andrew Guthrie Fergu...",
       "url": "https://spectrum.ieee.org/digital-surveillance",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 17 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-21T01:05:34.223666"
+      "collected_at": "2026-03-22T01:13:31.931130"
     },
     {
       "title": "ENIAC, the First General-Purpose Digital Computer, Turns 80",
       "summary": "Happy 80th anniversary, ENIAC! The Electronic Numerical Integrator and Computer, the first large-scale, general-purpose, programmable electronic digital computer, helped shape our world.On 15 February 1946, ENIAC—developed in the Moore School of Electrical Engineering at the University of Pennsylvan...",
       "url": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 18 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-03-21T01:05:34.223406"
+      "collected_at": "2026-03-22T01:13:31.930873"
     },
     {
       "title": "Overcoming Core Engineering Barriers in Humanoid Robotics Development",
       "summary": "A technical examination of the sensing, motion control, power, and thermal challenges facing humanoid robotics engineers — with component-level design strategies for real-world deployment.What Attendees will LearnWhy motion control remains the hardest unsolved problem — Explore the modelling complex...",
       "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 19 Mar 2026 10:00:05 +0000",
-      "collected_at": "2026-03-21T01:05:34.223112"
+      "collected_at": "2026-03-22T01:13:31.930562"
     },
     {
       "title": "How Your Virtual Twin Could One Day Save Your Life",
       "summary": "One morning in May 2019, a cardiac surgeon stepped into the operating room at Boston Children’s Hospital more prepared than ever before to perform a high-risk procedure to rebuild a child’s heart. The surgeon was experienced, but he had an additional advantage: He had already performed the procedure...",
       "url": "https://spectrum.ieee.org/living-heart-project-virtual-twins",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 19 Mar 2026 12:00:05 +0000",
-      "collected_at": "2026-03-21T01:05:34.223047"
+      "collected_at": "2026-03-22T01:13:31.930503"
     }
   ]
 }
