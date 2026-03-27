@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T01:18:05.651809",
+  "last_updated": "2026-03-27T01:18:05.168727",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -7,121 +7,121 @@
       "title": "AI Aims for Autonomous Wheelchair Navigation",
       "summary": "Wheelchair users with severe disabilities can often navigate tight spaces better than most robotic systems can. A wave of new smart-wheelchair research, including findings presented in Anaheim, Calif., earlier this month, is now testing whether AI-powered systems can, or should, fully close this gap...",
       "url": "https://spectrum.ieee.org/autonomous-smart-wheelchair",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 20 Mar 2026 18:49:12 +0000",
-      "collected_at": "2026-03-26T01:18:04.649302"
+      "collected_at": "2026-03-27T01:18:04.166371"
     },
     {
       "title": "Video Friday: Humanoid Learns Tennis Skills Playing Humans",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNASummer School on Multi-R...",
       "url": "https://spectrum.ieee.org/tennis-playing-robot",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 21 Mar 2026 16:30:04 +0000",
-      "collected_at": "2026-03-26T01:18:04.649157"
+      "collected_at": "2026-03-27T01:18:04.166242"
     },
     {
       "title": "What Happens If AI Makes Things Too Easy for Us?",
       "summary": "Most people who regularly use AI tools would say they’re making their lives easier. The technology promises to streamline and take over tasks both professionally and personally—whether that’s summarizing documents, drafting deliverables, generating code, or even offering emotional support. But resea...",
       "url": "https://spectrum.ieee.org/frictionless-ai-psychology",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 22 Mar 2026 13:00:04 +0000",
-      "collected_at": "2026-03-26T01:18:04.648985"
+      "collected_at": "2026-03-27T01:18:04.166069"
     },
     {
       "title": "Why Thermal Metrology Must Evolve for Next-Generation Semiconductors",
       "summary": "An in-depth examination of how rising power density, 3D integration, and novel materials are outpacing legacy thermal measurement — and what advanced metrology must deliver.What Attendees will LearnWhy heat is now the dominant constraint on semiconductor scaling — Explore how heterogeneous integrati...",
       "url": "https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Mar 2026 10:00:04 +0000",
-      "collected_at": "2026-03-26T01:18:04.648843"
+      "collected_at": "2026-03-27T01:18:04.165924"
     },
     {
       "title": "Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
       "summary": "This is a sponsored article brought to you by PNY Technologies.In today’s data-driven world, data scientists face mounting challenges in preparing, scaling, and processing massive datasets. Traditional CPU-based systems are no longer sufficient to meet the demands of modern AI and analytics workflow...",
       "url": "https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Mar 2026 13:00:04 +0000",
-      "collected_at": "2026-03-26T01:18:04.648788"
+      "collected_at": "2026-03-27T01:18:04.165865"
     },
     {
       "title": "Remembering IEEE Power & Energy Society Leader Mel Olken",
       "summary": "Mel OlkenFormer executive director of the IEEE Power & Energy SocietyFellow, 92; died 9 JanuaryOlken became the first executive director of the IEEE Power & Energy Society (PES) in 1995. In 2002 he left the position to serve as founding editor in chief of the society’s Power & Energy Magazine. Olken...",
       "url": "https://spectrum.ieee.org/in-memoriam-march-2026-remembering",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.648672"
+      "collected_at": "2026-03-27T01:18:04.165728"
     },
     {
       "title": "The Coming Drone-War Inflection in Ukraine",
       "summary": "WHEN KYIV-BORN ENGINEER Yaroslav Azhnyuk thinks about the future, his mind conjures up dystopian images. He talks about “swarms of autonomous drones carrying other autonomous drones to protect them against autonomous drones, which are trying to intercept them, controlled by AI agents overseen by a h...",
       "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.648557"
+      "collected_at": "2026-03-27T01:18:04.165614"
     },
     {
       "title": "What Will It Take to Build the World’s Largest Data Center?",
       "summary": "The undying thirst for smarter (historically, that means larger) AI models and greater adoption of the ones we already have has led to an explosion in data-center construction projects, unparalleled both in number and scale. Chief among them is Meta’s planned 5-gigawatt data center in Louisiana, cal...",
       "url": "https://spectrum.ieee.org/5gw-data-center",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 15:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.648083"
+      "collected_at": "2026-03-27T01:18:04.165162"
     },
     {
       "title": "Data Centers Are Transitioning From AC to DC",
       "summary": "Last week’s Nvidia GTC conference highlighted new chip architectures to power AI. But as the chips become faster and more powerful, the remainder of data center infrastructure is playing catch-up. The power-delivery community  is responding: Announcements from Delta,  Eaton, and Vertiv showcased new...",
       "url": "https://spectrum.ieee.org/data-center-dc",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 16:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.647748"
+      "collected_at": "2026-03-27T01:18:04.164820"
     },
     {
       "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
       "summary": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions...",
       "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.647629"
+      "collected_at": "2026-03-27T01:18:04.164681"
     },
     {
       "title": "What Happens When You Host an AI Café",
       "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies adopt AI-driven interview screeners, restructure their workforces, and redirect b...",
       "url": "https://spectrum.ieee.org/ai-community-engagement",
-      "date": "11時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:00:05 +0000",
-      "collected_at": "2026-03-26T01:18:04.647475"
+      "collected_at": "2026-03-27T01:18:04.164528"
     },
     {
       "title": "How IEEE 802.11bn Delivers Ultra-High Reliability for Wi-Fi 8",
       "summary": "A technical exploration of IEEE 802.11bn’s physical and MAC layer enhancements — including distributed resource units, enhanced long range, multi-AP coordination, and seamless roaming — that define Wi-Fi 8.What Attendees will LearnWhy Wi-Fi 8 prioritizes reliability over raw throughput — Understand ...",
       "url": "https://content.knowledgehub.wiley.com/setting-new-performance-standards-with-ieee-802-11bn-an-in-depth-overview-of-wi-fi-8/",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:22:07 +0000",
-      "collected_at": "2026-03-26T01:18:04.647344"
+      "collected_at": "2026-03-27T01:18:04.164397"
     }
   ]
 }
