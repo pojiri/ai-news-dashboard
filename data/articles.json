@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-28T01:11:29.576083",
+  "last_updated": "2026-03-29T01:21:24.434738",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -7,121 +7,121 @@
       "title": "Remembering IEEE Power & Energy Society Leader Mel Olken",
       "summary": "Mel OlkenFormer executive director of the IEEE Power & Energy SocietyFellow, 92; died 9 JanuaryOlken became the first executive director of the IEEE Power & Energy Society (PES) in 1995. In 2002 he left the position to serve as founding editor in chief of the society’s Power & Energy Magazine. Olken...",
       "url": "https://spectrum.ieee.org/in-memoriam-march-2026-remembering",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 23 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.574018"
+      "collected_at": "2026-03-29T01:21:23.432545"
     },
     {
       "title": "The Coming Drone-War Inflection in Ukraine",
       "summary": "WHEN KYIV-BORN ENGINEER Yaroslav Azhnyuk thinks about the future, his mind conjures up dystopian images. He talks about “swarms of autonomous drones carrying other autonomous drones to protect them against autonomous drones, which are trying to intercept them, controlled by AI agents overseen by a h...",
       "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.573885"
+      "collected_at": "2026-03-29T01:21:23.432414"
     },
     {
       "title": "What Will It Take to Build the World’s Largest Data Center?",
       "summary": "The undying thirst for smarter (historically, that means larger) AI models and greater adoption of the ones we already have has led to an explosion in data-center construction projects, unparalleled both in number and scale. Chief among them is Meta’s planned 5-gigawatt data center in Louisiana, cal...",
       "url": "https://spectrum.ieee.org/5gw-data-center",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 15:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.573431"
+      "collected_at": "2026-03-29T01:21:23.431964"
     },
     {
       "title": "Data Centers Are Transitioning From AC to DC",
       "summary": "Last week’s Nvidia GTC conference highlighted new chip architectures to power AI. But as the chips become faster and more powerful, the remainder of data center infrastructure is playing catch-up. The power-delivery community  is responding: Announcements from Delta,  Eaton, and Vertiv showcased new...",
       "url": "https://spectrum.ieee.org/data-center-dc",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 24 Mar 2026 16:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.573089"
+      "collected_at": "2026-03-29T01:21:23.431608"
     },
     {
       "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
       "summary": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions...",
       "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.572946"
+      "collected_at": "2026-03-29T01:21:23.431466"
     },
     {
       "title": "What Happens When You Host an AI Café",
       "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies adopt AI-driven interview screeners, restructure their workforces, and redirect b...",
       "url": "https://spectrum.ieee.org/ai-community-engagement",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.572795"
+      "collected_at": "2026-03-29T01:21:23.431317"
     },
     {
       "title": "How IEEE 802.11bn Delivers Ultra-High Reliability for Wi-Fi 8",
       "summary": "A technical exploration of IEEE 802.11bn’s physical and MAC layer enhancements — including distributed resource units, enhanced long range, multi-AP coordination, and seamless roaming — that define Wi-Fi 8.What Attendees will LearnWhy Wi-Fi 8 prioritizes reliability over raw throughput — Understand ...",
       "url": "https://content.knowledgehub.wiley.com/setting-new-performance-standards-with-ieee-802-11bn-an-in-depth-overview-of-wi-fi-8/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:22:07 +0000",
-      "collected_at": "2026-03-28T01:11:28.572664"
+      "collected_at": "2026-03-29T01:21:23.431186"
     },
     {
       "title": "30 Years Ago, Robots Learned to Walk Without Falling",
       "summary": "When you hear the term humanoid robot, you may think of C-3PO, the human-cyborg-relations android from Star Wars. C-3PO was designed to assist humans in communicating with robots and alien species. The droid, which first appeared on screen in 1977, joined the characters on their adventures, walking,...",
       "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.572606"
+      "collected_at": "2026-03-29T01:21:23.431130"
     },
     {
       "title": "Training Driving AI at 50,000× Real Time",
       "summary": "This is a sponsored article brought to you by General Motors. Visit their new Engineering Blog for more insights.Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpret a chaotic, ever-changing world in real time—navigating uncertainty, predicting ...",
       "url": "https://spectrum.ieee.org/gm-scalable-driving-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:00:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.572411"
+      "collected_at": "2026-03-29T01:21:23.430938"
     },
     {
       "title": "Improve Engineering Communication by Translating Technical Detail",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Engineers Aren’t Bad at Communication. They’re Just ...",
       "url": "https://spectrum.ieee.org/engineering-communication",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:03:20 +0000",
-      "collected_at": "2026-03-28T01:11:28.572235"
+      "collected_at": "2026-03-29T01:21:23.430766"
     },
     {
       "title": "How NYU’s Quantum Institute Bridges Science and Application",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hospitals. This isn’t just a fact about real estate, it’s the foundation for advancing quantum discovery...",
       "url": "https://spectrum.ieee.org/nyu-quantum-institute",
-      "date": "15時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 10:02:05 +0000",
-      "collected_at": "2026-03-28T01:11:28.572111"
+      "collected_at": "2026-03-29T01:21:23.430647"
     },
     {
       "title": "A New Way to Spray Paint Color",
       "summary": "We’re all familiar with mixing red, yellow, and blue paint in various ratios to instantly make all kinds of colors. This works great for oils or watercolors, but fails when it comes to cans of spray paint. The paint droplets can’t be blended once they are aerosolized. Consequently, although spray ca...",
       "url": "https://spectrum.ieee.org/spray-paint-color-creator",
-      "date": "10時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 14:41:42 +0000",
-      "collected_at": "2026-03-28T01:11:28.571875"
+      "collected_at": "2026-03-29T01:21:23.430435"
     }
   ]
 }
