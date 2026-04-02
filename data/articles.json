@@ -1,127 +1,127 @@
 {
-  "last_updated": "2026-04-01T01:26:14.923901",
+  "last_updated": "2026-04-02T01:16:27.079798",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
     {
-      "title": "Data Centers Are Transitioning From AC to DC",
-      "summary": "Last week’s Nvidia GTC conference highlighted new chip architectures to power AI. But as the chips become faster and more powerful, the remainder of data center infrastructure is playing catch-up. The power-delivery community  is responding: Announcements from Delta,  Eaton, Schneider Electric, and ...",
-      "url": "https://spectrum.ieee.org/data-center-dc",
-      "date": "03月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 24 Mar 2026 16:00:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.921804"
-    },
-    {
       "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
       "summary": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions...",
       "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.921650"
+      "collected_at": "2026-04-02T01:16:26.077382"
     },
     {
       "title": "What Happens When You Host an AI Café",
       "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies adopt AI-driven interview screeners, restructure their workforces, and redirect b...",
       "url": "https://spectrum.ieee.org/ai-community-engagement",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:00:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.921500"
+      "collected_at": "2026-04-02T01:16:26.077228"
     },
     {
       "title": "How IEEE 802.11bn Delivers Ultra-High Reliability for Wi-Fi 8",
       "summary": "A technical exploration of IEEE 802.11bn’s physical and MAC layer enhancements — including distributed resource units, enhanced long range, multi-AP coordination, and seamless roaming — that define Wi-Fi 8.What Attendees will LearnWhy Wi-Fi 8 prioritizes reliability over raw throughput — Understand ...",
       "url": "https://content.knowledgehub.wiley.com/setting-new-performance-standards-with-ieee-802-11bn-an-in-depth-overview-of-wi-fi-8/",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:22:07 +0000",
-      "collected_at": "2026-04-01T01:26:13.921371"
+      "collected_at": "2026-04-02T01:16:26.077093"
     },
     {
       "title": "30 Years Ago, Robots Learned to Walk Without Falling",
       "summary": "When you hear the term humanoid robot, you may think of C-3PO, the human-cyborg-relations android from Star Wars. C-3PO was designed to assist humans in communicating with robots and alien species. The droid, which first appeared on screen in 1977, joined the characters on their adventures, walking,...",
       "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.921315"
+      "collected_at": "2026-04-02T01:16:26.077031"
     },
     {
       "title": "Training Driving AI at 50,000× Real Time",
       "summary": "This is a sponsored article brought to you by General Motors. Visit their new Engineering Blog for more insights.Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpret a chaotic, ever-changing world in real time—navigating uncertainty, predicting ...",
       "url": "https://spectrum.ieee.org/gm-scalable-driving-ai",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:00:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.921127"
+      "collected_at": "2026-04-02T01:16:26.076836"
     },
     {
       "title": "Improve Engineering Communication by Translating Technical Detail",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Engineers Aren’t Bad at Communication. They’re Just ...",
       "url": "https://spectrum.ieee.org/engineering-communication",
-      "date": "6日前",
+      "date": "03月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:03:20 +0000",
-      "collected_at": "2026-04-01T01:26:13.920956"
+      "collected_at": "2026-04-02T01:16:26.076658"
     },
     {
       "title": "How NYU’s Quantum Institute Bridges Science and Application",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hospitals. This isn’t just a fact about real estate, it’s the foundation for advancing quantum discovery...",
       "url": "https://spectrum.ieee.org/nyu-quantum-institute",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 10:02:05 +0000",
-      "collected_at": "2026-04-01T01:26:13.920841"
+      "collected_at": "2026-04-02T01:16:26.076532"
     },
     {
       "title": "A New Way to Spray Paint Color",
       "summary": "We’re all familiar with mixing red, yellow, and blue paint in various ratios to instantly make all kinds of colors. This works great for oils or watercolors, but fails when it comes to cans of spray paint. The paint droplets can’t be blended once they are aerosolized. Consequently, although spray ca...",
       "url": "https://spectrum.ieee.org/spray-paint-color-creator",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 14:41:42 +0000",
-      "collected_at": "2026-04-01T01:26:13.920628"
+      "collected_at": "2026-04-02T01:16:26.076323"
     },
     {
       "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNARSS 2026: 13–17 July 202...",
       "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 16:30:03 +0000",
-      "collected_at": "2026-04-01T01:26:13.920502"
+      "collected_at": "2026-04-02T01:16:26.076197"
     },
     {
       "title": "IEEE Professional Development Suite Teaches In-Demand Skills",
       "summary": "In today’s technological landscape, the only constant is the rate of obsolescence. As engineers move deeper into the eras of 6G, ubiquitous artificial intelligence, and hyper-miniaturized electronics, a traditional degree is only a starting point.To remain competitive in today’s job market, technica...",
       "url": "https://spectrum.ieee.org/ieee-professional-development-suite",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-04-01T01:26:13.920316"
+      "collected_at": "2026-04-02T01:16:26.076013"
     },
     {
       "title": "Social Media Addiction Trial Should Lead to Platform Redesigns",
       "summary": "In a landmark case, a jury found this week that Meta and YouTube negligently designed their platforms and harmed the plaintiff, a 20-year-old woman referred to as Kaley G.M. The jury agreed with the plaintiff that social media is addictive and harmful and was deliberately designed to be that way. Th...",
       "url": "https://spectrum.ieee.org/social-media-trial",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 19:05:59 +0000",
-      "collected_at": "2026-04-01T01:26:13.920195"
+      "collected_at": "2026-04-02T01:16:26.075892"
+    },
+    {
+      "title": "Facial Recognition Is Spreading Everywhere",
+      "summary": "Facial recognition technology (FRT) dates back 60 years. Just over a decade ago, deep-learning methods tipped the technology into more useful—and menacing—territory. Now, retailers, your neighbors, and law enforcement are all storing your face and building up a fragmentary photo album of your life.Y...",
+      "url": "https://spectrum.ieee.org/facial-recognition-gone-wrong",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 30 Mar 2026 13:00:02 +0000",
+      "collected_at": "2026-04-02T01:16:26.075767"
     }
   ]
 }
