@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-04-02T01:16:27.079798",
+  "last_updated": "2026-04-03T01:18:36.157241",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Are U.S. Engineering Ph.D. Programs Losing Students?",
-      "summary": "U.S. doctoral programs in electrical engineering form the foundation of technological advancement, training the brightest minds in the world to research, develop, and design next-generation electronics, software, electrical infrastructure, and other high-tech products and systems. Elite institutions...",
-      "url": "https://spectrum.ieee.org/us-engineering-phd-enrollment-drop",
-      "date": "03月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Mar 2026 13:00:05 +0000",
-      "collected_at": "2026-04-02T01:16:26.077382"
-    },
-    {
-      "title": "What Happens When You Host an AI Café",
-      "summary": "“Can I get an interview?” “Can I get a job when I graduate?” Those questions came from students during a candid discussion about artificial intelligence, capturing the anxiety many young people feel today. As companies adopt AI-driven interview screeners, restructure their workforces, and redirect b...",
-      "url": "https://spectrum.ieee.org/ai-community-engagement",
-      "date": "03月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Mar 2026 14:00:05 +0000",
-      "collected_at": "2026-04-02T01:16:26.077228"
-    },
     {
       "title": "How IEEE 802.11bn Delivers Ultra-High Reliability for Wi-Fi 8",
       "summary": "A technical exploration of IEEE 802.11bn’s physical and MAC layer enhancements — including distributed resource units, enhanced long range, multi-AP coordination, and seamless roaming — that define Wi-Fi 8.What Attendees will LearnWhy Wi-Fi 8 prioritizes reliability over raw throughput — Understand ...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 14:22:07 +0000",
-      "collected_at": "2026-04-02T01:16:26.077093"
+      "collected_at": "2026-04-03T01:18:35.154903"
     },
     {
       "title": "30 Years Ago, Robots Learned to Walk Without Falling",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 18:00:05 +0000",
-      "collected_at": "2026-04-02T01:16:26.077031"
+      "collected_at": "2026-04-03T01:18:35.154841"
     },
     {
       "title": "Training Driving AI at 50,000× Real Time",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:00:05 +0000",
-      "collected_at": "2026-04-02T01:16:26.076836"
+      "collected_at": "2026-04-03T01:18:35.154650"
     },
     {
       "title": "Improve Engineering Communication by Translating Technical Detail",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:03:20 +0000",
-      "collected_at": "2026-04-02T01:16:26.076658"
+      "collected_at": "2026-04-03T01:18:35.154475"
     },
     {
       "title": "How NYU’s Quantum Institute Bridges Science and Application",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hospitals. This isn’t just a fact about real estate, it’s the foundation for advancing quantum discovery...",
       "url": "https://spectrum.ieee.org/nyu-quantum-institute",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 10:02:05 +0000",
-      "collected_at": "2026-04-02T01:16:26.076532"
+      "collected_at": "2026-04-03T01:18:35.154352"
     },
     {
       "title": "A New Way to Spray Paint Color",
       "summary": "We’re all familiar with mixing red, yellow, and blue paint in various ratios to instantly make all kinds of colors. This works great for oils or watercolors, but fails when it comes to cans of spray paint. The paint droplets can’t be blended once they are aerosolized. Consequently, although spray ca...",
       "url": "https://spectrum.ieee.org/spray-paint-color-creator",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 14:41:42 +0000",
-      "collected_at": "2026-04-02T01:16:26.076323"
+      "collected_at": "2026-04-03T01:18:35.154160"
     },
     {
       "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNARSS 2026: 13–17 July 202...",
       "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 16:30:03 +0000",
-      "collected_at": "2026-04-02T01:16:26.076197"
+      "collected_at": "2026-04-03T01:18:35.154018"
     },
     {
       "title": "IEEE Professional Development Suite Teaches In-Demand Skills",
       "summary": "In today’s technological landscape, the only constant is the rate of obsolescence. As engineers move deeper into the eras of 6G, ubiquitous artificial intelligence, and hyper-miniaturized electronics, a traditional degree is only a starting point.To remain competitive in today’s job market, technica...",
       "url": "https://spectrum.ieee.org/ieee-professional-development-suite",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-04-02T01:16:26.076013"
+      "collected_at": "2026-04-03T01:18:35.153836"
     },
     {
       "title": "Social Media Addiction Trial Should Lead to Platform Redesigns",
       "summary": "In a landmark case, a jury found this week that Meta and YouTube negligently designed their platforms and harmed the plaintiff, a 20-year-old woman referred to as Kaley G.M. The jury agreed with the plaintiff that social media is addictive and harmful and was deliberately designed to be that way. Th...",
       "url": "https://spectrum.ieee.org/social-media-trial",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 19:05:59 +0000",
-      "collected_at": "2026-04-02T01:16:26.075892"
+      "collected_at": "2026-04-03T01:18:35.153717"
+    },
+    {
+      "title": "How 5G Non-Terrestrial Networks Enable Ubiquitous Global Connectivity",
+      "summary": "5G covers under 40% of landmass. This Whitepaper details how 3GPP Release 17 addresses six satellite challenges: delay, Doppler, path loss, polarization, spectrum, and architecture.What Attendees will LearnWhy non-terrestrial networks are now integral to the 5G roadmap — Understand how the Third Gen...",
+      "url": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-technical-overview-of-5g-non-terrestrial-networks/",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 30 Mar 2026 10:00:03 +0000",
+      "collected_at": "2026-04-03T01:18:35.153596"
     },
     {
       "title": "Facial Recognition Is Spreading Everywhere",
       "summary": "Facial recognition technology (FRT) dates back 60 years. Just over a decade ago, deep-learning methods tipped the technology into more useful—and menacing—territory. Now, retailers, your neighbors, and law enforcement are all storing your face and building up a fragmentary photo album of your life.Y...",
       "url": "https://spectrum.ieee.org/facial-recognition-gone-wrong",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-02T01:16:26.075767"
+      "collected_at": "2026-04-03T01:18:35.153533"
+    },
+    {
+      "title": "Invences Empowers Small Businesses With Smart Telecom Networks",
+      "summary": "To stay competitive, many small businesses need advanced wireless communication networks, not only to communicate but also to leverage technologies such as artificial intelligence, the Internet of Things, and robotics. Often, however, the businesses lack the technical expertise needed to install, co...",
+      "url": "https://spectrum.ieee.org/invences-startup-telecom-networks",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 30 Mar 2026 18:00:02 +0000",
+      "collected_at": "2026-04-03T01:18:35.153400"
     }
   ]
 }
