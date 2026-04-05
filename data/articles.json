@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T01:13:04.053776",
+  "last_updated": "2026-04-05T01:21:49.826974",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:00:05 +0000",
-      "collected_at": "2026-04-04T01:13:03.051529"
+      "collected_at": "2026-04-05T01:21:48.824617"
     },
     {
       "title": "Improve Engineering Communication by Translating Technical Detail",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 25 Mar 2026 19:03:20 +0000",
-      "collected_at": "2026-04-04T01:13:03.051357"
+      "collected_at": "2026-04-05T01:21:48.824417"
     },
     {
       "title": "How NYU’s Quantum Institute Bridges Science and Application",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 10:02:05 +0000",
-      "collected_at": "2026-04-04T01:13:03.051242"
+      "collected_at": "2026-04-05T01:21:48.824301"
     },
     {
       "title": "A New Way to Spray Paint Color",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 14:41:42 +0000",
-      "collected_at": "2026-04-04T01:13:03.051054"
+      "collected_at": "2026-04-05T01:21:48.824110"
     },
     {
       "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 16:30:03 +0000",
-      "collected_at": "2026-04-04T01:13:03.050926"
+      "collected_at": "2026-04-05T01:21:48.823981"
     },
     {
       "title": "IEEE Professional Development Suite Teaches In-Demand Skills",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-04-04T01:13:03.050739"
+      "collected_at": "2026-04-05T01:21:48.823790"
     },
     {
       "title": "Social Media Addiction Trial Should Lead to Platform Redesigns",
@@ -71,57 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 19:05:59 +0000",
-      "collected_at": "2026-04-04T01:13:03.050611"
+      "collected_at": "2026-04-05T01:21:48.823660"
     },
     {
       "title": "How 5G Non-Terrestrial Networks Enable Ubiquitous Global Connectivity",
       "summary": "5G covers under 40% of landmass. This Whitepaper details how 3GPP Release 17 addresses six satellite challenges: delay, Doppler, path loss, polarization, spectrum, and architecture.What Attendees will LearnWhy non-terrestrial networks are now integral to the 5G roadmap — Understand how the Third Gen...",
       "url": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-technical-overview-of-5g-non-terrestrial-networks/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-04-04T01:13:03.050460"
+      "collected_at": "2026-04-05T01:21:48.823504"
     },
     {
       "title": "Facial Recognition Is Spreading Everywhere",
       "summary": "Facial recognition technology (FRT) dates back 60 years. Just over a decade ago, deep-learning methods tipped the technology into more useful—and menacing—territory. Now, retailers, your neighbors, and law enforcement are all storing your face and building up a fragmentary photo album of your life.Y...",
       "url": "https://spectrum.ieee.org/facial-recognition-gone-wrong",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-04T01:13:03.050399"
+      "collected_at": "2026-04-05T01:21:48.823443"
     },
     {
       "title": "Invences Empowers Small Businesses With Smart Telecom Networks",
       "summary": "To stay competitive, many small businesses need advanced wireless communication networks, not only to communicate but also to leverage technologies such as artificial intelligence, the Internet of Things, and robotics. Often, however, the businesses lack the technical expertise needed to install, co...",
       "url": "https://spectrum.ieee.org/invences-startup-telecom-networks",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 18:00:02 +0000",
-      "collected_at": "2026-04-04T01:13:03.050268"
+      "collected_at": "2026-04-05T01:21:48.823313"
     },
     {
       "title": "The ’80s Submersible That Transformed Underwater Exploration",
       "summary": "As a kid, I loved the 1980s aquatic adventure show Danger Bay. True to the TV show’s name, danger was always lurking at the Vancouver Aquarium, where the show was set. In one memorable episode, young Jonah and a friend get trapped in a sabotaged mini-submarine, and Jonah’s dad, a marine-mammal veter...",
       "url": "https://spectrum.ieee.org/deep-sea-submersible",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 31 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-04T01:13:03.050125"
+      "collected_at": "2026-04-05T01:21:48.823172"
     },
     {
       "title": "What Exoskeletons Learned From One Relentless User",
       "summary": "It’s easy to assume that Robert Woo was defined by the accident that took away his ability to walk.Certainly, the day of his accident—14 December 2007—was a turning point. Woo, an architect working on the new Goldman Sachs headquarters in New York City, hadn’t attended his company’s holiday party th...",
       "url": "https://spectrum.ieee.org/exoskeleton-user-experience",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-04T01:13:03.049940"
+      "collected_at": "2026-04-05T01:21:48.822988"
     }
   ]
 }
