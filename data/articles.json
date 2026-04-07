@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-04-06T01:22:10.321059",
+  "last_updated": "2026-04-07T01:20:06.183341",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Training Driving AI at 50,000× Real Time",
-      "summary": "This is a sponsored article brought to you by General Motors. Visit their new Engineering Blog for more insights.Autonomous driving is one of the most demanding problems in physical AI. An automated system must interpret a chaotic, ever-changing world in real time—navigating uncertainty, predicting ...",
-      "url": "https://spectrum.ieee.org/gm-scalable-driving-ai",
-      "date": "03月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Mar 2026 19:00:05 +0000",
-      "collected_at": "2026-04-06T01:22:09.318901"
-    },
-    {
-      "title": "Improve Engineering Communication by Translating Technical Detail",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Engineers Aren’t Bad at Communication. They’re Just ...",
-      "url": "https://spectrum.ieee.org/engineering-communication",
-      "date": "03月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 25 Mar 2026 19:03:20 +0000",
-      "collected_at": "2026-04-06T01:22:09.318704"
-    },
     {
       "title": "How NYU’s Quantum Institute Bridges Science and Application",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.Within a 6 mile radius of New York University’s (NYU) campus, there are more than 500 tech industry giants, banks, and hospitals. This isn’t just a fact about real estate, it’s the foundation for advancing quantum discovery...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 10:02:05 +0000",
-      "collected_at": "2026-04-06T01:22:09.318587"
+      "collected_at": "2026-04-07T01:20:05.180894"
     },
     {
       "title": "A New Way to Spray Paint Color",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 14:41:42 +0000",
-      "collected_at": "2026-04-06T01:22:09.318395"
+      "collected_at": "2026-04-07T01:20:05.180703"
     },
     {
       "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 16:30:03 +0000",
-      "collected_at": "2026-04-06T01:22:09.318266"
+      "collected_at": "2026-04-07T01:20:05.180564"
     },
     {
       "title": "IEEE Professional Development Suite Teaches In-Demand Skills",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 18:00:04 +0000",
-      "collected_at": "2026-04-06T01:22:09.318074"
+      "collected_at": "2026-04-07T01:20:05.180355"
     },
     {
       "title": "Social Media Addiction Trial Should Lead to Platform Redesigns",
@@ -71,57 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 19:05:59 +0000",
-      "collected_at": "2026-04-06T01:22:09.317945"
+      "collected_at": "2026-04-07T01:20:05.180229"
     },
     {
       "title": "How 5G Non-Terrestrial Networks Enable Ubiquitous Global Connectivity",
       "summary": "5G covers under 40% of landmass. This Whitepaper details how 3GPP Release 17 addresses six satellite challenges: delay, Doppler, path loss, polarization, spectrum, and architecture.What Attendees will LearnWhy non-terrestrial networks are now integral to the 5G roadmap — Understand how the Third Gen...",
       "url": "https://content.knowledgehub.wiley.com/5g-ntn-takes-flight-technical-overview-of-5g-non-terrestrial-networks/",
-      "date": "6日前",
+      "date": "03月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-04-06T01:22:09.317792"
+      "collected_at": "2026-04-07T01:20:05.180101"
     },
     {
       "title": "Facial Recognition Is Spreading Everywhere",
       "summary": "Facial recognition technology (FRT) dates back 60 years. Just over a decade ago, deep-learning methods tipped the technology into more useful—and menacing—territory. Now, retailers, your neighbors, and law enforcement are all storing your face and building up a fragmentary photo album of your life.Y...",
       "url": "https://spectrum.ieee.org/facial-recognition-gone-wrong",
-      "date": "6日前",
+      "date": "03月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-06T01:22:09.317730"
+      "collected_at": "2026-04-07T01:20:05.180033"
     },
     {
       "title": "Invences Empowers Small Businesses With Smart Telecom Networks",
       "summary": "To stay competitive, many small businesses need advanced wireless communication networks, not only to communicate but also to leverage technologies such as artificial intelligence, the Internet of Things, and robotics. Often, however, the businesses lack the technical expertise needed to install, co...",
       "url": "https://spectrum.ieee.org/invences-startup-telecom-networks",
-      "date": "6日前",
+      "date": "03月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 18:00:02 +0000",
-      "collected_at": "2026-04-06T01:22:09.317597"
+      "collected_at": "2026-04-07T01:20:05.179892"
     },
     {
       "title": "The ’80s Submersible That Transformed Underwater Exploration",
       "summary": "As a kid, I loved the 1980s aquatic adventure show Danger Bay. True to the TV show’s name, danger was always lurking at the Vancouver Aquarium, where the show was set. In one memorable episode, young Jonah and a friend get trapped in a sabotaged mini-submarine, and Jonah’s dad, a marine-mammal veter...",
       "url": "https://spectrum.ieee.org/deep-sea-submersible",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 31 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-06T01:22:09.317453"
+      "collected_at": "2026-04-07T01:20:05.179737"
     },
     {
       "title": "What Exoskeletons Learned From One Relentless User",
       "summary": "It’s easy to assume that Robert Woo was defined by the accident that took away his ability to walk.Certainly, the day of his accident—14 December 2007—was a turning point. Woo, an architect working on the new Goldman Sachs headquarters in New York City, hadn’t attended his company’s holiday party th...",
       "url": "https://spectrum.ieee.org/exoskeleton-user-experience",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-06T01:22:09.317262"
+      "collected_at": "2026-04-07T01:20:05.179551"
+    },
+    {
+      "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
+      "summary": "Abhishek Appaji has committed his career to bringing lifesaving technology to underresourced communities. The IEEE senior member weaves together artificial intelligence, biomedical engineering, deep learning, and neuroscience to make doctors’ jobs easier and to improve patient outcomes.“The intersec...",
+      "url": "https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 02 Apr 2026 18:00:02 +0000",
+      "collected_at": "2026-04-07T01:20:05.179114"
+    },
+    {
+      "title": "ENIAC’s Architects Wove Stories Through Computing",
+      "summary": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its c...",
+      "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 03 Apr 2026 13:00:02 +0000",
+      "collected_at": "2026-04-07T01:20:05.178916"
     }
   ]
 }
