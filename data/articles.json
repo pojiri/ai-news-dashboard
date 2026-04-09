@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T01:21:01.038616",
+  "last_updated": "2026-04-09T01:11:23.975681",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 27 Mar 2026 19:05:59 +0000",
-      "collected_at": "2026-04-08T01:21:00.036270"
+      "collected_at": "2026-04-09T01:11:22.973365"
     },
     {
       "title": "How 5G Non-Terrestrial Networks Enable Ubiquitous Global Connectivity",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 10:00:03 +0000",
-      "collected_at": "2026-04-08T01:21:00.036141"
+      "collected_at": "2026-04-09T01:11:22.973239"
     },
     {
       "title": "Facial Recognition Is Spreading Everywhere",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-08T01:21:00.036066"
+      "collected_at": "2026-04-09T01:11:22.973171"
     },
     {
       "title": "Invences Empowers Small Businesses With Smart Telecom Networks",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 30 Mar 2026 18:00:02 +0000",
-      "collected_at": "2026-04-08T01:21:00.035877"
+      "collected_at": "2026-04-09T01:11:22.973011"
     },
     {
       "title": "The ’80s Submersible That Transformed Underwater Exploration",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 31 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-08T01:21:00.035727"
+      "collected_at": "2026-04-09T01:11:22.972861"
     },
     {
       "title": "What Exoskeletons Learned From One Relentless User",
       "summary": "It’s easy to assume that Robert Woo was defined by the accident that took away his ability to walk.Certainly, the day of his accident—14 December 2007—was a turning point. Woo, an architect working on the new Goldman Sachs headquarters in New York City, hadn’t attended his company’s holiday party th...",
       "url": "https://spectrum.ieee.org/exoskeleton-user-experience",
-      "date": "6日前",
+      "date": "04月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-08T01:21:00.035530"
+      "collected_at": "2026-04-09T01:11:22.972670"
     },
     {
       "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
       "summary": "Abhishek Appaji has committed his career to bringing lifesaving technology to underresourced communities. The IEEE senior member weaves together artificial intelligence, biomedical engineering, deep learning, and neuroscience to make doctors’ jobs easier and to improve patient outcomes.“The intersec...",
       "url": "https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-08T01:21:00.035111"
+      "collected_at": "2026-04-09T01:11:22.972241"
     },
     {
       "title": "ENIAC’s Architects Wove Stories Through Computing",
       "summary": "This year marks the 80th anniversary of ENIAC, the first general-purpose digital computer. The computer was built during World War II to speed up ballistics calculations, but its contributions to computing extend well beyond military applications. Two of ENIAC’s key architects—John W. Mauchly, its c...",
       "url": "https://spectrum.ieee.org/eniac-80th-anniversary-weaving",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-08T01:21:00.034890"
+      "collected_at": "2026-04-09T01:11:22.972022"
     },
     {
       "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
       "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.ICRA 2026: 1–5 June 2026, VIENNARSS 2026: 13–17 July 202...",
       "url": "https://spectrum.ieee.org/video-humanoid-dancing",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Apr 2026 16:30:01 +0000",
-      "collected_at": "2026-04-08T01:21:00.034733"
+      "collected_at": "2026-04-09T01:11:22.971864"
     },
     {
       "title": "Studying Human Attitudes Towards Robots Through Experience",
       "summary": "Building the next generation of robots for successful integration into our homes, offices, and factories is more than just solving the hardware and software problems – we also need to understand how they will be perceived and how they can work effectively with people in those spaces.  aspect_ratio I...",
       "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 05 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-08T01:21:00.034561"
+      "collected_at": "2026-04-09T01:11:22.971695"
     },
     {
       "title": "AI Is Insatiable",
       "summary": "While browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers’ ravenous appetite for memory, a major constraint on the speed at which large lan...",
       "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Apr 2026 14:22:58 +0000",
-      "collected_at": "2026-04-08T01:21:00.034368"
+      "collected_at": "2026-04-09T01:11:22.971500"
     },
     {
       "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
       "summary": "Picture a highway with networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a sudden snow squall: The cars rapidly need to share vast amounts of essential new data about slippery ro...",
       "url": "https://spectrum.ieee.org/wireless-network-over-air-computation",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-08T01:21:00.034285"
+      "collected_at": "2026-04-09T01:11:22.971415"
     }
   ]
 }
