@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T01:16:28.994114",
+  "last_updated": "2026-04-12T01:26:11.470573",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 31 Mar 2026 13:00:02 +0000",
-      "collected_at": "2026-04-11T01:16:27.991533"
+      "collected_at": "2026-04-12T01:26:10.468134"
     },
     {
       "title": "What Exoskeletons Learned From One Relentless User",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.991326"
+      "collected_at": "2026-04-12T01:26:10.467940"
     },
     {
       "title": "Young Professional’s AI Tool Spots Mental Health Conditions",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 02 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-11T01:16:27.990869"
+      "collected_at": "2026-04-12T01:26:10.467448"
     },
     {
       "title": "ENIAC’s Architects Wove Stories Through Computing",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-11T01:16:27.990651"
+      "collected_at": "2026-04-12T01:26:10.467244"
     },
     {
       "title": "Video Friday: Digit Learns to Dance—Virtually Overnight",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Apr 2026 16:30:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.990471"
+      "collected_at": "2026-04-12T01:26:10.467083"
     },
     {
       "title": "Studying Human Attitudes Towards Robots Through Experience",
       "summary": "Building the next generation of robots for successful integration into our homes, offices, and factories is more than just solving the hardware and software problems – we also need to understand how they will be perceived and how they can work effectively with people in those spaces.  aspect_ratio I...",
       "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 05 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.990290"
+      "collected_at": "2026-04-12T01:26:10.466903"
     },
     {
       "title": "AI Is Insatiable",
       "summary": "While browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers’ ravenous appetite for memory, a major constraint on the speed at which large lan...",
       "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Apr 2026 14:22:58 +0000",
-      "collected_at": "2026-04-11T01:16:27.990093"
+      "collected_at": "2026-04-12T01:26:10.466710"
     },
     {
       "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
       "summary": "Picture a highway with networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a sudden snow squall: The cars rapidly need to share vast amounts of essential new data about slippery ro...",
       "url": "https://spectrum.ieee.org/wireless-network-over-air-computation",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.990012"
+      "collected_at": "2026-04-12T01:26:10.466628"
     },
     {
       "title": "Why AI Systems Fail Quietly",
       "summary": "In late-stage testing of a distributed AI platform, engineers sometimes encounter a perplexing situation: every monitoring dashboard reads “healthy,” yet users report that the system’s decisions are slowly becoming wrong.Engineers are trained to recognize failure in familiar ways: a service crashes,...",
       "url": "https://spectrum.ieee.org/ai-reliability",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.989731"
+      "collected_at": "2026-04-12T01:26:10.466350"
     },
     {
       "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
       "summary": "Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time of carbon emissions from training frontier AI models.No wonder big tech companies are warming up to n...",
       "url": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.989603"
+      "collected_at": "2026-04-12T01:26:10.466228"
     },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
       "summary": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he t...",
       "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-11T01:16:27.989405"
+      "collected_at": "2026-04-12T01:26:10.466061"
     },
     {
       "title": "Chip Can Project Video the Size of a Grain of Sand",
       "summary": "By many estimates, quantum computers will need millions of qubits to realize their potential applications in cybersecurity, drug development, and other industries. The problem is, anyone who has wanted to simultaneously control millions of a certain kind of qubits has run into the problem of trying ...",
       "url": "https://spectrum.ieee.org/mems-photonics",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-11T01:16:27.989280"
+      "collected_at": "2026-04-12T01:26:10.465937"
     }
   ]
 }
