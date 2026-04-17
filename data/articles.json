@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-04-16T01:28:04.539982",
+  "last_updated": "2026-04-17T01:25:36.363998",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "What Happened When We Set Up a Robotics Lab in a Mall",
-      "summary": "Building the next generation of robots for successful integration into our homes, offices, and factories is more than just solving the hardware and software problems—we also need to understand how they will be perceived and how they can work effectively with people in those spaces.  aspect_ratio In ...",
-      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
-      "date": "04月05日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 05 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.537583"
-    },
     {
       "title": "AI Is Insatiable",
       "summary": "While browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers’ ravenous appetite for memory, a major constraint on the speed at which large lan...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Apr 2026 14:22:58 +0000",
-      "collected_at": "2026-04-16T01:28:03.537366"
+      "collected_at": "2026-04-17T01:25:35.361800"
     },
     {
       "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.537281"
+      "collected_at": "2026-04-17T01:25:35.361720"
     },
     {
       "title": "Why AI Systems Fail Quietly",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.537023"
+      "collected_at": "2026-04-17T01:25:35.361455"
     },
     {
       "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.536895"
+      "collected_at": "2026-04-17T01:25:35.361339"
     },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
@@ -61,67 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-16T01:28:03.536723"
+      "collected_at": "2026-04-17T01:25:35.361175"
     },
     {
       "title": "Chip Can Project Video the Size of a Grain of Sand",
       "summary": "By many estimates, quantum computers will need millions of qubits to realize their potential applications in cybersecurity, drug development, and other industries. The problem is, anyone who has wanted to simultaneously control millions of a certain kind of qubit has run into the problem of trying t...",
       "url": "https://spectrum.ieee.org/mems-photonics",
-      "date": "6日前",
+      "date": "04月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.536584"
+      "collected_at": "2026-04-17T01:25:35.361055"
     },
     {
       "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
       "summary": "ZTASP is a mission-scale assurance and governance platform designed for autonomous systems operating in real-world environments. It integrates heterogeneous systems—including drones, robots, sensors, and human operators—into a unified zero-trust architecture. Through Secure Runtime Assurance (SRTA) ...",
       "url": "https://content.knowledgehub.wiley.com/goztasp-a-zero-trust-platform-for-governing-autonomous-systems-at-mission-scale/",
-      "date": "6日前",
+      "date": "04月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 15:06:39 +0000",
-      "collected_at": "2026-04-16T01:28:03.536448"
+      "collected_at": "2026-04-17T01:25:35.360941"
     },
     {
       "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
       "summary": "Gerard “Gus” Gaynor, a long-serving IEEE volunteer and former engineering director at 3M, died on 9 March. The IEEE Life Fellow was 104.Readers of The Institute might remember Gus from his 2022 profile: “From Fixing Farm Equipment to Becoming a Director at 3M.” Just last year, he and I coauthored tw...",
       "url": "https://spectrum.ieee.org/remembering-gus-gaynor",
-      "date": "6日前",
+      "date": "04月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-16T01:28:03.536397"
+      "collected_at": "2026-04-17T01:25:35.360890"
     },
     {
       "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!The Worst Engineer in the RoomMy salary doubled. My ...",
       "url": "https://spectrum.ieee.org/using-feedback-engineering",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Apr 2026 18:49:00 +0000",
-      "collected_at": "2026-04-16T01:28:03.536278"
+      "collected_at": "2026-04-17T01:25:35.360758"
     },
     {
       "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
       "summary": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop devices using soft materials, such as polymers and gels, which are poor conductors of electricity but ar...",
       "url": "https://spectrum.ieee.org/soft-photonics",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Apr 2026 12:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.536161"
+      "collected_at": "2026-04-17T01:25:35.360645"
     },
     {
       "title": "What It’s Like to Live With an Experimental Brain Implant",
       "summary": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial contact,” he says. “It’s just unexplainable.” The moment came courtesy of a brain implant: an array of ...",
       "url": "https://spectrum.ieee.org/bci-user-experience",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-16T01:28:03.536055"
+      "collected_at": "2026-04-17T01:25:35.360542"
+    },
+    {
+      "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
+      "summary": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life.When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a draw...",
+      "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
+      "collected_at": "2026-04-17T01:25:35.360166"
     }
   ]
 }
