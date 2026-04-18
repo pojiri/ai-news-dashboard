@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-04-17T01:25:36.363998",
+  "last_updated": "2026-04-18T01:19:13.330490",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "AI Is Insatiable",
-      "summary": "While browsing our website a few weeks ago, I stumbled upon “How and When the Memory Chip Shortage Will End” by Senior Editor Samuel K. Moore. His analysis focuses on the current DRAM shortage caused by AI hyperscalers’ ravenous appetite for memory, a major constraint on the speed at which large lan...",
-      "url": "https://spectrum.ieee.org/high-bandwidth-memory-shortage",
-      "date": "04月06日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 06 Apr 2026 14:22:58 +0000",
-      "collected_at": "2026-04-17T01:25:35.361800"
-    },
     {
       "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
       "summary": "Picture a highway with networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a sudden snow squall: The cars rapidly need to share vast amounts of essential new data about slippery ro...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.361720"
+      "collected_at": "2026-04-18T01:19:12.327739"
     },
     {
       "title": "Why AI Systems Fail Quietly",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.361455"
+      "collected_at": "2026-04-18T01:19:12.327477"
     },
     {
       "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.361339"
+      "collected_at": "2026-04-18T01:19:12.327340"
     },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-17T01:25:35.361175"
+      "collected_at": "2026-04-18T01:19:12.327168"
     },
     {
       "title": "Chip Can Project Video the Size of a Grain of Sand",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.361055"
+      "collected_at": "2026-04-18T01:19:12.327046"
     },
     {
       "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 15:06:39 +0000",
-      "collected_at": "2026-04-17T01:25:35.360941"
+      "collected_at": "2026-04-18T01:19:12.326932"
     },
     {
       "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-17T01:25:35.360890"
+      "collected_at": "2026-04-18T01:19:12.326884"
     },
     {
       "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!The Worst Engineer in the RoomMy salary doubled. My ...",
       "url": "https://spectrum.ieee.org/using-feedback-engineering",
-      "date": "6日前",
+      "date": "04月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Apr 2026 18:49:00 +0000",
-      "collected_at": "2026-04-17T01:25:35.360758"
+      "collected_at": "2026-04-18T01:19:12.326762"
     },
     {
       "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
       "summary": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop devices using soft materials, such as polymers and gels, which are poor conductors of electricity but ar...",
       "url": "https://spectrum.ieee.org/soft-photonics",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Apr 2026 12:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.360645"
+      "collected_at": "2026-04-18T01:19:12.326634"
     },
     {
       "title": "What It’s Like to Live With an Experimental Brain Implant",
       "summary": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial contact,” he says. “It’s just unexplainable.” The moment came courtesy of a brain implant: an array of ...",
       "url": "https://spectrum.ieee.org/bci-user-experience",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.360542"
+      "collected_at": "2026-04-18T01:19:12.326529"
     },
     {
       "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
       "summary": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life.When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a draw...",
       "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-17T01:25:35.360166"
+      "collected_at": "2026-04-18T01:19:12.326147"
+    },
+    {
+      "title": "Crypto Faces Increased Threat From Quantum Attacks",
+      "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make...",
+      "url": "https://spectrum.ieee.org/quantum-safe-crypto",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Apr 2026 13:00:01 +0000",
+      "collected_at": "2026-04-18T01:19:12.325969"
     }
   ]
 }
