@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-04-19T01:29:01.145053",
+  "last_updated": "2026-04-20T01:28:50.576659",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Over-the-Air Computation Uses Radio Interference to Crunch Data",
-      "summary": "Picture a highway with networked autonomous cars driving along it. On a serene, cloudless day, these cars need only exchange thimblefuls of data with one another. Now picture the same stretch in a sudden snow squall: The cars rapidly need to share vast amounts of essential new data about slippery ro...",
-      "url": "https://spectrum.ieee.org/wireless-network-over-air-computation",
-      "date": "04月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.142645"
-    },
     {
       "title": "Why AI Systems Fail Quietly",
       "summary": "In late-stage testing of a distributed AI platform, engineers sometimes encounter a perplexing situation: Every monitoring dashboard reads “healthy,” yet users report that the system’s decisions are slowly becoming wrong.Engineers are trained to recognize failure in familiar ways: a service crashes,...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.142382"
+      "collected_at": "2026-04-20T01:28:49.574581"
     },
     {
       "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.142227"
+      "collected_at": "2026-04-20T01:28:49.574452"
     },
     {
       "title": "Temple University Student Highlights IEEE Membership Perks",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-19T01:29:00.142058"
+      "collected_at": "2026-04-20T01:28:49.574267"
     },
     {
       "title": "Chip Can Project Video the Size of a Grain of Sand",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.141932"
+      "collected_at": "2026-04-20T01:28:49.574141"
     },
     {
       "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 15:06:39 +0000",
-      "collected_at": "2026-04-19T01:29:00.141813"
+      "collected_at": "2026-04-20T01:28:49.574023"
     },
     {
       "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-19T01:29:00.141756"
+      "collected_at": "2026-04-20T01:28:49.573968"
     },
     {
       "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Apr 2026 18:49:00 +0000",
-      "collected_at": "2026-04-19T01:29:00.141628"
+      "collected_at": "2026-04-20T01:28:49.573842"
     },
     {
       "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
       "summary": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy efficient than today’s electronics. They also present a unique opportunity to develop devices using soft materials, such as polymers and gels, which are poor conductors of electricity but ar...",
       "url": "https://spectrum.ieee.org/soft-photonics",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Apr 2026 12:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.141495"
+      "collected_at": "2026-04-20T01:28:49.573716"
     },
     {
       "title": "What It’s Like to Live With an Experimental Brain Implant",
       "summary": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial contact,” he says. “It’s just unexplainable.” The moment came courtesy of a brain implant: an array of ...",
       "url": "https://spectrum.ieee.org/bci-user-experience",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.141388"
+      "collected_at": "2026-04-20T01:28:49.573609"
     },
     {
       "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
       "summary": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life.When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a draw...",
       "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.140994"
+      "collected_at": "2026-04-20T01:28:49.573232"
     },
     {
       "title": "Crypto Faces Increased Threat From Quantum Attacks",
       "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make...",
       "url": "https://spectrum.ieee.org/quantum-safe-crypto",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-19T01:29:00.140796"
+      "collected_at": "2026-04-20T01:28:49.573059"
+    },
+    {
+      "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
+      "summary": "On 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces while services including the government-run intranet, VPNs, text messaging, mobile calls, and even landli...",
+      "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Apr 2026 13:00:02 +0000",
+      "collected_at": "2026-04-20T01:28:49.572897"
     }
   ]
 }
