@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-04-21T01:25:28.346326",
+  "last_updated": "2026-04-22T01:24:17.622653",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Decentralized Training Can Help Solve AI’s Energy Woes",
-      "summary": "Artificial intelligence harbors an enormous energy appetite. Such constant cravings are evident in the hefty carbon footprint of the data centers behind the AI boom and the steady increase over time of carbon emissions from training frontier AI models.No wonder big tech companies are warming up to n...",
-      "url": "https://spectrum.ieee.org/decentralized-ai-training-2676670858",
-      "date": "04月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 07 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.343872"
-    },
-    {
-      "title": "Temple University Student Highlights IEEE Membership Perks",
-      "summary": "Kyle McGinley graduated from high school in 2018 and, like many teenagers, he was unsure what career he wanted to pursue. Recuperating from a sports injury led him to consider becoming a physical therapist for athletes. But he was skilled at repairing cars and fixing things around the house, so he t...",
-      "url": "https://spectrum.ieee.org/temple-university-student-membership-perks",
-      "date": "04月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 07 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-21T01:25:27.343707"
-    },
     {
       "title": "Chip Can Project Video the Size of a Grain of Sand",
       "summary": "By many estimates, quantum computers will need millions of qubits to realize their potential applications in cybersecurity, drug development, and other industries. The problem is, anyone who has wanted to simultaneously control millions of a certain kind of qubit has run into the problem of trying t...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.343586"
+      "collected_at": "2026-04-22T01:24:16.620084"
     },
     {
       "title": "GoZTASP: A Zero-Trust Platform for Governing Autonomous Systems at Mission Scale",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 15:06:39 +0000",
-      "collected_at": "2026-04-21T01:25:27.343473"
+      "collected_at": "2026-04-22T01:24:16.619942"
     },
     {
       "title": "Remembering Gus Gaynor: A Devoted IEEE Volunteer",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 09 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-21T01:25:27.343423"
+      "collected_at": "2026-04-22T01:24:16.619884"
     },
     {
       "title": "Working With More Experienced Engineers Can Fast-Track Career Growth",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Apr 2026 18:49:00 +0000",
-      "collected_at": "2026-04-21T01:25:27.343291"
+      "collected_at": "2026-04-22T01:24:16.619753"
     },
     {
       "title": "Squishy Photonic Switches Promise Fast Low-Power Logic",
@@ -71,57 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Apr 2026 12:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.343172"
+      "collected_at": "2026-04-22T01:24:16.619625"
     },
     {
       "title": "What It’s Like to Live With an Experimental Brain Implant",
       "summary": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial contact,” he says. “It’s just unexplainable.” The moment came courtesy of a brain implant: an array of ...",
       "url": "https://spectrum.ieee.org/bci-user-experience",
-      "date": "6日前",
+      "date": "04月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.343062"
+      "collected_at": "2026-04-22T01:24:16.619509"
     },
     {
       "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
       "summary": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life.When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a draw...",
       "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "date": "6日前",
+      "date": "04月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.342702"
+      "collected_at": "2026-04-22T01:24:16.619112"
     },
     {
       "title": "Crypto Faces Increased Threat From Quantum Attacks",
       "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make...",
       "url": "https://spectrum.ieee.org/quantum-safe-crypto",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.342533"
+      "collected_at": "2026-04-22T01:24:16.618901"
     },
     {
       "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
       "summary": "On 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces while services including the government-run intranet, VPNs, text messaging, mobile calls, and even landli...",
       "url": "https://spectrum.ieee.org/iran-internet-blackout-satellite-tv",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-21T01:25:27.342359"
+      "collected_at": "2026-04-22T01:24:16.618731"
     },
     {
       "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
       "summary": "Roughly 90 percent of hard tech startups fail due to funding constraints, longer R&D timelines for developing hardware, and the complexity of manufacturing their products, according to a number of studies.Generally, these startups require up to 50 percent more investor financing than software ones, ...",
       "url": "https://spectrum.ieee.org/ieee-entrepreneurship-hardware-startups-investors",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-21T01:25:27.342101"
+      "collected_at": "2026-04-22T01:24:16.618460"
+    },
+    {
+      "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
+      "summary": "A practical guide to designing log-periodic dipole array fed parabolic reflector antennas using advanced 3D MoM simulation — from parametric modeling to electrically large structures.What Attendees will LearnHow to set design requirements for LPDA-fed reflector antennas — Understand the key specific...",
+      "url": "https://content.knowledgehub.wiley.com/efficient-design-and-simulation-of-lpda-fed-parabolic-reflector-antennas/",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 17 Apr 2026 14:00:50 +0000",
+      "collected_at": "2026-04-22T01:24:16.618299"
+    },
+    {
+      "title": "How Engineers Kick-Started the Scientific Method",
+      "summary": "In 1627, a year after the death of the philosopher and statesman Francis Bacon, a short, evocative tale of his was published. The New Atlantis describes how a ship blown off course arrives at an unknown island called Bensalem. At its heart stands Salomon’s House, an institution devoted to “the knowl...",
+      "url": "https://spectrum.ieee.org/francis-bacon-scientific-method",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 19 Apr 2026 13:00:02 +0000",
+      "collected_at": "2026-04-22T01:24:16.618239"
     }
   ]
 }
