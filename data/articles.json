@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T01:21:48.899283",
+  "last_updated": "2026-04-26T01:42:45.962372",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-25T01:21:47.896876"
+      "collected_at": "2026-04-26T01:42:44.960147"
     },
     {
       "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-25T01:21:47.896570"
+      "collected_at": "2026-04-26T01:42:44.959763"
     },
     {
       "title": "Crypto Faces Increased Threat From Quantum Attacks",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-25T01:21:47.896433"
+      "collected_at": "2026-04-26T01:42:44.959588"
     },
     {
       "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-25T01:21:47.896303"
+      "collected_at": "2026-04-26T01:42:44.959424"
     },
     {
       "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-25T01:21:47.896093"
+      "collected_at": "2026-04-26T01:42:44.959159"
     },
     {
       "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Apr 2026 14:00:50 +0000",
-      "collected_at": "2026-04-25T01:21:47.895959"
+      "collected_at": "2026-04-26T01:42:44.958982"
     },
     {
       "title": "How Engineers Kick-Started the Scientific Method",
       "summary": "In 1627, a year after the death of the philosopher and statesman Francis Bacon, a short, evocative tale of his was published. The New Atlantis describes how a ship blown off course arrives at an unknown island called Bensalem. At its heart stands Salomon’s House, an institution devoted to “the knowl...",
       "url": "https://spectrum.ieee.org/francis-bacon-scientific-method",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 19 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-25T01:21:47.895909"
+      "collected_at": "2026-04-26T01:42:44.958917"
     },
     {
       "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
       "summary": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics.As an associate professor of computer science, neuroscience, and pediatrics at the University of Southern California, in L...",
       "url": "https://spectrum.ieee.org/socially-assistive-robotics",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-25T01:21:47.895811"
+      "collected_at": "2026-04-26T01:42:44.958788"
     },
     {
       "title": "The Forgotten History of Hershey’s Electric Railway in Cuba",
       "summary": "Why does a chocolatier build a railroad? For Milton S. Hershey, it was a logical response to a sugar shortage brought on by World War I. The Hershey Chocolate Co. was by then a chocolate-making powerhouse, having refined the automation and mass production of its products, including the eponymous Her...",
       "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-25T01:21:47.895636"
+      "collected_at": "2026-04-26T01:42:44.958545"
     },
     {
       "title": "What to Consider Before You Accept a Management Role",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!The Individual Contributor–Manager Fork: It’s Not a ...",
       "url": "https://spectrum.ieee.org/ic-or-manager",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 16:43:49 +0000",
-      "collected_at": "2026-04-25T01:21:47.895506"
+      "collected_at": "2026-04-26T01:42:44.958384"
     },
     {
       "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
       "summary": "Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.What Attendees will LearnWhy the current regional grid structure is approaching its limits — Explore how coal-fired generation retirements, renewable ...",
       "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 10:00:02 +0000",
-      "collected_at": "2026-04-25T01:21:47.895409"
+      "collected_at": "2026-04-26T01:42:44.958261"
     },
     {
       "title": "Reviving Teletext for Ham Radio",
       "summary": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and ’90s, my family accessed...",
       "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-04-25T01:21:47.895366"
+      "collected_at": "2026-04-26T01:42:44.958192"
     }
   ]
 }
