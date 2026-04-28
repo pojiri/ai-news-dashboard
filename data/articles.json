@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-04-27T01:46:18.333583",
+  "last_updated": "2026-04-28T01:53:43.097866",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "What It’s Like to Live With an Experimental Brain Implant",
-      "summary": "Scott Imbrie vividly remembers the first time he used a robotic arm to shake someone’s hand and felt the robotic limb as if it were his own. “I still get goosebumps when I think about that initial contact,” he says. “It’s just unexplainable.” The moment came courtesy of a brain implant: an array of ...",
-      "url": "https://spectrum.ieee.org/bci-user-experience",
-      "date": "04月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 14 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-27T01:46:17.331261"
-    },
-    {
-      "title": "Sarang Gupta Builds AI Systems With Real-World Impact",
-      "summary": "Like many engineers, Sarang Gupta spent his childhood tinkering with everyday items around the house. From a young age he gravitated to projects that could make a difference in someone’s everyday life.When the family’s microwave plug broke, Gupta and his father figured out how to fix it. When a draw...",
-      "url": "https://spectrum.ieee.org/openai-engineer-sarang-gupta",
-      "date": "04月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 14 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-27T01:46:17.330868"
-    },
-    {
-      "title": "Crypto Faces Increased Threat From Quantum Attacks",
-      "summary": "The race to transition online security protocols to ones that can’t be cracked by a quantum computer is already on. The algorithms that are commonly used today to protect data online—RSA and elliptic curve cryptography—are uncrackable by supercomputers, but a large enough quantum computer would make...",
-      "url": "https://spectrum.ieee.org/quantum-safe-crypto",
-      "date": "04月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 15 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-27T01:46:17.330689"
-    },
     {
       "title": "Stealth Signals Are Bypassing Iran’s Internet Blackout",
       "summary": "On 8 January 2026, the Iranian government imposed a near-total communications shutdown. It was the country’s first full information blackout: For weeks, the internet was off across all provinces while services including the government-run intranet, VPNs, text messaging, mobile calls, and even landli...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-27T01:46:17.330520"
+      "collected_at": "2026-04-28T01:53:42.095527"
     },
     {
       "title": "IEEE Entrepreneurship Connects Hardware Startups With Investors",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Apr 2026 18:00:01 +0000",
-      "collected_at": "2026-04-27T01:46:17.330235"
+      "collected_at": "2026-04-28T01:53:42.095259"
     },
     {
       "title": "Designing Broadband LPDA-Fed Reflector Antennas With Full-Wave EM Simulation",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Apr 2026 14:00:50 +0000",
-      "collected_at": "2026-04-27T01:46:17.330060"
+      "collected_at": "2026-04-28T01:53:42.095077"
     },
     {
       "title": "How Engineers Kick-Started the Scientific Method",
@@ -71,57 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 19 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-27T01:46:17.330003"
+      "collected_at": "2026-04-28T01:53:42.095015"
     },
     {
       "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
       "summary": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics.As an associate professor of computer science, neuroscience, and pediatrics at the University of Southern California, in L...",
       "url": "https://spectrum.ieee.org/socially-assistive-robotics",
-      "date": "6日前",
+      "date": "04月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-27T01:46:17.329851"
+      "collected_at": "2026-04-28T01:53:42.094876"
     },
     {
       "title": "The Forgotten History of Hershey’s Electric Railway in Cuba",
       "summary": "Why does a chocolatier build a railroad? For Milton S. Hershey, it was a logical response to a sugar shortage brought on by World War I. The Hershey Chocolate Co. was by then a chocolate-making powerhouse, having refined the automation and mass production of its products, including the eponymous Her...",
       "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-27T01:46:17.329616"
+      "collected_at": "2026-04-28T01:53:42.094623"
     },
     {
       "title": "What to Consider Before You Accept a Management Role",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!The Individual Contributor–Manager Fork: It’s Not a ...",
       "url": "https://spectrum.ieee.org/ic-or-manager",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 16:43:49 +0000",
-      "collected_at": "2026-04-27T01:46:17.329446"
+      "collected_at": "2026-04-28T01:53:42.094459"
     },
     {
       "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
       "summary": "Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.What Attendees will LearnWhy the current regional grid structure is approaching its limits — Explore how coal-fired generation retirements, renewable ...",
       "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 10:00:02 +0000",
-      "collected_at": "2026-04-27T01:46:17.329318"
+      "collected_at": "2026-04-28T01:53:42.094334"
     },
     {
       "title": "Reviving Teletext for Ham Radio",
       "summary": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and ’90s, my family accessed...",
       "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-04-27T01:46:17.329260"
+      "collected_at": "2026-04-28T01:53:42.094272"
+    },
+    {
+      "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+      "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.,...",
+      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
+      "collected_at": "2026-04-28T01:53:42.094099"
+    },
+    {
+      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+      "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that t...",
+      "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
+      "collected_at": "2026-04-28T01:53:42.093948"
+    },
+    {
+      "title": "Yong Wang Turns Information Into Insights",
+      "summary": "When Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary journey that began far from the world’s technology hubs.Wang was born in a small farming village in  southern China to parents with limited formal edu...",
+      "url": "https://spectrum.ieee.org/yong-wang-data-visualization",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
+      "collected_at": "2026-04-28T01:53:42.093827"
     }
   ]
 }
