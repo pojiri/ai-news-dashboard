@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-04-29T01:56:24.958137",
+  "last_updated": "2026-04-30T01:55:26.136656",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How Engineers Kick-Started the Scientific Method",
-      "summary": "In 1627, a year after the death of the philosopher and statesman Francis Bacon, a short, evocative tale of his was published. The New Atlantis describes how a ship blown off course arrives at an unknown island called Bensalem. At its heart stands Salomon’s House, an institution devoted to “the knowl...",
-      "url": "https://spectrum.ieee.org/francis-bacon-scientific-method",
-      "date": "04月19日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 19 Apr 2026 13:00:02 +0000",
-      "collected_at": "2026-04-29T01:56:23.955879"
-    },
     {
       "title": "The USC Professor Who Pioneered Socially Assistive Robotics",
       "summary": "When the robotics engineering field that Maja Matarić wanted to work in didn’t exist, she helped create it. In 2005 she helped define the new area of socially assistive robotics.As an associate professor of computer science, neuroscience, and pediatrics at the University of Southern California, in L...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-29T01:56:23.955739"
+      "collected_at": "2026-04-30T01:55:25.134480"
     },
     {
       "title": "The Forgotten History of Hershey’s Electric Railway in Cuba",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.955488"
+      "collected_at": "2026-04-30T01:55:25.134256"
     },
     {
       "title": "What to Consider Before You Accept a Management Role",
@@ -41,87 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Apr 2026 16:43:49 +0000",
-      "collected_at": "2026-04-29T01:56:23.955311"
+      "collected_at": "2026-04-30T01:55:25.134092"
     },
     {
       "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
       "summary": "Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.What Attendees will LearnWhy the current regional grid structure is approaching its limits — Explore how coal-fired generation retirements, renewable ...",
       "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
-      "date": "6日前",
+      "date": "04月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 10:00:02 +0000",
-      "collected_at": "2026-04-29T01:56:23.955178"
+      "collected_at": "2026-04-30T01:55:25.133968"
     },
     {
       "title": "Reviving Teletext for Ham Radio",
       "summary": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and ’90s, my family accessed...",
       "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "date": "6日前",
+      "date": "04月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-04-29T01:56:23.955120"
+      "collected_at": "2026-04-30T01:55:25.133899"
     },
     {
       "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
       "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.,...",
       "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.954974"
+      "collected_at": "2026-04-30T01:55:25.133748"
     },
     {
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
       "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that t...",
       "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.954830"
+      "collected_at": "2026-04-30T01:55:25.133609"
+    },
+    {
+      "title": "GPU Renters Are Playing a Silicon Lottery",
+      "summary": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips of the same model. That can make getting your money’s worth by renting time on a GPU from a cloud provider a real roll of the dice, according to research from ...",
+      "url": "https://spectrum.ieee.org/gpu-performance-comparison",
+      "date": "6日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
+      "collected_at": "2026-04-30T01:55:25.133495"
     },
     {
       "title": "Yong Wang Turns Information Into Insights",
       "summary": "When Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary journey that began far from the world’s technology hubs.Wang was born in a small farming village in  southern China to parents with limited formal edu...",
       "url": "https://spectrum.ieee.org/yong-wang-data-visualization",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-04-29T01:56:23.954709"
+      "collected_at": "2026-04-30T01:55:25.133415"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
       "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn ...",
       "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.954511"
+      "collected_at": "2026-04-30T01:55:25.133247"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments ...",
       "url": "https://spectrum.ieee.org/nyu-health-research",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.954451"
+      "collected_at": "2026-04-30T01:55:25.133193"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
       "summary": "Electric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.Jon Wagner spent five years as the senior director of battery engi...",
       "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-04-29T01:56:23.954282"
+      "collected_at": "2026-04-30T01:55:25.133030"
     }
   ]
 }
