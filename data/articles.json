@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T01:46:27.146624",
+  "last_updated": "2026-05-03T01:49:38.961683",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 10:00:02 +0000",
-      "collected_at": "2026-05-02T01:46:26.144267"
+      "collected_at": "2026-05-03T01:49:37.959339"
     },
     {
       "title": "Reviving Teletext for Ham Radio",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-05-02T01:46:26.144194"
+      "collected_at": "2026-05-03T01:49:37.959275"
     },
     {
       "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.144044"
+      "collected_at": "2026-05-03T01:49:37.959119"
     },
     {
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143895"
+      "collected_at": "2026-05-03T01:49:37.958963"
     },
     {
       "title": "GPU Renters Are Playing a Silicon Lottery",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143771"
+      "collected_at": "2026-05-03T01:49:37.958829"
     },
     {
       "title": "Yong Wang Turns Information Into Insights",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-02T01:46:26.143682"
+      "collected_at": "2026-05-03T01:49:37.958734"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
       "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn ...",
       "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143499"
+      "collected_at": "2026-05-03T01:49:37.958525"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments ...",
       "url": "https://spectrum.ieee.org/nyu-health-research",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143438"
+      "collected_at": "2026-05-03T01:49:37.958465"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
       "summary": "Electric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.Jon Wagner spent five years as the senior director of battery engi...",
       "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143258"
+      "collected_at": "2026-05-03T01:49:37.958303"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
       "summary": "It started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.Coyote tales, forbidden scripts,Medieval texts hidden from flame.What lived in Aristotle’s lost Poetics II?Was it God who laughed last, or we who made Go...",
       "url": "https://spectrum.ieee.org/entanglement-poem",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-02T01:46:26.143171"
+      "collected_at": "2026-05-03T01:49:37.958210"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
       "summary": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable gate arrays. Computer chips with internal hardware circuits, the FPGAs can be reconfigured after manu...",
       "url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-02T01:46:26.143083"
+      "collected_at": "2026-05-03T01:49:37.958119"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion pa...",
       "url": "https://spectrum.ieee.org/sparse-ai",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-02T01:46:26.142845"
+      "collected_at": "2026-05-03T01:49:37.957874"
     }
   ]
 }
