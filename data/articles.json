@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-04T01:50:03.578204",
+  "last_updated": "2026-05-05T01:51:03.661977",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Building an Interregional Transmission Overlay for a Resilient U.S. Grid",
-      "summary": "Examining how a U.S. Interregional Transmission Overlay could address aging grid infrastructure, surging demand, and renewable integration challenges.What Attendees will LearnWhy the current regional grid structure is approaching its limits — Explore how coal-fired generation retirements, renewable ...",
-      "url": "https://content.knowledgehub.wiley.com/energy-in-motion-unlocking-the-interconnected-grid-of-tomorrow/",
-      "date": "04月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 22 Apr 2026 10:00:02 +0000",
-      "collected_at": "2026-05-04T01:50:02.575797"
-    },
     {
       "title": "Reviving Teletext for Ham Radio",
       "summary": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and ’90s, my family accessed...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-05-04T01:50:02.575731"
+      "collected_at": "2026-05-05T01:51:02.659686"
     },
     {
       "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.575554"
+      "collected_at": "2026-05-05T01:51:02.659537"
     },
     {
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.575403"
+      "collected_at": "2026-05-05T01:51:02.659387"
     },
     {
       "title": "GPU Renters Are Playing a Silicon Lottery",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.575279"
+      "collected_at": "2026-05-05T01:51:02.659265"
     },
     {
       "title": "Yong Wang Turns Information Into Insights",
@@ -61,67 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-04T01:50:02.575187"
+      "collected_at": "2026-05-05T01:51:02.659176"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
       "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn ...",
       "url": "https://content.knowledgehub.wiley.com/power-systems-studies-with-simulink-and-simscape-electrical/",
-      "date": "6日前",
+      "date": "04月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.575003"
+      "collected_at": "2026-05-05T01:51:02.658998"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
       "summary": "This sponsored article is brought to you by NYU Tandon School of Engineering.The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments ...",
       "url": "https://spectrum.ieee.org/nyu-health-research",
-      "date": "6日前",
+      "date": "04月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.574943"
+      "collected_at": "2026-05-05T01:51:02.658933"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
       "summary": "Electric vehicles, whether they’re cars on the road or electric vertical take-off and landing (eVTOL) aircraft, are built around similar electric motors. But there are vital differences including component costs, mass, and redundancy.Jon Wagner spent five years as the senior director of battery engi...",
       "url": "https://spectrum.ieee.org/evtol-joby-jon-wagner-motors",
-      "date": "6日前",
+      "date": "04月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.574780"
+      "collected_at": "2026-05-05T01:51:02.658764"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
       "summary": "It started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.Coyote tales, forbidden scripts,Medieval texts hidden from flame.What lived in Aristotle’s lost Poetics II?Was it God who laughed last, or we who made Go...",
       "url": "https://spectrum.ieee.org/entanglement-poem",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-04T01:50:02.574688"
+      "collected_at": "2026-05-05T01:51:02.658649"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
       "summary": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable gate arrays. Computer chips with internal hardware circuits, the FPGAs can be reconfigured after manu...",
       "url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-04T01:50:02.574572"
+      "collected_at": "2026-05-05T01:51:02.658561"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion pa...",
       "url": "https://spectrum.ieee.org/sparse-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-04T01:50:02.574330"
+      "collected_at": "2026-05-05T01:51:02.658323"
+    },
+    {
+      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
+      "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
+      "url": "https://events.bizzabo.com/860041",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
+      "collected_at": "2026-05-05T01:51:02.658089"
     }
   ]
 }
