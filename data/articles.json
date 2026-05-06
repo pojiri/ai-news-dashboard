@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-05T01:51:03.661977",
+  "last_updated": "2026-05-06T01:49:50.288397",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Reviving Teletext for Ham Radio",
-      "summary": "Once upon a time in Europe, television remote controls had a magic teletext button. Years before the internet stole into homes, pressing that button brought up teletext digital information services with hundreds of constantly updated pages. Living in Ireland in the 1980s and ’90s, my family accessed...",
-      "url": "https://spectrum.ieee.org/reviving-teletext-for-ham-radio",
-      "date": "04月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 22 Apr 2026 16:19:08 +0000",
-      "collected_at": "2026-05-05T01:51:02.659686"
-    },
     {
       "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
       "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.,...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.659537"
+      "collected_at": "2026-05-06T01:49:49.286196"
     },
     {
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.659387"
+      "collected_at": "2026-05-06T01:49:49.286080"
     },
     {
       "title": "GPU Renters Are Playing a Silicon Lottery",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.659265"
+      "collected_at": "2026-05-06T01:49:49.285986"
     },
     {
       "title": "Yong Wang Turns Information Into Insights",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-05T01:51:02.659176"
+      "collected_at": "2026-05-06T01:49:49.285921"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.658998"
+      "collected_at": "2026-05-06T01:49:49.285771"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.658933"
+      "collected_at": "2026-05-06T01:49:49.285728"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.658764"
+      "collected_at": "2026-05-06T01:49:49.285599"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
       "summary": "It started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.Coyote tales, forbidden scripts,Medieval texts hidden from flame.What lived in Aristotle’s lost Poetics II?Was it God who laughed last, or we who made Go...",
       "url": "https://spectrum.ieee.org/entanglement-poem",
-      "date": "6日前",
+      "date": "04月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.658649"
+      "collected_at": "2026-05-06T01:49:49.285532"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
       "summary": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable gate arrays. Computer chips with internal hardware circuits, the FPGAs can be reconfigured after manu...",
       "url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
-      "date": "6日前",
+      "date": "04月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-05T01:51:02.658561"
+      "collected_at": "2026-05-06T01:49:49.285465"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
       "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion pa...",
       "url": "https://spectrum.ieee.org/sparse-ai",
-      "date": "6日前",
+      "date": "04月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-05T01:51:02.658323"
+      "collected_at": "2026-05-06T01:49:49.285272"
     },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
       "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
       "url": "https://events.bizzabo.com/860041",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-05T01:51:02.658089"
+      "collected_at": "2026-05-06T01:49:49.285073"
+    },
+    {
+      "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
+      "summary": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.But while large language models pre...",
+      "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
+      "collected_at": "2026-05-06T01:49:49.285022"
     }
   ]
 }
