@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-05-06T01:49:50.288397",
+  "last_updated": "2026-05-07T01:53:58.986538",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
-      "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale replica of a pivotal 1940s computer. Burick is a technology instructor at PS Academy in Gilbert, Ariz.,...",
-      "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-      "date": "04月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 23 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.286196"
-    },
-    {
-      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
-      "summary": "Two weeks ago, Anthropic announced that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that t...",
-      "url": "https://spectrum.ieee.org/ai-cybersecurity-mythos",
-      "date": "04月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 23 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.286080"
-    },
     {
       "title": "GPU Renters Are Playing a Silicon Lottery",
       "summary": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips of the same model. That can make getting your money’s worth by renting time on a GPU from a cloud provider a real roll of the dice, according to research from ...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285986"
+      "collected_at": "2026-05-07T01:53:57.984187"
     },
     {
       "title": "Yong Wang Turns Information Into Insights",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-06T01:49:49.285921"
+      "collected_at": "2026-05-07T01:53:57.984099"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285771"
+      "collected_at": "2026-05-07T01:53:57.983918"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285728"
+      "collected_at": "2026-05-07T01:53:57.983851"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285599"
+      "collected_at": "2026-05-07T01:53:57.983662"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285532"
+      "collected_at": "2026-05-07T01:53:57.983569"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
@@ -91,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-06T01:49:49.285465"
+      "collected_at": "2026-05-07T01:53:57.983473"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
@@ -101,27 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-06T01:49:49.285272"
+      "collected_at": "2026-05-07T01:53:57.983228"
     },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
       "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
       "url": "https://events.bizzabo.com/860041",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285073"
+      "collected_at": "2026-05-07T01:53:57.982981"
     },
     {
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
       "summary": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.But while large language models pre...",
       "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-06T01:49:49.285022"
+      "collected_at": "2026-05-07T01:53:57.982912"
+    },
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry ...",
+      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 04 May 2026 11:08:34 +0000",
+      "collected_at": "2026-05-07T01:53:57.982661"
+    },
+    {
+      "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
+      "summary": "More than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet reached his rural community.“There was one person in the village with a petrol generator and a small...",
+      "url": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 04 May 2026 18:00:01 +0000",
+      "collected_at": "2026-05-07T01:53:57.982397"
     }
   ]
 }
