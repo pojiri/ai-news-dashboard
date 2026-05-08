@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-07T01:53:58.986538",
+  "last_updated": "2026-05-08T01:59:43.263461",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "GPU Renters Are Playing a Silicon Lottery",
-      "summary": "Think one GPU is very much like another? Think again. It turns out that there’s surprising variability in the performance delivered by chips of the same model. That can make getting your money’s worth by renting time on a GPU from a cloud provider a real roll of the dice, according to research from ...",
-      "url": "https://spectrum.ieee.org/gpu-performance-comparison",
-      "date": "04月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 23 Apr 2026 18:06:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.984187"
-    },
     {
       "title": "Yong Wang Turns Information Into Insights",
       "summary": "When Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary journey that began far from the world’s technology hubs.Wang was born in a small farming village in  southern China to parents with limited formal edu...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-07T01:53:57.984099"
+      "collected_at": "2026-05-08T01:59:42.261199"
     },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.983918"
+      "collected_at": "2026-05-08T01:59:42.261018"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.983851"
+      "collected_at": "2026-05-08T01:59:42.260953"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.983662"
+      "collected_at": "2026-05-08T01:59:42.260783"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.983569"
+      "collected_at": "2026-05-08T01:59:42.260666"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-07T01:53:57.983473"
+      "collected_at": "2026-05-08T01:59:42.260573"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-07T01:53:57.983228"
+      "collected_at": "2026-05-08T01:59:42.260330"
     },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
       "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
       "url": "https://events.bizzabo.com/860041",
-      "date": "6日前",
+      "date": "04月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.982981"
+      "collected_at": "2026-05-08T01:59:42.260091"
     },
     {
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
       "summary": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.But while large language models pre...",
       "url": "https://spectrum.ieee.org/ai-cyberattacks-memory-safe-code",
-      "date": "6日前",
+      "date": "04月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.982912"
+      "collected_at": "2026-05-08T01:59:42.260016"
     },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
       "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry ...",
       "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 11:08:34 +0000",
-      "collected_at": "2026-05-07T01:53:57.982661"
+      "collected_at": "2026-05-08T01:59:42.259776"
     },
     {
       "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
       "summary": "More than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet reached his rural community.“There was one person in the village with a petrol generator and a small...",
       "url": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-07T01:53:57.982397"
+      "collected_at": "2026-05-08T01:59:42.259493"
+    },
+    {
+      "title": "Bionic Tech Must Prove Itself Beyond the Lab",
+      "summary": "I first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology fe...",
+      "url": "https://spectrum.ieee.org/assistive-technology",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 05 May 2026 15:45:33 +0000",
+      "collected_at": "2026-05-08T01:59:42.259319"
     }
   ]
 }
