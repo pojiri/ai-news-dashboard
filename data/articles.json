@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-08T01:59:43.263461",
+  "last_updated": "2026-05-09T01:53:19.290969",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Yong Wang Turns Information Into Insights",
-      "summary": "When Yong Wang recently received one of the highest honors for early-career data visualization researchers, it marked a milestone in an extraordinary journey that began far from the world’s technology hubs.Wang was born in a small farming village in  southern China to parents with limited formal edu...",
-      "url": "https://spectrum.ieee.org/yong-wang-data-visualization",
-      "date": "04月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 24 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-08T01:59:42.261199"
-    },
     {
       "title": "Modeling and Simulation Approaches for Modern Power System Studies",
       "summary": "This webinar covers power system modeling and simulation across multiple timescales, from quasi-static 8760 analysis through EMT studies, fault classification, and inverter-based resource grid integration.What Attendees will LearnProgrammatic network construction and multi-fidelity modeling — Learn ...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.261018"
+      "collected_at": "2026-05-09T01:53:18.288625"
     },
     {
       "title": "Engineering Collisions: How NYU Is Remaking Health Research",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 12:45:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.260953"
+      "collected_at": "2026-05-09T01:53:18.288562"
     },
     {
       "title": "What Makes eVTOL Motors Different Than EV Motors?",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Apr 2026 13:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.260783"
+      "collected_at": "2026-05-09T01:53:18.288396"
     },
     {
       "title": "“Entanglement: A Brief History of Human Connection”",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.260666"
+      "collected_at": "2026-05-09T01:53:18.288306"
     },
     {
       "title": "The Chip That Made Hardware Rewriteable",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-08T01:59:42.260573"
+      "collected_at": "2026-05-09T01:53:18.288213"
     },
     {
       "title": "Better Hardware Could Turn Zeros into AI Heroes",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-08T01:59:42.260330"
+      "collected_at": "2026-05-09T01:53:18.287970"
     },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.260091"
+      "collected_at": "2026-05-09T01:53:18.287730"
     },
     {
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
@@ -91,37 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.260016"
+      "collected_at": "2026-05-09T01:53:18.287631"
     },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
       "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry ...",
       "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 11:08:34 +0000",
-      "collected_at": "2026-05-08T01:59:42.259776"
+      "collected_at": "2026-05-09T01:53:18.287393"
     },
     {
       "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
       "summary": "More than 30 years ago, in the mountain village of Mbem in northwest Cameroon, the moon and stars in the night sky were the only light young Jude Numfor knew after the sunset. Electricity had not yet reached his rural community.“There was one person in the village with a petrol generator and a small...",
       "url": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-08T01:59:42.259493"
+      "collected_at": "2026-05-09T01:53:18.287130"
     },
     {
       "title": "Bionic Tech Must Prove Itself Beyond the Lab",
       "summary": "I first met Robert Woo in 2011, during his third time walking in a powered exoskeleton. The architect had been paralyzed in a construction accident four years earlier, but he was determined to get back on his feet. Watching him clunk across a rehab room in an exoskeleton prototype, the technology fe...",
       "url": "https://spectrum.ieee.org/assistive-technology",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 May 2026 15:45:33 +0000",
-      "collected_at": "2026-05-08T01:59:42.259319"
+      "collected_at": "2026-05-09T01:53:18.286955"
+    },
+    {
+      "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
+      "summary": "A guide to ten technological components — from THz communications and AI/ML to reconfigurable intelligent surfaces — poised to define 6G wireless networks.What Attendees will LearnWhich frequencies 6G will use — Understand why THz bands (above 100 GHz) and the7–24 GHz range are under consideration, ...",
+      "url": "https://content.knowledgehub.wiley.com/ten-key-enablers-for-6g-wireless-communications/",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 06 May 2026 10:00:02 +0000",
+      "collected_at": "2026-05-09T01:53:18.286867"
     }
   ]
 }
