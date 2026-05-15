@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-05-14T02:06:14.174158",
+  "last_updated": "2026-05-15T02:04:38.422984",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "“Entanglement: A Brief History of Human Connection”",
-      "summary": "It started with word, cave, and storytelling,A line scratched on stone walls:“Meet me when the young moon rises.”The first protocol for connection.Coyote tales, forbidden scripts,Medieval texts hidden from flame.What lived in Aristotle’s lost Poetics II?Was it God who laughed last, or we who made Go...",
-      "url": "https://spectrum.ieee.org/entanglement-poem",
-      "date": "04月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 28 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.172066"
-    },
-    {
-      "title": "The Chip That Made Hardware Rewriteable",
-      "summary": "Many of the world’s most advanced electronic systems—including Internet routers, wireless base stations, medical imaging scanners, and some artificial intelligence tools—depend on field-programmable gate arrays. Computer chips with internal hardware circuits, the FPGAs can be reconfigured after manu...",
-      "url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
-      "date": "04月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 28 Apr 2026 18:00:02 +0000",
-      "collected_at": "2026-05-14T02:06:13.171954"
-    },
-    {
-      "title": "Better Hardware Could Turn Zeros into AI Heroes",
-      "summary": "When it comes to AI models, size matters.Even though some artificial-intelligence experts warn that scaling up large language models (LLMs) is hitting diminishing performance returns, companies are still coming out with ever larger AI tools. Meta’s latest Llama release had a staggering 2 trillion pa...",
-      "url": "https://spectrum.ieee.org/sparse-ai",
-      "date": "04月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 28 Apr 2026 18:03:40 +0000",
-      "collected_at": "2026-05-14T02:06:13.171715"
-    },
     {
       "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
       "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.171481"
+      "collected_at": "2026-05-15T02:04:37.420606"
     },
     {
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.171410"
+      "collected_at": "2026-05-15T02:04:37.420541"
     },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 11:08:34 +0000",
-      "collected_at": "2026-05-14T02:06:13.171178"
+      "collected_at": "2026-05-15T02:04:37.420295"
     },
     {
       "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.170891"
+      "collected_at": "2026-05-15T02:04:37.420022"
     },
     {
       "title": "Bionic Tech Must Prove Itself Beyond the Lab",
@@ -81,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 May 2026 15:45:33 +0000",
-      "collected_at": "2026-05-14T02:06:13.170714"
+      "collected_at": "2026-05-15T02:04:37.419844"
     },
     {
       "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
@@ -91,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-14T02:06:13.170622"
+      "collected_at": "2026-05-15T02:04:37.419752"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -101,27 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.170557"
+      "collected_at": "2026-05-15T02:04:37.419695"
     },
     {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
       "summary": "“Why are you here?” Fabrizio Pilo, an electrical engineer, asks me as we sit in an outdoor café near his home in Cagliari, an ancient city on the island of Sardinia. It’s a fair question. I’m a journalist from the United States. I’d just stepped off my flight 2 hours prior and come straight to this ...",
       "url": "https://spectrum.ieee.org/sardinia-renewable-energy-conflict",
-      "date": "6日前",
+      "date": "05月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-14T02:06:13.170364"
+      "collected_at": "2026-05-15T02:04:37.419502"
     },
     {
       "title": "Ana Inês Inácio Designs the Future of Wireless",
       "summary": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks.The integrated circuits the research scientist designs...",
       "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-14T02:06:13.169897"
+      "collected_at": "2026-05-15T02:04:37.419034"
+    },
+    {
+      "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
+      "summary": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.What Attendees will LearnWhat error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation po...",
+      "url": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 11 May 2026 10:00:01 +0000",
+      "collected_at": "2026-05-15T02:04:37.418886"
+    },
+    {
+      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
+      "summary": "This sponsored article is brought to you by Ampace.As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the...",
+      "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 12 May 2026 17:15:15 +0000",
+      "collected_at": "2026-05-15T02:04:37.418834"
+    },
+    {
+      "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
+      "summary": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in Novem...",
+      "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 12 May 2026 18:00:02 +0000",
+      "collected_at": "2026-05-15T02:04:37.418673"
     }
   ]
 }
