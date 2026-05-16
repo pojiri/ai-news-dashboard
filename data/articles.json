@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-15T02:04:38.422984",
+  "last_updated": "2026-05-16T01:56:56.167214",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Transmission Hardware Corona Performance and HVDC Submarine Cable EM Fields",
-      "summary": "Laboratory or in-field measurements are often considered the gold standard for certain aspects of power system design; however, measurement approaches always have limitations. Simulation can help overcome some of these limitations, including speeding up the design process, reducing design costs, and...",
-      "url": "https://events.bizzabo.com/860041",
-      "date": "04月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 30 Apr 2026 10:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.420606"
-    },
     {
       "title": "With $1 Cyberattacks on the Rise, Durable Defenses Pay Off",
       "summary": "Transforming a newly discovered software vulnerability into a cyberattack used to take months. Today—as the recent headlines over Anthropic’s Project Glasswing have shown—generative AI can do the job in minutes, often for less than a dollar of cloud-computing time.But while large language models pre...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Apr 2026 14:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.420541"
+      "collected_at": "2026-05-16T01:56:55.164826"
     },
     {
       "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 11:08:34 +0000",
-      "collected_at": "2026-05-15T02:04:37.420295"
+      "collected_at": "2026-05-16T01:56:55.164569"
     },
     {
       "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 04 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.420022"
+      "collected_at": "2026-05-16T01:56:55.164293"
     },
     {
       "title": "Bionic Tech Must Prove Itself Beyond the Lab",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 05 May 2026 15:45:33 +0000",
-      "collected_at": "2026-05-15T02:04:37.419844"
+      "collected_at": "2026-05-16T01:56:55.164115"
     },
     {
       "title": "Ten Technology Enablers Shaping the Future of 6G Wireless",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-15T02:04:37.419752"
+      "collected_at": "2026-05-16T01:56:55.164025"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.419695"
+      "collected_at": "2026-05-16T01:56:55.163963"
     },
     {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-15T02:04:37.419502"
+      "collected_at": "2026-05-16T01:56:55.163771"
     },
     {
       "title": "Ana Inês Inácio Designs the Future of Wireless",
       "summary": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks.The integrated circuits the research scientist designs...",
       "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-      "date": "6日前",
+      "date": "05月08日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.419034"
+      "collected_at": "2026-05-16T01:56:55.163310"
     },
     {
       "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
       "summary": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.What Attendees will LearnWhat error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation po...",
       "url": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-15T02:04:37.418886"
+      "collected_at": "2026-05-16T01:56:55.163155"
     },
     {
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
       "summary": "This sponsored article is brought to you by Ampace.As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the...",
       "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 17:15:15 +0000",
-      "collected_at": "2026-05-15T02:04:37.418834"
+      "collected_at": "2026-05-16T01:56:55.163097"
     },
     {
       "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
       "summary": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in Novem...",
       "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-15T02:04:37.418673"
+      "collected_at": "2026-05-16T01:56:55.162939"
+    },
+    {
+      "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+      "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’...",
+      "url": "https://spectrum.ieee.org/applied-materials-epic-center",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 14 May 2026 10:00:01 +0000",
+      "collected_at": "2026-05-16T01:56:55.162674"
     }
   ]
 }
