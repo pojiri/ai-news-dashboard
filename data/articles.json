@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T02:10:36.221625",
+  "last_updated": "2026-05-20T02:09:20.708655",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-19T02:10:35.219157"
+      "collected_at": "2026-05-20T02:09:19.706843"
     },
     {
       "title": "Learn What It Takes to Become a Cybersecurity Consultant",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 06 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.219094"
+      "collected_at": "2026-05-20T02:09:19.706781"
     },
     {
       "title": "Sardinia’s Ancient Reasons for Rejecting a Clean Energy Future",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 07 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-19T02:10:35.218915"
+      "collected_at": "2026-05-20T02:09:19.706604"
     },
     {
       "title": "Ana Inês Inácio Designs the Future of Wireless",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 08 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.218454"
+      "collected_at": "2026-05-20T02:09:19.706150"
     },
     {
       "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.218301"
+      "collected_at": "2026-05-20T02:09:19.706001"
     },
     {
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
       "summary": "This sponsored article is brought to you by Ampace.As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the...",
       "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
-      "date": "6日前",
+      "date": "05月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 17:15:15 +0000",
-      "collected_at": "2026-05-19T02:10:35.218232"
+      "collected_at": "2026-05-20T02:09:19.705938"
     },
     {
       "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
       "summary": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in Novem...",
       "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
-      "date": "6日前",
+      "date": "05月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-19T02:10:35.218079"
+      "collected_at": "2026-05-20T02:09:19.705778"
     },
     {
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
       "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’...",
       "url": "https://spectrum.ieee.org/applied-materials-epic-center",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.217844"
+      "collected_at": "2026-05-20T02:09:19.705533"
     },
     {
       "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
       "summary": "A comprehensive review of how spectrum congestion, dynamic sharing, and cognitive radio systems are reshaping RF coexistence testing for military and commercial applications.What Attendees will LearnWhy spectrum congestion threatens wireless reliability — Explore how over 30 billion connected device...",
       "url": "https://content.knowledgehub.wiley.com/testing-for-coexistence-in-crowded-and-contested-rf-environments/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.217598"
+      "collected_at": "2026-05-20T02:09:19.705289"
     },
     {
       "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
       "summary": "The IEEE Communications Society (ComSoc)’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer th...",
       "url": "https://spectrum.ieee.org/ieee-society-pitch-sessions",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-19T02:10:35.217539"
+      "collected_at": "2026-05-20T02:09:19.705232"
     },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
       "summary": "Editor’s note: If you’d like to pinpoint the instant when the world entered the nuclear age, 5:29:45 a.m. Mountain War Time on 16 July 1945, is an excellent choice. That was the moment when human beings first unleashed the power of the nucleus in an immense, blinding ball of fire above a gloomy stre...",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.217424"
+      "collected_at": "2026-05-20T02:09:19.705120"
     },
     {
-      "title": "Agentic AI for Robot Teams",
-      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar...",
-      "url": "https://events.bizzabo.com/867156",
-      "date": "16時間前",
+      "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
+      "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a differen...",
+      "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-19T02:10:35.217282"
+      "collected_at": "2026-05-20T02:09:19.704979"
     }
   ]
 }
