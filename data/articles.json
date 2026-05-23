@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-22T02:10:54.957123",
+  "last_updated": "2026-05-23T01:58:59.217051",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Ana Inês Inácio Designs the Future of Wireless",
-      "summary": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites, sensors, and future wireless networks.The integrated circuits the research scientist designs...",
-      "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-      "date": "05月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 08 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.954823"
-    },
     {
       "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
       "summary": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.What Attendees will LearnWhat error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation po...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.954646"
+      "collected_at": "2026-05-23T01:58:58.214647"
     },
     {
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 17:15:15 +0000",
-      "collected_at": "2026-05-22T02:10:53.954586"
+      "collected_at": "2026-05-23T01:58:58.214594"
     },
     {
       "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-22T02:10:53.954428"
+      "collected_at": "2026-05-23T01:58:58.214433"
     },
     {
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.954186"
+      "collected_at": "2026-05-23T01:58:58.214181"
     },
     {
       "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.953956"
+      "collected_at": "2026-05-23T01:58:58.213930"
     },
     {
       "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
@@ -71,57 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-22T02:10:53.953889"
+      "collected_at": "2026-05-23T01:58:58.213875"
     },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
       "summary": "Editor’s note: If you’d like to pinpoint the instant when the world entered the nuclear age, 5:29:45 a.m. Mountain War Time on 16 July 1945, is an excellent choice. That was the moment when human beings first unleashed the power of the nucleus in an immense, blinding ball of fire above a gloomy stre...",
       "url": "https://spectrum.ieee.org/trinity-nuclear-test",
-      "date": "6日前",
+      "date": "05月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.953761"
+      "collected_at": "2026-05-23T01:58:58.213754"
     },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a differen...",
       "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.953599"
+      "collected_at": "2026-05-23T01:58:58.213594"
     },
     {
       "title": "Agentic AI for Robot Teams",
       "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar...",
       "url": "https://events.bizzabo.com/867156",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.953382"
+      "collected_at": "2026-05-23T01:58:58.213368"
     },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
       "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ...",
       "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-22T02:10:53.953335"
+      "collected_at": "2026-05-23T01:58:58.213327"
     },
     {
       "title": "Manchester Code Made Bits Behave",
       "summary": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Ma...",
       "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-22T02:10:53.953156"
+      "collected_at": "2026-05-23T01:58:58.213141"
+    },
+    {
+      "title": "Will Robotics Have a ChatGPT Moment?",
+      "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
+      "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 20 May 2026 11:00:01 +0000",
+      "collected_at": "2026-05-23T01:58:58.212952"
     }
   ]
 }
