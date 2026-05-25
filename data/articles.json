@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T02:07:29.031053",
+  "last_updated": "2026-05-25T02:15:17.944141",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 11 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.028706"
+      "collected_at": "2026-05-25T02:15:16.941721"
     },
     {
       "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 17:15:15 +0000",
-      "collected_at": "2026-05-24T02:07:28.028646"
+      "collected_at": "2026-05-25T02:15:16.941668"
     },
     {
       "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 12 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-24T02:07:28.028485"
+      "collected_at": "2026-05-25T02:15:16.941508"
     },
     {
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.028242"
+      "collected_at": "2026-05-25T02:15:16.941253"
     },
     {
       "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.028013"
+      "collected_at": "2026-05-25T02:15:16.940996"
     },
     {
       "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-24T02:07:28.027948"
+      "collected_at": "2026-05-25T02:15:16.940938"
     },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
@@ -71,57 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.027804"
+      "collected_at": "2026-05-25T02:15:16.940816"
     },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a differen...",
       "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.027654"
+      "collected_at": "2026-05-25T02:15:16.940661"
     },
     {
       "title": "Agentic AI for Robot Teams",
       "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar...",
       "url": "https://events.bizzabo.com/867156",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.027442"
+      "collected_at": "2026-05-25T02:15:16.940435"
     },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
       "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ...",
       "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-24T02:07:28.027397"
+      "collected_at": "2026-05-25T02:15:16.940394"
     },
     {
       "title": "Manchester Code Made Bits Behave",
       "summary": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Ma...",
       "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.027224"
+      "collected_at": "2026-05-25T02:15:16.940189"
     },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
       "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
       "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-24T02:07:28.027067"
+      "collected_at": "2026-05-25T02:15:16.940023"
     }
   ]
 }
