@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-05-25T02:15:17.944141",
+  "last_updated": "2026-05-26T02:06:10.216244",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Why Mastering EVM Is Essential for Next-Generation Wireless Systems",
-      "summary": "A comprehensive guide to error vector magnitude (EVM), the primary metric for quantifying modulation accuracy in Wi-Fi, LTE, and 5G NR systems.What Attendees will LearnWhat error vector magnitude is and how it is calculated — Understand EVM as the distance between ideal and measured constellation po...",
-      "url": "https://content.knowledgehub.wiley.com/understanding-evm-error-vector-magnitude-in-modern-wireless-communications/",
-      "date": "05月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 11 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.941721"
-    },
-    {
-      "title": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of Extreme AI Training Loads",
-      "summary": "This sponsored article is brought to you by Ampace.As AI workloads grow to gigascale levels, the global data center industry has hit a hidden physical wall. The real bottleneck is no longer just the thermal limit of the chip or the capacity of the cooling system — it is the dynamic resilience of the...",
-      "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power",
-      "date": "05月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 12 May 2026 17:15:15 +0000",
-      "collected_at": "2026-05-25T02:15:16.941668"
-    },
-    {
-      "title": "IEEE Program Aims to Connect the Billions Who Are Still Offline",
-      "summary": "Given how integral the Internet has become to everyday tasks such as shopping, paying bills, and holding virtual meetings, it’s interesting that nearly 30 percent of the global population still has no access to it. More than 2 billion people are still offline, according to a report released in Novem...",
-      "url": "https://spectrum.ieee.org/ieee-connect-the-unconnected",
-      "date": "05月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 12 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-25T02:15:16.941508"
-    },
     {
       "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
       "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.941253"
+      "collected_at": "2026-05-26T02:06:09.213921"
     },
     {
       "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940996"
+      "collected_at": "2026-05-26T02:06:09.213683"
     },
     {
       "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-25T02:15:16.940938"
+      "collected_at": "2026-05-26T02:06:09.213627"
     },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
@@ -71,57 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940816"
+      "collected_at": "2026-05-26T02:06:09.213501"
     },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
       "summary": "This sponsored article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.Melbourne’s reputation as a global events city, from the Australian Open tennis and Formula 1 Australian Grand Prix to hosting NFL regular season games, now intersects with a differen...",
       "url": "https://spectrum.ieee.org/melbourne-ai-data-center-innovation",
-      "date": "6日前",
+      "date": "05月18日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940661"
+      "collected_at": "2026-05-26T02:06:09.213356"
     },
     {
       "title": "Agentic AI for Robot Teams",
       "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar...",
       "url": "https://events.bizzabo.com/867156",
-      "date": "6日前",
+      "date": "05月18日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940435"
+      "collected_at": "2026-05-26T02:06:09.213140"
     },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
       "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ...",
       "url": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
-      "date": "6日前",
+      "date": "05月18日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-25T02:15:16.940394"
+      "collected_at": "2026-05-26T02:06:09.213094"
     },
     {
       "title": "Manchester Code Made Bits Behave",
       "summary": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Ma...",
       "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
-      "date": "6日前",
+      "date": "05月18日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940189"
+      "collected_at": "2026-05-26T02:06:09.212915"
     },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
       "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
       "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-25T02:15:16.940023"
+      "collected_at": "2026-05-26T02:06:09.212750"
+    },
+    {
+      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+      "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
+      "url": "https://events.bizzabo.com/868497/home",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 21 May 2026 10:00:02 +0000",
+      "collected_at": "2026-05-26T02:06:09.212554"
+    },
+    {
+      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+      "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a co...",
+      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 21 May 2026 10:00:02 +0000",
+      "collected_at": "2026-05-26T02:06:09.212496"
+    },
+    {
+      "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
+      "summary": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn’t necessarily the case.Most of the more than 55,000 medical apps that claim to diagnose or t...",
+      "url": "https://spectrum.ieee.org/medical-mobile-app-ieee-verified",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 21 May 2026 18:00:01 +0000",
+      "collected_at": "2026-05-26T02:06:09.212341"
     }
   ]
 }
