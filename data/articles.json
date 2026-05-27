@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-05-26T02:06:10.216244",
+  "last_updated": "2026-05-27T02:14:25.337860",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
-      "summary": "This sponsored article is brought to you by Applied Materials.At pivotal moments in history, progress has required more than individual brilliance. The most consequential breakthroughs — such as those achieved under the Human Genome Project — required a new operating paradigm: Concentrate the world’...",
-      "url": "https://spectrum.ieee.org/applied-materials-epic-center",
-      "date": "05月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.213921"
-    },
-    {
-      "title": "Why RF Coexistence Testing Is Critical for Shared Spectrum",
-      "summary": "A comprehensive review of how spectrum congestion, dynamic sharing, and cognitive radio systems are reshaping RF coexistence testing for military and commercial applications.What Attendees will LearnWhy spectrum congestion threatens wireless reliability — Explore how over 30 billion connected device...",
-      "url": "https://content.knowledgehub.wiley.com/testing-for-coexistence-in-crowded-and-contested-rf-environments/",
-      "date": "05月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 14 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.213683"
-    },
     {
       "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
       "summary": "The IEEE Communications Society (ComSoc)’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer th...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-26T02:06:09.213627"
+      "collected_at": "2026-05-27T02:14:24.335613"
     },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.213501"
+      "collected_at": "2026-05-27T02:14:24.335492"
     },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.213356"
+      "collected_at": "2026-05-27T02:14:24.335319"
     },
     {
       "title": "Agentic AI for Robot Teams",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.213140"
+      "collected_at": "2026-05-27T02:14:24.335099"
     },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-26T02:06:09.213094"
+      "collected_at": "2026-05-27T02:14:24.335048"
     },
     {
       "title": "Manchester Code Made Bits Behave",
@@ -81,47 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.212915"
+      "collected_at": "2026-05-27T02:14:24.334865"
     },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
       "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
       "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.212750"
+      "collected_at": "2026-05-27T02:14:24.334693"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
       "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
       "url": "https://events.bizzabo.com/868497/home",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-26T02:06:09.212554"
+      "collected_at": "2026-05-27T02:14:24.334497"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
       "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a co...",
       "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-26T02:06:09.212496"
+      "collected_at": "2026-05-27T02:14:24.334411"
     },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
       "summary": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn’t necessarily the case.Most of the more than 55,000 medical apps that claim to diagnose or t...",
       "url": "https://spectrum.ieee.org/medical-mobile-app-ieee-verified",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-26T02:06:09.212341"
+      "collected_at": "2026-05-27T02:14:24.334255"
+    },
+    {
+      "title": "AI with Model-Based Design: Virtual Sensor Modeling",
+      "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
+      "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 25 May 2026 10:00:01 +0000",
+      "collected_at": "2026-05-27T02:14:24.334102"
+    },
+    {
+      "title": "Reclaiming Social Engineering for Good",
+      "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
+      "url": "https://spectrum.ieee.org/social-engineering-good",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 25 May 2026 13:00:01 +0000",
+      "collected_at": "2026-05-27T02:14:24.334056"
     }
   ]
 }
