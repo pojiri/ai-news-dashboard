@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-27T02:14:25.337860",
+  "last_updated": "2026-05-28T01:58:39.797165",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "IEEE Society Helps Researchers Meet Their Next Corporate Backer",
-      "summary": "The IEEE Communications Society (ComSoc)’s Research Collaboration Pitch Session initiative is proving to be a catalyst for meaningful engagement between academic researchers and industry innovators. Launched last year, the program connects promising researchers with industry leaders who can offer th...",
-      "url": "https://spectrum.ieee.org/ieee-society-pitch-sessions",
-      "date": "05月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 14 May 2026 18:00:02 +0000",
-      "collected_at": "2026-05-27T02:14:24.335613"
-    },
     {
       "title": "Striking New Views of the First Atomic Bomb Test",
       "summary": "Editor’s note: If you’d like to pinpoint the instant when the world entered the nuclear age, 5:29:45 a.m. Mountain War Time on 16 July 1945, is an excellent choice. That was the moment when human beings first unleashed the power of the nucleus in an immense, blinding ball of fire above a gloomy stre...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 15 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.335492"
+      "collected_at": "2026-05-28T01:58:38.794797"
     },
     {
       "title": "How Melbourne’s AI and Data Center Flywheel Is Accelerating Research Innovation",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.335319"
+      "collected_at": "2026-05-28T01:58:38.794650"
     },
     {
       "title": "Agentic AI for Robot Teams",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.335099"
+      "collected_at": "2026-05-28T01:58:38.794426"
     },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-27T02:14:24.335048"
+      "collected_at": "2026-05-28T01:58:38.794375"
     },
     {
       "title": "Manchester Code Made Bits Behave",
@@ -61,67 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.334865"
+      "collected_at": "2026-05-28T01:58:38.794193"
     },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
       "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
       "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-      "date": "6日前",
+      "date": "05月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.334693"
+      "collected_at": "2026-05-28T01:58:38.794025"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
       "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
       "url": "https://events.bizzabo.com/868497/home",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-27T02:14:24.334497"
+      "collected_at": "2026-05-28T01:58:38.793809"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
       "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a co...",
       "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-27T02:14:24.334411"
+      "collected_at": "2026-05-28T01:58:38.793749"
     },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
       "summary": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn’t necessarily the case.Most of the more than 55,000 medical apps that claim to diagnose or t...",
       "url": "https://spectrum.ieee.org/medical-mobile-app-ieee-verified",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.334255"
+      "collected_at": "2026-05-28T01:58:38.793589"
     },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.334102"
+      "collected_at": "2026-05-28T01:58:38.793434"
     },
     {
       "title": "Reclaiming Social Engineering for Good",
       "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
       "url": "https://spectrum.ieee.org/social-engineering-good",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-27T02:14:24.334056"
+      "collected_at": "2026-05-28T01:58:38.793386"
+    },
+    {
+      "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
+      "summary": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities.Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering p...",
+      "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 25 May 2026 18:00:01 +0000",
+      "collected_at": "2026-05-28T01:58:38.793263"
     }
   ]
 }
