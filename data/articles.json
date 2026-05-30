@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-29T02:05:28.173631",
+  "last_updated": "2026-05-30T02:00:13.277204",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Agentic AI for Robot Teams",
-      "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling autonomy, coordination, and adaptability across heterogeneous systems, then introduces a scalable ar...",
-      "url": "https://events.bizzabo.com/867156",
-      "date": "05月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 18 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.171190"
-    },
     {
       "title": "What Makes a Job Dull, Dirty, or Dangerous?",
       "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. A classic example of a DDD job is one of “repetitive physical labor on a steaming hot factory floor ...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-29T02:05:27.171135"
+      "collected_at": "2026-05-30T02:00:12.274922"
     },
     {
       "title": "Manchester Code Made Bits Behave",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170958"
+      "collected_at": "2026-05-30T02:00:12.274746"
     },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170801"
+      "collected_at": "2026-05-30T02:00:12.274581"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-29T02:05:27.170615"
+      "collected_at": "2026-05-30T02:00:12.274376"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-29T02:05:27.170558"
+      "collected_at": "2026-05-30T02:00:12.274304"
     },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
@@ -71,57 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170396"
+      "collected_at": "2026-05-30T02:00:12.274144"
     },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170231"
+      "collected_at": "2026-05-30T02:00:12.273981"
     },
     {
       "title": "Reclaiming Social Engineering for Good",
       "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
       "url": "https://spectrum.ieee.org/social-engineering-good",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170189"
+      "collected_at": "2026-05-30T02:00:12.273943"
     },
     {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
       "summary": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities.Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering p...",
       "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.170058"
+      "collected_at": "2026-05-30T02:00:12.273832"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
       "summary": "This sponsored article is brought to you by Master Bond.Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contaminatio...",
       "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-29T02:05:27.169920"
+      "collected_at": "2026-05-30T02:00:12.273694"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
       "summary": "Floppy disks are several decades old—many of the disks are degrading and the data stored on them is at risk of being lost. In response, Leontien Talboom, a technical analyst at Cambridge University Libraries and Archives, led a roughly year-long project preserving floppy disks called “Future Nostalg...",
       "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-29T02:05:27.169831"
+      "collected_at": "2026-05-30T02:00:12.273605"
+    },
+    {
+      "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
+      "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately ...",
+      "url": "https://spectrum.ieee.org/south-africa-ai-policy",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 27 May 2026 13:00:01 +0000",
+      "collected_at": "2026-05-30T02:00:12.273508"
     }
   ]
 }
