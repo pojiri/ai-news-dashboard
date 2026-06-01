@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-05-31T02:27:37.404848",
+  "last_updated": "2026-06-01T02:36:59.953532",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Manchester Code Made Bits Behave",
-      "summary": "In the late 1940s—when computer engineers were grappling with unreliable hardware and noisy transmission environments—a team of engineers inside a modest lab at the University of Manchester, England, confronted a problem so fundamental that it threatened the viability of digital computing itself. Ma...",
-      "url": "https://spectrum.ieee.org/manchester-code-ieee-milestone",
-      "date": "05月18日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 18 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.402490"
-    },
     {
       "title": "Will Robotics Have a ChatGPT Moment?",
       "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.402335"
+      "collected_at": "2026-06-01T02:36:58.950961"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-31T02:27:36.402152"
+      "collected_at": "2026-06-01T02:36:58.950754"
     },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-05-31T02:27:36.402096"
+      "collected_at": "2026-06-01T02:36:58.950689"
     },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
@@ -51,77 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401941"
+      "collected_at": "2026-06-01T02:36:58.950530"
     },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401780"
+      "collected_at": "2026-06-01T02:36:58.950372"
     },
     {
       "title": "Reclaiming Social Engineering for Good",
       "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
       "url": "https://spectrum.ieee.org/social-engineering-good",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401739"
+      "collected_at": "2026-06-01T02:36:58.950328"
     },
     {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
       "summary": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities.Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering p...",
       "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401617"
+      "collected_at": "2026-06-01T02:36:58.950217"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
       "summary": "This sponsored article is brought to you by Master Bond.Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contaminatio...",
       "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401483"
+      "collected_at": "2026-06-01T02:36:58.950083"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
       "summary": "Floppy disks are several decades old—many of the disks are degrading and the data stored on them is at risk of being lost. In response, Leontien Talboom, a technical analyst at Cambridge University Libraries and Archives, led a roughly year-long project preserving floppy disks called “Future Nostalg...",
       "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-05-31T02:27:36.401393"
+      "collected_at": "2026-06-01T02:36:58.949992"
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
       "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately ...",
       "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 May 2026 13:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401298"
+      "collected_at": "2026-06-01T02:36:58.949891"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
       "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported.What Attendees will LearnWhat phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term...",
       "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 10:00:01 +0000",
-      "collected_at": "2026-05-31T02:27:36.401105"
+      "collected_at": "2026-06-01T02:36:58.949682"
+    },
+    {
+      "title": "Finding Success in Industry as a Chip Designer",
+      "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ...",
+      "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 28 May 2026 13:00:01 +0000",
+      "collected_at": "2026-06-01T02:36:58.949628"
     }
   ]
 }
