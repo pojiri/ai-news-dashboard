@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-06-01T02:36:59.953532",
+  "last_updated": "2026-06-02T02:35:21.210188",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Will Robotics Have a ChatGPT Moment?",
-      "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas, deliver packages and food to our doorsteps, and eventually help out in our homes. Some will look l...",
-      "url": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-      "date": "05月20日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 20 May 2026 11:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950961"
-    },
-    {
-      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-      "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
-      "url": "https://events.bizzabo.com/868497/home",
-      "date": "05月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-06-01T02:36:58.950754"
-    },
     {
       "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
       "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a co...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-06-01T02:36:58.950689"
+      "collected_at": "2026-06-02T02:35:20.207773"
     },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
@@ -41,87 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950530"
+      "collected_at": "2026-06-02T02:35:20.207685"
     },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
       "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
       "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "date": "6日前",
+      "date": "05月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950372"
+      "collected_at": "2026-06-02T02:35:20.207599"
     },
     {
       "title": "Reclaiming Social Engineering for Good",
       "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
       "url": "https://spectrum.ieee.org/social-engineering-good",
-      "date": "6日前",
+      "date": "05月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950328"
+      "collected_at": "2026-06-02T02:35:20.207565"
     },
     {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
       "summary": "The OnCampus program, administered by IEEE Educational Activities, last year expanded its engineering experiences from two to seven universities.Part of TryEngineering, the program is held at universities around the world, offering preuniversity students hands-on opportunities to solve engineering p...",
       "url": "https://spectrum.ieee.org/tryengineering-oncampus-expansion",
-      "date": "6日前",
+      "date": "05月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950217"
+      "collected_at": "2026-06-02T02:35:20.207500"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
       "summary": "This sponsored article is brought to you by Master Bond.Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contaminatio...",
       "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.950083"
+      "collected_at": "2026-06-02T02:35:20.207414"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
       "summary": "Floppy disks are several decades old—many of the disks are degrading and the data stored on them is at risk of being lost. In response, Leontien Talboom, a technical analyst at Cambridge University Libraries and Archives, led a roughly year-long project preserving floppy disks called “Future Nostalg...",
       "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-06-01T02:36:58.949992"
+      "collected_at": "2026-06-02T02:35:20.207364"
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
       "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately ...",
       "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.949891"
+      "collected_at": "2026-06-02T02:35:20.207310"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
       "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported.What Attendees will LearnWhat phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term...",
       "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.949682"
+      "collected_at": "2026-06-02T02:35:20.207203"
     },
     {
       "title": "Finding Success in Industry as a Chip Designer",
       "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ...",
       "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-01T02:36:58.949628"
+      "collected_at": "2026-06-02T02:35:20.207177"
+    },
+    {
+      "title": "Make a Soft Digital Clock Tick With Millifluidics",
+      "summary": "Electrons are great. We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light whil...",
+      "url": "https://spectrum.ieee.org/soft-robotics-2676960499",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 29 May 2026 13:00:01 +0000",
+      "collected_at": "2026-06-02T02:35:20.207095"
+    },
+    {
+      "title": "Poetry for Engineers: Cyborg Laboratory",
+      "summary": "This is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.You’re not perfect, but it’s a good start.Down to small digits, you’ll be improved.Memory maintained by...",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 30 May 2026 15:13:01 +0000",
+      "collected_at": "2026-06-02T02:35:20.207013"
     }
   ]
 }
