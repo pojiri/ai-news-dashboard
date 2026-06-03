@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-06-02T02:35:21.210188",
+  "last_updated": "2026-06-03T02:43:12.877172",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-      "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a co...",
-      "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-      "date": "05月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 21 May 2026 10:00:02 +0000",
-      "collected_at": "2026-06-02T02:35:20.207773"
-    },
     {
       "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
       "summary": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn’t necessarily the case.Most of the more than 55,000 medical apps that claim to diagnose or t...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207685"
+      "collected_at": "2026-06-03T02:43:11.874917"
     },
     {
       "title": "AI with Model-Based Design: Virtual Sensor Modeling",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207599"
+      "collected_at": "2026-06-03T02:43:11.874737"
     },
     {
       "title": "Reclaiming Social Engineering for Good",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207565"
+      "collected_at": "2026-06-03T02:43:11.874680"
     },
     {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
@@ -51,77 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207500"
+      "collected_at": "2026-06-03T02:43:11.874563"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
       "summary": "This sponsored article is brought to you by Master Bond.Outgassing is the release of volatile substances from a cured adhesive over time. These released materials, which may include residual solvents, unreacted monomers, or other chemical species, can deposit on nearby surfaces, causing contaminatio...",
       "url": "https://spectrum.ieee.org/adhesive-outgassing-nasa-standards",
-      "date": "6日前",
+      "date": "05月26日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207414"
+      "collected_at": "2026-06-03T02:43:11.874421"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
       "summary": "Floppy disks are several decades old—many of the disks are degrading and the data stored on them is at risk of being lost. In response, Leontien Talboom, a technical analyst at Cambridge University Libraries and Archives, led a roughly year-long project preserving floppy disks called “Future Nostalg...",
       "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
-      "date": "6日前",
+      "date": "05月26日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-06-02T02:35:20.207364"
+      "collected_at": "2026-06-03T02:43:11.874323"
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
       "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately ...",
       "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207310"
+      "collected_at": "2026-06-03T02:43:11.874218"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
       "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported.What Attendees will LearnWhat phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term...",
       "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207203"
+      "collected_at": "2026-06-03T02:43:11.874027"
     },
     {
       "title": "Finding Success in Industry as a Chip Designer",
       "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ...",
       "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207177"
+      "collected_at": "2026-06-03T02:43:11.873973"
     },
     {
       "title": "Make a Soft Digital Clock Tick With Millifluidics",
       "summary": "Electrons are great. We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light whil...",
       "url": "https://spectrum.ieee.org/soft-robotics-2676960499",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207095"
+      "collected_at": "2026-06-03T02:43:11.873826"
     },
     {
       "title": "Poetry for Engineers: Cyborg Laboratory",
       "summary": "This is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.You’re not perfect, but it’s a good start.Down to small digits, you’ll be improved.Memory maintained by...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 May 2026 15:13:01 +0000",
-      "collected_at": "2026-06-02T02:35:20.207013"
+      "collected_at": "2026-06-03T02:43:11.873662"
+    },
+    {
+      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
+      "summary": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince any...",
+      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 31 May 2026 13:00:01 +0000",
+      "collected_at": "2026-06-03T02:43:11.873611"
     }
   ]
 }
