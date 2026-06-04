@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-06-03T02:43:12.877172",
+  "last_updated": "2026-06-04T02:37:40.160680",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Developers: Get Your Medical Mobile App Verified By IEEE",
-      "summary": "Patients who use mobile applications to manage medical conditions including depression and chronic pain might assume the apps have been evaluated by regulatory agencies to be safe and effective. But that isn’t necessarily the case.Most of the more than 55,000 medical apps that claim to diagnose or t...",
-      "url": "https://spectrum.ieee.org/medical-mobile-app-ieee-verified",
-      "date": "05月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 21 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874917"
-    },
-    {
-      "title": "AI with Model-Based Design: Virtual Sensor Modeling",
-      "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment.HighlightsIntegrate AI models into Simulink for system-level simulation, veri...",
-      "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
-      "date": "05月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 25 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874737"
-    },
     {
       "title": "Reclaiming Social Engineering for Good",
       "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874680"
+      "collected_at": "2026-06-04T02:37:39.158743"
     },
     {
       "title": "IEEE TryEngineering OnCampus Program Expands to 7 Universities",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874563"
+      "collected_at": "2026-06-04T02:37:39.158628"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874421"
+      "collected_at": "2026-06-04T02:37:39.158488"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-06-03T02:43:11.874323"
+      "collected_at": "2026-06-04T02:37:39.158394"
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
       "summary": "This article is adapted by the author with permission from Tech Policy Press. Read the original article.South Africa is not just another developing country struggling to govern artificial intelligence; it is the exception with leverage, and the window to act on it is closing. It holds approximately ...",
       "url": "https://spectrum.ieee.org/south-africa-ai-policy",
-      "date": "6日前",
+      "date": "05月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874218"
+      "collected_at": "2026-06-04T02:37:39.158281"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
       "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems and how phase noise is measured, analyzed, and reported.What Attendees will LearnWhat phase noise is and why it matters — Learn how real-world oscillators differ from ideal ones, why short-term...",
       "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.874027"
+      "collected_at": "2026-06-04T02:37:39.158080"
     },
     {
       "title": "Finding Success in Industry as a Chip Designer",
       "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved through the full academic trajectory, from graduate student to full professor; later, I transitioned to industry after an unsuccessful stint at entrepreneurship. When I made the switch to the ...",
       "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.873973"
+      "collected_at": "2026-06-04T02:37:39.158034"
     },
     {
       "title": "Make a Soft Digital Clock Tick With Millifluidics",
       "summary": "Electrons are great. We use them to move vehicles, illuminate cities, and, of course, compute. But computation is not confined to the world of electronics. And shifting to alternative nonelectronic realms can unlock unique advantages: Photonic chips, for instance, process information with light whil...",
       "url": "https://spectrum.ieee.org/soft-robotics-2676960499",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.873826"
+      "collected_at": "2026-06-04T02:37:39.157891"
     },
     {
       "title": "Poetry for Engineers: Cyborg Laboratory",
       "summary": "This is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.You’re not perfect, but it’s a good start.Down to small digits, you’ll be improved.Memory maintained by...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 May 2026 15:13:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.873662"
+      "collected_at": "2026-06-04T02:37:39.157750"
     },
     {
       "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
       "summary": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince any...",
       "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-03T02:43:11.873611"
+      "collected_at": "2026-06-04T02:37:39.157704"
+    },
+    {
+      "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
+      "summary": "“Not in my backyard” is the rallying cry of citizens everywhere resisting projects proposed for their locality. Whether it’s affordable housing, a waste treatment plant, or a new data center, they may recognize the benefit of the activity. They just don’t want it near them. And the roots of that res...",
+      "url": "https://spectrum.ieee.org/renewable-energy-resistance",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 01 Jun 2026 11:06:01 +0000",
+      "collected_at": "2026-06-04T02:37:39.157497"
+    },
+    {
+      "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
+      "summary": "Children born after 2013 are the first generation to grow up fully immersed in digital systems, which weren’t designed with them in mind. One‑third of the world’s Internet users are younger than 18, according to UNICEF, yet these systems shaping their daily lives were built for adults. They were opt...",
+      "url": "https://spectrum.ieee.org/ieee-presidents-note-june-2026",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 01 Jun 2026 18:00:02 +0000",
+      "collected_at": "2026-06-04T02:37:39.157415"
     }
   ]
 }
