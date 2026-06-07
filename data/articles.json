@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T02:04:23.811287",
+  "last_updated": "2026-06-07T02:31:13.086107",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 25 May 2026 18:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808834"
+      "collected_at": "2026-06-07T02:31:12.083502"
     },
     {
       "title": "Meet NASA Low Outgassing Standards With Adhesives for Aerospace and Optical Systems",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808696"
+      "collected_at": "2026-06-07T02:31:12.083366"
     },
     {
       "title": "What It Takes to Preserve Floppy Disks",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 26 May 2026 13:00:00 +0000",
-      "collected_at": "2026-06-06T02:04:22.808605"
+      "collected_at": "2026-06-07T02:31:12.083276"
     },
     {
       "title": "South Africa Has AI Leverage. Its Draft Policy Leaves It Unused",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 27 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808508"
+      "collected_at": "2026-06-07T02:31:12.083181"
     },
     {
       "title": "Understanding Phase Noise and Its Impact on RF System Performance",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 10:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808296"
+      "collected_at": "2026-06-07T02:31:12.082988"
     },
     {
       "title": "Finding Success in Industry as a Chip Designer",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 28 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808246"
+      "collected_at": "2026-06-07T02:31:12.082937"
     },
     {
       "title": "Make a Soft Digital Clock Tick With Millifluidics",
@@ -71,57 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 29 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.808096"
+      "collected_at": "2026-06-07T02:31:12.082772"
     },
     {
       "title": "Poetry for Engineers: Cyborg Laboratory",
       "summary": "This is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.You’re not perfect, but it’s a good start.Down to small digits, you’ll be improved.Memory maintained by...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
-      "date": "6日前",
+      "date": "05月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 30 May 2026 15:13:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.807942"
+      "collected_at": "2026-06-07T02:31:12.082623"
     },
     {
       "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
       "summary": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince any...",
       "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 31 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.807899"
+      "collected_at": "2026-06-07T02:31:12.082567"
     },
     {
       "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
       "summary": "“Not in my backyard” is the rallying cry of citizens everywhere resisting projects proposed for their locality. Whether it’s affordable housing, a waste treatment plant, or a new data center, they may recognize the benefit of the activity. They just don’t want it near them. And the roots of that res...",
       "url": "https://spectrum.ieee.org/renewable-energy-resistance",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Jun 2026 11:06:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.807690"
+      "collected_at": "2026-06-07T02:31:12.082362"
     },
     {
       "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
       "summary": "Children born after 2013 are the first generation to grow up fully immersed in digital systems, which weren’t designed with them in mind. One‑third of the world’s Internet users are younger than 18, according to UNICEF, yet these systems shaping their daily lives were built for adults. They were opt...",
       "url": "https://spectrum.ieee.org/ieee-presidents-note-june-2026",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-06T02:04:22.807611"
+      "collected_at": "2026-06-07T02:31:12.082280"
     },
     {
       "title": "What It Takes for Future-Ready Power Distribution",
       "summary": "This sponsored article is brought to you by Black & Veatch.The biggest challenge facing utilities today isn’t what it seems. It’s not demand, even as load growth accelerates. It’s not extreme weather, even as “major events” become routine. It’s not cybersecurity, even as connections expand across th...",
       "url": "https://spectrum.ieee.org/distribution-grid-modernization",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Jun 2026 11:00:01 +0000",
-      "collected_at": "2026-06-06T02:04:22.807443"
+      "collected_at": "2026-06-07T02:31:12.082110"
     }
   ]
 }
