@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-06-11T02:35:36.407840",
+  "last_updated": "2026-06-12T02:30:44.425910",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Poetry for Engineers: Cyborg Laboratory",
-      "summary": "This is the place where you face yourself,the you that could be you with a fewdifferent parts, a pump for your heart,eyes off color, and fresh off the shelffake hair (a bit obvious), skin smoothed.You’re not perfect, but it’s a good start.Down to small digits, you’ll be improved.Memory maintained by...",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-cyborg-laboratory",
-      "date": "05月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 30 May 2026 15:13:01 +0000",
-      "collected_at": "2026-06-11T02:35:35.405662"
-    },
-    {
-      "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
-      "summary": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince any...",
-      "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-      "date": "05月31日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 31 May 2026 13:00:01 +0000",
-      "collected_at": "2026-06-11T02:35:35.405610"
-    },
     {
       "title": "Why Sardinians Are Fighting the Renewable Energy Transition",
       "summary": "“Not in my backyard” is the rallying cry of citizens everywhere resisting projects proposed for their locality. Whether it’s affordable housing, a waste treatment plant, or a new data center, they may recognize the benefit of the activity. They just don’t want it near them. And the roots of that res...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Jun 2026 11:06:01 +0000",
-      "collected_at": "2026-06-11T02:35:35.405402"
+      "collected_at": "2026-06-12T02:30:43.424132"
     },
     {
       "title": "IEEE President’s Note: Designing a Safer Digital World for Kids",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 01 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-11T02:35:35.405317"
+      "collected_at": "2026-06-12T02:30:43.424051"
     },
     {
       "title": "What It Takes for Future-Ready Power Distribution",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Jun 2026 11:00:01 +0000",
-      "collected_at": "2026-06-11T02:35:35.405150"
+      "collected_at": "2026-06-12T02:30:43.423888"
     },
     {
       "title": "7 Ways New Engineers Can Flourish in the Age of AI",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 03 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-11T02:35:35.405005"
+      "collected_at": "2026-06-12T02:30:43.423765"
     },
     {
       "title": "50 Years of The Institute",
       "summary": "The Institute is celebrating its 50th anniversary this year. Launched in 1976, the publication was designed to keep members informed about IEEE and what its constituents were doing, as well as to report on the organization’s initiatives, technical standards, products, and services.That directive exp...",
       "url": "https://spectrum.ieee.org/50-years-ieee-the-institute",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 05 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-11T02:35:35.404903"
+      "collected_at": "2026-06-12T02:30:43.423663"
     },
     {
       "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
       "summary": "New York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April.The event celebrates engineering pioneers who have developed technologies that have changed how people connect and learn about the world. This year’s celebrants included the engineers behind innovations such as text...",
       "url": "https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 08 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-11T02:35:35.404826"
+      "collected_at": "2026-06-12T02:30:43.423584"
     },
     {
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
       "summary": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate amount of attention.Two robotic hands were making a balloon dog. Slowly and deliberately, the robot...",
       "url": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 12:51:03 +0000",
-      "collected_at": "2026-06-11T02:35:35.404650"
+      "collected_at": "2026-06-12T02:30:43.423403"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!The CS Degree Isn’t Dead. The Entry-Level Pipeline I...",
       "url": "https://spectrum.ieee.org/computer-science-degree-isnt-dead",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:02:32 +0000",
-      "collected_at": "2026-06-11T02:35:35.404473"
+      "collected_at": "2026-06-12T02:30:43.423192"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Job Hopping as an Engineer: The Pros and ConsI’ve ch...",
       "url": "https://spectrum.ieee.org/strategic-job-hopping",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:25:12 +0000",
-      "collected_at": "2026-06-11T02:35:35.404348"
+      "collected_at": "2026-06-12T02:30:43.423063"
     },
     {
       "title": "What Size Company Is Right for You?",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Small Startup, Mid-Size Company, or Fortune 100? The...",
       "url": "https://spectrum.ieee.org/fortune-500-companies-vs-startups",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:41:14 +0000",
-      "collected_at": "2026-06-11T02:35:35.404231"
+      "collected_at": "2026-06-12T02:30:43.422944"
+    },
+    {
+      "title": "We Are Crowd-Sourcing the Panopticon",
+      "summary": "A man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something happens, someone records it, and that footage can show what really happened, sometimes contradicting ...",
+      "url": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 10 Jun 2026 13:00:00 +0000",
+      "collected_at": "2026-06-12T02:30:43.422818"
+    },
+    {
+      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
+      "summary": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Fac...",
+      "url": "https://spectrum.ieee.org/epics-in-ieee",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 10 Jun 2026 18:00:01 +0000",
+      "collected_at": "2026-06-12T02:30:43.422674"
     }
   ]
 }
