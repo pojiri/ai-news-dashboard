@@ -1,48 +1,8 @@
 {
-  "last_updated": "2026-06-17T02:39:25.253186",
+  "last_updated": "2026-06-18T02:36:28.813100",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "What It Takes for Future-Ready Power Distribution",
-      "summary": "This sponsored article is brought to you by Black & Veatch.The biggest challenge facing utilities today isn’t what it seems. It’s not demand, even as load growth accelerates. It’s not extreme weather, even as “major events” become routine. It’s not cybersecurity, even as connections expand across th...",
-      "url": "https://spectrum.ieee.org/distribution-grid-modernization",
-      "date": "06月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 03 Jun 2026 11:00:01 +0000",
-      "collected_at": "2026-06-17T02:39:24.251305"
-    },
-    {
-      "title": "7 Ways New Engineers Can Flourish in the Age of AI",
-      "summary": "New graduates’ careers are unfolding in an era when AI is not optional. The most successful engineers treat artificial intelligence as leverage, not competition.Here are seven tips to help keep young professionals in demand no matter how quickly the field’s tools evolve.1. Master the fundamentals fi...",
-      "url": "https://spectrum.ieee.org/7-ways-engineers-flourish-ai",
-      "date": "06月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 03 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-17T02:39:24.251185"
-    },
-    {
-      "title": "50 Years of The Institute",
-      "summary": "The Institute is celebrating its 50th anniversary this year. Launched in 1976, the publication was designed to keep members informed about IEEE and what its constituents were doing, as well as to report on the organization’s initiatives, technical standards, products, and services.That directive exp...",
-      "url": "https://spectrum.ieee.org/50-years-ieee-the-institute",
-      "date": "06月05日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 05 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-17T02:39:24.251089"
-    },
-    {
-      "title": "IEEE Celebrates Technology’s Brightest Minds at Annual Event",
-      "summary": "New York City was the backdrop of this year’s IEEE Honors Ceremony, held on 24 April.The event celebrates engineering pioneers who have developed technologies that have changed how people connect and learn about the world. This year’s celebrants included the engineers behind innovations such as text...",
-      "url": "https://spectrum.ieee.org/ieee-celebrates-honors-ceremony-2026",
-      "date": "06月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 08 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-17T02:39:24.251006"
-    },
     {
       "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
       "summary": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate amount of attention.Two robotic hands were making a balloon dog. Slowly and deliberately, the robot...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 12:51:03 +0000",
-      "collected_at": "2026-06-17T02:39:24.250792"
+      "collected_at": "2026-06-18T02:36:27.810549"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
@@ -61,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:02:32 +0000",
-      "collected_at": "2026-06-17T02:39:24.250610"
+      "collected_at": "2026-06-18T02:36:27.810370"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
@@ -71,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:25:12 +0000",
-      "collected_at": "2026-06-17T02:39:24.250475"
+      "collected_at": "2026-06-18T02:36:27.810243"
     },
     {
       "title": "What Size Company Is Right for You?",
@@ -81,47 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:41:14 +0000",
-      "collected_at": "2026-06-17T02:39:24.250351"
+      "collected_at": "2026-06-18T02:36:27.810128"
     },
     {
       "title": "We Are Crowdsourcing the Panopticon",
       "summary": "A man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something happens, someone records it, and that footage can show what really happened, sometimes contradicting ...",
       "url": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
-      "date": "6日前",
+      "date": "06月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Jun 2026 13:00:00 +0000",
-      "collected_at": "2026-06-17T02:39:24.250220"
+      "collected_at": "2026-06-18T02:36:27.810004"
     },
     {
       "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
       "summary": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Fac...",
       "url": "https://spectrum.ieee.org/epics-in-ieee",
-      "date": "6日前",
+      "date": "06月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-17T02:39:24.250081"
+      "collected_at": "2026-06-18T02:36:27.809849"
     },
     {
       "title": "Defining Autonomy for Wellness Robots in Senior Care",
       "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy.What Attendees will LearnWhy the senior care crisis exceeds incremental automation. Demographic pressure, workforce shortages, and a daily we...",
       "url": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 10:00:01 +0000",
-      "collected_at": "2026-06-17T02:39:24.249842"
+      "collected_at": "2026-06-18T02:36:27.809630"
     },
     {
       "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
       "summary": "“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March.Indeed, the idea of data centers in orbit has gone from science fiction to a serious spending category. Elon Musk’s SpaceX has acquired xAI (also Musk’s) and is planning a const...",
       "url": "https://spectrum.ieee.org/orbital-data-centers-heat",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-06-17T02:39:24.249794"
+      "collected_at": "2026-06-18T02:36:27.809587"
+    },
+    {
+      "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+      "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo, a computer program with a turtle cursor to help childre...",
+      "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 12 Jun 2026 18:00:01 +0000",
+      "collected_at": "2026-06-18T02:36:27.809251"
+    },
+    {
+      "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
+      "summary": "A half century ago, a scrappy crew at the University of Massachusetts Amherst erected a wind turbine on Orchard Hill, the highest point on campus. It was a frugal production, cobbled together from the rear axle of a Ford truck, a donated generator and microcontroller, a steam pipe, and various handc...",
+      "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 15 Jun 2026 13:00:01 +0000",
+      "collected_at": "2026-06-18T02:36:27.809031"
+    },
+    {
+      "title": "Engineering Is Critical to Boosting Food Security",
+      "summary": "Nearly 750 million people face hunger today, according to the U.N. World Food Program. And by 2050, global demand for food is expected to increase by 50 percent from 2010 levels, the World Resources Institute says.A smart agriculture special-issue report recently released by the IEEE Smart Agri-Food...",
+      "url": "https://spectrum.ieee.org/engineering-critical-food-security",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 15 Jun 2026 18:00:01 +0000",
+      "collected_at": "2026-06-18T02:36:27.808607"
+    },
+    {
+      "title": "The Secret to Marathon-Winning Humanoid Robots",
+      "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours.How did they do it? Is there some magical technology or technique that unlocked this performance? ...",
+      "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
+      "date": "14時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 17 Jun 2026 12:19:27 +0000",
+      "collected_at": "2026-06-18T02:36:27.808335"
     }
   ]
 }
