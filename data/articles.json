@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T02:36:28.813100",
+  "last_updated": "2026-06-19T02:52:22.436300",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 12:51:03 +0000",
-      "collected_at": "2026-06-18T02:36:27.810549"
+      "collected_at": "2026-06-19T02:52:21.433936"
     },
     {
       "title": "The Computer Science Degree Isn’t Dead",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:02:32 +0000",
-      "collected_at": "2026-06-18T02:36:27.810370"
+      "collected_at": "2026-06-19T02:52:21.433753"
     },
     {
       "title": "The Pros and Cons of Job Hopping as an Engineer",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:25:12 +0000",
-      "collected_at": "2026-06-18T02:36:27.810243"
+      "collected_at": "2026-06-19T02:52:21.433623"
     },
     {
       "title": "What Size Company Is Right for You?",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 09 Jun 2026 18:41:14 +0000",
-      "collected_at": "2026-06-18T02:36:27.810128"
+      "collected_at": "2026-06-19T02:52:21.433505"
     },
     {
       "title": "We Are Crowdsourcing the Panopticon",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Jun 2026 13:00:00 +0000",
-      "collected_at": "2026-06-18T02:36:27.810004"
+      "collected_at": "2026-06-19T02:52:21.433383"
     },
     {
       "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 10 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-18T02:36:27.809849"
+      "collected_at": "2026-06-19T02:52:21.433247"
     },
     {
       "title": "Defining Autonomy for Wellness Robots in Senior Care",
       "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy.What Attendees will LearnWhy the senior care crisis exceeds incremental automation. Demographic pressure, workforce shortages, and a daily we...",
       "url": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
-      "date": "6日前",
+      "date": "06月11日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 10:00:01 +0000",
-      "collected_at": "2026-06-18T02:36:27.809630"
+      "collected_at": "2026-06-19T02:52:21.433034"
     },
     {
       "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
       "summary": "“Space computing, the final frontier, has arrived,” Nvidia CEO Jensen Huang declared at the Nvidia GTC conference in March.Indeed, the idea of data centers in orbit has gone from science fiction to a serious spending category. Elon Musk’s SpaceX has acquired xAI (also Musk’s) and is planning a const...",
       "url": "https://spectrum.ieee.org/orbital-data-centers-heat",
-      "date": "6日前",
+      "date": "06月11日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-06-18T02:36:27.809587"
+      "collected_at": "2026-06-19T02:52:21.432971"
     },
     {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
       "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. During that time, she was introduced to Logo, a computer program with a turtle cursor to help childre...",
       "url": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-18T02:36:27.809251"
+      "collected_at": "2026-06-19T02:52:21.432611"
     },
     {
       "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
       "summary": "A half century ago, a scrappy crew at the University of Massachusetts Amherst erected a wind turbine on Orchard Hill, the highest point on campus. It was a frugal production, cobbled together from the rear axle of a Ford truck, a donated generator and microcontroller, a steam pipe, and various handc...",
       "url": "https://spectrum.ieee.org/william-heronemus-wind-energy",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-06-18T02:36:27.809031"
+      "collected_at": "2026-06-19T02:52:21.432383"
     },
     {
       "title": "Engineering Is Critical to Boosting Food Security",
       "summary": "Nearly 750 million people face hunger today, according to the U.N. World Food Program. And by 2050, global demand for food is expected to increase by 50 percent from 2010 levels, the World Resources Institute says.A smart agriculture special-issue report recently released by the IEEE Smart Agri-Food...",
       "url": "https://spectrum.ieee.org/engineering-critical-food-security",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-18T02:36:27.808607"
+      "collected_at": "2026-06-19T02:52:21.431937"
     },
     {
       "title": "The Secret to Marathon-Winning Humanoid Robots",
       "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours.How did they do it? Is there some magical technology or technique that unlocked this performance? ...",
       "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
-      "date": "14時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 12:19:27 +0000",
-      "collected_at": "2026-06-18T02:36:27.808335"
+      "collected_at": "2026-06-19T02:52:21.431676"
     }
   ]
 }
