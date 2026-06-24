@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-06-23T02:08:05.868735",
+  "last_updated": "2026-06-24T02:09:45.438527",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "We Are Crowdsourcing the Panopticon",
-      "summary": "A man raises his phone as police move into a crowd. The video is shaky, loud, immediate. Within minutes, it is online. Within hours, it is everywhere. This is how accountability works now. Something happens, someone records it, and that footage can show what really happened, sometimes contradicting ...",
-      "url": "https://spectrum.ieee.org/unintended-consequences-video-surveillance",
-      "date": "06月10日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 10 Jun 2026 13:00:00 +0000",
-      "collected_at": "2026-06-23T02:08:04.866644"
-    },
-    {
-      "title": "EPICS in IEEE’s Awards Honor Outstanding Students and Faculty",
-      "summary": "The EPICS (Engineering Projects in Community Service) in IEEE program, administered by IEEE Educational Activities, has launched the Excellent EPICS in IEEE Contributor Awards. The recognitions honor the program’s outstanding students and faculty volunteers in Excellent Team Leader and Excellent Fac...",
-      "url": "https://spectrum.ieee.org/epics-in-ieee",
-      "date": "06月10日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 10 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.866538"
-    },
     {
       "title": "Defining Autonomy for Wellness Robots in Senior Care",
       "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy.What Attendees will LearnWhy the senior care crisis exceeds incremental automation. Demographic pressure, workforce shortages, and a daily we...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 10:00:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.866376"
+      "collected_at": "2026-06-24T02:09:44.435938"
     },
     {
       "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 11 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-06-23T02:08:04.866341"
+      "collected_at": "2026-06-24T02:09:44.435893"
     },
     {
       "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 12 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.866072"
+      "collected_at": "2026-06-24T02:09:44.435542"
     },
     {
       "title": "This 1976 University Experiment Spun Up the U.S. Wind Industry",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.865887"
+      "collected_at": "2026-06-24T02:09:44.435320"
     },
     {
       "title": "Engineering Is Critical to Boosting Food Security",
@@ -71,57 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 15 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.865555"
+      "collected_at": "2026-06-24T02:09:44.434924"
     },
     {
       "title": "The Secret to Marathon-Winning Humanoid Robots",
-      "summary": "On April 19, 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost two hours.How did they do it? Is there some magical technology or technique that unlocked this performance? ...",
+      "summary": "On 19 April 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost 2 hours.How did Honor do it? Is there some magical technology or technique that unlocked this performance? Ho...",
       "url": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 12:19:27 +0000",
-      "collected_at": "2026-06-23T02:08:04.865344"
+      "collected_at": "2026-06-24T02:09:44.434643"
     },
     {
       "title": "How Musicians Can Get Paid for Training AI",
       "summary": "Musicians are accustomed to getting paid each time their creative work is used. Across vinyl/CD sales, streams, radio, cover versions, and those numerous niches like karaoke, there are agreements in place about what “use” means. Underlying this is a simple economic principle: The more something is u...",
       "url": "https://spectrum.ieee.org/ai-music-attribution",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 15:04:23 +0000",
-      "collected_at": "2026-06-23T02:08:04.865229"
+      "collected_at": "2026-06-24T02:09:44.434499"
     },
     {
       "title": "Behind the Scenes of a Technical Interview",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!I’ve sat on both sides of the interview table severa...",
       "url": "https://spectrum.ieee.org/tech-interview-prep",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 16:13:01 +0000",
-      "collected_at": "2026-06-23T02:08:04.865113"
+      "collected_at": "2026-06-24T02:09:44.434341"
     },
     {
       "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
       "summary": "The rapid evolution of the global engineering landscape requires continuous education. For one week in April, the IEEE community focuses on its educational frameworks. IEEE Education Week, which just concluded its fifth year, provided a comprehensive overview of the resources available to profession...",
       "url": "https://spectrum.ieee.org/ieee-education-week",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-23T02:08:04.864979"
+      "collected_at": "2026-06-24T02:09:44.434155"
     },
     {
       "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
       "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot. Astro used cameras and other sensors to map and navigate your home and workplace, and could proactively patrol, check up on loved ones, and transport small items using its built-in cargo bin. While ...",
       "url": "https://spectrum.ieee.org/amazon-astro-robot-sound",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "collected_at": "2026-06-23T02:08:04.864877"
+      "collected_at": "2026-06-24T02:09:44.434024"
+    },
+    {
+      "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+      "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications....",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 19 Jun 2026 18:00:01 +0000",
+      "collected_at": "2026-06-24T02:09:44.433851"
+    },
+    {
+      "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
+      "summary": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine. Now, she’s drawing on her experiences to mentor tech...",
+      "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 20 Jun 2026 13:00:01 +0000",
+      "collected_at": "2026-06-24T02:09:44.433734"
     }
   ]
 }
