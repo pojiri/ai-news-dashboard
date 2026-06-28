@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T02:06:44.730307",
+  "last_updated": "2026-06-28T02:28:14.558215",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 16:13:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.728169"
+      "collected_at": "2026-06-28T02:28:13.555851"
     },
     {
       "title": "IEEE’s 2026 Education Week Events Emphasized Lifelong Learning",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 17 Jun 2026 18:00:02 +0000",
-      "collected_at": "2026-06-27T02:06:43.728048"
+      "collected_at": "2026-06-28T02:28:13.555730"
     },
     {
       "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "collected_at": "2026-06-27T02:06:43.727915"
+      "collected_at": "2026-06-28T02:28:13.555596"
     },
     {
       "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 19 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.727757"
+      "collected_at": "2026-06-28T02:28:13.555422"
     },
     {
       "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
       "summary": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine. Now, she’s drawing on her experiences to mentor tech...",
       "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
-      "date": "6日前",
+      "date": "06月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 20 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.727626"
+      "collected_at": "2026-06-28T02:28:13.555303"
     },
     {
       "title": "Commemorating 70 Years of Artificial Intelligence",
       "summary": "Artificial intelligence is the transformative, strategic technology of the early 21st century. It is significantly reshaping practically every aspect of our lives, including in ways that probably no one anticipated. Its rate of adoption and impact have been unprecedented when compared with other tec...",
       "url": "https://spectrum.ieee.org/70-years-of-artificial-intelligence",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 22 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.727493"
+      "collected_at": "2026-06-28T02:28:13.555155"
     },
     {
       "title": "AI Is Learning to Read the Room",
       "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your v...",
       "url": "https://spectrum.ieee.org/emotion-ai-context",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Jun 2026 12:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.727208"
+      "collected_at": "2026-06-28T02:28:13.554881"
     },
     {
       "title": "Why the U.S. Uses Only Half of Its Grid Capacity",
       "summary": "By most accounts, the United States appears poised to fall woefully short of meeting new electricity demand over the next five years as data centers and domestic manufacturing proliferate.Ian MagruderIan Magruder is the founder of Utilize Coalition and previously served as director of market mobiliz...",
       "url": "https://spectrum.ieee.org/united-states-power-grid-capacity",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 23 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.726965"
+      "collected_at": "2026-06-28T02:28:13.554619"
     },
     {
       "title": "Home Broadband Is 5G’s Surprise Killer App",
       "summary": "5G telecommunications, according to industry hype when 5G first launched in 2019, was going to be all about buzzy applications like mobile augmented reality and autonomous vehicles. But the surprise plot twist came when replacing home cable internet turned into 5G’s most widely adopted new applicati...",
       "url": "https://spectrum.ieee.org/fixed-wireless-access",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 10:00:02 +0000",
-      "collected_at": "2026-06-27T02:06:43.726872"
+      "collected_at": "2026-06-28T02:28:13.554513"
     },
     {
       "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
       "summary": "SummaryRFIC design is a complex “dark art” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications.Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch.Diffusion models rapidly generate novel or huma...",
       "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.726698"
+      "collected_at": "2026-06-28T02:28:13.554334"
     },
     {
       "title": "Make an Origami Circuit Board",
       "summary": "What could you do if you could make a circuit trace by just bending a piece of paper? How about bridging modern technologies and traditional handicrafts while providing opportunities for learning skills in both.As part of our interdisciplinary research into digital craftsmanship at the MEI Lab at th...",
       "url": "https://spectrum.ieee.org/origami-circuit-boards",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 14:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.726318"
+      "collected_at": "2026-06-28T02:28:13.553944"
     },
     {
       "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
       "summary": "When considering the 1960s sitcoms Bewitched and I Dream of Jeannie, both of which featured women with supernatural powers navigating life with mortals, most people wouldn’t connect them with pursuing an engineering career. But Karen Panetta did. The sitcoms’ main characters—Samantha Stevens, a witc...",
       "url": "https://spectrum.ieee.org/ieee-awardee-karen-panetta",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-06-27T02:06:43.726187"
+      "collected_at": "2026-06-28T02:28:13.553809"
     }
   ]
 }
