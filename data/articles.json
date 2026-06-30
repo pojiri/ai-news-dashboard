@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-06-29T02:28:37.083169",
+  "last_updated": "2026-06-30T02:12:06.859248",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-      "summary": "Liquid AI, founded by former MIT computer scientists, today released its smallest AI language model yet, LFM2.5-230M, and enterprises would do well to consider it for their uses in data extraction and local deployment on smartphones, laptops and robotics.This is a 230-million-parameter foundation mo...",
-      "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
-      "date": "最近",
-      "source": "VentureBeat",
-      "category": "💼 ビジネス",
-      "published_date": "Thu, 25 Jun 2026 23:31:00 GMT",
-      "collected_at": "2026-06-29T02:28:34.654916"
-    },
-    {
-      "title": "Most companies think they're building a software factory. They're actually just shipping bugs faster.",
-      "summary": "Industrialized factories changed how the world produced physical goods: more output, lower costs, faster than anything that came before. Now a similar shift is happening with software. LLMs have lowered the barrier to writing code, increased individual output, and pushed organizations to think about...",
-      "url": "https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster",
-      "date": "最近",
-      "source": "VentureBeat",
-      "category": "💼 ビジネス",
-      "published_date": "Fri, 26 Jun 2026 12:00:00 GMT",
-      "collected_at": "2026-06-29T02:28:34.654801"
-    },
     {
       "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
       "summary": "OpenAI is announcing a limited preview of its newest frontier AI model GPT-5.6 family, which comes in three variants: Sol, Terra, and Luna. Sol is for the hardest problems, such as complex coding and security research; Terra is for high-volume business tasks like customer support, internal tools and...",
@@ -31,7 +11,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Fri, 26 Jun 2026 17:00:00 GMT",
-      "collected_at": "2026-06-29T02:28:34.654683"
+      "collected_at": "2026-06-30T02:12:04.023578"
     },
     {
       "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
@@ -41,7 +21,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Fri, 26 Jun 2026 17:32:42 GMT",
-      "collected_at": "2026-06-29T02:28:34.654379"
+      "collected_at": "2026-06-30T02:12:04.023264"
     },
     {
       "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
@@ -51,7 +31,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Fri, 26 Jun 2026 22:58:23 GMT",
-      "collected_at": "2026-06-29T02:28:34.654216"
+      "collected_at": "2026-06-30T02:12:04.023081"
     },
     {
       "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
@@ -61,7 +41,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Sat, 27 Jun 2026 19:30:09 GMT",
-      "collected_at": "2026-06-29T02:28:34.654093"
+      "collected_at": "2026-06-30T02:12:04.022957"
     },
     {
       "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
@@ -71,57 +51,77 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Sun, 28 Jun 2026 18:00:16 GMT",
-      "collected_at": "2026-06-29T02:28:34.653999"
+      "collected_at": "2026-06-30T02:12:04.022874"
     },
     {
-      "title": "Netflix now requires every user profile to be tied to unique email address",
-      "summary": "Update began June 15 and will no longer allow you to share your login info.",
-      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
-      "date": "2日前",
-      "source": "Ars Technica",
-      "category": "⚙️ 技術",
-      "published_date": "Fri, 26 Jun 2026 18:19:58 +0000",
-      "collected_at": "2026-06-29T02:28:33.554304"
+      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+      "summary": "A single fake error report hijacked Claude Code in controlled testing — the agent ran the attacker&#x27;s code with the developer&#x27;s full privileges, and not one alert fired. EDR, WAF, IAM, and the firewall all missed it completely.Tenet Security&#x27;s June agentjacking disclosure describes a s...",
+      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "date": "最近",
+      "source": "VentureBeat",
+      "category": "💼 ビジネス",
+      "published_date": "Mon, 29 Jun 2026 16:53:14 GMT",
+      "collected_at": "2026-06-30T02:12:04.022744"
     },
     {
-      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
-      "summary": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
-      "date": "2日前",
-      "source": "Ars Technica",
-      "category": "⚙️ 技術",
-      "published_date": "Fri, 26 Jun 2026 18:51:04 +0000",
-      "collected_at": "2026-06-29T02:28:33.554269"
+      "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+      "summary": "Even as the geopolitical conversation around AI continues to grow more fraught following the U.S. government&#x27;s actions to limit the new models from Anthropic and OpenAI, Chinese open source darling DeepSeek is back with yet another open release that could once again change AI development around...",
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "date": "最近",
+      "source": "VentureBeat",
+      "category": "💼 ビジネス",
+      "published_date": "Mon, 29 Jun 2026 20:36:15 GMT",
+      "collected_at": "2026-06-30T02:12:04.022532"
     },
     {
-      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-      "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-      "date": "2日前",
+      "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+      "summary": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+      "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+      "date": "7時間前",
       "source": "Ars Technica",
       "category": "⚙️ 技術",
-      "published_date": "Fri, 26 Jun 2026 20:04:55 +0000",
-      "collected_at": "2026-06-29T02:28:33.554233"
+      "published_date": "Mon, 29 Jun 2026 18:21:31 +0000",
+      "collected_at": "2026-06-30T02:12:02.873765"
     },
     {
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "summary": "His doctors went looking for cancer, then they saw the worms' heads.",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "date": "2日前",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "date": "5時間前",
       "source": "Ars Technica",
       "category": "⚙️ 技術",
-      "published_date": "Fri, 26 Jun 2026 21:43:57 +0000",
-      "collected_at": "2026-06-29T02:28:33.554167"
+      "published_date": "Mon, 29 Jun 2026 21:09:43 +0000",
+      "collected_at": "2026-06-30T02:12:02.873663"
     },
     {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "summary": "Half-million strong military will train on drones as “universal combat tool.”",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
-      "date": "2日前",
-      "source": "Ars Technica",
-      "category": "⚙️ 技術",
-      "published_date": "Fri, 26 Jun 2026 22:19:05 +0000",
-      "collected_at": "2026-06-29T02:28:33.554122"
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new v...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "date": "最近",
+      "source": "The Verge",
+      "category": "📱 テック",
+      "published_date": "2026-06-29T12:00:00-04:00",
+      "collected_at": "2026-06-30T02:12:01.682694"
+    },
+    {
+      "title": "WhatsApp is launching usernames: here’s how to reserve yours",
+      "summary": "WhatsApp is introducing a new way to add and chat with contacts, without having to share your phone number. Usernames will launch \"later this year,\" in a move to make the communications platform \"even more private,\" allowing you to keep your phone number concealed from people who aren't already in y...",
+      "url": "https://www.theverge.com/tech/958832/whatsapp-usernames-rollout-reservation-availability",
+      "date": "最近",
+      "source": "The Verge",
+      "category": "📱 テック",
+      "published_date": "2026-06-29T12:00:00-04:00",
+      "collected_at": "2026-06-30T02:12:01.682675"
+    },
+    {
+      "title": "At $499, Apple&#8217;s M3-powered iPad Air is a good deal",
+      "summary": "Most of Apple&#8217;s price increases have gone into effect, resulting in iPads and other products costing hundreds more than they did a few days ago. If last week’s Prime Day sale wasn&#8217;t a good time to consider buying an iPad, we found a deal worth considering that&#8217;s just under $500 rig...",
+      "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
+      "date": "最近",
+      "source": "The Verge",
+      "category": "📱 テック",
+      "published_date": "2026-06-29T13:49:12-04:00",
+      "collected_at": "2026-06-30T02:12:01.682636"
     }
   ]
 }
