@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-07-02T02:08:37.658972",
+  "last_updated": "2026-07-03T01:52:34.071317",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
-      "summary": "For most enterprises, a 90-second training video or a product explainer has never been an easy ask. It means a well planned brief, an internal film crew or an outside vendor, a shoot, an edit, and a round of revisions. Change one line of on-screen text due to a legal review and the whole chain runs ...",
-      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
-      "date": "最近",
-      "source": "VentureBeat",
-      "category": "💼 ビジネス",
-      "published_date": "Tue, 30 Jun 2026 16:19:00 GMT",
-      "collected_at": "2026-07-02T02:08:35.508194"
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
-      "summary": "Anthropic today released Claude Sonnet 5, a new AI model that the company says delivers near-flagship performance at mid-tier prices — a move designed to give cost-conscious enterprise developers access to powerful agentic capabilities just as the San Francisco-based AI lab barrels toward an initial...",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
-      "date": "最近",
-      "source": "VentureBeat",
-      "category": "💼 ビジネス",
-      "published_date": "Tue, 30 Jun 2026 18:00:00 GMT",
-      "collected_at": "2026-07-02T02:08:35.508077"
-    },
-    {
-      "title": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
-      "summary": "Most enterprise AI deployments so far have focused on coding assistants and customer service bots. Morgan Stanley has deployed agents in one of banking&#x27;s most accuracy-critical, deadline-driven workflows instead — profit and loss (P&L) reconciliation — and cut the work in half. The counterintui...",
-      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
-      "date": "最近",
-      "source": "VentureBeat",
-      "category": "💼 ビジネス",
-      "published_date": "Tue, 30 Jun 2026 22:23:41 GMT",
-      "collected_at": "2026-07-02T02:08:35.507896"
-    },
     {
       "title": "Digital resilience compounds when AI and human expertise scale together",
       "summary": "Presented by Splunk Agentic AI is making IT and security teams dramatically more efficient. But it’s also removing the apprenticeship that has long produced experienced operators. As organizations automate more of the work once performed by junior analysts and engineers, they’re confronting a challe...",
@@ -41,7 +11,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Wed, 01 Jul 2026 12:00:00 GMT",
-      "collected_at": "2026-07-02T02:08:35.507791"
+      "collected_at": "2026-07-03T01:52:31.884187"
     },
     {
       "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
@@ -51,7 +21,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Wed, 01 Jul 2026 14:41:22 GMT",
-      "collected_at": "2026-07-02T02:08:35.507678"
+      "collected_at": "2026-07-03T01:52:31.884072"
     },
     {
       "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
@@ -61,7 +31,7 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Wed, 01 Jul 2026 15:51:00 GMT",
-      "collected_at": "2026-07-02T02:08:35.507522"
+      "collected_at": "2026-07-03T01:52:31.883931"
     },
     {
       "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
@@ -71,57 +41,87 @@
       "source": "VentureBeat",
       "category": "💼 ビジネス",
       "published_date": "Wed, 01 Jul 2026 21:50:00 GMT",
-      "collected_at": "2026-07-02T02:08:35.507168"
+      "collected_at": "2026-07-03T01:52:31.883589"
     },
     {
-      "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
-      "summary": "After Trump's claims, Tylenol usage dropped during pregnancies.",
-      "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
-      "date": "15時間前",
+      "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
+      "summary": "Z.ai, the Beijing-based artificial intelligence lab formerly known as Zhipu AI, on Wednesday officially launched ZCode, a free desktop application it describes as an \"Agentic Development Environment\" purpose-built for its flagship GLM-5.2 large language model. The move marks the company&#x27;s most ...",
+      "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "date": "最近",
+      "source": "VentureBeat",
+      "category": "💼 ビジネス",
+      "published_date": "Thu, 02 Jul 2026 10:00:00 GMT",
+      "collected_at": "2026-07-03T01:52:31.883415"
+    },
+    {
+      "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
+      "summary": "As enterprise AI systems scale to handle complex workflows, practitioners face the challenge of routing subtasks to the right tools and skills. Agents can have hundreds of tools and skills and get confused on which one to use for each step of a workflow.To address this challenge, researchers at Alib...",
+      "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
+      "date": "最近",
+      "source": "VentureBeat",
+      "category": "💼 ビジネス",
+      "published_date": "Thu, 02 Jul 2026 20:54:12 GMT",
+      "collected_at": "2026-07-03T01:52:31.883207"
+    },
+    {
+      "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+      "summary": "Two-thirds of enterprises have hedged their AI model strategy, and the past few weeks of controversy around Anthropic’s Claude Fable 5 model showed why that posture has gone mainstream. On June 12, a U.S. export-control order pulled Anthropic&#x27;s Claude Fable 5 — the most capable model on the mar...",
+      "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+      "date": "最近",
+      "source": "VentureBeat",
+      "category": "💼 ビジネス",
+      "published_date": "Fri, 03 Jul 2026 00:33:00 GMT",
+      "collected_at": "2026-07-03T01:52:31.883062"
+    },
+    {
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+      "date": "1日前",
       "source": "Ars Technica",
       "category": "⚙️ 技術",
-      "published_date": "Wed, 01 Jul 2026 11:01:38 +0000",
-      "collected_at": "2026-07-02T02:08:34.292955"
+      "published_date": "Wed, 01 Jul 2026 19:57:36 +0000",
+      "collected_at": "2026-07-03T01:52:30.680562"
     },
     {
-      "title": "A space history mystery: What happened to the Viking arm used 50 years ago?",
-      "summary": "A timely tale about a 50-year-old robotic arm...",
-      "url": "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
+      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
+      "date": "14時間前",
+      "source": "Ars Technica",
+      "category": "⚙️ 技術",
+      "published_date": "Thu, 02 Jul 2026 11:15:49 +0000",
+      "collected_at": "2026-07-03T01:52:30.680504"
+    },
+    {
+      "title": "Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC",
+      "summary": "FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
+      "date": "11時間前",
+      "source": "Ars Technica",
+      "category": "⚙️ 技術",
+      "published_date": "Thu, 02 Jul 2026 14:39:17 +0000",
+      "collected_at": "2026-07-03T01:52:30.680443"
+    },
+    {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
+      "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
       "date": "10時間前",
       "source": "Ars Technica",
       "category": "⚙️ 技術",
-      "published_date": "Wed, 01 Jul 2026 15:20:34 +0000",
-      "collected_at": "2026-07-02T02:08:34.292913"
+      "published_date": "Thu, 02 Jul 2026 15:12:25 +0000",
+      "collected_at": "2026-07-03T01:52:30.680403"
     },
     {
-      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-      "summary": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-      "date": "9時間前",
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
+      "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "date": "8時間前",
       "source": "Ars Technica",
       "category": "⚙️ 技術",
-      "published_date": "Wed, 01 Jul 2026 16:44:18 +0000",
-      "collected_at": "2026-07-02T02:08:34.292867"
-    },
-    {
-      "title": "Ithaca's king defies the gods in final The Odyssey trailer",
-      "summary": "\"You gods don't speak in ways we understand.\"",
-      "url": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
-      "date": "9時間前",
-      "source": "Ars Technica",
-      "category": "⚙️ 技術",
-      "published_date": "Wed, 01 Jul 2026 16:58:30 +0000",
-      "collected_at": "2026-07-02T02:08:34.292836"
-    },
-    {
-      "title": "Superworms could replace beetles for cleaning skeletal remains",
-      "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
-      "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-      "date": "7時間前",
-      "source": "Ars Technica",
-      "category": "⚙️ 技術",
-      "published_date": "Wed, 01 Jul 2026 18:59:21 +0000",
-      "collected_at": "2026-07-02T02:08:34.292779"
+      "published_date": "Thu, 02 Jul 2026 17:29:37 +0000",
+      "collected_at": "2026-07-03T01:52:30.680296"
     }
   ]
 }
