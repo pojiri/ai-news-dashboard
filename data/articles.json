@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T01:59:04.561597",
+  "last_updated": "2026-07-06T02:05:02.271442",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 14:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.559312"
+      "collected_at": "2026-07-06T02:05:01.268967"
     },
     {
       "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.559138"
+      "collected_at": "2026-07-06T02:05:01.268830"
     },
     {
       "title": "What it Means to Be a Mathematician When AI Does the Math",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 25 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.558898"
+      "collected_at": "2026-07-06T02:05:01.268612"
     },
     {
       "title": "Why Does a Bank Need a Chief Scientist?",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 25 Jun 2026 17:32:32 +0000",
-      "collected_at": "2026-07-05T01:59:03.558549"
+      "collected_at": "2026-07-06T02:05:01.268234"
     },
     {
       "title": "This Senior Member Solves Complex Product Lifecycle Challenges",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.558384"
+      "collected_at": "2026-07-06T02:05:01.268068"
     },
     {
       "title": "How America Engineered Its Independence",
       "summary": "In 1839, J.M.W. Turner painted The Fighting Temeraire. The old warship, once a hero of the Battle of Trafalgar in 1805, glides like a ghost across the canvas, towed by a small steam tug belching smoke on its final voyage to the ship-breakers. The image shows a clear moment of change: sail giving way...",
       "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 11:00:02 +0000",
-      "collected_at": "2026-07-05T01:59:03.558176"
+      "collected_at": "2026-07-06T02:05:01.267856"
     },
     {
       "title": "The Lab Mistake That Might Revolutionize Computing",
       "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But...",
       "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.558069"
+      "collected_at": "2026-07-06T02:05:01.267750"
     },
     {
       "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
       "summary": "He was born into a storm, lightning split the summer sky, in avillage the world had not yet heard of.The midwife called it a bad omen, his mother called it a sign. Your firstlife began in a storm, under open sky.One winter night you ran your hand along a cat’s back, and thedarkness cracked open with...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 12:24:33 +0000",
-      "collected_at": "2026-07-05T01:59:03.557819"
+      "collected_at": "2026-07-06T02:05:01.267523"
     },
     {
       "title": "The History and Mystery of Fireworks",
       "summary": "In the 1970s, American Fireworks, a family-run pyrotechnics company in Hudson, Ohio, used a “home run box” to offer quick and easy fireworks displays for the Cleveland Indians (now the Cleveland Guardians) baseball games.The red wooden crate had metal silos to store the rockets. Each switch on the c...",
       "url": "https://spectrum.ieee.org/history-of-fireworks",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-07-05T01:59:03.557746"
+      "collected_at": "2026-07-06T02:05:01.267447"
     },
     {
       "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
       "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the F...",
       "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-05T01:59:03.557577"
+      "collected_at": "2026-07-06T02:05:01.267258"
     },
     {
       "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
       "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driv...",
       "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 16:01:27 +0000",
-      "collected_at": "2026-07-05T01:59:03.557453"
+      "collected_at": "2026-07-06T02:05:01.267134"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
       "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including Products That Count’s strategic product management, Women in...",
       "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-05T01:59:03.557246"
+      "collected_at": "2026-07-06T02:05:01.266934"
     }
   ]
 }
