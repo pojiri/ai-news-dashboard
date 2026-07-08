@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T02:00:27.576773",
+  "last_updated": "2026-07-08T01:30:00.203178",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 24 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-07T02:00:26.574304"
+      "collected_at": "2026-07-08T01:29:59.200689"
     },
     {
       "title": "What it Means to Be a Mathematician When AI Does the Math",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 25 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-07T02:00:26.574087"
+      "collected_at": "2026-07-08T01:29:59.200469"
     },
     {
       "title": "Why Does a Bank Need a Chief Scientist?",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 25 Jun 2026 17:32:32 +0000",
-      "collected_at": "2026-07-07T02:00:26.573734"
+      "collected_at": "2026-07-08T01:29:59.200097"
     },
     {
       "title": "This Senior Member Solves Complex Product Lifecycle Challenges",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-07T02:00:26.573567"
+      "collected_at": "2026-07-08T01:29:59.199908"
     },
     {
       "title": "How America Engineered Its Independence",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 11:00:02 +0000",
-      "collected_at": "2026-07-07T02:00:26.573340"
+      "collected_at": "2026-07-08T01:29:59.199701"
     },
     {
       "title": "The Lab Mistake That Might Revolutionize Computing",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-07T02:00:26.573226"
+      "collected_at": "2026-07-08T01:29:59.199591"
     },
     {
       "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
       "summary": "He was born into a storm, lightning split the summer sky, in avillage the world had not yet heard of.The midwife called it a bad omen, his mother called it a sign. Your firstlife began in a storm, under open sky.One winter night you ran your hand along a cat’s back, and thedarkness cracked open with...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
-      "date": "6日前",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 12:24:33 +0000",
-      "collected_at": "2026-07-07T02:00:26.572983"
+      "collected_at": "2026-07-08T01:29:59.199347"
     },
     {
       "title": "The History and Mystery of Fireworks",
       "summary": "In the 1970s, American Fireworks, a family-run pyrotechnics company in Hudson, Ohio, used a “home run box” to offer quick and easy fireworks displays for the Cleveland Indians (now the Cleveland Guardians) baseball games.The red wooden crate had metal silos to store the rockets. Each switch on the c...",
       "url": "https://spectrum.ieee.org/history-of-fireworks",
-      "date": "6日前",
+      "date": "06月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-07-07T02:00:26.572910"
+      "collected_at": "2026-07-08T01:29:59.199273"
     },
     {
       "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
       "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the F...",
       "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-07T02:00:26.572743"
+      "collected_at": "2026-07-08T01:29:59.199088"
     },
     {
       "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
       "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driv...",
       "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 16:01:27 +0000",
-      "collected_at": "2026-07-07T02:00:26.572618"
+      "collected_at": "2026-07-08T01:29:59.198949"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
       "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including Products That Count’s strategic product management, Women in...",
       "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-07T02:00:26.572391"
+      "collected_at": "2026-07-08T01:29:59.198742"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!You want to become a senior developer. A CTO, maybe....",
       "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:15:02 +0000",
-      "collected_at": "2026-07-07T02:00:26.572241"
+      "collected_at": "2026-07-08T01:29:59.198591"
     }
   ]
 }
