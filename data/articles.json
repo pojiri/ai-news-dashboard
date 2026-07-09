@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-07-08T01:30:00.203178",
+  "last_updated": "2026-07-09T01:52:09.381940",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How IEEE Awardee Karen Panetta Became Bewitched by Engineering",
-      "summary": "When considering the 1960s sitcoms Bewitched and I Dream of Jeannie, both of which featured women with supernatural powers navigating life with mortals, most people wouldn’t connect them with pursuing an engineering career. But Karen Panetta did. The sitcoms’ main characters—Samantha Stevens, a witc...",
-      "url": "https://spectrum.ieee.org/ieee-awardee-karen-panetta",
-      "date": "06月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 24 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-08T01:29:59.200689"
-    },
-    {
-      "title": "What it Means to Be a Mathematician When AI Does the Math",
-      "summary": "In the mid-noughties, when music by the Killers and Franz Ferdinand blared out of every pub and nightclub I passed, I spent my days and nights struggling through a Ph.D. in applied mathematics. My research focused on simulating how special light waves interact in liquid crystals and using simple equ...",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "date": "06月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-08T01:29:59.200469"
-    },
-    {
-      "title": "Why Does a Bank Need a Chief Scientist?",
-      "summary": "This article is brought to you by Capital One.After five years leading natural language understanding and eventually the entire Alexa AI organization at Amazon, Prem Natarajan made a nontraditional move: He became Chief Scientist at a bank. Not just any bank: Capital One, a financial institution ser...",
-      "url": "https://spectrum.ieee.org/capital-one-science-ai-finance-innovation",
-      "date": "06月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 25 Jun 2026 17:32:32 +0000",
-      "collected_at": "2026-07-08T01:29:59.200097"
-    },
     {
       "title": "This Senior Member Solves Complex Product Lifecycle Challenges",
       "summary": "What do an instinct to fix things and the 1999 global panic over whether computers would survive the date change to 2000, known as the Y2K bug, have in common? Both helped shape IEEE Senior Member Ajay Prasad’s career.Prasad is an industry process director at Dassault Systèmes in Detroit. His focus ...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 26 Jun 2026 18:00:01 +0000",
-      "collected_at": "2026-07-08T01:29:59.199908"
+      "collected_at": "2026-07-09T01:52:08.379501"
     },
     {
       "title": "How America Engineered Its Independence",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 11:00:02 +0000",
-      "collected_at": "2026-07-08T01:29:59.199701"
+      "collected_at": "2026-07-09T01:52:08.379301"
     },
     {
       "title": "The Lab Mistake That Might Revolutionize Computing",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-08T01:29:59.199591"
+      "collected_at": "2026-07-09T01:52:08.379188"
     },
     {
       "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 12:24:33 +0000",
-      "collected_at": "2026-07-08T01:29:59.199347"
+      "collected_at": "2026-07-09T01:52:08.378955"
     },
     {
       "title": "The History and Mystery of Fireworks",
@@ -81,47 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-07-08T01:29:59.199273"
+      "collected_at": "2026-07-09T01:52:08.378872"
     },
     {
       "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
       "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the F...",
       "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "date": "6日前",
+      "date": "07月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-08T01:29:59.199088"
+      "collected_at": "2026-07-09T01:52:08.378685"
     },
     {
       "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
       "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driv...",
       "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-      "date": "6日前",
+      "date": "07月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 16:01:27 +0000",
-      "collected_at": "2026-07-08T01:29:59.198949"
+      "collected_at": "2026-07-09T01:52:08.378558"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
       "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including Products That Count’s strategic product management, Women in...",
       "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
-      "date": "6日前",
+      "date": "07月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-08T01:29:59.198742"
+      "collected_at": "2026-07-09T01:52:08.378352"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!You want to become a senior developer. A CTO, maybe....",
       "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
-      "date": "6日前",
+      "date": "07月01日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:15:02 +0000",
-      "collected_at": "2026-07-08T01:29:59.198591"
+      "collected_at": "2026-07-09T01:52:08.378196"
+    },
+    {
+      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+      "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption with...",
+      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 03 Jul 2026 12:00:01 +0000",
+      "collected_at": "2026-07-09T01:52:08.378083"
+    },
+    {
+      "title": "IEEE’s Global Museum Brings Engineering History to You",
+      "summary": "Many IEEE members who collect historical engineering artifacts often offer them to the IEEE History and Heritage group, which includes the IEEE History Center, to display. To bring these artifacts to the public, the group created the IEEE Global Museum, which curates traveling exhibits for display a...",
+      "url": "https://spectrum.ieee.org/ieees-global-museum-engineering-history",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 03 Jul 2026 18:00:02 +0000",
+      "collected_at": "2026-07-09T01:52:08.377939"
+    },
+    {
+      "title": "VHF Propagation: What Every RF Engineer Should Know",
+      "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering the physics, range implications, and real-world behaviors engineers need to understand.What Attendees will Learn1. Why “line of sight” fails as a practical VHF planning model.2. How refraction, reflection, diffracti...",
+      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 06 Jul 2026 13:54:01 +0000",
+      "collected_at": "2026-07-09T01:52:08.377740"
     }
   ]
 }
