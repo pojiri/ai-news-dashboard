@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:29:44.948438",
+  "last_updated": "2026-07-12T01:42:22.430807",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-11T01:29:43.946481"
+      "collected_at": "2026-07-12T01:42:21.428397"
     },
     {
       "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 12:24:33 +0000",
-      "collected_at": "2026-07-11T01:29:43.946357"
+      "collected_at": "2026-07-12T01:42:21.428162"
     },
     {
       "title": "The History and Mystery of Fireworks",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 30 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-07-11T01:29:43.946319"
+      "collected_at": "2026-07-12T01:42:21.428094"
     },
     {
       "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-11T01:29:43.946228"
+      "collected_at": "2026-07-12T01:42:21.427928"
     },
     {
       "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 16:01:27 +0000",
-      "collected_at": "2026-07-11T01:29:43.946162"
+      "collected_at": "2026-07-12T01:42:21.427804"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-11T01:29:43.946053"
+      "collected_at": "2026-07-12T01:42:21.427603"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:15:02 +0000",
-      "collected_at": "2026-07-11T01:29:43.945971"
+      "collected_at": "2026-07-12T01:42:21.427441"
     },
     {
       "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-11T01:29:43.945915"
+      "collected_at": "2026-07-12T01:42:21.427339"
     },
     {
       "title": "IEEE’s Global Museum Brings Engineering History to You",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-11T01:29:43.945837"
+      "collected_at": "2026-07-12T01:42:21.427190"
     },
     {
       "title": "VHF Propagation: What Every RF Engineer Should Know",
       "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering the physics, range implications, and real-world behaviors engineers need to understand.What Attendees will Learn1. Why “line of sight” fails as a practical VHF planning model.2. How refraction, reflection, diffracti...",
       "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 06 Jul 2026 13:54:01 +0000",
-      "collected_at": "2026-07-11T01:29:43.945731"
+      "collected_at": "2026-07-12T01:42:21.426999"
     },
     {
       "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
       "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical robotic...",
       "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Jul 2026 19:02:42 +0000",
-      "collected_at": "2026-07-11T01:29:43.945704"
+      "collected_at": "2026-07-12T01:42:21.426951"
     },
     {
       "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
       "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was fitted to a trailer supplied by the Amsterdam-based TIP Group. The self-powered trail...",
       "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 17:58:34 +0000",
-      "collected_at": "2026-07-11T01:29:43.945579"
+      "collected_at": "2026-07-12T01:42:21.426725"
     }
   ]
 }
