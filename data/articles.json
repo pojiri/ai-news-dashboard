@@ -1,48 +1,8 @@
 {
-  "last_updated": "2026-07-13T01:46:41.869219",
+  "last_updated": "2026-07-14T01:21:46.208650",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "The Lab Mistake That Might Revolutionize Computing",
-      "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But...",
-      "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
-      "date": "06月29日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 29 Jun 2026 13:00:01 +0000",
-      "collected_at": "2026-07-13T01:46:40.866899"
-    },
-    {
-      "title": "Poetry for Engineers: Nine Lives of Nikola Tesla",
-      "summary": "He was born into a storm, lightning split the summer sky, in avillage the world had not yet heard of.The midwife called it a bad omen, his mother called it a sign. Your firstlife began in a storm, under open sky.One winter night you ran your hand along a cat’s back, and thedarkness cracked open with...",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-nine-lives-of-nikola-tesla",
-      "date": "06月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 30 Jun 2026 12:24:33 +0000",
-      "collected_at": "2026-07-13T01:46:40.866657"
-    },
-    {
-      "title": "The History and Mystery of Fireworks",
-      "summary": "In the 1970s, American Fireworks, a family-run pyrotechnics company in Hudson, Ohio, used a “home run box” to offer quick and easy fireworks displays for the Cleveland Indians (now the Cleveland Guardians) baseball games.The red wooden crate had metal silos to store the rockets. Each switch on the c...",
-      "url": "https://spectrum.ieee.org/history-of-fireworks",
-      "date": "06月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 30 Jun 2026 13:00:02 +0000",
-      "collected_at": "2026-07-13T01:46:40.866575"
-    },
-    {
-      "title": "The Space-based Data Center Hype Machine Is Already in Orbit",
-      "summary": "“The lowest-cost place to put AI will be in space, and that will be true within two years, maybe three at the latest,” SpaceX founder Elon Musk told the World Economic Forum in Davos this past January, as his company was preparing to go public.Later that month, SpaceX filed an application with the F...",
-      "url": "https://spectrum.ieee.org/orbital-data-center-hype",
-      "date": "07月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 01 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-13T01:46:40.866404"
-    },
     {
       "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
       "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia.As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy.From hyperscale data centers to electrified industries, AI is driv...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 16:01:27 +0000",
-      "collected_at": "2026-07-13T01:46:40.866277"
+      "collected_at": "2026-07-14T01:21:45.207023"
     },
     {
       "title": "Why Mentorship Is the Most Underrated Leadership Skill",
@@ -61,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-13T01:46:40.866069"
+      "collected_at": "2026-07-14T01:21:45.206823"
     },
     {
       "title": "Why Public Speaking Skills Are Worth Investing In",
@@ -71,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 01 Jul 2026 18:15:02 +0000",
-      "collected_at": "2026-07-13T01:46:40.865914"
+      "collected_at": "2026-07-14T01:21:45.206671"
     },
     {
       "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
@@ -81,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-13T01:46:40.865810"
+      "collected_at": "2026-07-14T01:21:45.206565"
     },
     {
       "title": "IEEE’s Global Museum Brings Engineering History to You",
@@ -91,37 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-13T01:46:40.865658"
-    },
-    {
-      "title": "VHF Propagation: What Every RF Engineer Should Know",
-      "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering the physics, range implications, and real-world behaviors engineers need to understand.What Attendees will Learn1. Why “line of sight” fails as a practical VHF planning model.2. How refraction, reflection, diffracti...",
-      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-      "date": "6日前",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 06 Jul 2026 13:54:01 +0000",
-      "collected_at": "2026-07-13T01:46:40.865447"
+      "collected_at": "2026-07-14T01:21:45.206417"
     },
     {
       "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
       "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books on the field. He’s an influential figure thanks to his pioneering work developing biomedical robotic...",
       "url": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Jul 2026 19:02:42 +0000",
-      "collected_at": "2026-07-13T01:46:40.865399"
+      "collected_at": "2026-07-14T01:21:45.206147"
     },
     {
       "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
       "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was fitted to a trailer supplied by the Amsterdam-based TIP Group. The self-powered trail...",
       "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 17:58:34 +0000",
-      "collected_at": "2026-07-13T01:46:40.865168"
+      "collected_at": "2026-07-14T01:21:45.205929"
+    },
+    {
+      "title": "STEM Needs Leaders From Every Generation at the Table",
+      "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this environment, leadership can no longer be approached as an individual pursuit.Instead, l...",
+      "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 08 Jul 2026 18:00:01 +0000",
+      "collected_at": "2026-07-14T01:21:45.205744"
+    },
+    {
+      "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
+      "summary": "The computing community recently lost one of its enduring voices: IEEE Fellow Peter G. Neumann. The renowned computer scientist and respected risk analyst died on 17 May at the age of 93.For almost 70 years, Neumann shaped the computing field through his pioneering work on risks, system dependabilit...",
+      "url": "https://spectrum.ieee.org/ieee-remembers-peter-g-neumann",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 10 Jul 2026 18:00:01 +0000",
+      "collected_at": "2026-07-14T01:21:45.205573"
+    },
+    {
+      "title": "VHF Propagation: What Every RF Engineer Should Know",
+      "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering thephysics, range implications, and real-world behaviors engineers need to understand.What Attendees will LearnWhy “line of sight” fails as a practical VHF planning model.How refraction, reflection, diffraction, and...",
+      "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
+      "date": "15時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 13 Jul 2026 10:00:01 +0000",
+      "collected_at": "2026-07-14T01:21:45.205411"
+    },
+    {
+      "title": "Building a Foundation Stack for General-Purpose Robots",
+      "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and c...",
+      "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+      "date": "15時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 13 Jul 2026 10:19:51 +0000",
+      "collected_at": "2026-07-14T01:21:45.205350"
+    },
+    {
+      "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
+      "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine years later, the mobile-device maker offloaded its entire handset division to Mi...",
+      "url": "https://spectrum.ieee.org/nokia-phones-history",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 13 Jul 2026 13:00:01 +0000",
+      "collected_at": "2026-07-14T01:21:45.205051"
     }
   ]
 }
