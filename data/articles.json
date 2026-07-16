@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-07-15T01:18:21.625446",
+  "last_updated": "2026-07-16T01:28:30.323387",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Why Mentorship Is the Most Underrated Leadership Skill",
-      "summary": "I started my professional journey as an engineer before moving into product strategy and innovation leadership roles for several global technology organizations. Over the years, I have served as a mentor for a variety of programs including Products That Count’s strategic product management, Women in...",
-      "url": "https://spectrum.ieee.org/mentorship-is-an-underrated-leadership-skill",
-      "date": "07月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 01 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-15T01:18:20.623221"
-    },
-    {
-      "title": "Why Public Speaking Skills Are Worth Investing In",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!You want to become a senior developer. A CTO, maybe....",
-      "url": "https://spectrum.ieee.org/improve-public-speaking-skills",
-      "date": "07月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 01 Jul 2026 18:15:02 +0000",
-      "collected_at": "2026-07-15T01:18:20.623079"
-    },
-    {
-      "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-      "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption with...",
-      "url": "https://spectrum.ieee.org/data-centers-grid-instability",
-      "date": "07月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 03 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-15T01:18:20.622980"
-    },
     {
       "title": "IEEE’s Global Museum Brings Engineering History to You",
       "summary": "Many IEEE members who collect historical engineering artifacts often offer them to the IEEE History and Heritage group, which includes the IEEE History Center, to display. To bring these artifacts to the public, the group created the IEEE Global Museum, which curates traveling exhibits for display a...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 03 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-15T01:18:20.622843"
+      "collected_at": "2026-07-16T01:28:29.320951"
     },
     {
       "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
@@ -51,77 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Jul 2026 19:02:42 +0000",
-      "collected_at": "2026-07-15T01:18:20.622573"
+      "collected_at": "2026-07-16T01:28:29.320687"
     },
     {
       "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
       "summary": "A semitrailer that helps propel itself entered commercial road testing in late May, when a power-train kit developed by Nivalis Energy Europe, headquartered in Luxembourg with engineering operations in Germany, was fitted to a trailer supplied by the Amsterdam-based TIP Group. The self-powered trail...",
       "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "date": "6日前",
+      "date": "07月08日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 17:58:34 +0000",
-      "collected_at": "2026-07-15T01:18:20.622346"
+      "collected_at": "2026-07-16T01:28:29.320460"
     },
     {
       "title": "STEM Needs Leaders From Every Generation at the Table",
       "summary": "Working in isolation, especially for leaders, is rapidly becoming an outmoded idea. The modern era is defined by rapid technological advancements and increasingly complex, collaborative global challenges. In this environment, leadership can no longer be approached as an individual pursuit.Instead, l...",
       "url": "https://spectrum.ieee.org/stem-leaders-ieee-ilc",
-      "date": "6日前",
+      "date": "07月08日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-15T01:18:20.622169"
+      "collected_at": "2026-07-16T01:28:29.320270"
     },
     {
       "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
       "summary": "The computing community recently lost one of its enduring voices: IEEE Fellow Peter G. Neumann. The renowned computer scientist and respected risk analyst died on 17 May at the age of 93.For almost 70 years, Neumann shaped the computing field through his pioneering work on risks, system dependabilit...",
       "url": "https://spectrum.ieee.org/ieee-remembers-peter-g-neumann",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-15T01:18:20.622002"
+      "collected_at": "2026-07-16T01:28:29.320088"
     },
     {
       "title": "VHF Propagation: What Every RF Engineer Should Know",
       "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering thephysics, range implications, and real-world behaviors engineers need to understand.What Attendees will LearnWhy “line of sight” fails as a practical VHF planning model.How refraction, reflection, diffraction, and...",
       "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 10:00:01 +0000",
-      "collected_at": "2026-07-15T01:18:20.621843"
+      "collected_at": "2026-07-16T01:28:29.319927"
     },
     {
       "title": "Building a Foundation Stack for General-Purpose Robots",
       "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and c...",
       "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 10:19:51 +0000",
-      "collected_at": "2026-07-15T01:18:20.621793"
+      "collected_at": "2026-07-16T01:28:29.319871"
     },
     {
       "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
       "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine years later, the mobile-device maker offloaded its entire handset division to Mi...",
       "url": "https://spectrum.ieee.org/nokia-phones-history",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-15T01:18:20.621517"
+      "collected_at": "2026-07-16T01:28:29.319585"
     },
     {
       "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
       "summary": "If you grew up in the 1980s or ’90s, you likely remember shaky home video footage, taken with a handheld camcorder, of family gatherings, vacations, and other events.Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap...",
       "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-15T01:18:20.621159"
+      "collected_at": "2026-07-16T01:28:29.319232"
+    },
+    {
+      "title": "How I Turned AI to the Dark Side",
+      "summary": "Summary  Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc...",
+      "url": "https://spectrum.ieee.org/jailbreaking-llms",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 14 Jul 2026 15:59:35 +0000",
+      "collected_at": "2026-07-16T01:28:29.319046"
+    },
+    {
+      "title": "The First Chatbot’s Multiple Personalities",
+      "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera...",
+      "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
+      "date": "9時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Jul 2026 15:35:53 +0000",
+      "collected_at": "2026-07-16T01:28:29.318675"
+    },
+    {
+      "title": "When Career Risks Are Worth Taking",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Before we get into this week’s article, I’d love to ...",
+      "url": "https://spectrum.ieee.org/career-risks",
+      "date": "5時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 15 Jul 2026 19:52:41 +0000",
+      "collected_at": "2026-07-16T01:28:29.318363"
     }
   ]
 }
