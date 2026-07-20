@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T01:29:17.344723",
+  "last_updated": "2026-07-20T03:14:54.329461",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 07 Jul 2026 19:02:42 +0000",
-      "collected_at": "2026-07-19T01:29:16.342135"
+      "collected_at": "2026-07-20T03:14:53.327210"
     },
     {
       "title": "Inside the Race to Electrify Semitrailers for Long-Haul Freight",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 17:58:34 +0000",
-      "collected_at": "2026-07-19T01:29:16.341909"
+      "collected_at": "2026-07-20T03:14:53.326986"
     },
     {
       "title": "STEM Needs Leaders From Every Generation at the Table",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 08 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-19T01:29:16.341720"
+      "collected_at": "2026-07-20T03:14:53.326801"
     },
     {
       "title": "IEEE Remembers Pioneering Computer Scientist Peter G. Neumann",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 10 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-19T01:29:16.341543"
+      "collected_at": "2026-07-20T03:14:53.326623"
     },
     {
       "title": "VHF Propagation: What Every RF Engineer Should Know",
       "summary": "A practical educational guide to common and uncommon VHF propagation modes, covering thephysics, range implications, and real-world behaviors engineers need to understand.What Attendees will LearnWhy “line of sight” fails as a practical VHF planning model.How refraction, reflection, diffraction, and...",
       "url": "https://content.knowledgehub.wiley.com/understanding-vhf-very-high-frequency-propagation/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 10:00:01 +0000",
-      "collected_at": "2026-07-19T01:29:16.341370"
+      "collected_at": "2026-07-20T03:14:53.326449"
     },
     {
       "title": "Building a Foundation Stack for General-Purpose Robots",
       "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and c...",
       "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 10:19:51 +0000",
-      "collected_at": "2026-07-19T01:29:16.341314"
+      "collected_at": "2026-07-20T03:14:53.326378"
     },
     {
       "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
       "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine years later, the mobile-device maker offloaded its entire handset division to Mi...",
       "url": "https://spectrum.ieee.org/nokia-phones-history",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-19T01:29:16.341032"
+      "collected_at": "2026-07-20T03:14:53.326004"
     },
     {
       "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
       "summary": "If you grew up in the 1980s or ’90s, you likely remember shaky home video footage, taken with a handheld camcorder, of family gatherings, vacations, and other events.Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap...",
       "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-19T01:29:16.340674"
+      "collected_at": "2026-07-20T03:14:53.325654"
     },
     {
       "title": "How I Turned AI to the Dark Side",
       "summary": "Summary  Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc...",
       "url": "https://spectrum.ieee.org/jailbreaking-llms",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Jul 2026 15:59:35 +0000",
-      "collected_at": "2026-07-19T01:29:16.340490"
+      "collected_at": "2026-07-20T03:14:53.325468"
     },
     {
       "title": "The First Chatbot’s Multiple Personalities",
       "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera...",
       "url": "https://spectrum.ieee.org/eliza-chatbot-source-code",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 15:35:53 +0000",
-      "collected_at": "2026-07-19T01:29:16.340116"
+      "collected_at": "2026-07-20T03:14:53.325102"
     },
     {
       "title": "When Career Risks Are Worth Taking",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Before we get into this week’s article, I’d love to ...",
       "url": "https://spectrum.ieee.org/career-risks",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 19:52:41 +0000",
-      "collected_at": "2026-07-19T01:29:16.339812"
+      "collected_at": "2026-07-20T03:14:53.324804"
     },
     {
       "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
       "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c...",
       "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-19T01:29:16.339675"
+      "collected_at": "2026-07-20T03:14:53.324670"
     }
   ]
 }
