@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-07-27T01:52:32.738232",
+  "last_updated": "2026-07-28T01:27:26.751750",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon",
-      "summary": "In 2005, Nokia sold its billionth mobile phone, a budget-friendly device that went to a customer in Nigeria. By then, the company, based in Espoo, Finland, was making one of every three cellphones globally.But just nine years later, the mobile-device maker offloaded its entire handset division to Mi...",
-      "url": "https://spectrum.ieee.org/nokia-phones-history",
-      "date": "07月13日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 13 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-27T01:52:31.735853"
-    },
     {
       "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
       "summary": "If you grew up in the 1980s or ’90s, you likely remember shaky home video footage, taken with a handheld camcorder, of family gatherings, vacations, and other events.Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 13 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-27T01:52:31.735482"
+      "collected_at": "2026-07-28T01:27:25.749423"
     },
     {
       "title": "How I Turned AI to the Dark Side",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 14 Jul 2026 15:59:35 +0000",
-      "collected_at": "2026-07-27T01:52:31.735304"
+      "collected_at": "2026-07-28T01:27:25.749250"
     },
     {
       "title": "The First Chatbot’s Multiple Personalities",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 15:35:53 +0000",
-      "collected_at": "2026-07-27T01:52:31.734956"
+      "collected_at": "2026-07-28T01:27:25.748909"
     },
     {
       "title": "When Career Risks Are Worth Taking",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 19:52:41 +0000",
-      "collected_at": "2026-07-27T01:52:31.734637"
+      "collected_at": "2026-07-28T01:27:25.748588"
     },
     {
       "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-27T01:52:31.734499"
+      "collected_at": "2026-07-28T01:27:25.748452"
     },
     {
       "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
@@ -71,57 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-27T01:52:31.734315"
+      "collected_at": "2026-07-28T01:27:25.748272"
     },
     {
       "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
       "summary": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits nearby. From the 13th century, the site served as the Royal Mews for hawks and the...",
       "url": "https://spectrum.ieee.org/led-light-pollution",
-      "date": "6日前",
+      "date": "07月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-27T01:52:31.734095"
+      "collected_at": "2026-07-28T01:27:25.748061"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
       "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
       "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-      "date": "6日前",
+      "date": "07月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 15:55:00 +0000",
-      "collected_at": "2026-07-27T01:52:31.733755"
+      "collected_at": "2026-07-28T01:27:25.747713"
     },
     {
       "title": "IEEE Program Helps Girls In India See a Future In STEM",
       "summary": "Roughly half the world’s population is female, but the STEM fields don’t reflect that. The 2024 U.N. Global Education Monitoring Report on gender found that about 35 percent of STEM college graduates were women. The proportion hasn’t increased much in more than a decade.When it comes to STEM careers...",
       "url": "https://spectrum.ieee.org/ieee-program-girls-india-stem",
-      "date": "6日前",
+      "date": "07月20日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-27T01:52:31.733692"
+      "collected_at": "2026-07-28T01:27:25.747641"
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
       "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and anot...",
       "url": "https://spectrum.ieee.org/ai-agent-benchmark",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Jul 2026 17:41:11 +0000",
-      "collected_at": "2026-07-27T01:52:31.733490"
+      "collected_at": "2026-07-28T01:27:25.747434"
     },
     {
       "title": "The Computer That Helped Win World War II",
       "summary": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “...",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-27T01:52:31.733294"
+      "collected_at": "2026-07-28T01:27:25.747228"
+    },
+    {
+      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
+      "summary": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconduct...",
+      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 24 Jul 2026 18:00:01 +0000",
+      "collected_at": "2026-07-28T01:27:25.746998"
     }
   ]
 }
