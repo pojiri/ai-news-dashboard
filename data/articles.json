@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-07-28T01:27:26.751750",
+  "last_updated": "2026-07-29T01:28:05.669647",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Panasonic’s PV-460 Camcorder Stabilized Shaky Videos",
-      "summary": "If you grew up in the 1980s or ’90s, you likely remember shaky home video footage, taken with a handheld camcorder, of family gatherings, vacations, and other events.Camcorders combined a camera with a video recorder. They included a rechargeable battery, a slot for a videotape, and a shoulder strap...",
-      "url": "https://spectrum.ieee.org/panasonic-camcorder-ieee-milstone",
-      "date": "07月13日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 13 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-28T01:27:25.749423"
-    },
-    {
-      "title": "How I Turned AI to the Dark Side",
-      "summary": "Summary  Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions. These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparenc...",
-      "url": "https://spectrum.ieee.org/jailbreaking-llms",
-      "date": "07月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 14 Jul 2026 15:59:35 +0000",
-      "collected_at": "2026-07-28T01:27:25.749250"
-    },
     {
       "title": "The First Chatbot’s Multiple Personalities",
       "summary": "ELIZA is remembered as the world’s first AI star, a kindly therapist in chatbot form that gently probed users’ worries. Even its creator, Joseph Weizenbaum, was surprised by the warm reception given to his experiment in human-machine interaction. For some, it heralded an age of automated psychothera...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 15:35:53 +0000",
-      "collected_at": "2026-07-28T01:27:25.748909"
+      "collected_at": "2026-07-29T01:28:04.667166"
     },
     {
       "title": "When Career Risks Are Worth Taking",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 15 Jul 2026 19:52:41 +0000",
-      "collected_at": "2026-07-28T01:27:25.748588"
+      "collected_at": "2026-07-29T01:28:04.666863"
     },
     {
       "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 16 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-28T01:27:25.748452"
+      "collected_at": "2026-07-29T01:28:04.666705"
     },
     {
       "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 17 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-28T01:27:25.748272"
+      "collected_at": "2026-07-29T01:28:04.666526"
     },
     {
       "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-28T01:27:25.748061"
+      "collected_at": "2026-07-29T01:28:04.666296"
     },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 15:55:00 +0000",
-      "collected_at": "2026-07-28T01:27:25.747713"
+      "collected_at": "2026-07-29T01:28:04.665975"
     },
     {
       "title": "IEEE Program Helps Girls In India See a Future In STEM",
@@ -91,37 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-28T01:27:25.747641"
+      "collected_at": "2026-07-29T01:28:04.665908"
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
       "summary": "Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.There’s often a gap between one person’s request and anot...",
       "url": "https://spectrum.ieee.org/ai-agent-benchmark",
-      "date": "6日前",
+      "date": "07月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Jul 2026 17:41:11 +0000",
-      "collected_at": "2026-07-28T01:27:25.747434"
+      "collected_at": "2026-07-29T01:28:04.665701"
     },
     {
       "title": "The Computer That Helped Win World War II",
       "summary": "One summer day in 1941, a British radio operator was monitoring German military frequencies and heard something unexpected in her headphones. A later report called it “strange new music.” Sounding unlike the familiar Morse dit-dit-dah of enciphered messages sent over the German Enigma network, the “...",
       "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-28T01:27:25.747228"
+      "collected_at": "2026-07-29T01:28:04.665494"
     },
     {
       "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
       "summary": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconduct...",
       "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-28T01:27:25.746998"
+      "collected_at": "2026-07-29T01:28:04.665242"
+    },
+    {
+      "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
+      "summary": "Already, I’ve almost forgotten rain;I know I will never know that again.I move forward with the powers you gave meto live up to my name, Curiosity.This is a land without leaves, fronds, or spines.If there are plants, they are small and supine,dust hidden, like light here, filtered and sandsoftened, ...",
+      "url": "https://spectrum.ieee.org/poem-martian-rover",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 25 Jul 2026 13:00:01 +0000",
+      "collected_at": "2026-07-29T01:28:04.665042"
+    },
+    {
+      "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
+      "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agi...",
+      "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 27 Jul 2026 17:54:07 +0000",
+      "collected_at": "2026-07-29T01:28:04.664989"
     }
   ]
 }
