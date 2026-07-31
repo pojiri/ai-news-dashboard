@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-07-30T01:20:46.517154",
+  "last_updated": "2026-07-31T01:47:28.664384",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Digital Surveillance Reshapes Fishery Enforcement in Indonesia",
-      "summary": "In the eastern Indian Ocean, south of Java in the vast sea stretching toward Australia, a fishing vessel slightly alters its course while operating near the boundary of its authorized fishing ground. Nothing appears unusual on deck. Nets remain in the water. Engines maintain a steady speed. To the c...",
-      "url": "https://spectrum.ieee.org/fishery-satellite-surveillance",
-      "date": "07月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 16 Jul 2026 12:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.514822"
-    },
-    {
-      "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-      "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League team, and she fell in love with the field, she says. Downs participated in the international robotics...",
-      "url": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-      "date": "07月17日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 17 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.514642"
-    },
-    {
-      "title": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-      "summary": "In the chill of a London spring night, under overcast skies, iconic Trafalgar Square opens around me. Admiral Nelson rises on his pedestal, the National Gallery rests behind, the church of St Martin-in-the-Fields sits nearby. From the 13th century, the site served as the Royal Mews for hawks and the...",
-      "url": "https://spectrum.ieee.org/led-light-pollution",
-      "date": "07月20日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 20 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.514435"
-    },
     {
       "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
       "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 15:55:00 +0000",
-      "collected_at": "2026-07-30T01:20:45.514121"
+      "collected_at": "2026-07-31T01:47:27.661982"
     },
     {
       "title": "IEEE Program Helps Girls In India See a Future In STEM",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-07-30T01:20:45.514050"
+      "collected_at": "2026-07-31T01:47:27.661916"
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Jul 2026 17:41:11 +0000",
-      "collected_at": "2026-07-30T01:20:45.513826"
+      "collected_at": "2026-07-31T01:47:27.661713"
     },
     {
       "title": "The Computer That Helped Win World War II",
@@ -71,57 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.513625"
+      "collected_at": "2026-07-31T01:47:27.661511"
     },
     {
       "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
       "summary": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconduct...",
       "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.513391"
+      "collected_at": "2026-07-31T01:47:27.661251"
     },
     {
       "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
       "summary": "Already, I’ve almost forgotten rain;I know I will never know that again.I move forward with the powers you gave meto live up to my name, Curiosity.This is a land without leaves, fronds, or spines.If there are plants, they are small and supine,dust hidden, like light here, filtered and sandsoftened, ...",
       "url": "https://spectrum.ieee.org/poem-martian-rover",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 25 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.513197"
+      "collected_at": "2026-07-31T01:47:27.661060"
     },
     {
       "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
       "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agi...",
       "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Jul 2026 17:54:07 +0000",
-      "collected_at": "2026-07-30T01:20:45.513145"
+      "collected_at": "2026-07-31T01:47:27.661009"
     },
     {
       "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
       "summary": "Physicists have been trying to measure the fundamental gravitational constant for well over two centuries. The current accepted value of big G, as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far as constant...",
       "url": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.513085"
+      "collected_at": "2026-07-31T01:47:27.660952"
     },
     {
       "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
       "summary": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?The answer she landed on was training them for tech jobs.Mariana CostaEmployer LaboratoriaTitle Co-founder and presidentAlma Maters London School of Economics; ...",
       "url": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-07-30T01:20:45.512955"
+      "collected_at": "2026-07-31T01:47:27.660845"
+    },
+    {
+      "title": "AI Is Hyper-Scaling Digital Inequality",
+      "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry...",
+      "url": "https://spectrum.ieee.org/ai-digital-divide",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 29 Jul 2026 11:00:04 +0000",
+      "collected_at": "2026-07-31T01:47:27.660679"
+    },
+    {
+      "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
+      "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and ...",
+      "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 29 Jul 2026 14:00:02 +0000",
+      "collected_at": "2026-07-31T01:47:27.660532"
+    },
+    {
+      "title": "Negotiating Your Salary Is About More Than Money",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Scroll through LinkedIn right now and you may find t...",
+      "url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 29 Jul 2026 14:55:45 +0000",
+      "collected_at": "2026-07-31T01:47:27.660390"
     }
   ]
 }
