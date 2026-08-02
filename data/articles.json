@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-08-01T01:48:16.225013",
+  "last_updated": "2026-08-02T01:45:01.563377",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-      "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
-      "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207",
-      "date": "07月20日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 20 Jul 2026 15:55:00 +0000",
-      "collected_at": "2026-08-01T01:48:15.222809"
-    },
     {
       "title": "IEEE Program Helps Girls In India See a Future In STEM",
       "summary": "Roughly half the world’s population is female, but the STEM fields don’t reflect that. The 2024 U.N. Global Education Monitoring Report on gender found that about 35 percent of STEM college graduates were women. The proportion hasn’t increased much in more than a decade.When it comes to STEM careers...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 20 Jul 2026 18:00:02 +0000",
-      "collected_at": "2026-08-01T01:48:15.222764"
+      "collected_at": "2026-08-02T01:45:00.561097"
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 21 Jul 2026 17:41:11 +0000",
-      "collected_at": "2026-08-01T01:48:15.222600"
+      "collected_at": "2026-08-02T01:45:00.560873"
     },
     {
       "title": "The Computer That Helped Win World War II",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 22 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-01T01:48:15.222447"
+      "collected_at": "2026-08-02T01:45:00.560668"
     },
     {
       "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
@@ -51,77 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 24 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-01T01:48:15.222264"
+      "collected_at": "2026-08-02T01:45:00.560435"
     },
     {
       "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
       "summary": "Already, I’ve almost forgotten rain;I know I will never know that again.I move forward with the powers you gave meto live up to my name, Curiosity.This is a land without leaves, fronds, or spines.If there are plants, they are small and supine,dust hidden, like light here, filtered and sandsoftened, ...",
       "url": "https://spectrum.ieee.org/poem-martian-rover",
-      "date": "6日前",
+      "date": "07月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 25 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-01T01:48:15.222100"
+      "collected_at": "2026-08-02T01:45:00.560233"
     },
     {
       "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
       "summary": "An overview of how mode-agile threats challenge static library radar/EW systems, and how AI/ML cognitive architectures enable adaptive, real-time countermeasures.What Attendees will LearnWhy mode-agile threats render static library systems ineffective — Explore how wartime reserve modes and mode-agi...",
       "url": "https://content.knowledgehub.wiley.com/improving-the-capabilities-of-cognitive-radar-and-electronic-warfare-systems/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Jul 2026 17:54:07 +0000",
-      "collected_at": "2026-08-01T01:48:15.222067"
+      "collected_at": "2026-08-02T01:45:00.560170"
     },
     {
       "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
       "summary": "Physicists have been trying to measure the fundamental gravitational constant for well over two centuries. The current accepted value of big G, as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far as constant...",
       "url": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-01T01:48:15.222027"
+      "collected_at": "2026-08-02T01:45:00.560110"
     },
     {
       "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
       "summary": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?The answer she landed on was training them for tech jobs.Mariana CostaEmployer LaboratoriaTitle Co-founder and presidentAlma Maters London School of Economics; ...",
       "url": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-01T01:48:15.221943"
+      "collected_at": "2026-08-02T01:45:00.559980"
     },
     {
       "title": "AI Is Hyper-Scaling Digital Inequality",
       "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry...",
       "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 11:00:04 +0000",
-      "collected_at": "2026-08-01T01:48:15.221806"
+      "collected_at": "2026-08-02T01:45:00.559813"
     },
     {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
       "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and ...",
       "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:00:02 +0000",
-      "collected_at": "2026-08-01T01:48:15.221676"
+      "collected_at": "2026-08-02T01:45:00.559666"
     },
     {
       "title": "Negotiating Your Salary Is About More Than Money",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Scroll through LinkedIn right now and you may find t...",
       "url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:55:45 +0000",
-      "collected_at": "2026-08-01T01:48:15.221564"
+      "collected_at": "2026-08-02T01:45:00.559522"
+    },
+    {
+      "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
+      "summary": "In February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mother sent a Facebook message to Elizabeth Kataquapit, then chief of the indigenous community Fort Albany...",
+      "url": "https://spectrum.ieee.org/indigenous-fiber-network",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 30 Jul 2026 13:00:01 +0000",
+      "collected_at": "2026-08-02T01:45:00.559402"
     }
   ]
 }
