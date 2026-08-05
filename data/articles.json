@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-08-04T01:23:16.203794",
+  "last_updated": "2026-08-05T01:28:29.914383",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "2022 IEEE President K.J. Ray Liu Honored for His Leadership",
-      "summary": "Unlike many budding engineers, K.J. Ray Liu wasn’t inspired to enter the field by tinkering with electronics or following in the footsteps of a family member. Growing up in Taichung, Taiwan, he answered his government’s call for students to become electrical engineers to help manufacture semiconduct...",
-      "url": "https://spectrum.ieee.org/ieee-president-ray-liu-award",
-      "date": "07月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 24 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.201339"
-    },
     {
       "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
       "summary": "Already, I’ve almost forgotten rain;I know I will never know that again.I move forward with the powers you gave meto live up to my name, Curiosity.This is a land without leaves, fronds, or spines.If there are plants, they are small and supine,dust hidden, like light here, filtered and sandsoftened, ...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 25 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.201142"
+      "collected_at": "2026-08-05T01:28:28.911754"
     },
     {
       "title": "Why AI-Driven Cognitive Systems Are Redefining Radar and Electronic Warfare",
@@ -31,97 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 27 Jul 2026 17:54:07 +0000",
-      "collected_at": "2026-08-04T01:23:15.201091"
+      "collected_at": "2026-08-05T01:28:28.911709"
     },
     {
       "title": "Why NIST Researchers Spent 10 Years Measuring Gravity",
       "summary": "Physicists have been trying to measure the fundamental gravitational constant for well over two centuries. The current accepted value of big G, as it’s known, is 6.67430 × 10-11 cubic meters per kilogram per square second. It also has an uncertainty of ±0.00015 × 10-11 m3/(kg s2). As far as constant...",
       "url": "https://spectrum.ieee.org/universal-gravitational-constant-nist-schlamminger",
-      "date": "6日前",
+      "date": "07月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.201027"
+      "collected_at": "2026-08-05T01:28:28.911654"
     },
     {
       "title": "Laboratoria’s Mariana Costa Empowers Women in Tech",
       "summary": "In shaping her career, Peru native Mariana Costa has asked herself a question: What can I do to make life better for women in Latin America?The answer she landed on was training them for tech jobs.Mariana CostaEmployer LaboratoriaTitle Co-founder and presidentAlma Maters London School of Economics; ...",
       "url": "https://spectrum.ieee.org/mariana-costa-women-in-tech",
-      "date": "6日前",
+      "date": "07月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.200907"
+      "collected_at": "2026-08-05T01:28:28.911539"
     },
     {
       "title": "AI Is Hyper-Scaling Digital Inequality",
       "summary": "Artificial intelligence is rapidly becoming part of everyday infrastructure–in some places. It helps write emails and software code, filters job applications, powers recommendation systems, and is increasingly being integrated into education, health care, finance, and public administration. Industry...",
       "url": "https://spectrum.ieee.org/ai-digital-divide",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 11:00:04 +0000",
-      "collected_at": "2026-08-04T01:23:15.200738"
+      "collected_at": "2026-08-05T01:28:28.911358"
     },
     {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
       "summary": "Artificial intelligence is reshaping the skills employers expect from new graduates. In response, universities are scrambling to launch new courses, research centers, and industry partnerships that prepare students for today’s workforce. But building a cutting-edge AI curriculum demands funding and ...",
       "url": "https://spectrum.ieee.org/siobahn-day-grady-ai-hbcu",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:00:02 +0000",
-      "collected_at": "2026-08-04T01:23:15.200588"
+      "collected_at": "2026-08-05T01:28:28.911210"
     },
     {
       "title": "Negotiating Your Salary Is About More Than Money",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Scroll through LinkedIn right now and you may find t...",
       "url": "https://spectrum.ieee.org/how-to-negotiate-your-salary",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:55:45 +0000",
-      "collected_at": "2026-08-04T01:23:15.200447"
+      "collected_at": "2026-08-05T01:28:28.911048"
     },
     {
       "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
       "summary": "In February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mother sent a Facebook message to Elizabeth Kataquapit, then chief of the indigenous community Fort Albany...",
       "url": "https://spectrum.ieee.org/indigenous-fiber-network",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.200327"
+      "collected_at": "2026-08-05T01:28:28.910929"
     },
     {
       "title": "Detect Dark Matter’s Mark From Your Backyard",
       "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark...",
       "url": "https://spectrum.ieee.org/dark-matter",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "collected_at": "2026-08-04T01:23:15.199965"
+      "collected_at": "2026-08-05T01:28:28.910581"
     },
     {
       "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
       "summary": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write n...",
       "url": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 18:00:03 +0000",
-      "collected_at": "2026-08-04T01:23:15.199810"
+      "collected_at": "2026-08-05T01:28:28.910431"
     },
     {
       "title": "Fridays With Bob",
       "summary": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challen...",
       "url": "https://spectrum.ieee.org/risk",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 01 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-04T01:23:15.199641"
+      "collected_at": "2026-08-05T01:28:28.910259"
+    },
+    {
+      "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
+      "summary": "A German engineer wanted a cheaper cigarette. The popular crooner Bing Crosby wanted a vacation. Satisfying both desires inadvertently led to the invention of the laugh track. Along the way there were Nazis, spoils of war, and more than one accidental encounter. Tying together this quirky history is...",
+      "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 02 Aug 2026 13:00:01 +0000",
+      "collected_at": "2026-08-05T01:28:28.910143"
     }
   ]
 }
