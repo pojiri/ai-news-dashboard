@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T00:53:57.020699",
+  "last_updated": "2026-08-11T00:53:27.541304",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 28 Jul 2026 18:00:01 +0000",
-      "collected_at": "2026-08-10T00:53:56.018290"
+      "collected_at": "2026-08-11T00:53:26.538899"
     },
     {
       "title": "AI Is Hyper-Scaling Digital Inequality",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 11:00:04 +0000",
-      "collected_at": "2026-08-10T00:53:56.018120"
+      "collected_at": "2026-08-11T00:53:26.538730"
     },
     {
       "title": "Siobahn Day Grady Wants Everyone to Be AI Literate",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:00:02 +0000",
-      "collected_at": "2026-08-10T00:53:56.017965"
+      "collected_at": "2026-08-11T00:53:26.538574"
     },
     {
       "title": "Negotiating Your Salary Is About More Than Money",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 29 Jul 2026 14:55:45 +0000",
-      "collected_at": "2026-08-10T00:53:56.017799"
+      "collected_at": "2026-08-11T00:53:26.538426"
     },
     {
       "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-10T00:53:56.017677"
+      "collected_at": "2026-08-11T00:53:26.538298"
     },
     {
       "title": "Detect Dark Matter’s Mark From Your Backyard",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "collected_at": "2026-08-10T00:53:56.017337"
+      "collected_at": "2026-08-11T00:53:26.537922"
     },
     {
       "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 18:00:03 +0000",
-      "collected_at": "2026-08-10T00:53:56.017185"
+      "collected_at": "2026-08-11T00:53:26.537773"
     },
     {
       "title": "Fridays With Bob",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 01 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-10T00:53:56.017017"
+      "collected_at": "2026-08-11T00:53:26.537610"
     },
     {
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 02 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-10T00:53:56.016872"
+      "collected_at": "2026-08-11T00:53:26.537494"
     },
     {
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
       "summary": "This article is brought to you by COMSOL.In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the int...",
       "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "date": "6日前",
+      "date": "08月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-10T00:53:56.016680"
+      "collected_at": "2026-08-11T00:53:26.537300"
     },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
       "summary": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from...",
       "url": "https://spectrum.ieee.org/ieee-milestone-digital-medical-records",
-      "date": "6日前",
+      "date": "08月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-10T00:53:56.016521"
+      "collected_at": "2026-08-11T00:53:26.537132"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
       "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.What Attendees will LearnWhere R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market.Why projec...",
       "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-10T00:53:56.016298"
+      "collected_at": "2026-08-11T00:53:26.536872"
     }
   ]
 }
