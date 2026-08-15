@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-08-14T01:00:43.048133",
+  "last_updated": "2026-08-15T00:35:56.923898",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "A Remote Indigenous Community Built One of Canada’s Fastest Fiber Networks",
-      "summary": "In February 2024, a young man lay somewhere on the frozen shore of James Bay, Canada, surrounded by snow and darkness, succumbing to hypothermia. When he failed to get home on time, his frantic mother sent a Facebook message to Elizabeth Kataquapit, then chief of the indigenous community Fort Albany...",
-      "url": "https://spectrum.ieee.org/indigenous-fiber-network",
-      "date": "07月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 30 Jul 2026 13:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.045670"
-    },
-    {
-      "title": "Detect Dark Matter’s Mark From Your Backyard",
-      "summary": "If you’re wondering what dark matter is, you’re not alone. Astronomers don’t know. But they’ve determined that this invisible material must be far more abundant than the stars and nebulas that they can see. They’ve surmised as much from observing the gravitational effects of all this perplexing dark...",
-      "url": "https://spectrum.ieee.org/dark-matter",
-      "date": "07月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 30 Jul 2026 14:00:03 +0000",
-      "collected_at": "2026-08-14T01:00:42.045326"
-    },
     {
       "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
       "summary": "Given a rising number of publishing misconduct allegations, IEEE in 2022 created the Publishing Ethics Team as a centralized department to assist in handling claims. The group also works to increase the organization’s visibility in the broader publishing ethics area and helps IEEE volunteers write n...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 18:00:03 +0000",
-      "collected_at": "2026-08-14T01:00:42.045175"
+      "collected_at": "2026-08-15T00:35:55.921415"
     },
     {
       "title": "Fridays With Bob",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 01 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.045008"
+      "collected_at": "2026-08-15T00:35:55.921256"
     },
     {
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 02 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.044887"
+      "collected_at": "2026-08-15T00:35:55.921149"
     },
     {
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-14T01:00:42.044673"
+      "collected_at": "2026-08-15T00:35:55.920965"
     },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-14T01:00:42.044509"
+      "collected_at": "2026-08-15T00:35:55.920804"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-14T01:00:42.044279"
+      "collected_at": "2026-08-15T00:35:55.920551"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -91,37 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-14T01:00:42.044225"
+      "collected_at": "2026-08-15T00:35:55.920508"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
       "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data-processing tools they’d developed also pr...",
       "url": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
-      "date": "6日前",
+      "date": "08月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.044065"
+      "collected_at": "2026-08-15T00:35:55.920360"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
       "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive leadership, and team a...",
       "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-      "date": "6日前",
+      "date": "08月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.043862"
+      "collected_at": "2026-08-15T00:35:55.920164"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
       "summary": "In a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through laye...",
       "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-14T01:00:42.043728"
+      "collected_at": "2026-08-15T00:35:55.920042"
+    },
+    {
+      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
+      "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical i...",
+      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
+      "collected_at": "2026-08-15T00:35:55.919696"
+    },
+    {
+      "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
+      "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
+      "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
+      "collected_at": "2026-08-15T00:35:55.919553"
     }
   ]
 }
