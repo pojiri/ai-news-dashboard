@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T00:37:44.542991",
+  "last_updated": "2026-08-17T00:36:01.079221",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 30 Jul 2026 18:00:03 +0000",
-      "collected_at": "2026-08-16T00:37:43.540660"
+      "collected_at": "2026-08-17T00:36:00.077747"
     },
     {
       "title": "Fridays With Bob",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 01 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-16T00:37:43.540500"
+      "collected_at": "2026-08-17T00:36:00.077656"
     },
     {
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 02 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-16T00:37:43.540381"
+      "collected_at": "2026-08-17T00:36:00.077591"
     },
     {
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-16T00:37:43.540197"
+      "collected_at": "2026-08-17T00:36:00.077487"
     },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-16T00:37:43.540037"
+      "collected_at": "2026-08-17T00:36:00.077397"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-16T00:37:43.539811"
+      "collected_at": "2026-08-17T00:36:00.077270"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-16T00:37:43.539731"
+      "collected_at": "2026-08-17T00:36:00.077244"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-16T00:37:43.539581"
+      "collected_at": "2026-08-17T00:36:00.077163"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-16T00:37:43.539387"
+      "collected_at": "2026-08-17T00:36:00.077054"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
       "summary": "In a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through laye...",
       "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-16T00:37:43.539268"
+      "collected_at": "2026-08-17T00:36:00.076970"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
       "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical i...",
       "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-16T00:37:43.538945"
+      "collected_at": "2026-08-17T00:36:00.076792"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
       "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-16T00:37:43.538848"
+      "collected_at": "2026-08-17T00:36:00.076739"
     }
   ]
 }
