@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-08-19T00:35:43.190394",
+  "last_updated": "2026-08-20T00:35:43.472677",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
-      "summary": "A German engineer wanted a cheaper cigarette. The popular crooner Bing Crosby wanted a vacation. Satisfying both desires inadvertently led to the invention of the laugh track. Along the way there were Nazis, spoils of war, and more than one accidental encounter. Tying together this quirky history is...",
-      "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-      "date": "08月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 02 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-19T00:35:42.187855"
-    },
     {
       "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
       "summary": "This article is brought to you by COMSOL.In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the int...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-19T00:35:42.187666"
+      "collected_at": "2026-08-20T00:35:42.470842"
     },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-19T00:35:42.187480"
+      "collected_at": "2026-08-20T00:35:42.470684"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-19T00:35:42.187256"
+      "collected_at": "2026-08-20T00:35:42.470464"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-19T00:35:42.187205"
+      "collected_at": "2026-08-20T00:35:42.470414"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-19T00:35:42.187055"
+      "collected_at": "2026-08-20T00:35:42.470268"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-19T00:35:42.186859"
+      "collected_at": "2026-08-20T00:35:42.470080"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-19T00:35:42.186742"
+      "collected_at": "2026-08-20T00:35:42.469945"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
@@ -91,37 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-19T00:35:42.186365"
+      "collected_at": "2026-08-20T00:35:42.469628"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
       "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/the-2026-state-of-visual-and-physical-ai-a-survey-of-700-practitioners-on-data-models-and-production/",
-      "date": "6日前",
+      "date": "08月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-19T00:35:42.186254"
+      "collected_at": "2026-08-20T00:35:42.469529"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
       "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to.Companies are opening more...",
       "url": "https://spectrum.ieee.org/product-engineer",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-19T00:35:42.186208"
+      "collected_at": "2026-08-20T00:35:42.469478"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
       "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-19T00:35:42.186078"
+      "collected_at": "2026-08-20T00:35:42.469363"
+    },
+    {
+      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
+      "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.The IEEE Life Fellow ta...",
+      "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
+      "collected_at": "2026-08-20T00:35:42.469321"
     }
   ]
 }
