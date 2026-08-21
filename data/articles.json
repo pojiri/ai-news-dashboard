@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T00:35:43.472677",
+  "last_updated": "2026-08-21T00:38:18.361971",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-20T00:35:42.470842"
+      "collected_at": "2026-08-21T00:38:17.359600"
     },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-20T00:35:42.470684"
+      "collected_at": "2026-08-21T00:38:17.359427"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-20T00:35:42.470464"
+      "collected_at": "2026-08-21T00:38:17.359197"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-20T00:35:42.470414"
+      "collected_at": "2026-08-21T00:38:17.359156"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-20T00:35:42.470268"
+      "collected_at": "2026-08-21T00:38:17.359013"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-20T00:35:42.470080"
+      "collected_at": "2026-08-21T00:38:17.358824"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-20T00:35:42.469945"
+      "collected_at": "2026-08-21T00:38:17.358714"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-20T00:35:42.469628"
+      "collected_at": "2026-08-21T00:38:17.358357"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-20T00:35:42.469529"
+      "collected_at": "2026-08-21T00:38:17.358260"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
       "summary": "If you haven’t already seen a job listing for a “product engineer,” you probably will soon. The job everyone’s suddenly hiring for, this role is like a cross between a product manager and an engineer (as the name suggests). And it’s a hiring trend worth paying attention to.Companies are opening more...",
       "url": "https://spectrum.ieee.org/product-engineer",
-      "date": "6日前",
+      "date": "08月13日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-20T00:35:42.469478"
+      "collected_at": "2026-08-21T00:38:17.358220"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
       "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-20T00:35:42.469363"
+      "collected_at": "2026-08-21T00:38:17.358095"
     },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
       "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.The IEEE Life Fellow ta...",
       "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-20T00:35:42.469321"
+      "collected_at": "2026-08-21T00:38:17.358058"
     }
   ]
 }
