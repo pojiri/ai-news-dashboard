@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-08-21T00:38:18.361971",
+  "last_updated": "2026-08-22T00:35:40.069692",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-      "summary": "This article is brought to you by COMSOL.In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the int...",
-      "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "date": "08月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "collected_at": "2026-08-21T00:38:17.359600"
-    },
     {
       "title": "The System That Turned Paper Charts Into Digital Medical Records",
       "summary": "Most hospitals and health care providers use electronic health records instead of paper charts to note patient vaccinations, diagnoses, and procedures. AthenaOne, Epic, and Oracle Health are some of the systems employed around the world. Many patients can access their electronic medical records from...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-21T00:38:17.359427"
+      "collected_at": "2026-08-22T00:35:39.067480"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-21T00:38:17.359197"
+      "collected_at": "2026-08-22T00:35:39.067260"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-21T00:38:17.359156"
+      "collected_at": "2026-08-22T00:35:39.067210"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-21T00:38:17.359013"
+      "collected_at": "2026-08-22T00:35:39.067065"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-21T00:38:17.358824"
+      "collected_at": "2026-08-22T00:35:39.066876"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-21T00:38:17.358714"
+      "collected_at": "2026-08-22T00:35:39.066762"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-21T00:38:17.358357"
+      "collected_at": "2026-08-22T00:35:39.066429"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
@@ -91,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-21T00:38:17.358260"
+      "collected_at": "2026-08-22T00:35:39.066332"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
@@ -101,27 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-21T00:38:17.358220"
+      "collected_at": "2026-08-22T00:35:39.066287"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
       "summary": "Learn how full-wave simulation predicts very low antenna coupling on aircraft-sized platforms, and which three modeling techniques deliver accurate results with fewer computational resources.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
-      "date": "6日前",
+      "date": "08月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-21T00:38:17.358095"
+      "collected_at": "2026-08-22T00:35:39.066167"
     },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
       "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.The IEEE Life Fellow ta...",
       "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-      "date": "6日前",
+      "date": "08月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-21T00:38:17.358058"
+      "collected_at": "2026-08-22T00:35:39.066117"
+    },
+    {
+      "title": "From AI Copilots to Agent Swarms",
+      "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t...",
+      "url": "https://spectrum.ieee.org/amd-agent-swarms",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 17 Aug 2026 14:00:01 +0000",
+      "collected_at": "2026-08-22T00:35:39.065957"
     }
   ]
 }
