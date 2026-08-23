@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T00:35:40.069692",
+  "last_updated": "2026-08-23T00:38:36.326050",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 03 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-22T00:35:39.067480"
+      "collected_at": "2026-08-23T00:38:35.323944"
     },
     {
       "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-22T00:35:39.067260"
+      "collected_at": "2026-08-23T00:38:35.323762"
     },
     {
       "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-22T00:35:39.067210"
+      "collected_at": "2026-08-23T00:38:35.323729"
     },
     {
       "title": "Cars Communicating Badly Is an Already-Solved Problem",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-22T00:35:39.067065"
+      "collected_at": "2026-08-23T00:38:35.323610"
     },
     {
       "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-22T00:35:39.066876"
+      "collected_at": "2026-08-23T00:38:35.323445"
     },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-22T00:35:39.066762"
+      "collected_at": "2026-08-23T00:38:35.323357"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-22T00:35:39.066429"
+      "collected_at": "2026-08-23T00:38:35.323076"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-22T00:35:39.066332"
+      "collected_at": "2026-08-23T00:38:35.323000"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
@@ -91,7 +91,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-22T00:35:39.066287"
+      "collected_at": "2026-08-23T00:38:35.322968"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
@@ -101,7 +101,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-22T00:35:39.066167"
+      "collected_at": "2026-08-23T00:38:35.322870"
     },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -111,17 +111,17 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-22T00:35:39.066117"
+      "collected_at": "2026-08-23T00:38:35.322836"
     },
     {
       "title": "From AI Copilots to Agent Swarms",
       "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t...",
       "url": "https://spectrum.ieee.org/amd-agent-swarms",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-22T00:35:39.065957"
+      "collected_at": "2026-08-23T00:38:35.322704"
     }
   ]
 }
