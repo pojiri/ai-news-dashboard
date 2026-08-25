@@ -1,48 +1,8 @@
 {
-  "last_updated": "2026-08-24T00:37:39.357132",
+  "last_updated": "2026-08-25T00:36:50.182595",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Why R&D Waste Persists Despite Widespread AI Adoption",
-      "summary": "This report examines R&D waste and how AI adoption has outpaced the intelligence needed to make consequential decisions well.What Attendees will LearnWhere R&D budget is lost. More than a third of organizations spend 25 to 40 percent of their R&D budget on projects that never reach market.Why projec...",
-      "url": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
-      "date": "08月04日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 04 Aug 2026 14:51:55 +0000",
-      "collected_at": "2026-08-24T00:37:38.354562"
-    },
-    {
-      "title": "IEEE Course Teaches How to Use AI to Modernize Power Grids",
-      "summary": "Today’s U.S. electrical grid, among the largest, most complex systems ever built, is operating at its limit. The combination of rapid industrial growth, more frequent extreme weather, and a record surge in electricity use has pushed the grid to its breaking point, according to the U.S. Department of...",
-      "url": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
-      "date": "08月05日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 05 Aug 2026 18:00:03 +0000",
-      "collected_at": "2026-08-24T00:37:38.354471"
-    },
-    {
-      "title": "Cars Communicating Badly Is an Already-Solved Problem",
-      "summary": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back, in part, to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data-processing tools they’d developed also pr...",
-      "url": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
-      "date": "08月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 07 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-24T00:37:38.354289"
-    },
-    {
-      "title": "Navigating the Pivot From Tech Expert to Organizational Leader",
-      "summary": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive leadership, and team a...",
-      "url": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
-      "date": "08月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 07 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-24T00:37:38.354097"
-    },
     {
       "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
       "summary": "In a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through laye...",
@@ -51,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-24T00:37:38.353983"
+      "collected_at": "2026-08-25T00:36:49.180094"
     },
     {
       "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
@@ -61,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-24T00:37:38.353656"
+      "collected_at": "2026-08-25T00:36:49.179761"
     },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
@@ -71,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-24T00:37:38.353557"
+      "collected_at": "2026-08-25T00:36:49.179660"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
@@ -81,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-24T00:37:38.353510"
+      "collected_at": "2026-08-25T00:36:49.179615"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
@@ -91,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-24T00:37:38.353365"
+      "collected_at": "2026-08-25T00:36:49.179494"
     },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -101,27 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-24T00:37:38.353315"
+      "collected_at": "2026-08-25T00:36:49.179447"
     },
     {
       "title": "From AI Copilots to Agent Swarms",
       "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t...",
       "url": "https://spectrum.ieee.org/amd-agent-swarms",
-      "date": "6日前",
+      "date": "08月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-24T00:37:38.353152"
+      "collected_at": "2026-08-25T00:36:49.179288"
     },
     {
       "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
       "summary": "About 16 percent of the global population—more than 1 billion people—live with some form of disability, according to the World Health Organization. Many of the disabilities affect independence and mobility.Three high school students working on inventions to help people with disabilities restore move...",
       "url": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
-      "date": "6日前",
+      "date": "08月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-08-24T00:37:38.353021"
+      "collected_at": "2026-08-25T00:36:49.179124"
+    },
+    {
+      "title": "Gaining Leadership Backing for Your Innovations",
+      "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Imagine this: You have a strong idea for a new product for your company. Your coworkers encourage you to move forward because they believe it could be the organizatio...",
+      "url": "https://spectrum.ieee.org/leadership-backing-innovation",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 19 Aug 2026 18:00:02 +0000",
+      "collected_at": "2026-08-25T00:36:49.178936"
+    },
+    {
+      "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
+      "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make trad...",
+      "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 21 Aug 2026 14:32:37 +0000",
+      "collected_at": "2026-08-25T00:36:49.178734"
+    },
+    {
+      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+      "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he re...",
+      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 21 Aug 2026 18:00:01 +0000",
+      "collected_at": "2026-08-25T00:36:49.178667"
+    },
+    {
+      "title": "Building Technology People Can Trust",
+      "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
+      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
+      "date": "12時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
+      "collected_at": "2026-08-25T00:36:49.178442"
     }
   ]
 }
