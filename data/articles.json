@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-08-25T00:36:50.182595",
+  "last_updated": "2026-08-26T00:37:57.041191",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Zap Rocks. Add Water. Get Clean Hydrogen",
-      "summary": "In a tranquil Boston suburb, on the far edge of a horse farm, where pasture gives way to woods, a crane lowers an enormous electrode into a borehole. The electrode, a half-meter-long cylinder with copper-tipped arms to ensure good contact with the borehole walls, descends—deeper, deeper—through laye...",
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "date": "08月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 11 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-25T00:36:49.180094"
-    },
-    {
-      "title": "IEEE Engineering Summit Supports Bhutan’s Digital Transformation",
-      "summary": "In collaboration with the Kingdom of Bhutan government, IEEE recently introduced its Engineering Education, Research, and Innovation Summit.Held on 9 and 10 June in Paro, in the eastern Himalayas, the event was designed to help Bhutan navigate its digital transformation by focusing on the critical i...",
-      "url": "https://spectrum.ieee.org/ieee-summit-bhutan-digital-transformation",
-      "date": "08月11日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 11 Aug 2026 19:50:54 +0000",
-      "collected_at": "2026-08-25T00:36:49.179761"
-    },
     {
       "title": "Inside the Data Bottleneck Slowing Visual and Physical AI",
       "summary": "A survey of over 700 professionals examines how visual and physical AI teams build systems, why models fail, and where data work drives production.Download this free whitepaper now!",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 12 Aug 2026 14:18:05 +0000",
-      "collected_at": "2026-08-25T00:36:49.179660"
+      "collected_at": "2026-08-26T00:37:56.038779"
     },
     {
       "title": "Bring a Product Manager Mindset to Your Next Engineering Job",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 13 Aug 2026 14:44:50 +0000",
-      "collected_at": "2026-08-25T00:36:49.179615"
+      "collected_at": "2026-08-26T00:37:56.038711"
     },
     {
       "title": "Predict Antenna Coupling on Electrically Large Platforms Before Building Hardware",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 17:27:12 +0000",
-      "collected_at": "2026-08-25T00:36:49.179494"
+      "collected_at": "2026-08-26T00:37:56.038593"
     },
     {
       "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-25T00:36:49.179447"
+      "collected_at": "2026-08-26T00:37:56.038546"
     },
     {
       "title": "From AI Copilots to Agent Swarms",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-25T00:36:49.179288"
+      "collected_at": "2026-08-26T00:37:56.038392"
     },
     {
       "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
@@ -81,47 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-08-25T00:36:49.179124"
+      "collected_at": "2026-08-26T00:37:56.038254"
     },
     {
       "title": "Gaining Leadership Backing for Your Innovations",
       "summary": "This article is part of our exclusive career advice series in partnership with the IEEE Technology and Engineering Management Society.Imagine this: You have a strong idea for a new product for your company. Your coworkers encourage you to move forward because they believe it could be the organizatio...",
       "url": "https://spectrum.ieee.org/leadership-backing-innovation",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-25T00:36:49.178936"
+      "collected_at": "2026-08-26T00:37:56.038078"
     },
     {
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
       "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make trad...",
       "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 14:32:37 +0000",
-      "collected_at": "2026-08-25T00:36:49.178734"
+      "collected_at": "2026-08-26T00:37:56.037882"
     },
     {
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
       "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he re...",
       "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-25T00:36:49.178667"
+      "collected_at": "2026-08-26T00:37:56.037812"
     },
     {
       "title": "Building Technology People Can Trust",
       "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
       "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "date": "12時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "collected_at": "2026-08-25T00:36:49.178442"
+      "collected_at": "2026-08-26T00:37:56.037559"
+    },
+    {
+      "title": "What It Takes to Be an Adaptable Engineer",
+      "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they...",
+      "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 24 Aug 2026 14:00:01 +0000",
+      "collected_at": "2026-08-26T00:37:56.037442"
+    },
+    {
+      "title": "IEEE Senior Membership Demystified",
+      "summary": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I underutilized. I didn’t think much about the grade of membership available above that of the regular memb...",
+      "url": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 24 Aug 2026 18:00:01 +0000",
+      "collected_at": "2026-08-26T00:37:56.037299"
     }
   ]
 }
