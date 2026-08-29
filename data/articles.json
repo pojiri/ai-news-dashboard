@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-08-28T07:46:05.762538",
+  "last_updated": "2026-08-29T04:41:59.077645",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-      "summary": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91.Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video.The IEEE Life Fellow ta...",
-      "url": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-      "date": "08月14日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-28T07:46:04.760317"
-    },
     {
       "title": "From AI Copilots to Agent Swarms",
       "summary": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing t...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.760165"
+      "collected_at": "2026-08-29T04:41:58.075324"
     },
     {
       "title": "IEEE Presidents’ Scholarship Honors Teen Innovators",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-08-28T07:46:04.760062"
+      "collected_at": "2026-08-29T04:41:58.075188"
     },
     {
       "title": "Gaining Leadership Backing for Your Innovations",
@@ -41,87 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-28T07:46:04.759926"
+      "collected_at": "2026-08-29T04:41:58.074994"
     },
     {
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
       "summary": "About this WebinarTurn Yield Excursions into Faster, More Confident Root Cause AnalysisWhen a yield issue emerges, the answer rarely lives in a single system. Critical clues are spread across metrology data, tool traces, chemical analysis, and facilities systems, while growing data volumes make trad...",
       "url": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
-      "date": "6日前",
+      "date": "08月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 14:32:37 +0000",
-      "collected_at": "2026-08-28T07:46:04.759757"
+      "collected_at": "2026-08-29T04:41:58.074789"
     },
     {
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
       "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he re...",
       "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "date": "6日前",
+      "date": "08月21日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.759711"
+      "collected_at": "2026-08-29T04:41:58.074705"
     },
     {
       "title": "Building Technology People Can Trust",
       "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
       "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "collected_at": "2026-08-28T07:46:04.759541"
+      "collected_at": "2026-08-29T04:41:58.074433"
     },
     {
       "title": "What It Takes to Be an Adaptable Engineer",
       "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they...",
       "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.759450"
+      "collected_at": "2026-08-29T04:41:58.074315"
     },
     {
       "title": "IEEE Senior Membership Demystified",
       "summary": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I underutilized. I didn’t think much about the grade of membership available above that of the regular memb...",
       "url": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.759325"
+      "collected_at": "2026-08-29T04:41:58.074170"
     },
     {
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-c...",
       "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "collected_at": "2026-08-28T07:46:04.759209"
+      "collected_at": "2026-08-29T04:41:58.074001"
     },
     {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
       "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban...",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.759038"
+      "collected_at": "2026-08-29T04:41:58.073807"
     },
     {
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
       "summary": "Summary  NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion. S‑BNR uses a single reactor with two independent fluid loops and cor...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-28T07:46:04.758745"
+      "collected_at": "2026-08-29T04:41:58.073452"
+    },
+    {
+      "title": "IEEE Student Conference Provides Visibility to Budding Authors",
+      "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynot...",
+      "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
+      "collected_at": "2026-08-29T04:41:58.073094"
     }
   ]
 }
