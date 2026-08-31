@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T02:16:09.943722",
+  "last_updated": "2026-08-31T02:11:27.991799",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 17 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-08-30T02:16:08.941530"
+      "collected_at": "2026-08-31T02:11:26.989265"
     },
     {
       "title": "Gaining Leadership Backing for Your Innovations",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 19 Aug 2026 18:00:02 +0000",
-      "collected_at": "2026-08-30T02:16:08.941361"
+      "collected_at": "2026-08-31T02:11:26.989091"
     },
     {
       "title": "Stop Hunting, Start Solving: Accelerating Root Cause Analysis with Agentic AI",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 14:32:37 +0000",
-      "collected_at": "2026-08-30T02:16:08.941161"
+      "collected_at": "2026-08-31T02:11:26.988887"
     },
     {
       "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
@@ -41,87 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 21 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-30T02:16:08.941088"
+      "collected_at": "2026-08-31T02:11:26.988814"
     },
     {
       "title": "Building Technology People Can Trust",
       "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
       "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "collected_at": "2026-08-30T02:16:08.940861"
+      "collected_at": "2026-08-31T02:11:26.988583"
     },
     {
       "title": "What It Takes to Be an Adaptable Engineer",
       "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they...",
       "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-08-30T02:16:08.940744"
+      "collected_at": "2026-08-31T02:11:26.988465"
     },
     {
       "title": "IEEE Senior Membership Demystified",
       "summary": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I underutilized. I didn’t think much about the grade of membership available above that of the regular memb...",
       "url": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-08-30T02:16:08.940599"
+      "collected_at": "2026-08-31T02:11:26.988300"
     },
     {
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-c...",
       "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "collected_at": "2026-08-30T02:16:08.940433"
+      "collected_at": "2026-08-31T02:11:26.988146"
     },
     {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
       "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban...",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-08-30T02:16:08.940238"
+      "collected_at": "2026-08-31T02:11:26.987946"
     },
     {
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
       "summary": "Summary  NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion. S‑BNR uses a single reactor with two independent fluid loops and cor...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-08-30T02:16:08.939882"
+      "collected_at": "2026-08-31T02:11:26.987577"
     },
     {
       "title": "IEEE Student Conference Provides Visibility to Budding Authors",
       "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynot...",
       "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "collected_at": "2026-08-30T02:16:08.939507"
+      "collected_at": "2026-08-31T02:11:26.987187"
     },
     {
       "title": "Make a Portable Wide-screen Mechanical TV",
       "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pix...",
       "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-08-30T02:16:08.939377"
+      "collected_at": "2026-08-31T02:11:26.987057"
     }
   ]
 }
