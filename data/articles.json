@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-09-01T02:30:55.032393",
+  "last_updated": "2026-09-02T01:52:00.360793",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
-      "summary": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together.Ingole never even saw a computer growing up. It wasn’t until he re...",
-      "url": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
-      "date": "08月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 21 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.030024"
-    },
     {
       "title": "Building Technology People Can Trust",
       "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "collected_at": "2026-09-01T02:30:54.029797"
+      "collected_at": "2026-09-02T01:51:59.358256"
     },
     {
       "title": "What It Takes to Be an Adaptable Engineer",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.029678"
+      "collected_at": "2026-09-02T01:51:59.358136"
     },
     {
       "title": "IEEE Senior Membership Demystified",
@@ -41,87 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.029534"
+      "collected_at": "2026-09-02T01:51:59.357990"
     },
     {
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-c...",
       "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-      "date": "6日前",
+      "date": "08月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "collected_at": "2026-09-01T02:30:54.029377"
+      "collected_at": "2026-09-02T01:51:59.357839"
     },
     {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
       "summary": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban...",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "date": "6日前",
+      "date": "08月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.029167"
+      "collected_at": "2026-09-02T01:51:59.357638"
     },
     {
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
       "summary": "Summary  NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion. S‑BNR uses a single reactor with two independent fluid loops and cor...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.028799"
+      "collected_at": "2026-09-02T01:51:59.357251"
     },
     {
       "title": "IEEE Student Conference Provides Visibility to Budding Authors",
       "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynot...",
       "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "collected_at": "2026-09-01T02:30:54.028435"
+      "collected_at": "2026-09-02T01:51:59.356904"
     },
     {
       "title": "Make a Portable Wide-screen Mechanical TV",
       "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pix...",
       "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-09-01T02:30:54.028296"
+      "collected_at": "2026-09-02T01:51:59.356778"
     },
     {
       "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
       "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps. Surrounded by alpine and beech trees, Barbic dreamed of replicating their swayin...",
       "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-01T02:30:54.028163"
+      "collected_at": "2026-09-02T01:51:59.356641"
     },
     {
       "title": "Noodling on Nuclear Engines",
       "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., gr...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.027927"
+      "collected_at": "2026-09-02T01:51:59.356390"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
       "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the starting point of today’s multibillion-dollar global battery industry. The object’...",
       "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "date": "14時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-01T02:30:54.027843"
+      "collected_at": "2026-09-02T01:51:59.356304"
+    },
+    {
+      "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+      "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpi...",
+      "url": "https://spectrum.ieee.org/europes-ai-drive",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
+      "collected_at": "2026-09-02T01:51:59.356125"
     }
   ]
 }
