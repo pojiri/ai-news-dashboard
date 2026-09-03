@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-09-02T01:52:00.360793",
+  "last_updated": "2026-09-03T01:57:50.399797",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Building Technology People Can Trust",
-      "summary": "This article is brought to you by Emerson.I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity.In semiconductors, we have seen that repeatedly. Ever...",
-      "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "date": "08月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "collected_at": "2026-09-02T01:51:59.358256"
-    },
-    {
-      "title": "What It Takes to Be an Adaptable Engineer",
-      "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they...",
-      "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "date": "08月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.358136"
-    },
     {
       "title": "IEEE Senior Membership Demystified",
       "summary": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library, which I underutilized. I didn’t think much about the grade of membership available above that of the regular memb...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.357990"
+      "collected_at": "2026-09-03T01:57:49.397398"
     },
     {
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "collected_at": "2026-09-02T01:51:59.357839"
+      "collected_at": "2026-09-03T01:57:49.397247"
     },
     {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
@@ -51,77 +31,97 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.357638"
+      "collected_at": "2026-09-03T01:57:49.397029"
     },
     {
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
       "summary": "Summary  NASA and industry engineers propose a synchronal bimodal nuclear rocket (S‑BNR) to dramatically cut transit times to destinations around the solar system, such as Mars, by combining nuclear thermal and electric propulsion. S‑BNR uses a single reactor with two independent fluid loops and cor...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-      "date": "6日前",
+      "date": "08月26日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.357251"
+      "collected_at": "2026-09-03T01:57:49.396675"
     },
     {
       "title": "IEEE Student Conference Provides Visibility to Budding Authors",
       "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynot...",
       "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "date": "6日前",
+      "date": "08月26日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "collected_at": "2026-09-02T01:51:59.356904"
+      "collected_at": "2026-09-03T01:57:49.396313"
     },
     {
       "title": "Make a Portable Wide-screen Mechanical TV",
       "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pix...",
       "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-09-02T01:51:59.356778"
+      "collected_at": "2026-09-03T01:57:49.396155"
     },
     {
       "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
       "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps. Surrounded by alpine and beech trees, Barbic dreamed of replicating their swayin...",
       "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-02T01:51:59.356641"
+      "collected_at": "2026-09-03T01:57:49.396021"
     },
     {
       "title": "Noodling on Nuclear Engines",
       "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., gr...",
       "url": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.356390"
+      "collected_at": "2026-09-03T01:57:49.395799"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
       "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the starting point of today’s multibillion-dollar global battery industry. The object’...",
       "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-02T01:51:59.356304"
+      "collected_at": "2026-09-03T01:57:49.395716"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
       "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpi...",
       "url": "https://spectrum.ieee.org/europes-ai-drive",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-02T01:51:59.356125"
+      "collected_at": "2026-09-03T01:57:49.395540"
+    },
+    {
+      "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
+      "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits.Much of her time is spent assisting with IEEE Princeton Central Jersey S...",
+      "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
+      "collected_at": "2026-09-03T01:57:49.395414"
+    },
+    {
+      "title": "IEEE President’s Note: Technology for Social Good",
+      "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a public charity—to advance technology for the benefit of humanity—is becoming an incr...",
+      "url": "https://spectrum.ieee.org/president-ieee-note-september-2026",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
+      "collected_at": "2026-09-03T01:57:49.395168"
     }
   ]
 }
