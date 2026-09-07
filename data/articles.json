@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T01:47:56.864889",
+  "last_updated": "2026-09-07T01:45:05.613463",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "collected_at": "2026-09-06T01:47:55.862626"
+      "collected_at": "2026-09-07T01:45:04.611326"
     },
     {
       "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "collected_at": "2026-09-06T01:47:55.862450"
+      "collected_at": "2026-09-07T01:45:04.611124"
     },
     {
       "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-06T01:47:55.862165"
+      "collected_at": "2026-09-07T01:45:04.610753"
     },
     {
       "title": "IEEE Student Conference Provides Visibility to Budding Authors",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "collected_at": "2026-09-06T01:47:55.861890"
+      "collected_at": "2026-09-07T01:45:04.610414"
     },
     {
       "title": "Make a Portable Wide-screen Mechanical TV",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-09-06T01:47:55.861790"
+      "collected_at": "2026-09-07T01:45:04.610283"
     },
     {
       "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-06T01:47:55.861683"
+      "collected_at": "2026-09-07T01:45:04.610141"
     },
     {
       "title": "Noodling on Nuclear Engines",
@@ -71,57 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-06T01:47:55.861498"
+      "collected_at": "2026-09-07T01:45:04.609891"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
       "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the starting point of today’s multibillion-dollar global battery industry. The object’...",
       "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-06T01:47:55.861413"
+      "collected_at": "2026-09-07T01:45:04.609794"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
       "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpi...",
       "url": "https://spectrum.ieee.org/europes-ai-drive",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-06T01:47:55.861276"
+      "collected_at": "2026-09-07T01:45:04.609620"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
       "summary": "For many high school students, summer vacation is a time to unplug. For Ruchira Shree, a rising sophomore at West Windsor–Plainsboro High School South, in New Jersey, the break allows her to ramp up her extracurricular pursuits.Much of her time is spent assisting with IEEE Princeton Central Jersey S...",
       "url": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-06T01:47:55.861175"
+      "collected_at": "2026-09-07T01:45:04.609496"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
       "summary": "Across IEEE, our strength lies not only in the excellence of our individual communities but also in our ability to bring them together around shared problems that demand interdisciplinary solutions. Our mission as a public charity—to advance technology for the benefit of humanity—is becoming an incr...",
       "url": "https://spectrum.ieee.org/president-ieee-note-september-2026",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-06T01:47:55.860989"
+      "collected_at": "2026-09-07T01:45:04.609280"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
       "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we mad...",
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-06T01:47:55.860896"
+      "collected_at": "2026-09-07T01:45:04.609150"
     }
   ]
 }
