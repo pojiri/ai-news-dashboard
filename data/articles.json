@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-09-09T02:01:30.759592",
+  "last_updated": "2026-09-10T01:58:36.652219",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "IEEE Student Conference Provides Visibility to Budding Authors",
-      "summary": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November.The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynot...",
-      "url": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "date": "08月26日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "collected_at": "2026-09-09T02:01:29.757391"
-    },
     {
       "title": "Make a Portable Wide-screen Mechanical TV",
       "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pix...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-09-09T02:01:29.757270"
+      "collected_at": "2026-09-10T01:58:35.649886"
     },
     {
       "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-09T02:01:29.757141"
+      "collected_at": "2026-09-10T01:58:35.649748"
     },
     {
       "title": "Noodling on Nuclear Engines",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-09T02:01:29.756924"
+      "collected_at": "2026-09-10T01:58:35.649502"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-09T02:01:29.756841"
+      "collected_at": "2026-09-10T01:58:35.649413"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-09T02:01:29.756671"
+      "collected_at": "2026-09-10T01:58:35.649236"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-09T02:01:29.756548"
+      "collected_at": "2026-09-10T01:58:35.649110"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-09T02:01:29.756320"
+      "collected_at": "2026-09-10T01:58:35.648896"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
       "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we mad...",
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "date": "6日前",
+      "date": "09月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-09T02:01:29.756200"
+      "collected_at": "2026-09-10T01:58:35.648776"
     },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
       "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit.Like other types of transpo...",
       "url": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
-      "date": "6日前",
+      "date": "09月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-09T02:01:29.756066"
+      "collected_at": "2026-09-10T01:58:35.648629"
     },
     {
       "title": "Applying Different Forms of Mentorship",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Asking someone to be your mentor is weird. Walking u...",
       "url": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
-      "date": "6日前",
+      "date": "09月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-09T02:01:29.755888"
+      "collected_at": "2026-09-10T01:58:35.648418"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
       "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumat...",
       "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-09T02:01:29.755804"
+      "collected_at": "2026-09-10T01:58:35.648318"
+    },
+    {
+      "title": "Workshops Educate African Researchers On How to Publish With IEEE",
+      "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
+      "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
+      "collected_at": "2026-09-10T01:58:35.648207"
     }
   ]
 }
