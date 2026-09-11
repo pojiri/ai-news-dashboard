@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-09-10T01:58:36.652219",
+  "last_updated": "2026-09-11T01:57:05.606838",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Make a Portable Wide-screen Mechanical TV",
-      "summary": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pix...",
-      "url": "https://spectrum.ieee.org/mechanical-tv-2677767814",
-      "date": "08月27日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "collected_at": "2026-09-10T01:58:35.649886"
-    },
     {
       "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
       "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps. Surrounded by alpine and beech trees, Barbic dreamed of replicating their swayin...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-10T01:58:35.649748"
+      "collected_at": "2026-09-11T01:57:04.604297"
     },
     {
       "title": "Noodling on Nuclear Engines",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-10T01:58:35.649502"
+      "collected_at": "2026-09-11T01:57:04.604069"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-10T01:58:35.649413"
+      "collected_at": "2026-09-11T01:57:04.603985"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-10T01:58:35.649236"
+      "collected_at": "2026-09-11T01:57:04.603806"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-10T01:58:35.649110"
+      "collected_at": "2026-09-11T01:57:04.603680"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-10T01:58:35.648896"
+      "collected_at": "2026-09-11T01:57:04.603438"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-10T01:58:35.648776"
+      "collected_at": "2026-09-11T01:57:04.603317"
     },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
@@ -91,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-10T01:58:35.648629"
+      "collected_at": "2026-09-11T01:57:04.603168"
     },
     {
       "title": "Applying Different Forms of Mentorship",
@@ -101,27 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-10T01:58:35.648418"
+      "collected_at": "2026-09-11T01:57:04.602972"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
       "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumat...",
       "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "date": "6日前",
+      "date": "09月03日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-10T01:58:35.648318"
+      "collected_at": "2026-09-11T01:57:04.602879"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
       "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
       "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-10T01:58:35.648207"
+      "collected_at": "2026-09-11T01:57:04.602755"
+    },
+    {
+      "title": "The Growing Proof That Autonomous Cars Save Lives",
+      "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaning...",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
+      "collected_at": "2026-09-11T01:57:04.602576"
     }
   ]
 }
