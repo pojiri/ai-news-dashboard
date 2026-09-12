@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-09-11T01:57:05.606838",
+  "last_updated": "2026-09-12T02:01:18.029960",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Oscar Winner Brings Monsters to Life With His Simulation Software",
-      "summary": "While walking to school as a child, Jernej Barbič would marvel at how beautiful his home was. He was born and raised in a picturesque village in northwestern Slovenia (formerly Yugoslavia), located in the European Alps. Surrounded by alpine and beech trees, Barbic dreamed of replicating their swayin...",
-      "url": "https://spectrum.ieee.org/oscar-winner-jernej-barbic",
-      "date": "08月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 28 Aug 2026 18:00:04 +0000",
-      "collected_at": "2026-09-11T01:57:04.604297"
-    },
     {
       "title": "Noodling on Nuclear Engines",
       "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a placemat to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., ...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-11T01:57:04.604069"
+      "collected_at": "2026-09-12T02:01:17.027671"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-11T01:57:04.603985"
+      "collected_at": "2026-09-12T02:01:17.027582"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-11T01:57:04.603806"
+      "collected_at": "2026-09-12T02:01:17.027401"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-11T01:57:04.603680"
+      "collected_at": "2026-09-12T02:01:17.027248"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-11T01:57:04.603438"
+      "collected_at": "2026-09-12T02:01:17.027020"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-11T01:57:04.603317"
+      "collected_at": "2026-09-12T02:01:17.026898"
     },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
@@ -81,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-11T01:57:04.603168"
+      "collected_at": "2026-09-12T02:01:17.026751"
     },
     {
       "title": "Applying Different Forms of Mentorship",
@@ -91,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-11T01:57:04.602972"
+      "collected_at": "2026-09-12T02:01:17.026563"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -101,27 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-11T01:57:04.602879"
+      "collected_at": "2026-09-12T02:01:17.026463"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
       "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
       "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-11T01:57:04.602755"
+      "collected_at": "2026-09-12T02:01:17.026308"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
       "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaning...",
       "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-11T01:57:04.602576"
+      "collected_at": "2026-09-12T02:01:17.026150"
+    },
+    {
+      "title": "Rivian’s Gambit for Full Autonomy",
+      "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stan...",
+      "url": "https://spectrum.ieee.org/rivian-self-driving",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
+      "collected_at": "2026-09-12T02:01:17.026009"
     }
   ]
 }
