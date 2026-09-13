@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T02:01:18.029960",
+  "last_updated": "2026-09-13T01:56:20.238967",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-12T02:01:17.027671"
+      "collected_at": "2026-09-13T01:56:19.236535"
     },
     {
       "title": "The First Battery Was Inspired By a Dead Frog",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-12T02:01:17.027582"
+      "collected_at": "2026-09-13T01:56:19.236436"
     },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-12T02:01:17.027401"
+      "collected_at": "2026-09-13T01:56:19.236221"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-12T02:01:17.027248"
+      "collected_at": "2026-09-13T01:56:19.236045"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-12T02:01:17.027020"
+      "collected_at": "2026-09-13T01:56:19.235771"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-12T02:01:17.026898"
+      "collected_at": "2026-09-13T01:56:19.235622"
     },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-12T02:01:17.026751"
+      "collected_at": "2026-09-13T01:56:19.235445"
     },
     {
       "title": "Applying Different Forms of Mentorship",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-12T02:01:17.026563"
+      "collected_at": "2026-09-13T01:56:19.235172"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-12T02:01:17.026463"
+      "collected_at": "2026-09-13T01:56:19.235060"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
       "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
       "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-12T02:01:17.026308"
+      "collected_at": "2026-09-13T01:56:19.234916"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
       "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaning...",
       "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-12T02:01:17.026150"
+      "collected_at": "2026-09-13T01:56:19.234718"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
       "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stan...",
       "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-12T02:01:17.026009"
+      "collected_at": "2026-09-13T01:56:19.234543"
     }
   ]
 }
