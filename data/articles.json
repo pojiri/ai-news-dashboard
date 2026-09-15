@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-09-14T02:13:53.992851",
+  "last_updated": "2026-09-15T02:20:12.481330",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Noodling on Nuclear Engines",
-      "summary": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a placemat to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., ...",
-      "url": "https://spectrum.ieee.org/bimodal-nuclear-engine",
-      "date": "08月29日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sat, 29 Aug 2026 15:35:01 +0000",
-      "collected_at": "2026-09-14T02:13:52.990493"
-    },
-    {
-      "title": "The First Battery Was Inspired By a Dead Frog",
-      "summary": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the starting point of today’s multibillion-dollar global battery industry. The object’...",
-      "url": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "date": "08月31日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "collected_at": "2026-09-14T02:13:52.990404"
-    },
     {
       "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
       "summary": "This story was originally published by Tech Policy Press.The European Union’s push for technological sovereignty faces an uncomfortable contradiction.As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpi...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "collected_at": "2026-09-14T02:13:52.990226"
+      "collected_at": "2026-09-15T02:20:11.478992"
     },
     {
       "title": "This Teen Helped Native American Students Earn Ham Radio Licenses",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 31 Aug 2026 18:00:01 +0000",
-      "collected_at": "2026-09-14T02:13:52.990075"
+      "collected_at": "2026-09-15T02:20:11.478865"
     },
     {
       "title": "IEEE President’s Note: Technology for Social Good",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 01 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-14T02:13:52.989860"
+      "collected_at": "2026-09-15T02:20:11.478650"
     },
     {
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-14T02:13:52.989730"
+      "collected_at": "2026-09-15T02:20:11.478506"
     },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-14T02:13:52.989586"
+      "collected_at": "2026-09-15T02:20:11.478360"
     },
     {
       "title": "Applying Different Forms of Mentorship",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-14T02:13:52.989402"
+      "collected_at": "2026-09-15T02:20:11.478174"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -91,37 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-14T02:13:52.989305"
+      "collected_at": "2026-09-15T02:20:11.478080"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
       "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
       "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "date": "6日前",
+      "date": "09月07日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-14T02:13:52.989182"
+      "collected_at": "2026-09-15T02:20:11.477961"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
       "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaning...",
       "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-14T02:13:52.989006"
+      "collected_at": "2026-09-15T02:20:11.477795"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
       "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stan...",
       "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-14T02:13:52.988865"
+      "collected_at": "2026-09-15T02:20:11.477652"
+    },
+    {
+      "title": "An Engineer’s Guide to Surviving a Layoff",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!I lost a cushy engineering management position at th...",
+      "url": "https://spectrum.ieee.org/how-to-survive-a-layoff",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 09 Sep 2026 15:03:38 +0000",
+      "collected_at": "2026-09-15T02:20:11.477277"
+    },
+    {
+      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "summary": "Franklin “Frank” KuoCodeveloper of ALOHAnetFellow, 91; died 14 AprilKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an ...",
+      "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 10 Sep 2026 20:00:04 +0000",
+      "collected_at": "2026-09-15T02:20:11.477157"
     }
   ]
 }
