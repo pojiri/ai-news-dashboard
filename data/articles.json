@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-09-17T02:17:17.496433",
+  "last_updated": "2026-09-18T02:03:19.409315",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we mad...",
-      "url": "https://spectrum.ieee.org/ai-engineer-skills",
-      "date": "09月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-17T02:17:16.494146"
-    },
     {
       "title": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
       "summary": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit.Like other types of transpo...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-17T02:17:16.494003"
+      "collected_at": "2026-09-18T02:03:18.407409"
     },
     {
       "title": "Applying Different Forms of Mentorship",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-17T02:17:16.493818"
+      "collected_at": "2026-09-18T02:03:18.407229"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-17T02:17:16.493724"
+      "collected_at": "2026-09-18T02:03:18.407138"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-17T02:17:16.493607"
+      "collected_at": "2026-09-18T02:03:18.407025"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-17T02:17:16.493423"
+      "collected_at": "2026-09-18T02:03:18.406868"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-17T02:17:16.493278"
+      "collected_at": "2026-09-18T02:03:18.406725"
     },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "collected_at": "2026-09-17T02:17:16.492918"
+      "collected_at": "2026-09-18T02:03:18.406350"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
       "summary": "Franklin “Frank” KuoCodeveloper of ALOHAnetFellow, 91; died 14 AprilKuo helped develop ALOHAnet, a pioneering computer system at the University of Hawaii at Mānoa, in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network. It was an ...",
       "url": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
-      "date": "6日前",
+      "date": "09月10日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "collected_at": "2026-09-17T02:17:16.492788"
+      "collected_at": "2026-09-18T02:03:18.406229"
     },
     {
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
       "summary": "For this year’s IEEE annual election, the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors.The incentive initiative is mana...",
       "url": "https://spectrum.ieee.org/ieee-to-reward-sections",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-09-17T02:17:16.492549"
+      "collected_at": "2026-09-18T02:03:18.405989"
     },
     {
       "title": "Responsible AI for Higher Education",
       "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to...",
       "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 14:18:11 +0000",
-      "collected_at": "2026-09-17T02:17:16.492475"
+      "collected_at": "2026-09-18T02:03:18.405925"
     },
     {
       "title": "Countries Seek to Curb Social Media Addiction for Kids",
       "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.The benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.The p...",
       "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-17T02:17:16.492404"
+      "collected_at": "2026-09-18T02:03:18.405880"
+    },
+    {
+      "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "summary": "In 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero, the revolutionary and blazingly fast electric roadster that Cocconi had built at ...",
+      "url": "https://spectrum.ieee.org/elon-musk-tesla",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 15 Sep 2026 12:13:58 +0000",
+      "collected_at": "2026-09-18T02:03:18.405590"
     }
   ]
 }
