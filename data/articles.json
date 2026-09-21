@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T02:13:39.585680",
+  "last_updated": "2026-09-21T02:13:37.233876",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-20T02:13:38.583268"
+      "collected_at": "2026-09-21T02:13:36.231537"
     },
     {
       "title": "Protecting Dynamic Industrial Robot Cable Carriers",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-20T02:13:38.583175"
+      "collected_at": "2026-09-21T02:13:36.231444"
     },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-20T02:13:38.583060"
+      "collected_at": "2026-09-21T02:13:36.231329"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-20T02:13:38.582898"
+      "collected_at": "2026-09-21T02:13:36.231168"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-20T02:13:38.582751"
+      "collected_at": "2026-09-21T02:13:36.231025"
     },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "collected_at": "2026-09-20T02:13:38.582353"
+      "collected_at": "2026-09-21T02:13:36.230667"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "collected_at": "2026-09-20T02:13:38.582227"
+      "collected_at": "2026-09-21T02:13:36.230522"
     },
     {
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -81,47 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-09-20T02:13:38.581977"
+      "collected_at": "2026-09-21T02:13:36.230277"
     },
     {
       "title": "Responsible AI for Higher Education",
       "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to...",
       "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 14:18:11 +0000",
-      "collected_at": "2026-09-20T02:13:38.581900"
+      "collected_at": "2026-09-21T02:13:36.230200"
     },
     {
       "title": "Countries Seek to Curb Social Media Addiction for Kids",
       "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.The benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.The p...",
       "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-20T02:13:38.581854"
+      "collected_at": "2026-09-21T02:13:36.230156"
     },
     {
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
       "summary": "In 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero, the revolutionary and blazingly fast electric roadster that Cocconi had built at ...",
       "url": "https://spectrum.ieee.org/elon-musk-tesla",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 12:13:58 +0000",
-      "collected_at": "2026-09-20T02:13:38.581545"
+      "collected_at": "2026-09-21T02:13:36.229859"
     },
     {
       "title": "The AI Inference Revolution Is Here",
       "summary": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul...",
       "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 13:00:05 +0000",
-      "collected_at": "2026-09-20T02:13:38.581157"
+      "collected_at": "2026-09-21T02:13:36.229480"
     }
   ]
 }
