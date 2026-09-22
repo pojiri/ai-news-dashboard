@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-09-21T02:13:37.233876",
+  "last_updated": "2026-09-22T02:18:15.944183",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Applying Different Forms of Mentorship",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!Asking someone to be your mentor is weird. Walking u...",
-      "url": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
-      "date": "09月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "collected_at": "2026-09-21T02:13:36.231537"
-    },
-    {
-      "title": "Protecting Dynamic Industrial Robot Cable Carriers",
-      "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumat...",
-      "url": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "date": "09月03日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "collected_at": "2026-09-21T02:13:36.231444"
-    },
     {
       "title": "Workshops Educate African Researchers On How to Publish With IEEE",
       "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-21T02:13:36.231329"
+      "collected_at": "2026-09-22T02:18:14.941824"
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-21T02:13:36.231168"
+      "collected_at": "2026-09-22T02:18:14.941668"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-21T02:13:36.231025"
+      "collected_at": "2026-09-22T02:18:14.941528"
     },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "collected_at": "2026-09-21T02:13:36.230667"
+      "collected_at": "2026-09-22T02:18:14.941137"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "collected_at": "2026-09-21T02:13:36.230522"
+      "collected_at": "2026-09-22T02:18:14.941020"
     },
     {
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -81,47 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-09-21T02:13:36.230277"
+      "collected_at": "2026-09-22T02:18:14.940778"
     },
     {
       "title": "Responsible AI for Higher Education",
       "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to...",
       "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
-      "date": "6日前",
+      "date": "09月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 14:18:11 +0000",
-      "collected_at": "2026-09-21T02:13:36.230200"
+      "collected_at": "2026-09-22T02:18:14.940715"
     },
     {
       "title": "Countries Seek to Curb Social Media Addiction for Kids",
       "summary": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves.The benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development.The p...",
       "url": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-      "date": "6日前",
+      "date": "09月14日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-21T02:13:36.230156"
+      "collected_at": "2026-09-22T02:18:14.940673"
     },
     {
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
       "summary": "In 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero, the revolutionary and blazingly fast electric roadster that Cocconi had built at ...",
       "url": "https://spectrum.ieee.org/elon-musk-tesla",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 12:13:58 +0000",
-      "collected_at": "2026-09-21T02:13:36.229859"
+      "collected_at": "2026-09-22T02:18:14.940359"
     },
     {
       "title": "The AI Inference Revolution Is Here",
       "summary": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul...",
       "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 13:00:05 +0000",
-      "collected_at": "2026-09-21T02:13:36.229480"
+      "collected_at": "2026-09-22T02:18:14.939972"
+    },
+    {
+      "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
+      "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!",
+      "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 16 Sep 2026 13:24:18 +0000",
+      "collected_at": "2026-09-22T02:18:14.939598"
+    },
+    {
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI a...",
+      "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 16 Sep 2026 16:51:02 +0000",
+      "collected_at": "2026-09-22T02:18:14.939560"
     }
   ]
 }
