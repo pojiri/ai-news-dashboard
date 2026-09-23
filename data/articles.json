@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-09-22T02:18:15.944183",
+  "last_updated": "2026-09-23T02:18:32.836659",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Workshops Educate African Researchers On How to Publish With IEEE",
-      "summary": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering d...",
-      "url": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "date": "09月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-09-22T02:18:14.941824"
-    },
-    {
-      "title": "The Growing Proof That Autonomous Cars Save Lives",
-      "summary": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaning...",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "date": "09月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "collected_at": "2026-09-22T02:18:14.941668"
-    },
-    {
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "summary": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif., through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage, the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stan...",
-      "url": "https://spectrum.ieee.org/rivian-self-driving",
-      "date": "09月08日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-09-22T02:18:14.941528"
-    },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!I lost a cushy engineering management position at th...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "collected_at": "2026-09-22T02:18:14.941137"
+      "collected_at": "2026-09-23T02:18:31.834420"
     },
     {
       "title": "Codeveloper of Ethernet Predecessor Dies at 91",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "collected_at": "2026-09-22T02:18:14.941020"
+      "collected_at": "2026-09-23T02:18:31.834302"
     },
     {
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 11 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-09-22T02:18:14.940778"
+      "collected_at": "2026-09-23T02:18:31.834067"
     },
     {
       "title": "Responsible AI for Higher Education",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 14:18:11 +0000",
-      "collected_at": "2026-09-22T02:18:14.940715"
+      "collected_at": "2026-09-23T02:18:31.833998"
     },
     {
       "title": "Countries Seek to Curb Social Media Addiction for Kids",
@@ -81,47 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 14 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-09-22T02:18:14.940673"
+      "collected_at": "2026-09-23T02:18:31.833950"
     },
     {
       "title": "The Mind-bending Joyrides That Gave Rise to Tesla",
       "summary": "In 2003, Martin Eberhard, a cofounder of Tesla Motors, decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero, the revolutionary and blazingly fast electric roadster that Cocconi had built at ...",
       "url": "https://spectrum.ieee.org/elon-musk-tesla",
-      "date": "6日前",
+      "date": "09月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 12:13:58 +0000",
-      "collected_at": "2026-09-22T02:18:14.940359"
+      "collected_at": "2026-09-23T02:18:31.833657"
     },
     {
       "title": "The AI Inference Revolution Is Here",
       "summary": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popul...",
       "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "date": "6日前",
+      "date": "09月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 15 Sep 2026 13:00:05 +0000",
-      "collected_at": "2026-09-22T02:18:14.939972"
+      "collected_at": "2026-09-23T02:18:31.833275"
     },
     {
       "title": "Single-Phase Direct Liquid Cooling Is Proven for the Next Decade of Ultra-Dense Compute",
       "summary": "Learn how single-phase direct liquid cooling manages the rising heat of AI and high-performance computing, and how it compares with two-phase and immersion approaches.Download this free whitepaper now!",
       "url": "https://content.knowledgehub.wiley.com/single-phase-direct-liquid-cooling-is-proven-for-the-next-decade-of-ultra-dense-compute/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Sep 2026 13:24:18 +0000",
-      "collected_at": "2026-09-22T02:18:14.939598"
+      "collected_at": "2026-09-23T02:18:31.832917"
     },
     {
       "title": "Rethinking Robot Safety in the Age of AI",
       "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI a...",
       "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 16 Sep 2026 16:51:02 +0000",
-      "collected_at": "2026-09-22T02:18:14.939560"
+      "collected_at": "2026-09-23T02:18:31.832875"
+    },
+    {
+      "title": "Turning Tech Talent Into Leadership Legacy",
+      "summary": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborati...",
+      "url": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 18 Sep 2026 18:00:04 +0000",
+      "collected_at": "2026-09-23T02:18:31.832730"
+    },
+    {
+      "title": "This Digital Radio Gets Messages to the World’s Remotest Locations",
+      "summary": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hu...",
+      "url": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 21 Sep 2026 13:00:04 +0000",
+      "collected_at": "2026-09-23T02:18:31.832581"
+    },
+    {
+      "title": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
+      "summary": "This article is brought to you by CoolIT, an Ecolab Company.Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators...",
+      "url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
+      "date": "13時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 22 Sep 2026 12:22:50 +0000",
+      "collected_at": "2026-09-23T02:18:31.832453"
     }
   ]
 }
