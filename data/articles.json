@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T02:48:07.458443",
+  "last_updated": "2026-10-04T03:18:06.237681",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 23 Sep 2026 15:40:04 +0000",
-      "collected_at": "2026-10-03T02:48:06.456448"
+      "collected_at": "2026-10-04T03:18:05.235013"
     },
     {
       "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-03T02:48:06.456319"
+      "collected_at": "2026-10-04T03:18:05.234888"
     },
     {
       "title": "Measure Distant Asteroids With a DIY Rig",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-03T02:48:06.456266"
+      "collected_at": "2026-10-04T03:18:05.234835"
     },
     {
       "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-10-03T02:48:06.456103"
+      "collected_at": "2026-10-04T03:18:05.234696"
     },
     {
       "title": "Social Media Bans Aren’t Enough to Make Children Safe",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-03T02:48:06.455986"
+      "collected_at": "2026-10-04T03:18:05.234555"
     },
     {
       "title": "Poetry for Engineers: The UI Designer’s Dream",
       "summary": "My job is to translatedry and unrelenting codeinto a user interface of surpassing beauty.With my mouse, I roll one pixel after anotherup the vast anthill of the internet.My dream is to translatethe visions of the holy onesinto a communication protocolof universal wonderment.I want to launch shreds o...",
       "url": "https://spectrum.ieee.org/poetry-user-interface-design",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 27 Sep 2026 13:00:03 +0000",
-      "collected_at": "2026-10-03T02:48:06.455778"
+      "collected_at": "2026-10-04T03:18:05.234343"
     },
     {
       "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
       "summary": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte...",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-03T02:48:06.455721"
+      "collected_at": "2026-10-04T03:18:05.234286"
     },
     {
       "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
       "summary": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to prep...",
       "url": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-10-03T02:48:06.455402"
+      "collected_at": "2026-10-04T03:18:05.233972"
     },
     {
       "title": "A Day in the Life of a Roboticist: Charlie Kemp",
       "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp share...",
       "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 21:48:56 +0000",
-      "collected_at": "2026-10-03T02:48:06.455278"
+      "collected_at": "2026-10-04T03:18:05.233852"
     },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
       "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex...",
       "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-03T02:48:06.455227"
+      "collected_at": "2026-10-04T03:18:05.233804"
     },
     {
       "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
       "summary": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na...",
       "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-03T02:48:06.455156"
+      "collected_at": "2026-10-04T03:18:05.233752"
     },
     {
       "title": "A Brief History of the Bloomberg Terminal",
       "summary": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds, traders have embraced any advan...",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-03T02:48:06.454848"
+      "collected_at": "2026-10-04T03:18:05.233432"
     }
   ]
 }
