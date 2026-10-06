@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-05T02:54:21.927771",
+  "last_updated": "2026-10-06T03:44:17.264367",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "3 Skills That Will Matter More in the Age of AI",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you have kids, they’re probably back in school ri...",
-      "url": "https://spectrum.ieee.org/top-engineering-skills",
-      "date": "09月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 23 Sep 2026 15:40:04 +0000",
-      "collected_at": "2026-10-05T02:54:20.925890"
-    },
-    {
-      "title": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
-      "summary": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven...",
-      "url": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
-      "date": "09月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 24 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-05T02:54:20.925779"
-    },
     {
       "title": "Measure Distant Asteroids With a DIY Rig",
       "summary": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation.That’s what happens when an as...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-05T02:54:20.925744"
+      "collected_at": "2026-10-06T03:44:16.262006"
     },
     {
       "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 24 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-10-05T02:54:20.925638"
+      "collected_at": "2026-10-06T03:44:16.261874"
     },
     {
       "title": "Social Media Bans Aren’t Enough to Make Children Safe",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 25 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-05T02:54:20.925549"
+      "collected_at": "2026-10-06T03:44:16.261764"
     },
     {
       "title": "Poetry for Engineers: The UI Designer’s Dream",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 27 Sep 2026 13:00:03 +0000",
-      "collected_at": "2026-10-05T02:54:20.925381"
+      "collected_at": "2026-10-06T03:44:16.261550"
     },
     {
       "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
       "summary": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte...",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "date": "6日前",
+      "date": "09月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-05T02:54:20.925329"
+      "collected_at": "2026-10-06T03:44:16.261498"
     },
     {
       "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
       "summary": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to prep...",
       "url": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-      "date": "6日前",
+      "date": "09月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-10-05T02:54:20.925073"
+      "collected_at": "2026-10-06T03:44:16.261156"
     },
     {
       "title": "A Day in the Life of a Roboticist: Charlie Kemp",
       "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp share...",
       "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "date": "6日前",
+      "date": "09月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 21:48:56 +0000",
-      "collected_at": "2026-10-05T02:54:20.924981"
+      "collected_at": "2026-10-06T03:44:16.261033"
     },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
       "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex...",
       "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-05T02:54:20.924948"
+      "collected_at": "2026-10-06T03:44:16.260981"
     },
     {
       "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
       "summary": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na...",
       "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-05T02:54:20.924913"
+      "collected_at": "2026-10-06T03:44:16.260935"
     },
     {
       "title": "A Brief History of the Bloomberg Terminal",
       "summary": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds, traders have embraced any advan...",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-05T02:54:20.924653"
+      "collected_at": "2026-10-06T03:44:16.260592"
+    },
+    {
+      "title": "IEEE Celebrates Innovators Shaping the Future",
+      "summary": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards.The honorees are selected by the IEEE Awards Board based on...",
+      "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
+      "collected_at": "2026-10-06T03:44:16.260401"
+    },
+    {
+      "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
+      "summary": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and nonpaying customers.  More than half of the countries that track these metrics lost ...",
+      "url": "https://spectrum.ieee.org/electricity-theft",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
+      "collected_at": "2026-10-06T03:44:16.259970"
     }
   ]
 }
