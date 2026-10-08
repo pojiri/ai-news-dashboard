@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-10-07T03:11:47.003722",
+  "last_updated": "2026-10-08T03:27:24.376483",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
-      "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on...",
-      "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
-      "date": "09月24日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 24 Sep 2026 18:00:04 +0000",
-      "collected_at": "2026-10-07T03:11:46.001279"
-    },
-    {
-      "title": "Social Media Bans Aren’t Enough to Make Children Safe",
-      "summary": "Even before France approved legislation banning social media for children under 15 last January, 13-year-old Benjamin was already wondering what life without social media would look like. “If we want to play football, we won’t be able to organize it. What will we do? Send letters instead?” he joked ...",
-      "url": "https://spectrum.ieee.org/social-media-bans",
-      "date": "09月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 25 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-07T03:11:46.001144"
-    },
-    {
-      "title": "Poetry for Engineers: The UI Designer’s Dream",
-      "summary": "My job is to translatedry and unrelenting codeinto a user interface of surpassing beauty.With my mouse, I roll one pixel after anotherup the vast anthill of the internet.My dream is to translatethe visions of the holy onesinto a communication protocolof universal wonderment.I want to launch shreds o...",
-      "url": "https://spectrum.ieee.org/poetry-user-interface-design",
-      "date": "09月27日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 27 Sep 2026 13:00:03 +0000",
-      "collected_at": "2026-10-07T03:11:46.000948"
-    },
     {
       "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
       "summary": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-07T03:11:46.000887"
+      "collected_at": "2026-10-08T03:27:23.374006"
     },
     {
       "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-10-07T03:11:46.000551"
+      "collected_at": "2026-10-08T03:27:23.373666"
     },
     {
       "title": "A Day in the Life of a Roboticist: Charlie Kemp",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 21:48:56 +0000",
-      "collected_at": "2026-10-07T03:11:46.000424"
+      "collected_at": "2026-10-08T03:27:23.373543"
     },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-07T03:11:46.000370"
+      "collected_at": "2026-10-08T03:27:23.373493"
     },
     {
       "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
@@ -81,47 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-07T03:11:46.000311"
+      "collected_at": "2026-10-08T03:27:23.373439"
     },
     {
       "title": "A Brief History of the Bloomberg Terminal",
       "summary": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds, traders have embraced any advan...",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "date": "6日前",
+      "date": "09月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-07T03:11:45.999954"
+      "collected_at": "2026-10-08T03:27:23.373136"
     },
     {
       "title": "IEEE Celebrates Innovators Shaping the Future",
       "summary": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards.The honorees are selected by the IEEE Awards Board based on...",
       "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-      "date": "6日前",
+      "date": "09月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-10-07T03:11:45.999762"
+      "collected_at": "2026-10-08T03:27:23.372942"
     },
     {
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
       "summary": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and nonpaying customers.  More than half of the countries that track these metrics lost ...",
       "url": "https://spectrum.ieee.org/electricity-theft",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-07T03:11:45.999333"
+      "collected_at": "2026-10-08T03:27:23.372488"
     },
     {
       "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
       "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ...",
       "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-07T03:11:45.999133"
+      "collected_at": "2026-10-08T03:27:23.372333"
+    },
+    {
+      "title": "Smart Car Researcher Wants to Eliminate Stoplights",
+      "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green.Cassandras,...",
+      "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-10-08T03:27:23.372261"
+    },
+    {
+      "title": "6 Guidelines for Governing AI",
+      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy...",
+      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-10-08T03:27:23.372068"
+    },
+    {
+      "title": "Happy IEEE Day!",
+      "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lever...",
+      "url": "https://spectrum.ieee.org/ieee-day",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
+      "collected_at": "2026-10-08T03:27:23.371922"
     }
   ]
 }
