@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-09T03:33:01.383903",
+  "last_updated": "2026-10-10T03:13:21.536713",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Here’s How Delhi Achieved Its Epic Power-Grid Fix",
-      "summary": "It’s 6 a.m. on a cold January morning in 2002 in New Delhi. It’s still dark outside, and I’m in the kitchen preparing breakfast, packing lunches, and getting my two children ready to catch the school bus when, for the third time in a week, the power goes out. No lights, no mixer to finish my daughte...",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "date": "09月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 28 Sep 2026 13:00:04 +0000",
-      "collected_at": "2026-10-09T03:33:00.381534"
-    },
-    {
-      "title": "A New IEEE STEM Book Series for Tweens from TryEngineering",
-      "summary": "IEEE TryEngineering is dedicated to inspiring intellectual curiosity in children.The technologies shaping our world, including in the realms of artificial intelligence, electric vehicles, and ocean exploration, are evolving rapidly. Helping young learners understand the concepts is essential to prep...",
-      "url": "https://spectrum.ieee.org/ieee-stem-books-tweens-tryengineering",
-      "date": "09月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 28 Sep 2026 18:00:03 +0000",
-      "collected_at": "2026-10-09T03:33:00.381191"
-    },
     {
       "title": "A Day in the Life of a Roboticist: Charlie Kemp",
       "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp share...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 28 Sep 2026 21:48:56 +0000",
-      "collected_at": "2026-10-09T03:33:00.381068"
+      "collected_at": "2026-10-10T03:13:20.534490"
     },
     {
       "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-09T03:33:00.381016"
+      "collected_at": "2026-10-10T03:13:20.534438"
     },
     {
       "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 29 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.380962"
+      "collected_at": "2026-10-10T03:13:20.534382"
     },
     {
       "title": "A Brief History of the Bloomberg Terminal",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.380653"
+      "collected_at": "2026-10-10T03:13:20.533887"
     },
     {
       "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.380434"
+      "collected_at": "2026-10-10T03:13:20.533695"
     },
     {
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -81,47 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.380003"
+      "collected_at": "2026-10-10T03:13:20.533264"
     },
     {
       "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
       "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ...",
       "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-      "date": "6日前",
+      "date": "10月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-09T03:33:00.379836"
+      "collected_at": "2026-10-10T03:13:20.533107"
     },
     {
       "title": "Smart Car Researcher Wants to Eliminate Stoplights",
       "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green.Cassandras,...",
       "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
-      "date": "6日前",
+      "date": "10月02日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.379761"
+      "collected_at": "2026-10-10T03:13:20.533024"
     },
     {
       "title": "6 Guidelines for Governing AI",
       "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy...",
       "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-09T03:33:00.379564"
+      "collected_at": "2026-10-10T03:13:20.532821"
     },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lever...",
       "url": "https://spectrum.ieee.org/ieee-day",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
-      "collected_at": "2026-10-09T03:33:00.379390"
+      "collected_at": "2026-10-10T03:13:20.532672"
+    },
+    {
+      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid ...",
+      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
+      "collected_at": "2026-10-10T03:13:20.532573"
+    },
+    {
+      "title": "Changing Your Career Isn’t Easy",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!When I changed careers at 30 to become a software en...",
+      "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
+      "collected_at": "2026-10-10T03:13:20.532522"
     }
   ]
 }
