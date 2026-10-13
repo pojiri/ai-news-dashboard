@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-10-12T03:09:12.122152",
+  "last_updated": "2026-10-13T04:24:54.944540",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "A Day in the Life of a Roboticist: Charlie Kemp",
-      "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help people with everyday tasks and support greater independence.In this Robots Guide profile, Kemp share...",
-      "url": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
-      "date": "09月28日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 28 Sep 2026 21:48:56 +0000",
-      "collected_at": "2026-10-12T03:09:11.119777"
-    },
-    {
-      "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
-      "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervising AI-driven execution across the silicon development lifecycle.Key TakeawaysExplore four critical technologies enabling silicon design autonomyUnderstand how autonomous AI accelerates complex...",
-      "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32",
-      "date": "09月29日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 29 Sep 2026 10:00:06 +0000",
-      "collected_at": "2026-10-12T03:09:11.119727"
-    },
-    {
-      "title": "Tech to Replace Animal Testing Is Almost Ready. Scientists Are Not",
-      "summary": "Seventeen years ago, cell biologist Donald Ingber and his colleagues at Harvard University’s Wyss Institute for Biologically Inspired Engineering submitted a paper to the journal Science describing their model human lung. It was smaller than a USB stick and made of a clear polymer slab containing na...",
-      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-      "date": "09月29日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Tue, 29 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.119672"
-    },
     {
       "title": "A Brief History of the Bloomberg Terminal",
       "summary": "Financial markets have always relied on timely information, and the drive for timeliness has always adapted to the latest technology. From clipper ships transiting the oceans to telegraph wires connecting cities to fiber-optic cables conducting trades in microseconds, traders have embraced any advan...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.119187"
+      "collected_at": "2026-10-13T04:24:53.941880"
     },
     {
       "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.118995"
+      "collected_at": "2026-10-13T04:24:53.941689"
     },
     {
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.118547"
+      "collected_at": "2026-10-13T04:24:53.941265"
     },
     {
       "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-12T03:09:11.118387"
+      "collected_at": "2026-10-13T04:24:53.941097"
     },
     {
       "title": "Smart Car Researcher Wants to Eliminate Stoplights",
@@ -81,47 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.118307"
+      "collected_at": "2026-10-13T04:24:53.941002"
     },
     {
       "title": "6 Guidelines for Governing AI",
       "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy...",
       "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "date": "6日前",
+      "date": "10月05日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.118104"
+      "collected_at": "2026-10-13T04:24:53.940802"
     },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lever...",
       "url": "https://spectrum.ieee.org/ieee-day",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
-      "collected_at": "2026-10-12T03:09:11.117957"
+      "collected_at": "2026-10-13T04:24:53.940646"
     },
     {
       "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
       "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid ...",
       "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-12T03:09:11.117886"
+      "collected_at": "2026-10-13T04:24:53.940579"
     },
     {
       "title": "Changing Your Career Isn’t Easy",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!When I changed careers at 30 to become a software en...",
       "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-12T03:09:11.117802"
+      "collected_at": "2026-10-13T04:24:53.940528"
+    },
+    {
+      "title": "IEEE Report Predicts Tech That Will Transform Lives",
+      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE.“We are seeing a fundamental shift in how technology evolves,” says IEEE...",
+      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-10-13T04:24:53.940419"
+    },
+    {
+      "title": "We Need to Embed Ethics Into Our Engineering Courses",
+      "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed....",
+      "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
+      "collected_at": "2026-10-13T04:24:53.940274"
+    },
+    {
+      "title": "Master AI Chip Principles With New IEEE Design Program",
+      "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model archit...",
+      "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-10-13T04:24:53.940115"
     }
   ]
 }
