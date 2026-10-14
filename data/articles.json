@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T04:24:54.944540",
+  "last_updated": "2026-10-14T02:35:02.138581",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 13:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.941880"
+      "collected_at": "2026-10-14T02:35:01.135930"
     },
     {
       "title": "IEEE Celebrates Innovators Shaping the Future",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.941689"
+      "collected_at": "2026-10-14T02:35:01.135739"
     },
     {
       "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.941265"
+      "collected_at": "2026-10-14T02:35:01.135286"
     },
     {
       "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-13T04:24:53.941097"
+      "collected_at": "2026-10-14T02:35:01.135129"
     },
     {
       "title": "Smart Car Researcher Wants to Eliminate Stoplights",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.941002"
+      "collected_at": "2026-10-14T02:35:01.135062"
     },
     {
       "title": "6 Guidelines for Governing AI",
@@ -61,67 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.940802"
+      "collected_at": "2026-10-14T02:35:01.134864"
     },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lever...",
       "url": "https://spectrum.ieee.org/ieee-day",
-      "date": "6日前",
+      "date": "10月06日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
-      "collected_at": "2026-10-13T04:24:53.940646"
+      "collected_at": "2026-10-14T02:35:01.134713"
     },
     {
       "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
       "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid ...",
       "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-13T04:24:53.940579"
+      "collected_at": "2026-10-14T02:35:01.134634"
     },
     {
       "title": "Changing Your Career Isn’t Easy",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!When I changed careers at 30 to become a software en...",
       "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.940528"
+      "collected_at": "2026-10-14T02:35:01.134589"
     },
     {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
       "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE.“We are seeing a fundamental shift in how technology evolves,” says IEEE...",
       "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.940419"
+      "collected_at": "2026-10-14T02:35:01.134480"
     },
     {
       "title": "We Need to Embed Ethics Into Our Engineering Courses",
       "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed....",
       "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.940274"
+      "collected_at": "2026-10-14T02:35:01.134315"
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
       "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model archit...",
       "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-13T04:24:53.940115"
+      "collected_at": "2026-10-14T02:35:01.134158"
     }
   ]
 }
