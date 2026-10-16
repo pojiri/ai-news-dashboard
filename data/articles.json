@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-10-15T02:15:36.021908",
+  "last_updated": "2026-10-16T02:07:08.913364",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "IEEE Celebrates Innovators Shaping the Future",
-      "summary": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards.The honorees are selected by the IEEE Awards Board based on...",
-      "url": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-      "date": "09月30日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.019133"
-    },
-    {
-      "title": "Electricity Theft Is Rampant, but Delhi Found a Fix",
-      "summary": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. This leaking of electricity happens when it vanishes as heat as well as when it is pilfered by thieves and nonpaying customers.  More than half of the countries that track these metrics lost ...",
-      "url": "https://spectrum.ieee.org/electricity-theft",
-      "date": "10月01日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 01 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.018707"
-    },
-    {
-      "title": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control",
-      "summary": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical elements for controlling the amplitude, phase, and polarization of light. These structures are of growing interest to researchers and engineers working on sensing, ...",
-      "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-      "date": "10月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 02 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-15T02:15:35.018547"
-    },
     {
       "title": "Smart Car Researcher Wants to Eliminate Stoplights",
       "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green.Cassandras,...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.018466"
+      "collected_at": "2026-10-16T02:07:07.911079"
     },
     {
       "title": "6 Guidelines for Governing AI",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.018246"
+      "collected_at": "2026-10-16T02:07:07.910890"
     },
     {
       "title": "Happy IEEE Day!",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
-      "collected_at": "2026-10-15T02:15:35.018096"
+      "collected_at": "2026-10-16T02:07:07.910728"
     },
     {
       "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-15T02:15:35.018025"
+      "collected_at": "2026-10-16T02:07:07.910673"
     },
     {
       "title": "Changing Your Career Isn’t Easy",
@@ -81,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.017969"
+      "collected_at": "2026-10-16T02:07:07.910630"
     },
     {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
@@ -91,37 +61,67 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.017851"
+      "collected_at": "2026-10-16T02:07:07.910531"
     },
     {
       "title": "We Need to Embed Ethics Into Our Engineering Courses",
       "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed....",
       "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.017695"
+      "collected_at": "2026-10-16T02:07:07.910379"
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
       "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model archit...",
       "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-15T02:15:35.017541"
+      "collected_at": "2026-10-16T02:07:07.910246"
     },
     {
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
       "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ...",
       "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-15T02:15:35.017411"
+      "collected_at": "2026-10-16T02:07:07.910137"
+    },
+    {
+      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
+      "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turn...",
+      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 12 Oct 2026 13:00:02 +0000",
+      "collected_at": "2026-10-16T02:07:07.910092"
+    },
+    {
+      "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
+      "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior...",
+      "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 12 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-10-16T02:07:07.909956"
+    },
+    {
+      "title": "Compact Analog Signal Generators for Fast RF Testing",
+      "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
+      "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+      "date": "16時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
+      "collected_at": "2026-10-16T02:07:07.909753"
     }
   ]
 }
