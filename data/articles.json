@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-16T02:07:08.913364",
+  "last_updated": "2026-10-17T02:00:50.732256",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Smart Car Researcher Wants to Eliminate Stoplights",
-      "summary": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a problem nearly every driver knows well: sitting at a red light with no cross traffic in sight, wondering why it takes so long for the light to turn green.Cassandras,...",
-      "url": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
-      "date": "10月02日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 02 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.911079"
-    },
-    {
-      "title": "6 Guidelines for Governing AI",
-      "summary": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business sy...",
-      "url": "https://spectrum.ieee.org/6-guidelines-governing-ai",
-      "date": "10月05日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 05 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910890"
-    },
     {
       "title": "Happy IEEE Day!",
       "summary": "Happy IEEE Day 2026!IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884.One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that lever...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 06 Oct 2026 09:21:18 +0000",
-      "collected_at": "2026-10-16T02:07:07.910728"
+      "collected_at": "2026-10-17T02:00:49.729922"
     },
     {
       "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-16T02:07:07.910673"
+      "collected_at": "2026-10-17T02:00:49.729850"
     },
     {
       "title": "Changing Your Career Isn’t Easy",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910630"
+      "collected_at": "2026-10-17T02:00:49.729795"
     },
     {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910531"
+      "collected_at": "2026-10-17T02:00:49.729675"
     },
     {
       "title": "We Need to Embed Ethics Into Our Engineering Courses",
       "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed....",
       "url": "https://spectrum.ieee.org/integrating-engineering-ethics-education",
-      "date": "6日前",
+      "date": "10月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910379"
+      "collected_at": "2026-10-17T02:00:49.729523"
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
       "summary": "Today’s engineers face an unprecedented acceleration in AI hardware complexity, as explained in the recent research article “Revisiting Edge AI: Opportunities and Challenges.” The article examines the rapid growth of edge AI and the challenges it creates, including resource constraints, model archit...",
       "url": "https://spectrum.ieee.org/master-ai-chip-principles-ieee",
-      "date": "6日前",
+      "date": "10月09日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910246"
+      "collected_at": "2026-10-17T02:00:49.729360"
     },
     {
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
       "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ...",
       "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-16T02:07:07.910137"
+      "collected_at": "2026-10-17T02:00:49.729224"
     },
     {
       "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
       "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turn...",
       "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.910092"
+      "collected_at": "2026-10-17T02:00:49.729166"
     },
     {
       "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
       "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior...",
       "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-16T02:07:07.909956"
+      "collected_at": "2026-10-17T02:00:49.728991"
     },
     {
       "title": "Compact Analog Signal Generators for Fast RF Testing",
       "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
       "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-      "date": "16時間前",
+      "date": "1日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-16T02:07:07.909753"
+      "collected_at": "2026-10-17T02:00:49.728769"
+    },
+    {
+      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ...",
+      "url": "https://spectrum.ieee.org/monazite-rare-earth",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
+      "collected_at": "2026-10-17T02:00:49.728718"
+    },
+    {
+      "title": "Chasing China’s Monazite Monopoly",
+      "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
+      "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
+      "collected_at": "2026-10-17T02:00:49.728137"
     }
   ]
 }
