@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T02:00:12.046719",
+  "last_updated": "2026-10-19T02:17:22.245298",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-18T02:00:11.044326"
+      "collected_at": "2026-10-19T02:17:21.242618"
     },
     {
       "title": "Changing Your Career Isn’t Easy",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.044272"
+      "collected_at": "2026-10-19T02:17:21.242561"
     },
     {
       "title": "IEEE Report Predicts Tech That Will Transform Lives",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.044160"
+      "collected_at": "2026-10-19T02:17:21.242449"
     },
     {
       "title": "We Need to Embed Ethics Into Our Engineering Courses",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.044011"
+      "collected_at": "2026-10-19T02:17:21.242300"
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.043852"
+      "collected_at": "2026-10-19T02:17:21.242137"
     },
     {
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
       "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ...",
       "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-18T02:00:11.043716"
+      "collected_at": "2026-10-19T02:17:21.241983"
     },
     {
       "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
       "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turn...",
       "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.043656"
+      "collected_at": "2026-10-19T02:17:21.241926"
     },
     {
       "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
       "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior...",
       "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.043484"
+      "collected_at": "2026-10-19T02:17:21.241782"
     },
     {
       "title": "Compact Analog Signal Generators for Fast RF Testing",
       "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
       "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-18T02:00:11.043265"
+      "collected_at": "2026-10-19T02:17:21.241564"
     },
     {
       "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
       "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ...",
       "url": "https://spectrum.ieee.org/monazite-rare-earth",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
-      "collected_at": "2026-10-18T02:00:11.043208"
+      "collected_at": "2026-10-19T02:17:21.241511"
     },
     {
       "title": "Chasing China’s Monazite Monopoly",
       "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
       "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-18T02:00:11.042509"
+      "collected_at": "2026-10-19T02:17:21.240952"
     },
     {
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
       "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long dr...",
       "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-18T02:00:11.042396"
+      "collected_at": "2026-10-19T02:17:21.240837"
     }
   ]
 }
