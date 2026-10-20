@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-10-19T02:17:22.245298",
+  "last_updated": "2026-10-20T02:31:18.740254",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
-      "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid ...",
-      "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
-      "date": "10月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 07 Oct 2026 13:49:48 +0000",
-      "collected_at": "2026-10-19T02:17:21.242618"
-    },
-    {
-      "title": "Changing Your Career Isn’t Easy",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!When I changed careers at 30 to become a software en...",
-      "url": "https://spectrum.ieee.org/career-pivots-for-software-engineers",
-      "date": "10月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 07 Oct 2026 17:04:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.242561"
-    },
-    {
-      "title": "IEEE Report Predicts Tech That Will Transform Lives",
-      "summary": "By 2028, genetic engineering and gene therapy will be used frequently to treat a variety of diseases, thanks to advances in artificial intelligence, according to the recently released 2030 Technology Megatrends Report from IEEE.“We are seeing a fundamental shift in how technology evolves,” says IEEE...",
-      "url": "https://spectrum.ieee.org/ieee-report-predicts-tech",
-      "date": "10月07日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 07 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.242449"
-    },
     {
       "title": "We Need to Embed Ethics Into Our Engineering Courses",
       "summary": "In mid-September, Anthropic CEO Dario Amodei joined a growing group of researchers calling for the AI industry to slow down. While some have questioned these researchers’ motivation for voicing concerns about the rapid pace of development, the plea highlighted a key tension between safety and speed....",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.242300"
+      "collected_at": "2026-10-20T02:31:17.737750"
     },
     {
       "title": "Master AI Chip Principles With New IEEE Design Program",
@@ -51,77 +21,107 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 09 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.242137"
+      "collected_at": "2026-10-20T02:31:17.737592"
     },
     {
       "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
       "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ...",
       "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "date": "6日前",
+      "date": "10月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-19T02:17:21.241983"
+      "collected_at": "2026-10-20T02:31:17.737462"
     },
     {
       "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
       "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turn...",
       "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "date": "6日前",
+      "date": "10月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.241926"
+      "collected_at": "2026-10-20T02:31:17.737398"
     },
     {
       "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
       "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior...",
       "url": "https://spectrum.ieee.org/anthropic-engineer-ai-agent",
-      "date": "6日前",
+      "date": "10月12日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.241782"
+      "collected_at": "2026-10-20T02:31:17.737214"
     },
     {
       "title": "Compact Analog Signal Generators for Fast RF Testing",
       "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
       "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-19T02:17:21.241564"
+      "collected_at": "2026-10-20T02:31:17.736986"
     },
     {
       "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
       "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ...",
       "url": "https://spectrum.ieee.org/monazite-rare-earth",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
-      "collected_at": "2026-10-19T02:17:21.241511"
+      "collected_at": "2026-10-20T02:31:17.736936"
     },
     {
       "title": "Chasing China’s Monazite Monopoly",
       "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
       "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-19T02:17:21.240952"
+      "collected_at": "2026-10-20T02:31:17.736386"
     },
     {
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
       "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long dr...",
       "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-19T02:17:21.240837"
+      "collected_at": "2026-10-20T02:31:17.736248"
+    },
+    {
+      "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
+      "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs...",
+      "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 16 Oct 2026 18:00:03 +0000",
+      "collected_at": "2026-10-20T02:31:17.736104"
+    },
+    {
+      "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
+      "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation — from polluting gas turbines to cleaner developments like solar farms and geothermal plants. But gigawatts of power are already ava...",
+      "url": "https://spectrum.ieee.org/variable-frequency-drives",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 17 Oct 2026 13:00:02 +0000",
+      "collected_at": "2026-10-20T02:31:17.735982"
+    },
+    {
+      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
+      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cit...",
+      "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
+      "date": "16時間前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
+      "collected_at": "2026-10-20T02:31:17.735801"
     }
   ]
 }
