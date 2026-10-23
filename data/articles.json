@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-22T02:20:57.678317",
+  "last_updated": "2026-10-23T02:26:12.679326",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots",
-      "summary": "This White Paper provides roboticists and control engineers with a comprehensive overview of how motion planning and motion tracking can be decoupled to preserve professional athletic style in humanoid robots, and why adaptive, speed-aware control is essential for closing the gap between simulation ...",
-      "url": "https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/",
-      "date": "10月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 12 Oct 2026 10:00:03 +0000",
-      "collected_at": "2026-10-22T02:20:56.675697"
-    },
-    {
-      "title": "First Utility-Scale Enhanced Geothermal Plant Goes Live",
-      "summary": "This article was originally published by Canary Media.The geothermal startup Fervo Energy is now selling power to the grid from its Cape Station project in Utah—marking the first time a utility-scale, next-generation geothermal facility has achieved such a feat worldwide. The Houston-based firm turn...",
-      "url": "https://spectrum.ieee.org/fervo-cape-station-geothermal",
-      "date": "10月12日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 12 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-22T02:20:56.675636"
-    },
     {
       "title": "Meet the Anthropic Engineer Keeping Its AI Agent Trustworthy",
       "summary": "If you’ve ever wondered how Claude and similar AI agents can answer complex questions in seconds and where they get the information, you’re not alone.Gurmeet Saran works to find that answer every day as an engineer at Anthropic in San Francisco, the AI research company behind Claude. The IEEE senior...",
@@ -31,97 +11,117 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 12 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-10-22T02:20:56.675478"
+      "collected_at": "2026-10-23T02:26:11.676547"
     },
     {
       "title": "Compact Analog Signal Generators for Fast RF Testing",
       "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
       "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-      "date": "6日前",
+      "date": "10月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-22T02:20:56.675253"
+      "collected_at": "2026-10-23T02:26:11.676324"
     },
     {
       "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
       "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ...",
       "url": "https://spectrum.ieee.org/monazite-rare-earth",
-      "date": "6日前",
+      "date": "10月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
-      "collected_at": "2026-10-22T02:20:56.675201"
+      "collected_at": "2026-10-23T02:26:11.676274"
     },
     {
       "title": "Chasing China’s Monazite Monopoly",
       "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
       "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-      "date": "6日前",
+      "date": "10月15日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-22T02:20:56.674638"
+      "collected_at": "2026-10-23T02:26:11.675694"
     },
     {
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
       "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long dr...",
       "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-22T02:20:56.674523"
+      "collected_at": "2026-10-23T02:26:11.675569"
     },
     {
       "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
       "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs...",
       "url": "https://spectrum.ieee.org/ieee-smart-cities-new-services",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-22T02:20:56.674381"
+      "collected_at": "2026-10-23T02:26:11.675427"
     },
     {
       "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
       "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation—from polluting gas turbines to cleaner developments like solar farms and geothermal plants. But gigawatts of power are already avail...",
       "url": "https://spectrum.ieee.org/variable-frequency-drives",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-22T02:20:56.674258"
+      "collected_at": "2026-10-23T02:26:11.675306"
     },
     {
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
       "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cit...",
       "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-22T02:20:56.674077"
+      "collected_at": "2026-10-23T02:26:11.675131"
     },
     {
       "title": "The Robot I Didn’t Expect to Build",
       "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the r...",
       "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-22T02:20:56.674024"
+      "collected_at": "2026-10-23T02:26:11.675088"
     },
     {
       "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
       "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo...",
       "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-22T02:20:56.673689"
+      "collected_at": "2026-10-23T02:26:11.674760"
+    },
+    {
+      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
+      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
+      "collected_at": "2026-10-23T02:26:11.674621"
+    },
+    {
+      "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
+      "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
+      "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
+      "collected_at": "2026-10-23T02:26:11.674494"
     }
   ]
 }
