@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T02:24:07.002632",
+  "last_updated": "2026-10-25T02:11:13.207068",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-24T02:24:06.000241"
+      "collected_at": "2026-10-25T02:11:12.204438"
     },
     {
       "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
-      "collected_at": "2026-10-24T02:24:06.000204"
+      "collected_at": "2026-10-25T02:11:12.204411"
     },
     {
       "title": "Chasing China’s Monazite Monopoly",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-24T02:24:05.999756"
+      "collected_at": "2026-10-25T02:11:12.204095"
     },
     {
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-24T02:24:05.999668"
+      "collected_at": "2026-10-25T02:11:12.204029"
     },
     {
       "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
@@ -51,77 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-24T02:24:05.999557"
+      "collected_at": "2026-10-25T02:11:12.203947"
     },
     {
       "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
       "summary": "This article was originally published by Canary Media.America’s energy supply crunch is driving a surge of federal and private investment in new electricity generation—from polluting gas turbines to cleaner developments like solar farms and geothermal plants. But gigawatts of power are already avail...",
       "url": "https://spectrum.ieee.org/variable-frequency-drives",
-      "date": "6日前",
+      "date": "10月17日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-24T02:24:05.999456"
+      "collected_at": "2026-10-25T02:11:12.203864"
     },
     {
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
       "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cit...",
       "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-24T02:24:05.999325"
+      "collected_at": "2026-10-25T02:11:12.203750"
     },
     {
       "title": "The Robot I Didn’t Expect to Build",
       "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the r...",
       "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-24T02:24:05.999293"
+      "collected_at": "2026-10-25T02:11:12.203724"
     },
     {
       "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
       "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo...",
       "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-24T02:24:05.999053"
+      "collected_at": "2026-10-25T02:11:12.203545"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-24T02:24:05.998920"
+      "collected_at": "2026-10-25T02:11:12.203466"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
       "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
       "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-24T02:24:05.998823"
+      "collected_at": "2026-10-25T02:11:12.203391"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
       "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an...",
       "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-24T02:24:05.998760"
+      "collected_at": "2026-10-25T02:11:12.203341"
     }
   ]
 }
