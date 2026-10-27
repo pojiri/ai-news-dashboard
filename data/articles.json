@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-26T02:11:53.025255",
+  "last_updated": "2026-10-27T02:48:33.394364",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Compact Analog Signal Generators for Fast RF Testing",
-      "summary": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver test tasks, from gain and distortion measurements to blocker rejection, power calibration, and local oscillator substitution.What you will learn about:How to mea...",
-      "url": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
-      "date": "10月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 15 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-26T02:11:52.022882"
-    },
-    {
-      "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-      "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles of the early 21st century. Hundreds of mining companies, government agencies, and industrial facilities scattered across North America, Australasia, and Europe ...",
-      "url": "https://spectrum.ieee.org/monazite-rare-earth",
-      "date": "10月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 15 Oct 2026 14:53:02 +0000",
-      "collected_at": "2026-10-26T02:11:52.022833"
-    },
     {
       "title": "Chasing China’s Monazite Monopoly",
       "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-26T02:11:52.022248"
+      "collected_at": "2026-10-27T02:48:32.392834"
     },
     {
       "title": "Simulation App Speeds Up Electric Truck Battery Design",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-26T02:11:52.022131"
+      "collected_at": "2026-10-27T02:48:32.392773"
     },
     {
       "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-26T02:11:52.021990"
+      "collected_at": "2026-10-27T02:48:32.392694"
     },
     {
       "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
@@ -61,67 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-26T02:11:52.021867"
+      "collected_at": "2026-10-27T02:48:32.392629"
     },
     {
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
       "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cit...",
       "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "date": "6日前",
+      "date": "10月19日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-26T02:11:52.021685"
+      "collected_at": "2026-10-27T02:48:32.392522"
     },
     {
       "title": "The Robot I Didn’t Expect to Build",
       "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the r...",
       "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "date": "6日前",
+      "date": "10月19日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-26T02:11:52.021642"
+      "collected_at": "2026-10-27T02:48:32.392497"
     },
     {
       "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
       "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo...",
       "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-      "date": "6日前",
+      "date": "10月19日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-26T02:11:52.021326"
+      "collected_at": "2026-10-27T02:48:32.392327"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-26T02:11:52.021191"
+      "collected_at": "2026-10-27T02:48:32.392244"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
       "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
       "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-26T02:11:52.021069"
+      "collected_at": "2026-10-27T02:48:32.392178"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
       "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an...",
       "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-26T02:11:52.020985"
+      "collected_at": "2026-10-27T02:48:32.392132"
+    },
+    {
+      "title": "Why AI Can’t Replace Engineering Teams",
+      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills...",
+      "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
+      "collected_at": "2026-10-27T02:48:32.392052"
+    },
+    {
+      "title": "From Chip Lab to Center Stage",
+      "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi...",
+      "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
+      "collected_at": "2026-10-27T02:48:32.391989"
     }
   ]
 }
