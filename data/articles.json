@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-10-27T02:48:33.394364",
+  "last_updated": "2026-10-28T02:56:41.190435",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Chasing China’s Monazite Monopoly",
-      "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings ...",
-      "url": "https://spectrum.ieee.org/china-rare-earth-minerals",
-      "date": "10月15日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 15 Oct 2026 14:54:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.392834"
-    },
-    {
-      "title": "Simulation App Speeds Up Electric Truck Battery Design",
-      "summary": "This article is brought to you by COMSOL.These days, no one blinks an eye at two-day, one-day, and even same-day package deliveries. Despite the plethora of localized fulfillment and distribution centers that have cropped up to meet the demand, delivery trucks still need to make considerably long dr...",
-      "url": "https://spectrum.ieee.org/electric-truck-battery-design-simulation",
-      "date": "10月16日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 16 Oct 2026 16:49:18 +0000",
-      "collected_at": "2026-10-27T02:48:32.392773"
-    },
     {
       "title": "IEEE Offers More Services to Cities That Want to Be Smarter",
       "summary": "More and more city governments are using advanced technologies to improve livability for their residents. Municipalities use data from smartphones and sensors for traffic enforcement, traffic control, and waste management. They also have implemented artificial intelligence and deep learning programs...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 16 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.392694"
+      "collected_at": "2026-10-28T02:56:40.187759"
     },
     {
       "title": "This Hidden Device Could Free Up Gigawatts of Grid Power",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 17 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-27T02:48:32.392629"
+      "collected_at": "2026-10-28T02:56:40.187634"
     },
     {
       "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-27T02:48:32.392522"
+      "collected_at": "2026-10-28T02:56:40.187457"
     },
     {
       "title": "The Robot I Didn’t Expect to Build",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.392497"
+      "collected_at": "2026-10-28T02:56:40.187404"
     },
     {
       "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
@@ -71,57 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.392327"
+      "collected_at": "2026-10-28T02:56:40.187098"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-27T02:48:32.392244"
+      "collected_at": "2026-10-28T02:56:40.186950"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
       "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
       "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.392178"
+      "collected_at": "2026-10-28T02:56:40.186806"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
       "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an...",
       "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-27T02:48:32.392132"
+      "collected_at": "2026-10-28T02:56:40.186722"
     },
     {
       "title": "Why AI Can’t Replace Engineering Teams",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills...",
       "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-10-27T02:48:32.392052"
+      "collected_at": "2026-10-28T02:56:40.186578"
     },
     {
       "title": "From Chip Lab to Center Stage",
       "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi...",
       "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-27T02:48:32.391989"
+      "collected_at": "2026-10-28T02:56:40.186470"
+    },
+    {
+      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root,...",
+      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
+      "collected_at": "2026-10-28T02:56:40.186299"
+    },
+    {
+      "title": "Build a Hidden Lock With a Magnetic Imager",
+      "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently...",
+      "url": "https://spectrum.ieee.org/magnetic",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
+      "collected_at": "2026-10-28T02:56:40.186252"
     }
   ]
 }
