@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-10-29T03:22:10.213160",
+  "last_updated": "2026-10-30T03:23:53.733061",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-      "summary": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can sense, reason, and act on real-time conditions across public safety, mobility, and infrastructure management.What you will learn about: How the shift from smart cit...",
-      "url": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-      "date": "10月19日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 19 Oct 2026 10:00:04 +0000",
-      "collected_at": "2026-10-29T03:22:09.210878"
-    },
     {
       "title": "The Robot I Didn’t Expect to Build",
       "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the r...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.210834"
+      "collected_at": "2026-10-30T03:23:52.731240"
     },
     {
       "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.210517"
+      "collected_at": "2026-10-30T03:23:52.730934"
     },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-29T03:22:09.210384"
+      "collected_at": "2026-10-30T03:23:52.730793"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
@@ -51,77 +41,87 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.210260"
+      "collected_at": "2026-10-30T03:23:52.730664"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
       "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an...",
       "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-      "date": "6日前",
+      "date": "10月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-29T03:22:09.210170"
+      "collected_at": "2026-10-30T03:23:52.730571"
     },
     {
       "title": "Why AI Can’t Replace Engineering Teams",
       "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills...",
       "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-      "date": "6日前",
+      "date": "10月22日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-10-29T03:22:09.210034"
+      "collected_at": "2026-10-30T03:23:52.730394"
     },
     {
       "title": "From Chip Lab to Center Stage",
       "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi...",
       "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.209932"
+      "collected_at": "2026-10-30T03:23:52.730278"
     },
     {
       "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
       "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root,...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-10-29T03:22:09.209720"
+      "collected_at": "2026-10-30T03:23:52.730110"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
       "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently...",
       "url": "https://spectrum.ieee.org/magnetic",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-10-29T03:22:09.209623"
+      "collected_at": "2026-10-30T03:23:52.730065"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
       "summary": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library. The library offers full-text access to IEEE standards, journals, magazines, conference proceedings, and more.Researchers who use the AI suite...",
       "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-      "date": "2日前",
+      "date": "3日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.209453"
+      "collected_at": "2026-10-30T03:23:52.729925"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
       "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited ...",
       "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "date": "1日前",
+      "date": "2日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-10-29T03:22:09.209319"
+      "collected_at": "2026-10-30T03:23:52.729818"
+    },
+    {
+      "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+      "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position esti...",
+      "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+      "date": "2日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
+      "collected_at": "2026-10-30T03:23:52.729428"
     }
   ]
 }
