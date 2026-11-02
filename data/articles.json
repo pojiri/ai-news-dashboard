@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-11-01T03:03:45.682739",
+  "last_updated": "2026-11-02T03:14:09.275243",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "IEEE Report Highlights How Members Are Engineering for Public Good",
-      "summary": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the organization’s more than 500,000 members strive to do all the time. IEEE’s recently released 2025 Social Impact Report showcases a variety of programs volunteers wo...",
-      "url": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
-      "date": "10月19日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Mon, 19 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.680409"
-    },
     {
       "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
       "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-01T03:03:44.680272"
+      "collected_at": "2026-11-02T03:14:08.272847"
     },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.680146"
+      "collected_at": "2026-11-02T03:14:08.272732"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-01T03:03:44.680034"
+      "collected_at": "2026-11-02T03:14:08.272653"
     },
     {
       "title": "Why AI Can’t Replace Engineering Teams",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-11-01T03:03:44.679886"
+      "collected_at": "2026-11-02T03:14:08.272514"
     },
     {
       "title": "From Chip Lab to Center Stage",
@@ -61,67 +51,77 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.679773"
+      "collected_at": "2026-11-02T03:14:08.272414"
     },
     {
       "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
       "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root,...",
       "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-      "date": "6日前",
+      "date": "10月25日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-11-01T03:03:44.679594"
+      "collected_at": "2026-11-02T03:14:08.272246"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
       "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently...",
       "url": "https://spectrum.ieee.org/magnetic",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-01T03:03:44.679549"
+      "collected_at": "2026-11-02T03:14:08.272193"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
       "summary": "IEEE recently released the IEEE Xplore AI Research Suite, built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library. The library offers full-text access to IEEE standards, journals, magazines, conference proceedings, and more.Researchers who use the AI suite...",
       "url": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.679412"
+      "collected_at": "2026-11-02T03:14:08.272063"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
       "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited ...",
       "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.679307"
+      "collected_at": "2026-11-02T03:14:08.271966"
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
       "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position esti...",
       "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
-      "collected_at": "2026-11-01T03:03:44.678921"
+      "collected_at": "2026-11-02T03:14:08.271598"
     },
     {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
       "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward.At the back of the aircraft, the five-blade pusher propeller snaps awake...",
       "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-      "date": "3日前",
+      "date": "4日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-01T03:03:44.678757"
+      "collected_at": "2026-11-02T03:14:08.271441"
+    },
+    {
+      "title": "Systems Thinking Is Vital in the Age of AI",
+      "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engi...",
+      "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Wed, 28 Oct 2026 18:00:02 +0000",
+      "collected_at": "2026-11-02T03:14:08.271044"
     }
   ]
 }
