@@ -1,18 +1,8 @@
 {
-  "last_updated": "2026-11-03T04:29:05.921251",
+  "last_updated": "2026-11-04T03:48:14.131882",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-      "summary": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup, a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunt...",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "date": "10月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-03T04:29:04.918946"
-    },
     {
       "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
       "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
@@ -21,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-03T04:29:04.918795"
+      "collected_at": "2026-11-04T03:48:13.129544"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
@@ -31,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-03T04:29:04.918706"
+      "collected_at": "2026-11-04T03:48:13.129480"
     },
     {
       "title": "Why AI Can’t Replace Engineering Teams",
@@ -41,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-11-03T04:29:04.918558"
+      "collected_at": "2026-11-04T03:48:13.129366"
     },
     {
       "title": "From Chip Lab to Center Stage",
@@ -51,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-03T04:29:04.918445"
+      "collected_at": "2026-11-04T03:48:13.129280"
     },
     {
       "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
@@ -61,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-11-03T04:29:04.918269"
+      "collected_at": "2026-11-04T03:48:13.129142"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
@@ -71,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-03T04:29:04.918217"
+      "collected_at": "2026-11-04T03:48:13.129108"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
@@ -81,47 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-03T04:29:04.918068"
+      "collected_at": "2026-11-04T03:48:13.128995"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
       "summary": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited ...",
       "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "date": "6日前",
+      "date": "10月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-03T04:29:04.917947"
+      "collected_at": "2026-11-04T03:48:13.128907"
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
       "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position esti...",
       "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-      "date": "6日前",
+      "date": "10月27日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
-      "collected_at": "2026-11-03T04:29:04.917544"
+      "collected_at": "2026-11-04T03:48:13.128594"
     },
     {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
       "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward.At the back of the aircraft, the five-blade pusher propeller snaps awake...",
       "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-03T04:29:04.917376"
+      "collected_at": "2026-11-04T03:48:13.128452"
     },
     {
       "title": "Systems Thinking Is Vital in the Age of AI",
       "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engi...",
       "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-11-03T04:29:04.916973"
+      "collected_at": "2026-11-04T03:48:13.128119"
+    },
+    {
+      "title": "Consumer Appetite for Personal AI Goes Mainstream",
+      "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes of ...",
+      "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 29 Oct 2026 19:18:20 +0000",
+      "collected_at": "2026-11-04T03:48:13.128022"
     }
   ]
 }
