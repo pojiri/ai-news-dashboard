@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T03:48:14.131882",
+  "last_updated": "2026-11-05T04:06:07.922365",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
@@ -11,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-04T03:48:13.129544"
+      "collected_at": "2026-11-05T04:06:06.920429"
     },
     {
       "title": "Why Engineers Should Brave Capitol Hill",
@@ -21,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-04T03:48:13.129480"
+      "collected_at": "2026-11-05T04:06:06.920336"
     },
     {
       "title": "Why AI Can’t Replace Engineering Teams",
@@ -31,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-11-04T03:48:13.129366"
+      "collected_at": "2026-11-05T04:06:06.920146"
     },
     {
       "title": "From Chip Lab to Center Stage",
@@ -41,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-04T03:48:13.129280"
+      "collected_at": "2026-11-05T04:06:06.920032"
     },
     {
       "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
@@ -51,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-11-04T03:48:13.129142"
+      "collected_at": "2026-11-05T04:06:06.919855"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
@@ -61,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-04T03:48:13.129108"
+      "collected_at": "2026-11-05T04:06:06.919805"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
@@ -71,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-04T03:48:13.128995"
+      "collected_at": "2026-11-05T04:06:06.919660"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
@@ -81,7 +81,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-04T03:48:13.128907"
+      "collected_at": "2026-11-05T04:06:06.919548"
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
@@ -91,37 +91,37 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
-      "collected_at": "2026-11-04T03:48:13.128594"
+      "collected_at": "2026-11-05T04:06:06.919171"
     },
     {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
       "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward.At the back of the aircraft, the five-blade pusher propeller snaps awake...",
       "url": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
-      "date": "6日前",
+      "date": "10月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-04T03:48:13.128452"
+      "collected_at": "2026-11-05T04:06:06.918977"
     },
     {
       "title": "Systems Thinking Is Vital in the Age of AI",
       "summary": "Modern engineering projects increasingly combine human judgment with machine capability. An engineer can define a problem, then ask an artificial intelligence tool to search relevant research and technical standards, generate design options, test them in simulation, and compare the results. The engi...",
       "url": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
-      "date": "6日前",
+      "date": "10月28日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-11-04T03:48:13.128119"
+      "collected_at": "2026-11-05T04:06:06.918577"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
       "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes of ...",
       "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 29 Oct 2026 19:18:20 +0000",
-      "collected_at": "2026-11-04T03:48:13.128022"
+      "collected_at": "2026-11-05T04:06:06.918446"
     }
   ]
 }
