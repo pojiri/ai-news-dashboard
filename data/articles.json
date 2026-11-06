@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-11-05T04:06:07.922365",
+  "last_updated": "2026-11-06T04:03:24.088031",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "Manfred “Fred” J. Schindler Is 2027 IEEE President-Elect",
-      "summary": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect. He will begin serving as president on 1 January 2028.Schindler, who was nominated by the IEEE Board of Directors, received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 vo...",
-      "url": "https://spectrum.ieee.org/schindler-2027-ieee-president-elect",
-      "date": "10月21日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Wed, 21 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-05T04:06:06.920429"
-    },
-    {
-      "title": "Why Engineers Should Brave Capitol Hill",
-      "summary": "When San Antonio–based software engineer Nikhil Jathar first went to Washington, D.C., to advocate for federal support for technology education and research funding, he was in awe of the opportunity. It was spring of 2025, not long after Jathar settled in the United States from India, when he got an...",
-      "url": "https://spectrum.ieee.org/engineers-lobbying-congress",
-      "date": "10月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 22 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-05T04:06:06.920336"
-    },
-    {
-      "title": "Why AI Can’t Replace Engineering Teams",
-      "summary": "This article is crossposted from IEEE Spectrum’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written in partnership with tech career development company Parsity and delivered to your inbox for free!If you’re an engineer, you may feel like your skills...",
-      "url": "https://spectrum.ieee.org/engineering-jobs-that-ai-cant-replace",
-      "date": "10月22日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Thu, 22 Oct 2026 18:02:20 +0000",
-      "collected_at": "2026-11-05T04:06:06.920146"
-    },
     {
       "title": "From Chip Lab to Center Stage",
       "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi...",
@@ -41,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-05T04:06:06.920032"
+      "collected_at": "2026-11-06T04:03:23.085828"
     },
     {
       "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
@@ -51,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-11-05T04:06:06.919855"
+      "collected_at": "2026-11-06T04:03:23.085732"
     },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
@@ -61,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-05T04:06:06.919805"
+      "collected_at": "2026-11-06T04:03:23.085709"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
@@ -71,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-05T04:06:06.919660"
+      "collected_at": "2026-11-06T04:03:23.085632"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
@@ -81,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-05T04:06:06.919548"
+      "collected_at": "2026-11-06T04:03:23.085575"
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
@@ -91,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
-      "collected_at": "2026-11-05T04:06:06.919171"
+      "collected_at": "2026-11-06T04:03:23.085369"
     },
     {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
@@ -101,7 +71,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-05T04:06:06.918977"
+      "collected_at": "2026-11-06T04:03:23.085275"
     },
     {
       "title": "Systems Thinking Is Vital in the Age of AI",
@@ -111,17 +81,47 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-11-05T04:06:06.918577"
+      "collected_at": "2026-11-06T04:03:23.085044"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
       "summary": "This article is brought to you by Qualcomm Technologies.For many consumers, much of the promise and appeal of AI is personal. Consumers are looking past generic tools and want to know how these technologies will help them in their daily lives. These trends coincide with the advent of new classes of ...",
       "url": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
-      "date": "6日前",
+      "date": "10月29日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 29 Oct 2026 19:18:20 +0000",
-      "collected_at": "2026-11-05T04:06:06.918446"
+      "collected_at": "2026-11-06T04:03:23.084978"
+    },
+    {
+      "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
+      "summary": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ...",
+      "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
+      "date": "6日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Fri, 30 Oct 2026 12:29:43 +0000",
+      "collected_at": "2026-11-06T04:03:23.084894"
+    },
+    {
+      "title": "When Electric Cars Were for Women",
+      "summary": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000.For se...",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "date": "5日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sat, 31 Oct 2026 13:00:02 +0000",
+      "collected_at": "2026-11-06T04:03:23.084838"
+    },
+    {
+      "title": "Guarding the Gates of Knowledge",
+      "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it delibera...",
+      "url": "https://spectrum.ieee.org/ai-slop-trust-science",
+      "date": "4日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Sun, 01 Nov 2026 14:00:01 +0000",
+      "collected_at": "2026-11-06T04:03:23.084729"
     }
   ]
 }
