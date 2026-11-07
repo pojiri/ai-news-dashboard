@@ -1,28 +1,8 @@
 {
-  "last_updated": "2026-11-06T04:03:24.088031",
+  "last_updated": "2026-11-07T03:39:22.652123",
   "total_articles": 12,
   "sources_count": 8,
   "articles": [
-    {
-      "title": "From Chip Lab to Center Stage",
-      "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumers about products. But Preethi Ashwath has learned to take center stage, talking about the “hearable” and wearable devices she has had a hand in developing as an analog integrated circuit desi...",
-      "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
-      "date": "10月23日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Fri, 23 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-06T04:03:23.085828"
-    },
-    {
-      "title": "Poetry for Engineers: Of Code and Shortleaf Pine",
-      "summary": "I step into the warm moist airamong the columns of the pines,their net of twigs and rootscomplex as any lines of code.The trees purify and anchor.Their branches balance my restlessness.Their calling is to be present,mine to develop apps. Our tasksverge toward a common logic:living filaments of root,...",
-      "url": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
-      "date": "10月25日",
-      "source": "IEEE Spectrum",
-      "category": "🎓 学術",
-      "published_date": "Sun, 25 Oct 2026 12:00:02 +0000",
-      "collected_at": "2026-11-06T04:03:23.085732"
-    },
     {
       "title": "Build a Hidden Lock With a Magnetic Imager",
       "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently...",
@@ -31,7 +11,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-06T04:03:23.085709"
+      "collected_at": "2026-11-07T03:39:21.649699"
     },
     {
       "title": "IEEE Xplore Digital Library Adds AI Assistant",
@@ -41,7 +21,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "collected_at": "2026-11-06T04:03:23.085632"
+      "collected_at": "2026-11-07T03:39:21.649591"
     },
     {
       "title": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
@@ -51,7 +31,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-06T04:03:23.085575"
+      "collected_at": "2026-11-07T03:39:21.649510"
     },
     {
       "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
@@ -61,7 +41,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Tue, 27 Oct 2026 16:14:39 +0000",
-      "collected_at": "2026-11-06T04:03:23.085369"
+      "collected_at": "2026-11-07T03:39:21.649223"
     },
     {
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
@@ -71,7 +51,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 13:00:03 +0000",
-      "collected_at": "2026-11-06T04:03:23.085275"
+      "collected_at": "2026-11-07T03:39:21.649090"
     },
     {
       "title": "Systems Thinking Is Vital in the Age of AI",
@@ -81,7 +61,7 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Wed, 28 Oct 2026 18:00:02 +0000",
-      "collected_at": "2026-11-06T04:03:23.085044"
+      "collected_at": "2026-11-07T03:39:21.648762"
     },
     {
       "title": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -91,37 +71,57 @@
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Thu, 29 Oct 2026 19:18:20 +0000",
-      "collected_at": "2026-11-06T04:03:23.084978"
+      "collected_at": "2026-11-07T03:39:21.648661"
     },
     {
       "title": "Multiphysics Modeling for Next-Generation Electromagnetic Manufacturing Technologies",
       "summary": "Advances in sensing, manufacturing, computational resources, and data-driven methods are enabling new approaches to electromagnetic sensing, non-destructive evaluation, and advanced materials processing. This webinar will demonstrate how the COMSOL Multiphysics software supports predictive modeling ...",
       "url": "https://event.on24.com/wcc/r/5546816/67D0147A8B8D057FCE11A17D61A8BB0D?utm_source=IEEE",
-      "date": "6日前",
+      "date": "10月30日",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Fri, 30 Oct 2026 12:29:43 +0000",
-      "collected_at": "2026-11-06T04:03:23.084894"
+      "collected_at": "2026-11-07T03:39:21.648550"
     },
     {
       "title": "When Electric Cars Were for Women",
       "summary": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000.For se...",
       "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "date": "5日前",
+      "date": "6日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sat, 31 Oct 2026 13:00:02 +0000",
-      "collected_at": "2026-11-06T04:03:23.084838"
+      "collected_at": "2026-11-07T03:39:21.648476"
     },
     {
       "title": "Guarding the Gates of Knowledge",
       "summary": "A recent scroll through social media got me thinking about trust. About half my feed was filled with AI slop that astute users would call out as being machine-generated, often to the embarrassment of the rube who unknowingly spread it and sometimes to the delight of the poster who shared it delibera...",
       "url": "https://spectrum.ieee.org/ai-slop-trust-science",
-      "date": "4日前",
+      "date": "5日前",
       "source": "IEEE Spectrum",
       "category": "🎓 学術",
       "published_date": "Sun, 01 Nov 2026 14:00:01 +0000",
-      "collected_at": "2026-11-06T04:03:23.084729"
+      "collected_at": "2026-11-07T03:39:21.648326"
+    },
+    {
+      "title": "IEEE Computer Society Chapter Offers Webinars With Industry Experts",
+      "summary": "To help engineers keep up with emerging technologies such as AI, cloud computing, and sustainable infrastructure, and learn how they can be applied in practice, the IEEE Computer Society’s Central Indiana Chapter recently launched its Tech Talk Series.The live webinar series connects IEEE members, u...",
+      "url": "https://spectrum.ieee.org/ieee-industry-experts-webinar",
+      "date": "3日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Tue, 03 Nov 2026 19:00:02 +0000",
+      "collected_at": "2026-11-07T03:39:21.648266"
+    },
+    {
+      "title": "Why a Mathematician Is Chasing Eclipses With Algorithms and Cameras",
+      "summary": "The sun hangs low over the plains of Castile and León, in the north-central region of Spain. But from a slope of the mountain Pico Trigaza, it appears that a few puffy white clouds have started to block the sun. That’s vexing.A group of researchers, some wearing cardboard eclipse glasses, is cluster...",
+      "url": "https://spectrum.ieee.org/2026-solar-eclipse",
+      "date": "1日前",
+      "source": "IEEE Spectrum",
+      "category": "🎓 学術",
+      "published_date": "Thu, 05 Nov 2026 14:00:02 +0000",
+      "collected_at": "2026-11-07T03:39:21.648189"
     }
   ]
 }
